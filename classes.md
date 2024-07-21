@@ -1,0 +1,232 @@
+---
+layout: default
+title: Home
+---
+
+# Classes
+
+Delving is done in a party of specialists. A class represents the particular skills, abilities, or talents that make the Delver valuable to the party.
+
+The three base classes are Expert, Mage, and Warrior. Each of these base classes has its own hit die, attack progression, and Feat advancement.
+
+There are two kinds of classes: full classes and Partial classes. You may choose a single class, committing completely to that class’ profession. Alternatively, you may pick two Partial classes, mixing their abilities.
+
+## Effort
+
+Mages have special abilities that are fueled with magical power, inner focus, or some other reserve of energy. This is measured in points of Effort, a resource the Delver can commit to activate their abilities.
+
+Every class that uses Effort has its own unique pool: High Mage Effort, Vowed Effort, Healer Effort, etc. Delvers with two Partial classes that use Effort have two separately-tracked pools, one for each class. Points of Effort from one class cannot be used to fuel powers from another.
+
+### Committing Effort
+
+Most class powers require that Effort be Committed. Committing Effort is done as part of activating a power, and ties up the Effort for a varying amount of time depending on the ability used.
+
+Some powers **Commit Effort for the duration**. This means the Effort remains Committed as long as the power is active. The PC can reclaim the Committed Effort at any time as an Instant action, deactivating the power.
+
+Some powers **Commit Effort for the scene**. The Effort remains Committed until the end of the scene, after which it returns to the PC. It cannot be reclaimed earlier, even if the ability it fuels is only good for a single attack or action. A scene usually amounts to a single fight, event, or dungeon turn, almost never lasting more than fifteen minutes. Further specifics are provided in the time section of the game rules.
+
+Some powers **Commit Effort for the day**. Once Committed, this Effort can be recovered only after a comfortable night’s rest. If the PC is hungry, cold, sick, or sleeping without the benefits of a bedroll or other basic comforts, this Effort cannot be recovered.
+
+Activating a power only ever requires Committing a single point of Effort unless the power itself says otherwise.
+
+---
+
+# Expert
+
+Experts gain the widest variety of non-combat skills and are the quickest to learn more of them.
+
+| Level | Hit Dice | Attack Bonus | Focus Picks           |
+|-------|----------|--------------|-----------------------|
+| 1     | 1d6      | +0           | 1 Expert + 1 Any      |
+| 2     | 2d6      | +1           | +1 Any                |
+| 3     | 3d6      | +1           |                       |
+| 4     | 4d6      | +2           |                       |
+| 5     | 5d6      | +2           | +1 Any                |
+| 6     | 6d6      | +3           |                       |
+| 7     | 7d6      | +3           | +1 Any                |
+| 8     | 8d6      | +4           |                       |
+| 9     | 9d6      | +4           |                       |
+| 10    | 10d6     | +5           | +1 Any                |
+
+## Class Ability: Masterful Expertise
+
+Once per turn, a Expert may reroll any non-combat skill check as an Instant action. This allows the Expert to make a roll and then immediately use this ability if the resulting total isn’t good enough to succeed. In cases where it matters, the better of the two rolls may be used.
+
+Note that the typical ten-minute dungeon exploration turn generally counts as a scene, allowing the Full Expert to use this ability every turn if they so wish.
+
+Partial Experts **do not** receive this ability.
+
+## Class Ability: Quick Learner
+
+When you advance a character level, you gain an extra skill point which may only be spent on gaining or improving non-combat skills or raising attributes. You may save this point to spend later if you wish.
+
+Partial Experts **do** receive this ability.
+
+## Partial Expert
+
+A Partial Expert is treated just as a full Expert, including gaining the benefits of the Quick Learner ability. They do not have the Masterful Expertise ability, however, as they lack the versatility of a full Expert.
+
+## Partial Mage/Partial Expert
+
+| Level | Hit Dice | Attack Bonus | Focus Picks           |
+|-------|----------|--------------|-----------------------|
+| 1     | 1d6      | +0           | 1 Expert + 1 Any      |
+| 2     | 2d6      | +1           | +1 Any                |
+| 3     | 3d6      | +1           |                       |
+| 4     | 4d6      | +2           |                       |
+| 5     | 5d6      | +2           | +1 Any                |
+| 6     | 6d6      | +3           |                       |
+| 7     | 7d6      | +3           | +1 Any                |
+| 8     | 8d6      | +4           |                       |
+| 9     | 9d6      | +4           |                       |
+| 10    | 10d6     | +5           | +1 Any                |
+
+## Partial Warrior/Partial Expert
+
+| Level | Hit Dice | Attack Bonus | Focus Picks           |
+|-------|----------|--------------|-----------------------|
+| 1     | 1d6+2    | +1           | 1 Warrior + 1 Expert + 1 Any |
+| 2     | 2d6+4    | +2           | +1 Any                |
+| 3     | 3d6+6    | +2           |                       |
+| 4     | 4d6+8    | +3           |                       |
+| 5     | 5d6+10   | +4           | +1 Any                |
+| 6     | 6d6+12   | +5           |                       |
+| 7     | 7d6+14   | +5           | +1 Any                |
+| 8     | 8d6+16   | +6           |                       |
+| 9     | 9d6+18   | +6           |                       |
+| 10    | 10d6+20  | +7           | +1 Any                |
+
+---
+
+# Mage
+
+The Mage class is a general header under which all Delvers with fundamentally supernatural powers or spellcasting ability are placed. Choose a specific [Arcane Tradition](/arcane-traditions) to follow - High Mage, Vowed, Elementalist, etc.
+
+| Level | Hit Dice  | Attack Bonus | Focus Picks |
+|-------|-----------|--------------|-------------|
+| 1     | 1d6-1     | +0           | 1 Any       |
+| 2     | 2d6-2     | +0           | +1 Any      |
+| 3     | 3d6-3     | +0           |             |
+| 4     | 4d6-4     | +0           |             |
+| 5     | 5d6-5     | +1           | +1 Any      |
+| 6     | 6d6-6     | +1           |             |
+| 7     | 7d6-7     | +1           | +1 Any      |
+| 8     | 8d6-8     | +1           |             |
+| 9     | 9d6-9     | +1           |             |
+| 10    | 10d6-10   | +2           | +1 Any      |
+
+## Partial Mage
+
+A Partial Mage is treated as a Mage, and picks an Arcane Tradition for their powers. That tradition’s abilities will be more limited for Partial Mages, however, as described under each of the paths.
+
+You may pick the Partial Mage class twice for two different magical traditions. In this case, use the following table instead of the one listed in the partial class.
+
+| Level | Hit Dice | Attack Bonus | Focus Picks | Max Level | Spells Cast | Spells Prepared |
+| ----- | -------- | ------------ | ----------- | --------- | ----------- | --------------- |
+| 1     | 1d6-1    | +0           | 1 Any       | 1         | 1           | 3               |
+| 2     | 2d6-2    | +0           | +1 Any      | 1         | 1           | 4               |
+| 3     | 3d6-3    | +0           |             | 1         | 2           | 5               |
+| 4     | 4d6-4    | +0           |             | 2         | 2           | 6               |
+| 5     | 5d6-5    | +1           | +1 Any      | 2         | 2           | 8               |
+| 6     | 6d6-6    | +1           |             | 2         | 3           | 9               |
+| 7     | 7d6-7    | +1           | +1 Any      | 3         | 3           | 10              |
+| 8     | 8d6-8    | +1           |             | 3         | 4           | 12              |
+| 9     | 9d6-9    | +1           |             | 3         | 4           | 13              |
+| 10    | 10d6-10  | +2           | +1 Any      | 4         | 5           | 15              |
+
+## Partial Expert/Partial Mage
+
+| Level | Hit Dice | Attack Bonus | Focus Picks           |
+|-------|----------|--------------|-----------------------|
+| 1     | 1d6      | +0           | 1 Expert + 1 Any      |
+| 2     | 2d6      | +1           | +1 Any                |
+| 3     | 3d6      | +1           |                       |
+| 4     | 4d6      | +2           |                       |
+| 5     | 5d6      | +2           | +1 Any                |
+| 6     | 6d6      | +3           |                       |
+| 7     | 7d6      | +3           | +1 Any                |
+| 8     | 8d6      | +4           |                       |
+| 9     | 9d6      | +4           |                       |
+| 10    | 10d6     | +5           | +1 Any                |
+
+## Partial Warrior/Partial Mage
+
+| Level | Hit Dice | Attack Bonus | Focus Picks           |
+|-------|----------|--------------|-----------------------|
+| 1     | 1d6+2    | +1           | 1 Any + 1 Warrior     |
+| 2     | 2d6+4    | +2           | +1 Any                |
+| 3     | 3d6+6    | +2           |                       |
+| 4     | 4d6+8    | +3           |                       |
+| 5     | 5d6+10   | +4           | +1 Any                |
+| 6     | 6d6+12   | +5           |                       |
+| 7     | 7d6+14   | +5           | +1 Any                |
+| 8     | 8d6+16   | +6           |                       |
+| 9     | 9d6+18   | +6           |                       |
+| 10    | 10d6+20  | +7           | +1 Any                |
+
+---
+
+# Warrior
+
+Born to the blade, gifted with a superb capacity for physical violence.
+
+| Level | Hit Dice | Attack Bonus | Focus Picks           |
+|-------|----------|--------------|-----------------------|
+| 1     | 1d6+2    | +1           | 1 Any + 1 Warrior     |
+| 2     | 2d6+4    | +2           | +1 Any                |
+| 3     | 3d6+6    | +3           |                       |
+| 4     | 4d6+8    | +4           |                       |
+| 5     | 5d6+10   | +5           | +1 Any                |
+| 6     | 6d6+12   | +6           |                       |
+| 7     | 7d6+14   | +7           | +1 Any                |
+| 8     | 8d6+16   | +8           |                       |
+| 9     | 9d6+18   | +9           |                       |
+| 10    | 10d6+20  | +10          | +1 Any                |
+
+## Class Ability: Killing Blow
+
+Whenever a Warrior inflicts damage with any attack, spell, or special ability they may add half their character level, rounded up, to the damage done. This damage is also added to any Shock they may inflict.
+
+Combined with Foci meant to improve Shock attacks such as Armsmaster, Close Combatant, or Shocking Assault, this ability ensures that an experienced Warrior will almost always kill any ordinary human soldier or minor monster, regardless of their attack roll result.
+
+Partial Warriors **do not** get this ability.
+
+## Class Ability: Veteran’s Luck
+
+Once per scene, as an Instant action, the Warrior may turn a missed attack they have made into a hit. Alternately, they may turn a successful attack against them into a miss, also as an Instant action. This ability is particularly lethal when used with the Make a Snap Attack action against weaker monsters, ordinary human warriors, and spell casters.
+
+Partial Warriors **do not** get this ability.
+
+## Partial Warrior
+
+A Partial Warrior gains certain of the benefits of a full Warrior, including the improved hit die and a somewhat improved attack bonus. They do not have the Veteran’s Luck special ability or the Killing Blow power, however, and must trust to their own talents to land blows and crush their enemies.
+
+## Partial Mage/Partial Warrior
+
+| Level | Hit Dice | Attack Bonus | Focus Picks           |
+|-------|----------|--------------|-----------------------|
+| 1     | 1d6+2    | +1           | 1 Any + 1 Warrior     |
+| 2     | 2d6+4    | +2           | +1 Any                |
+| 3     | 3d6+6    | +2           |                       |
+| 4     | 4d6+8    | +3           |                       |
+| 5     | 5d6+10   | +4           | +1 Any                |
+| 6     | 6d6+12   | +5           |                       |
+| 7     | 7d6+14   | +5           | +1 Any                |
+| 8     | 8d6+16   | +6           |                       |
+| 9     | 9d6+18   | +6           |                       |
+| 10    | 10d6+20  | +7           | +1 Any                |
+
+## Partial Expert/Partial Warrior
+
+| Level | Hit Dice | Attack Bonus | Focus Picks                     |
+|-------|----------|--------------|---------------------------------|
+| 1     | 1d6+2    | +1           | 1 Warrior + 1 Expert + 1 Any    |
+| 2     | 2d6+4    | +2           | +1 Any                          |
+| 3     | 3d6+6    | +2           |                                 |
+| 4     | 4d6+8    | +3           |                                 |
+| 5     | 5d6+10   | +4           | +1 Any                          |
+| 6     | 6d6+12   | +5           |                                 |
+| 7     | 7d6+14   | +5           | +1 Any                          |
+| 8     | 8d6+16   | +6           |                                 |
+| 9     | 9d6+18   | +6           |                                 |
+| 10    | 10d6+20  | +7           | +1 Any                          |
