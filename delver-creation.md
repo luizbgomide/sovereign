@@ -594,3 +594,48 @@ Necromancer Effort is equal to one plus their Magic skill level plus the better 
 - **Unaging**: You no longer naturally age, and will remain perfectly hale and vigorous up to your species’ natural maximum age plus 20% per character level, after which you will collapse into dust and decay. Immortality beyond this point is possible, but generally requires consistent supplies of life energy, occult materials, or other difficult-to-acquire or morally questionable materials. You also become immune to poisons and diseases.
 - **Uncanny Ichor**: Your blood is not like the blood of normal beings. Predators find it nauseating and will not bite you unless provoked. Unintelligent predators will not consider you edible. This ichor is reluctant to leave your body, and stabbing or puncture injuries can Mortally Wound you but cannot result in your death unless you are entirely pincushioned by your foes or suffer catastrophic physical damage.
 - **Unliving Persistence**: Commit Effort for the day as an On Turn action to automatically stabilize when Mortally Wounded. You may use this ability to benefit others if you are able to touch them. This ability cannot save a subject that has experienced dismemberment or other extremely final deaths.
+
+## Record Maximum Hit Points
+
+Your character’s hit points measure their distance from defeat or death. If your character is reduced to zero hit points, they are either dying or incapacitated based on the nature of the injury.
+
+A new character rolls the hit die for their class, adding their Constitution modifier to it. If they have chosen the Die Hard Focus they may add +2 to the roll. The final value for a given die cannot be less than 1 hit point.
+
+A character gains hit points as they advance in character level, rerolling their prior levels and taking the new score if it’s higher, as explained in the rules section.
+
+## Record Attack Bonus
+
+Your character has a certain degree of basic combat competence based on their class. This bonus increases as you advance in character levels and is added to your attack roll.
+
+A new character’s attack bonus is usually +0, though Full Warriors start with a +1 base attack bonus.
+
+## Record Saving Throws
+
+When faced with unusual dangers such as fireball explosions, toxic darts, pit traps, or magical curses, the character may need to make a saving throw to resist or mitigate the peril. Saving throws are rolled on a d20 and are explained in the rules section.
+
+Physical saving throws are used to resist exhaustion, disease, poison, or other biological harms. A new character’s Physical save target is equal to 15 minus the better of their Strength or Constitution modifiers.
+
+Evasion saving throws are used to avoid explosions, traps, or other dangers requiring fast reactions. A new character’s Evasion save target is equal to 15 minus the better of their Intelligence or Dexterity modifiers.
+
+Mental saving throws are used to resist intangible spells, mental attacks, or other tests of willpower or self-control. A new character’s Mental save target is equal to 15 minus the better of their Wisdom or Charisma modifiers.
+
+Luck saving throws are rolled when facing a danger that only blind chance can spare them from, such as landslide, bridge collapse, or a sniper’s random choice of victims. A new character’s Luck save target is always 15.
+
+A character’s save targets all decrease by 1 point each time they advance an experience level.
+
+## Mages Choose Starting Spells
+
+Spellcasting full Mages begin play knowing four first-level spells and partial Mages begin play knowing two. Delvers with two partial spellcasting Mage classes, such as a partial Necromancer/partial High Mage know four. These spells may be chosen from any spell list available to them. A new High Mage, for example, would pick first-level spells from the High Magic spell list, while a new Elementalist could pick them from either the High Magic or Elementalist spells.
+
+## Choose Starting Gear
+
+Gain 3d6 x 10 gold to spend on gear or keep in your pocket.
+
+## Record Weapon and Armor Statistics
+
+Now that you know what kind of weaponry or armor your delver has,
+take a moment to record the total hit bonus for your weaponry. This is equal to your attack bonus plus your relevant Stab, Shoot, or Punch skill, and the relevant attribute modifier for the weapon given on the weapon table. If two attributes are listed for a weapon, use whichever is better for you. If you lack even level-0 skill in the weapon, take a -2 hit penalty with it.
+
+For each weapon’s damage and Shock, note down the information from the table. You add your attribute modifier to both damage rolls and Shock. Punch weapons or unarmed attacks can also add your Punch skill.
+
+For your PC’s Armor Class, record the AC of the armor you usually wear. Unarmored humans have an AC of 10. Armor Class is modified by your Dexterity modifier.
