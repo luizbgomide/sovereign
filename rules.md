@@ -5,6 +5,84 @@ title: Home
 
 # Rules
 
+## Advancement
+
+Characters accumulate XP by defeating monsters, extracting coins and treasure from dungeons, and making it back to a settlement. The *party* accumulates XP while on an adventure, and then all surviving members get a share of that treasure when they return to town. Delvers get a full share and Henchmen get half of a share.
+
+Coins and Treasure award 1 XP per 1g worth of value, regardless of whether the treasure is sold or the coin is spent. It just has to make it back to town.
+
+### XP for Monsters
+
+| Monster HD  | Base XP     | Bonus XP / Ability |
+| ----------- | ----------- | ------------------ |
+| Less than 1 | 5           | 1                  |
+| 1           | 10          | 3                  |
+| 2           | 20          | 5                  |
+| 3           | 35          | 15                 |
+| 4           | 75          | 50                 |
+| 5           | 175         | 125                |
+| 6           | 275         | 225                |
+| 7           | 450         | 400                |
+| 8           | 650         | 550                |
+| 9–10        | 900         | 700                |
+| 11–12       | 1,100       | 800                |
+| 13–16       | 1,350       | 950                |
+| 17–20       | 2,000       | 1,150              |
+| 21          | 2,500       | 2,000              |
+| 21+N        | 2,500+250•N | 2,000+250•N        |
+
+### XP Thresholds
+
+Once a character has enough XP to level up **and** is in a settlement, they do.
+
+| Level | XP    | Level | XP     |
+| ----- | ----- | ----- | ------ |
+| 1     | 0     | 6     | 24000  |
+| 2     | 1500  | 7     | 48000  |
+| 3     | 3000  | 8     | 100000 |
+| 4     | 6000  | 9     | 200000 |
+| 5     | 12000 | 10    | 300000 |
+
+### Advancement Benefits
+
+**More HP.** To determine their new maximum, they roll their hit die for each level they now possess, adding their Constitution modifier to each die and +2 if they have the Die Hard Focus. No individual die can be reduced below 1 point, even with a Constitution penalty. If the total roll is greater than their current maximum hit points, they take the roll. If less or equal, their maximum hit points increase by one.
+
+**Better Saves.** Their saving throw scores decrease by one, making it easier to suc- ceed on saving throws by rolling equal or over it. As a first level character has saving throw scores of 15, reaching second level would lower them to 14, modified by their appropriate attributes.
+
+**Improved Attack Bonus.** A Delver’s base attack bonus improves according to their level and their chosen class.
+
+**Gain Advancement Points.** A Delver who advances a level gains three advancement points they can spend on improving their skills or attributes. Experts and Partial Experts gain an extra bonus Advancement Point to spend (via Quick Learner), giving them four points each time they advance.
+
+The cost for improving a skill is listed below. Every skill level must be purchased in order; to gain level-1 in a skill you need to pay one point for level-0 and then two points for level-1. A PC must be the requisite minimum level to increase a skill to certain levels. Less hard- ened adventurers simply don’t have the focus and real-life experience to attain such a pitch of mastery.
+
+| Skill Level | Point Cost | Min Delver Level |
+| ----------- | ---------- | ---------------- |
+| 0           | 1          | 1                |
+| 1           | 2          | 1                |
+| 2           | 3          | 3                |
+| 3           | 4          | 6                |
+| 4           | 5          | 9                |
+
+A Delver can also spend their Advancement Points to improve their attribute scores by 1, recalculating their modifier each time.
+
+| Advancement | Point Cost | Min Delver Level |
+| ----------- | ---------- | ---------------- |
+| 1st         | 1          | 1                |
+| 2nd         | 2          | 1                |
+| 3rd         | 3          | 3                |
+| 4th         | 4          | 6                |
+| 5th         | 5          | 9                |
+
+**Gain a new Feat**. At levels 2, 5, 7, and 10 a PC can add a level to an existing Focus or pick up the first level in a new Focus.
+
+If this is the first level they’ve taken in the Focus, they might be granted a bonus skill. During character creation, this bonus skill pick is treated like any other skill pick. Taken as part of advancement, however, it counts as three skill points spent toward increasing the skill.
+
+This is enough to raise a nonexistent skill to level-1, or boost a level-1 skill to level-2. They may do this even if they aren’t high-enough level to normally qualify for a skill level that high.
+
+If the skill points aren’t quite enough to raise the skill to a new level, they remain as credit toward future advances. If applied to a skill that is already at level-4, the PC can spend the three skill points on any other skill of their choice.
+
+**More Spells and Arts**. Mages learn new arts, can cast and prepare more spells, and automatically learn new spells as they advance, based on their class and level.
+
 ## Keeping Track of Time
 
 A Turn is a time measurement used to determine how often certain abilities or actions can be taken. Some powers can be triggered only so many times per scene, while some special abilities only work once per scene.
