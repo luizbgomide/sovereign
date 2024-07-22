@@ -141,3 +141,28 @@ For example, paying a guard to watch your rooms for 7 days might cost `10g (mont
 Bribes to overlook a minor crime cost a day's worth of the witness' time. To overlook a major crime, a month. To overlook a capital crime, a year.
 
 Curing Diseases costs 500g, lifting curses or undoing magic costs 1000g. These kinds of curatives are subject to Equipment Availability for the market.
+
+## Henchmen
+
+Henchmen are Delvers for hire, and are built just like a player's Delver. Henchmen demand a monthly wage based on their level (paid in advance; non-negotiable) and half a share (non-negotiable) of all treasure, and earn half share (non-negotiable) of the party's XP.
+
+| Level | Wage | Level | Wage   |
+| ----- | ---- | ----- | ------ |
+| 1     | 25g  | 6     | 800g   |
+| 2     | 50g  | 7     | 1600g  |
+| 3     | 100g | 8     | 3000g  |
+| 4     | 200g | 9     | 7250g  |
+| 5     | 400g | 10    | 12000g |
+
+Henchmen, especially higher level ones, are subject to their own market availability:
+
+| Level / Pop | 100k+ | 25k+ | 10k+ | 3k+ | 1k+ | 999- |
+| ----------- | ----- | ---- | ---- | --- | --- | ---- |
+| 1           | 5d10  | 2d6  | 1d4  | 1d2 | 65% | 20%  |
+| 2           | 3d10  | 2d4  | 1d3  | 1   | 40% | 15%  |
+| 3           | 1d10  | 1d3  | 85%  | 33% | 15% | 5%   |
+| 4           | 1d6   | 1d2  | 45%  | 15% | 5%  | -    |
+
+Henchmen are ultimately NPCs and the GM has the final say on what they do. However, player who hired the Henchman generally controls them.
+
+A Delver may each have one Henchman.
