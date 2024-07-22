@@ -52,13 +52,14 @@ Skills are rated on a scale between untrained and level 4. Untrained (marked as 
 Skills may overlap in their application; the character may use either skill at their discretion.
 
 - **Exert**: Run, swim, climb, jump, labor for long periods, throw things, or otherwise exert your physical strength, stamina, and coordination. Even a PC with poor physical attributes might have a good Exert skill reflecting athletic training and expertise in making the most of their available talents.
-- **Heal**: Treat wounds, cure diseases, neutralize poisons, diagnose psychological health issues, and otherwise tend to the wounds of body and mind. - **Know**: Know matters of history, geography, natural science, zoology, and other academic fields appropriate to a sage or scholar. While some sages might specialize in particular fields, most learned folks have a broad range of understanding, and will rarely be unable to even attempt to answer a question relevant to this skill.
+- **Heal**: Treat wounds, cure diseases, neutralize poisons, diagnose psychological health issues, and otherwise tend to the wounds of body and mind.
+- **Know**: Know matters of history, geography, natural science, zoology, and other academic fields appropriate to a sage or scholar. While some sages might specialize in particular fields, most learned folks have a broad range of understanding, and will rarely be unable to even attempt to answer a question relevant to this skill.
 - **Lead**: Inspire others to follow your lead and believe in your plans and goals. Manage subordinates and keep them focused, loyal, and motivated in the face of danger or failure. A successful leader will keep their subordinate’s faith and confidence even when reason might make the leader’s plan appear questionable at best.
 - **Magic**: Cast or analyze magic and know things about famous mages or notable magical events. Classes that can’t cast spells obtain only intellectual and scholarly benefits from this skill.
 - **Notice**: Notice small details, impending ambushes, hidden features, or concealed objects. Detect subtle smells, sounds, or other sensory input.
-- **Punch**: Fight unarmed or with natural body weaponry. Punch, kick, grapple, or otherwise brawl without the benefit of man-made tools. This mode of fighting is inefficient at best without a Feat to improve it, but it’s reliably non-lethal.
+- **Brawl**: Fight unarmed or with natural body weaponry. Punch, kick, grapple, or otherwise brawl without the benefit of man-made tools. This mode of fighting is inefficient at best without a Feat to improve it, but it’s reliably non-lethal.
 - **Shoot**: Fire a bow or crossbow or throw a hurled weapon. Maintain ranged weaponry and fletch arrows.
-- **Sneak**: Move silently, hide in shadows, avoid notice, pick pockets, disguise yourself, pick locks, defeat traps, or otherwise overcome security measures.
+- **Sneak**: Move silently, hide in shadows, avoid notice, pick pockets, disguise yourself, pick locks, disable traps, etc.
 - **Stab**: Fight with melee weapons or throw a hurled weapon. Maintain and identify weaponry.
 
 ## Starting Improvements
@@ -75,7 +76,7 @@ Adventuring is a profession, and all Delvers have undergone extensive training t
 
 Delving is done in a party of specialists. A class represents the particular skills, abilities, or talents that make the Delver valuable to the party.
 
-The three base classes are Expert, Mage, and Warrior. Each of these base classes has its own hit die, attack progression, and Feat advancement.
+The three base classes are Expert, Mage, and Warrior. Each of these base classes has its own hit point progression, attack progression, and Feat advancement.
 
 There are two kinds of classes: full classes and Partial classes. You may choose a single class, committing completely to that class’ profession. Alternatively, you may pick two Partial classes, mixing their abilities.
 

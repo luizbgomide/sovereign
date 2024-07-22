@@ -47,13 +47,13 @@ Once a character has enough XP to level up **and** is in a settlement, they do.
 
 **More HP.** To determine their new maximum, they roll their hit die for each level they now possess, adding their Constitution modifier to each die and +2 if they have the Die Hard Focus. No individual die can be reduced below 1 point, even with a Constitution penalty. If the total roll is greater than their current maximum hit points, they take the roll. If less or equal, their maximum hit points increase by one.
 
-**Better Saves.** Their saving throw scores decrease by one, making it easier to suc- ceed on saving throws by rolling equal or over it. As a first level character has saving throw scores of 15, reaching second level would lower them to 14, modified by their appropriate attributes.
+**Better Saves.** Their saving throw scores decrease by one, making it easier to succeed on saving throws by rolling equal or over it. As a first level character has saving throw scores of 15, reaching second level would lower them to 14, modified by their appropriate attributes.
 
 **Improved Attack Bonus.** A Delver’s base attack bonus improves according to their level and their chosen class.
 
 **Gain Advancement Points.** A Delver who advances a level gains three advancement points they can spend on improving their skills or attributes. Experts and Partial Experts gain an extra bonus Advancement Point to spend (via Quick Learner), giving them four points each time they advance.
 
-The cost for improving a skill is listed below. Every skill level must be purchased in order; to gain level-1 in a skill you need to pay one point for level-0 and then two points for level-1. A PC must be the requisite minimum level to increase a skill to certain levels. Less hard- ened adventurers simply don’t have the focus and real-life experience to attain such a pitch of mastery.
+The cost for improving a skill is listed below. Every skill level must be purchased in order; to gain level-1 in a skill you need to pay one point for level-0 and then two points for level-1. A PC must be the requisite minimum level to increase a skill to certain levels. Less hardened adventurers simply don’t have the focus and real-life experience to attain such a pitch of mastery.
 
 | Skill Level | Point Cost | Min Delver Level |
 | ----------- | ---------- | ---------------- |
@@ -129,7 +129,7 @@ The GM is always the one who calls for a skill check, and they do so at their di
 
 ### NPC Skill Checks
 
-When an NPC needs to make a skill check, they roll 2d6 and add their listed skill modifier if their action is something they ought reason- ably to be good at. If it isn’t, they roll at +0, or even at -1 if it seems like something they’d be particularly bad at doing. If the NPC is special enough to have actual attribute scores and skill levels, they use those instead.
+When an NPC needs to make a skill check, they roll 2d6 and add their listed skill modifier if their action is something they ought reasonably to be good at. If it isn’t, they roll at +0, or even at -1 if it seems like something they’d be particularly bad at doing. If the NPC is special enough to have actual attribute scores and skill levels, they use those instead.
 
 ### Aiding a Skill Check
 
@@ -149,13 +149,13 @@ Injury is almost inevitable in an adventurer’s career. Some forms of it can be
 
 When a PC is reduced to zero hit points by a lethal attack, they are Mortally Injured. They will die at the end of the sixth round after their incapacitation unless stabilized by an ally or some special ability. A Mortally Wounded character is helpless, and can take no actions and do nothing useful.
 
-Stabilizing an ally is usually a Main Action that requires a Dex/ Heal or Int/Heal skill check. The difficulty is 8 plus the number of full rounds since the target fell. If the medic lacks a healer’s kit or other tools, this difficulty is increased by 2. Only one ally can try to stabilize a victim per round, though others can attempt to aid their check, but attempts may be retried each round for as long as hope lasts.
+Stabilizing an ally is a Main Action that requires a Dex/ Heal or Int/Heal skill check. The difficulty is 8 plus the number of full rounds since the target fell. If the medic lacks a healer’s kit or other tools, this difficulty is increased by 2. Only one ally can try to stabilize a victim per round, though others can attempt to aid their check, but attempts may be retried each round for as long as hope lasts.
 
 Once stabilized the victim remains incapacitated for ten minutes before recovering with 1 hit point and the Frail condition. They may act normally after they recover, but if they are reduced to zero hit points again while still Frail, they die instantly. Frailty is removed by a week of bed rest and medical care. A physician can also make one attempt to remove Frailty with a healer’s kit and an hour of work, rolling a Dex/Heal or Int/Heal skill check against difficulty 10.
 
 ### NPCs and Mortal Injury
 
-NPCs who aren’t important enough to merit a name usually die in- stantly when reduced to zero hit points.
+NPCs who aren’t important enough to merit a name usually die instantly when reduced to zero hit points.
 
 ### System Strain
 
@@ -163,19 +163,19 @@ Magical forms of healing or use of powerful augmenting magic can take a toll on 
 
 A healthy character normally starts at zero System Strain and has their Constitution score as their allowed maximum. A character cannot accumulate more than this maximum in System Strain.
 
-Magical healing and certain spells and abilities will add to a subject’s System Strain. If this addition would put them over their maximum they cannot activate the spell, benefit from healing, or otherwise gain any use from the ability. If they are forced over the maximum by some unavoidable effect, they are instead knocked unconscious for at least an hour.
+Magical healing and certain spells and abilities will add to a subject’s System Strain. If this addition would put them over their maximum they cannot activate the spell, benefit from healing, or otherwise gain any use from the ability. If they are forced over the maximum by some unavoidable effect, they are instead knocked unconscious for n hour.
 
 Characters lose one point of accumulated System Strain after each night’s rest, assuming they are warm, fed, and comfortable and can get at least eight uninterrupted hours of sleep. Cold camps, stony bedding, and other sources of privation prevent this recuperation.
 
 ### Natural Healing
 
-A wounded creature can recover hit points by getting a good night’s rest and adequate food. Provided they are warm, fed, and comfort- able, they regain hit points each morning equal to their experience level, or equal to their hit dice if they are NPCs. Characters suffering some form of privation do not recover hit points through sleep.
+A wounded creature can recover hit points by getting a good night’s rest and adequate food. Provided they are warm, fed, and comfortable, they regain hit points each morning equal to their experience level, or equal to their hit dice if they are NPCs. Characters suffering some form of privation do not recover hit points through sleep.
 
 Frail creatures do not recover hit points through natural healing. They must cure their Frail condition first or rely on pharmaceuticals. Removing the Frail condition requires a full week of bed rest and the medical attention of someone with at least Heal-0 skill and a healer’s kit. Frail victims without this level of medical care must make a Physical save after a week; on a failure they die sometime in the next week, while success means they lose their Frailty after another month’s rest.
 
 ### First Aid
 
-Healers can patch up victims in a hurry, albeit at a cost to their phys- ical resilience. By spending one minute patching up an ally with a healer’s kit, a healer can heal 1d6 points of damage plus their Heal skill. If they lack any Heal skill at all, they restore 1d6-1 points. Each such application of first aid adds one System Strain to the target. First aid can restore hit points to a Frail target, but it cannot remove their Frailty.
+Healers can patch up victims in a hurry, albeit at a cost to their physical resilience. By spending one minute patching up an ally with a healer’s kit, a healer can heal 1d6 points of damage plus their Heal skill. If they lack any Heal skill at all, they restore 1d6-1 points. Each such application of first aid adds one System Strain to the target. First aid can restore hit points to a Frail target, but it cannot remove their Frailty.
 
 One ten-minute turn is enough time for a healer to apply as much first aid as is wanted to the rest of their party.
 
@@ -197,7 +197,7 @@ The group member in the fleeing party with the best Dex/Exert or Con/Exert total
 
 Other fleeing group members then hinder pursuit in whatever ways they think are helpful. Sometimes a skill check is needed, while other times a GM will simply decide it works. Each successful effort adds a +1 bonus to the pace, up to +3 maximum. Botched efforts are either unhelpful or apply a -1 penalty if they’re actively harmful. If the fleeing group is made up of NPCs, it’s the GM’s judgment as to whether any of them try to do something clever to stall the PCs.
 
-The pursuing group then makes a single Dex/Exert or Con/Ex- ert skill check, modified by the table below. If they beat the fleeing group’s total they catch up to them, and if they tie or roll less the fleeing party has escaped immediate pursuit.
+The pursuing group then makes a single Dex/Exert or Con/Exert skill check, modified by the table below. If they beat the fleeing group’s total they catch up to them, and if they tie or roll less the fleeing party has escaped immediate pursuit.
 
 
 | Situation                                        | Mod |
@@ -222,15 +222,11 @@ Gear has encumbrance, measured in points, as exampled in the table below. The mo
 | Requires a whole-body effort to haul it | 5+          |
 | Dragging an unconscious teammate        | 12          |
 
-Gear is either Stowed or Readied. Stowed gear is packed away carefully in pockets, packs, and harnesses. It’s easier to carry but harder to quickly access. Using Stowed gear requires that the bear- er take a Main Action to pull it out before using it. Readied gear is carried in hands, holsters, quick-access pockets, or other easily-ac- cessible places. It can be used as part of an action without any further preparation.
+Gear is either Stowed or Readied. Stowed gear is packed away carefully in pockets, packs, and harnesses. It’s easier to carry but harder to quickly access. Using Stowed gear requires that the bearer take a Main Action to pull it out before using it. Readied gear is carried in hands, holsters, quick-access pockets, or other easily-accessible places. It can be used as part of an action without any further preparation.
 
 A character can carry a total number of Stowed encumbrance points equal to their Strength score. They can carry a number of Readied points equal to half their Strength, rounded down. Thus, a PC with a Strength score of 11 could carry 11 points of Stowed gear and 5 points of Readied.
 
 PCs can haul much heavier objects if necessary. If they push their limits for longer terms, they can carry an additional two Ready and four Stowed items. The first time they do this, their Move speed is cut by 30%, from 30 feet to 20 feet. The second time, it’s cut by 50%, from 20 feet to 10 feet. More weight than this can’t be practically hauled over significant distances.
-
-### Bundled Gear
-
-Small, regularly-shaped objects such as oil flasks, potion bottles, rations, and torches can be wrapped into bundles for easier porta- bility. Three such items can be tied into a bundle that only counts as one item of encumbrance. Breaking into this bundle takes an extra Main Action, however.
 
 ### Bulk Weights
 
@@ -274,8 +270,8 @@ At the start of each turn after the party enters the site:
 
 1. Roll a secret Wandering Encounter check if necessary. On a 1, the encounter will happen at some appropriate moment this turn.
 2. The PCs decide what they want to do this turn, be it move into a new room, carefully search their current location, fiddle with some object they’ve found, or something else that takes ten minutes.
-3. Tell them the result of their actions, whether that’s a first- glance description of a new room, notice of the hideous abomination that’s rearing up before them, or the explosive detonation of the crystal they just experimentally rapped.
-4. Start over from the top, assuming their actions have con- sumed a full turn, until they withdraw from the site or it becomes safe enough to stop counting turns.
+3. Tell them the result of their actions, whether that’s a first-glance description of a new room, notice of the hideous abomination that’s rearing up before them, or the explosive detonation of the crystal they just experimentally rapped.
+4. Start over from the top, assuming their actions have consumed a full turn, until they withdraw from the site or it becomes safe enough to stop counting turns.
 
 ### Timekeeping in the Dungeon
 

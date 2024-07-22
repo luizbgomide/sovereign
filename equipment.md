@@ -78,7 +78,7 @@ This chart represents the party's ability to both buy *and sell* in a market, so
 - **2H**: Two Handed. The weapon requires two hands to use in combat. Ranged two-handed weapons cannot be fired effectively while an enemy is within melee range.
 - **AP**: Armor Piercing. This weapon ignores non-magical hides, armor and shields for purposes of its hit rolls.
 - **FX**: Fixed. The weapon is too heavy and clumsy to use without a fixed position and at least five minutes to entrench it.
-- **L**: Long. The weapon is unusually long, allowing melee attacks to be made at targets up to 10 feet distant, even if an ally is in the way. Even so, the wielder still needs to be within five feet of a foe to count as being in melee with them for purposes of forcing Fighting With- drawals, disrupting large ranged weapons, or similar maneuvers.
+- **L**: Long. The weapon is unusually long, allowing melee attacks to be made at targets up to 10 feet distant, even if an ally is in the way. Even so, the wielder still needs to be within five feet of a foe to count as being in melee with them for purposes of forcing Fighting Withdrawals, disrupting large ranged weapons, or similar maneuvers.
 - **LL**: Less Lethal. Foes brought to zero hit points by this weapon can always be left alive at the wielder’s discretion.
 - **N**: Numerous. Five of these count as only one Readied item.
 - **PM**: Precisely Murderous. When used for an Execution Attack, the weapon applies an additional -1 penalty to the Physical save and does double damage even if it succeeds.

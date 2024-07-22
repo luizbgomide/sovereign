@@ -17,13 +17,13 @@ Groups cannot be surprised if they are actively anticipating the possibility of 
 
 ## Combat Action Types
 
-Attacks, movement, spellcasting, and other combat activities all re- quire one of the following four types of actions.
+Attacks, movement, spellcasting, and other combat activities all require one of the following four types of actions.
 
 **Main actions** are a character’s primary action during a combat round, such as attacking an enemy, applying first aid to a downed ally, casting a spell, frantically evading incoming spears, or something else that takes less than six seconds to do. A combatant gets one Main action per round.
 
 **Move actions** involve moving the character’s normal movement rate of 30 feet or performing some other relatively brief bodily action, such as getting up from prone. A combatant gets one Move action per round, but can spend their main action to get a second.
 
-**On Turn** actions are brief, simple acts that require only a mo- ment’s concentration. Activating certain abilities or speaking a few words might constitute an On Turn action. A character can take as many On Turn actions on their round as the GM finds plausible.
+**On Turn** actions are brief, simple acts that require only a moment’s concentration. Activating certain abilities or speaking a few words might constitute an On Turn action. A character can take as many On Turn actions on their round as the GM finds plausible.
 
 **Instant actions** are special, most being provided only by certain powers or certain special actions. Instant actions can be performed even when it’s not your turn in the round, even after the dice have already been rolled. The Veteran’s Luck class ability provides one such Instant action, allowing the PC to treat a missed attack roll as an automatic hit. A PC can use as many Instant actions in a round as the GM finds plausible. Instant actions performed at the same time are resolved simultaneously, with the GM adjudicating any ambiguities.
 
@@ -55,7 +55,7 @@ Move up to your normal movement rate to get adjacent to an ally. You then physic
 
 ### Total Defense (Instant Action)
 
-Give up your Main Action to focus entirely on dodging and evading incoming perils. Your Melee and Ranged Armor Classes increase by +2 and you become immune to Shock until the start of your next turn, including the otherwise-unavoid- able damage from a Swarm Attack. You cannot take this action if you have already spent your Main Action for the round.
+Give up your Main Action to focus entirely on dodging and evading incoming perils. Your Melee and Ranged Armor Classes increase by +2 and you become immune to Shock until the start of your next turn, including the otherwise-unavoidable damage from a Swarm Attack. You cannot take this action if you have already spent your Main Action for the round.
 
 ### Run (Move Action)
 
@@ -141,17 +141,17 @@ An attack that hits can never do less damage than the Shock that would have been
 
 ### Shoving
 
-To knock a target down or force them elsewhere, the attacker must first hit the target normally for no damage and then suc- ceed in an opposed Str/Punch or Str/Exert skill check. If the attacker succeeds in the skill check, the target is forced into an adjacent square or knocked prone.
+To knock a target down or force them elsewhere, the attacker must first hit the target normally for no damage and then succeed in an opposed Str/Punch or Str/Exert skill check. If the attacker succeeds in the skill check, the target is forced into an adjacent square or knocked prone.
 
 ### Grappling
 
-To grapple a foe, the attacker must first hit with an unarmed attack, doing no damage, and then both must make opposed Str/Punch skill checks. If the attacker wins, the defender is grappled and remains that way until released or until they spend a Main Action and succeed in a new opposed check. An attacker can grapple only one target at a time, though multiple attackers can cling to the same luckless defender. In such cases, the defend- er’s single skill check is compared against all of their foes.
+To grapple a foe, the attacker must first hit with an unarmed attack, doing no damage, and then both must make opposed Str/Punch skill checks. If the attacker wins, the defender is grappled and remains that way until released or until they spend a Main Action and succeed in a new opposed check. An attacker can grapple only one target at a time, though multiple attackers can cling to the same luckless defender. In such cases, the defender’s single skill check is compared against all of their foes.
 
-While grappling, neither attackers or defenders can move from their current location, nor can they fight with anything but unarmed attacks. At the end of each round in which a defender remains grappled, they suffer dam- age from each attacker as if hit with an unarmed attack from each foe grappling them.
+While grappling, neither attackers or defenders can move from their current location, nor can they fight with anything but unarmed attacks. At the end of each round in which a defender remains grappled, they suffer damage from each attacker as if hit with an unarmed attack from each foe grappling them.
 
 If the attacker wishes to move the target, they must spend a Main Action and succeed in an opposed Str/ Punch skill check. If they win, the target is either moved ten feet along with them, or thrown five feet and knocked prone. If they lose, the defender breaks free.
 
-These rules assume both targets are man-sized. Grappling or shoving significantly larger but still human- oid targets is done at a -2 penalty on all skill checks by the attacker. Doing so to creatures only barely plausible for such manhandling is done at a -4 skill check penalty.
+These rules assume both targets are man-sized. Grappling or shoving significantly larger but still humanoid targets is done at a -2 penalty on all skill checks by the attacker. Doing so to creatures only barely plausible for such manhandling is done at a -4 skill check penalty.
 
 ### Dual Wielding Weapons
 
@@ -165,7 +165,7 @@ Managing two weapons at once is difficult, and applies a -1 penalty to all hit r
 
 A target that is entirely unsuspecting of danger is subject to execution attacks. A subject that is expecting danger or alert to potential harm cannot be targeted by an execution attack.
 
-A ranged execution attack requires one full minute of aiming, waiting, and adjusting on the part of the would-be sniper. Any distur- bance during this time will spoil the shot. After spending this time, the assassin may make a Dex/Shoot skill check. The difficulty is 6 for an attack within two meters, 8 for an attack within the weapon’s normal range, or 10 for one at the weapon’s long range. On a success, the attack hits; the victim’s Armor Class is ignored.
+A ranged execution attack requires one full minute of aiming, waiting, and adjusting on the part of the would-be sniper. Any disturbance during this time will spoil the shot. After spending this time, the assassin may make a Dex/Shoot skill check. The difficulty is 6 for an attack within two meters, 8 for an attack within the weapon’s normal range, or 10 for one at the weapon’s long range. On a success, the attack hits; the victim’s Armor Class is ignored.
 
 A melee execution attack requires one full minute of near proximity to the target, watching for just the right opening and getting to within melee range of the victim. If this time is granted, the assassin may make a melee attack, automatically hitting.
 
