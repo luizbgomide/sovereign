@@ -164,12 +164,12 @@ When judging the ability of a vehicle to carry encumbrance points of cargo, it c
 
 To haul more equipment and loot than the PCs can carry, they need pack animals or porters.
 
-| Type                                       | Enc |
-| ------------------------------------------ | --- |
-| Heavy pack horse                           | 30  |
-| Mule or donkey                             | 15  |
-| Professional porter                        | 12  |
-| Two porters carrying a shared litter       | 30  |
+| Type                      | Cost   | Enc |
+| ------------------------- | ------ | --- |
+| Heavy pack horse          | 40g    | 30  |
+| Mule or donkey            | 20g    | 15  |
+| Porter                    | 2g/day | 12  |
+| Cart (pulled by 2 beasts) | 25g    | 300 |
 
 ## Falling and Other Hazards
 Some perils occur with some regularity for adventurers. A few of the most common are detailed here.
