@@ -30,7 +30,7 @@ So, a Baron with a 1000g/mo income also has ~1000g/mo in expenses. They're worth
 
 ## Equipment Availability
 
-Markets are not able to supply infinite amounts of goods. The monthly availability goods by the population of a market are given below.
+Markets are not able to supply infinite amounts of goods. The monthly availability of goods by the population of a market is given below.
 
 | Price / Pop     | 100k+ | 25k+ | 10k+ | 3k+ | 1k+ | 999- |
 | --------------- | ----- | ---- | ---- | --- | --- | ---- |
