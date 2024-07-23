@@ -7,7 +7,7 @@ Welcome to Sovereign!
 
 This SRD is split in several sections.
 
-If you prefer to learn by example and with exercises, the [Tutorial](/tutorial) has you covered.
+If you prefer to learn by example and with exercises, the Tutorial (not available yet) has you covered.
 
 [Delver Creation](/delver-creation) will walk you through the process of creating a character.
 
