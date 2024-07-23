@@ -26,7 +26,7 @@ The monthly standard of living for various members of society are provided to ge
 
 Income and expenses are roughly equal in most cases. Net worth (often in the form of land and equipment and whatnot) is ~33x monthly income/expenses. Coinage tends to make up about 5% of a NPC's net worth.
 
-So, a Baron with a 1000g/mo income also has ~1000g/mo in expenses. They're worth 33,000g (mostly in land, structures, etc), and have 1650g on hand.
+So, a Baron with a 1000g/mo income also has ~1000g/mo in expenses. They're worth ~33,000g (mostly in land, structures, etc), and have 1650g on hand.
 
 ## Equipment Availability
 
@@ -43,7 +43,7 @@ Markets are not able to supply infinite amounts of goods. The monthly availabili
 
 If the entry contains a percentage, treat that as the chance that one such item exists.
 
-Goods that are meaningfully different from each other are counted separately, thus a 1500-population town can sell the party 3 short swords (7g each) *and* 3 Battle Axes (7g each) per month.
+Goods that are meaningfully different from each other are counted separately. Thus, a 1500-population town can sell the party 3 Short Swords (7g each) *and* 3 Battle Axes (7g each) per month.
 
 This chart represents the party's ability to both buy *and sell* in a market, so a party has a 5% monthly chance to be able to sell a 750g emerald in a village with a population of 400.
 
@@ -63,6 +63,7 @@ This chart represents the party's ability to both buy *and sell* in a market, so
 | Polearm        | 1d10      | 2/AC 15 | Str       | -          | 2H, L      | 7g   | 2   |
 | Great Hammer   | 1d10      | 2/AC 18 | Str       | -          | 2H         | 10g  | 2   |
 | Mace           | 1d6       | 1/AC 18 | Str       | -          | LL         | 5g   | 1   |
+| Oil, Military  | 2d8       | 1/AC 18 | Dex       | 20/40      | T          | 2g   | 1   |
 | Shield         | 1d4       | None    | Str/Dex   | -          | LL         | 10g  | -   |
 | Spear, Heavy   | 1d10      | 2/AC 15 | Str       | -          | 2H         | 3g   | 2   |
 | Spear, Light   | 1d6       | 2/AC 13 | Str/Dex   | 30/60      | T          | 3g   | 1   |
@@ -73,7 +74,6 @@ This chart represents the party's ability to both buy *and sell* in a market, so
 | Sword, Long    | 1d8       | 2/AC 13 | Str/Dex   | -          | -          | 10g  | 1   |
 | Sword, Short   | 1d6       | 2/AC 15 | Str/Dex   | -          | -          | 7g   | 1   |
 | Unarmed Attack | 1d2+Skill | None    | Str/Dex   | -          | LL         | -    | -   |
-
 
 - **2H**: Two Handed. The weapon requires two hands to use in combat. Ranged two-handed weapons cannot be fired effectively while an enemy is within melee range.
 - **AP**: Armor Piercing. This weapon ignores non-magical hides, armor and shields for purposes of its hit rolls.
@@ -86,6 +86,8 @@ This chart represents the party's ability to both buy *and sell* in a market, so
 - **S**: Subtle. Can be easily hidden in clothing or jewelry.
 - **SR**: Slow Reload. It takes a Main Action to reload this weapon. SS: Single Shot. This weapon takes ten rounds to reload, and the reloading effort is spoiled if an enemy melees the wielder.
 - **T**: Throwable. While the weapon can be used in melee, it may be thrown out to the listed range as well, albeit it does no Shock in that case. Throwing a weapon while in melee applies a -4 penalty to the hit roll.
+
+Military oil may be ignited and thrown with a Dex/Shoot attck, dealing 1d8 damage for 2 rounds to the target. If the attack fails, it lands in a random adjacent square and deals 1d3 damage to that square and all adjacent squares.
 
 ## Armor
 
