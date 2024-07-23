@@ -45,7 +45,7 @@ A Delver’s skills reprsent their training. A newly-created Delver starts with 
 
 ### Interpretting Skill Levels
 
-Skills are rated on a scale between untrained and level 4. Untrained (marked as `-` on a character sheet) represents an absence of training. Level 0 represents basic competence. Level 1 represents professional-level skill. Level 2 in a skill likely makes a character the best in a village or city block. Level 3 represents mastery, and likely makes the character one of the best in a city. Level 4 represents world-class skill.
+Skills are rated on a scale from -1 to 4. Level -1 represents an absence of training. Level 0 represents basic competence. Level 1 represents professional-level skill. Level 2 in a skill likely makes a character the best in a village or city block. Level 3 represents mastery, and likely makes the character one of the best in a city. Level 4 represents world-class skill.
 
 ### The Skill List
 
