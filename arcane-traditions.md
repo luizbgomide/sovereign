@@ -15,7 +15,7 @@ While the arts of Accursed Blade and Accursed Bolt use Magic as their combat ski
 
 ### Accursed Arts
 
-Accursed have Effort equal to their Magic skill level plus the highest of their Intelligence or Charisma modifiers, to a minimum of one point. Every Accursed gains either Accursed Bolt or Accursed Blade as a starting art, plus one more of their choice. Accursed arts may be used in or out of armor.
+Accursed have Effort equal to their Magic skill level plus the highest of their Int or Cha, to a minimum of one point. Every Accursed gains either Accursed Bolt or Accursed Blade as a starting art, plus one more of their choice. Accursed arts may be used in or out of armor.
 
 - **Accursed Blade:** As an On Turn action, manifest an occult melee weapon as a one-handed 1d8 weapon or a two-handed 2d6 weapon. Both add your Magic skill to the damage roll, have a Shock rating of 2/15, use Magic as the attack skill and the best of Str, Dex, Int, or Cha as its modifying attribute.
 - **Accursed Bolt:** Launch blasts of occult force using Magic as your attack skill and the best of Str, Dex, Int, or Cha as its modifying attribute. Their damage is 1d8 plus your Magic skill, their range is 200’, and the bolts can be thrown in melee at a -4 penalty to hit. These bolts need both hands free to hurl them.
@@ -53,7 +53,7 @@ As such, Partial Warriors/Partial Duelists use 1d6 for their hit dice, rather th
 
 ### Duelist Arts
 
-Duelist Effort is equal to their Stab skill plus the highest of their Dexterity or Intelligence modifiers, to a minimum of one point. All Duelists begin with the Favored Weapon art and one more of their choice. Additional arts are learned as the PC advances in experience.
+Duelist Effort is equal to their Stab skill plus the highest of their Dex or Int, to a minimum of one point. All Duelists begin with the Favored Weapon art and one more of their choice. Additional arts are learned as the PC advances in experience.
 
 The arts of the Duelist require agility and free motion. The Duelist cannot benefit from any art of this class while wearing medium or heavy armor or carrying a large shield. Dual-wielding is practiced by some Duelists, but most prefer the defensive advantages of a small offhand shield.
 
@@ -86,7 +86,7 @@ Duelist arts do not apply to thrown weapons.
 - **Spiritual Weapon:** You are able to translate examples of your favored weapon into a spiritual template that you may manifest as you wish. Any favored weapon can be turned into such a template, including a magical weapon, but the process destroys the object’s physical form. To manifest a template, Commit Effort as an Instant action; a ghostly copy of the weapon appears Readied in hand for you until you release the Effort or stop touching the weapon. Dual-wielders can summon the same weapon into both hands with one use of this art.
 - **Unbindable:** Commit Effort for the day as an On Turn action whenever you wish to escape chains, grapples, shackles, ropes, or even a magical spell of physical binding. You automatically wriggle free from mundane restraints and gain an Evasion saving throw to instantly end a physical magical binding of some sort. You can use this art only once per round.
 - **Unworthy Rabble:** Commit Effort for the day as an On Turn action. For the rest of the scene, when using your favored weapon, reroll any failed hit roll against foes with one hit die. At eighth level, this applies to foes with two hit dice.
-- **Whirling Evasion:** Your base Armor Class becomes equal to 13 plus half your level, rounded up. This AC can be modified by small shields and your Dexterity modifier, but not by armor or large shields.
+- **Whirling Evasion:** Your base Armor Class becomes equal to 13 plus half your level, rounded up. This AC can be modified by small shields and your Dex, but not by armor or large shields.
 
 ---
 
@@ -115,7 +115,7 @@ Each time Elementalists advance a level, they can pick a new High Magic spell or
 
 ### Elementalist Arts
 
-Elementalist Effort is equal to one plus their Magic skill level plus the highest of their Intelligence or Charisma modifiers to a minimum of one point. Partial Elementalists have one less Effort, to a minimum of one.
+Elementalist Effort is equal to one plus their Magic skill level plus the highest of their Int or Cha to a minimum of one point. Partial Elementalists have one less Effort, to a minimum of one.
 
 Elementalists gain the Elemental Resilience and Elemental Sparks arts as part of their basic training, and may pick one additional art from the list below. Further arts are learned as they advance in character level, as given in the tables below.
 
@@ -161,7 +161,7 @@ At first level, a Healer gains the Healing Touch art and can pick one more of th
 
 ### Healer Arts
 
-Healer Effort is equal to one plus their Heal skill level plus the highest of their Intelligence or Charisma modifiers, to a minimum of one point.
+Healer Effort is equal to one plus their Heal skill level plus the highest of their Int or Cha, to a minimum of one point.
 
 All Healers are trained in the Healing Touch art, but may develop other techniques with time.
 
@@ -235,7 +235,7 @@ High Mages conduct extensive experimentation and study as part of their daily ac
 
 ### High Mage Arts
 
-High Mage Effort is equal to one plus their Magic skill level plus the highest of their Intelligence or Charisma modifiers, to a minimum of one point. Partial High Mages have one less Effort, to a minimum of one.
+High Mage Effort is equal to one plus their Magic skill level plus the highest of their Int or Cha, to a minimum of one point. Partial High Mages have one less Effort, to a minimum of one.
 
 - **Arcane Lexicon:** Commit Effort for the scene. For the rest of the scene, you can read any script that was not intentionally obfuscated or encoded by its writer. Extremely esoteric or nonhuman scripts may not be comprehensible this way; the “plain meaning” of the text might be utterly foreign to human logic.
 - **Counter Magic:** Commit Effort for the day as an Instant action when a visible enemy mage casts a spell. Both of you make opposed Int/Magic or Cha/Magic skill checks; if you win, their spell fizzles and is wasted. This art only works on actual spellcasters and not creatures that merely activate magical powers. You can use this art no more than once per round.
@@ -296,7 +296,7 @@ Each time a Necromancer advances a level, they can pick a new High Magic spell o
 
 ### Necromancer Arts
 
-Necromancer Effort is equal to one plus their Magic skill level plus the highest of their Intelligence or Charisma modifiers, to a minimum of one point. Partial Necromancers have one less Effort, to a minimum of one.
+Necromancer Effort is equal to one plus their Magic skill level plus the highest of their Int or Cha, to a minimum of one point. Partial Necromancers have one less Effort, to a minimum of one.
 
 - **Bonetalker:** You can see and communicate with any undead creature, regardless of a shared language or the creature’s natural state of invisibility. By Committing Effort for the scene you can sense the surface thoughts of any visible undead, including an impression of any commands or behavior it has been ordered to carry out. Unintelligent undead will not attack you or your companions unless specifically compelled to do so by a command or a master. Even intelligent undead will generally pause at least for an initial parley before attacking.
 - **Cold Flesh:** You no longer require sleep and feel pain only in an abstract sense. You can suffer no more than 2 points of damage from any given instance of Shock and you have a natural Armor Class equal to 12 plus half your level, rounded down.

@@ -141,7 +141,7 @@ Your henchmen are remarkably loyal and determined, and will fight for you agains
 
 ## Impervious Defense ⚔️
 
-Whether through uncanny reflexes, remarkable luck, supernatural heritage, or magical talent, you have natural defenses equivalent to high-quality armor. The benefits of this Feat don’t stack with armor, though Dexterity or shield modifiers apply.
+Whether through uncanny reflexes, remarkable luck, supernatural heritage, or magical talent, you have natural defenses equivalent to high-quality armor. The benefits of this Feat don’t stack with armor, though Dex and shield modifiers apply.
 
 ### Level 1
 

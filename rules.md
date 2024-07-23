@@ -45,7 +45,7 @@ Once a character has enough XP to level up **and** is in a settlement, they do.
 
 ### Advancement Benefits
 
-**More HP.** To determine their new maximum, they roll their hit die for each level they now possess, adding their Constitution modifier to each die and +2 if they have the Die Hard Feat. No individual die can be reduced below 1 point, even with a Constitution penalty. If the total roll is greater than their current maximum hit points, they take the roll. If less or equal, their maximum hit points increase by one.
+**More HP.** To determine their new maximum, they roll their hit die for each level they now possess, adding their Con to each die. No individual die can be reduced below 1 point, even with a negative Con. If the total roll is greater than their current maximum hit points, they take the roll. If less or equal, their maximum hit points increase by one.
 
 **Better Saves.** Their saving throw scores decrease by one, making it easier to succeed on saving throws by rolling equal or over it. As a first level character has saving throw scores of 15, reaching second level would lower them to 14, modified by their appropriate attributes.
 
@@ -99,11 +99,11 @@ Saving throws are rolled to resist some unusual danger or chance hazard. To make
 
 There are four types of saving throws. Usually it will be obvious which type is most appropriate for a threat, but the GM can decide in marginal situations.
 
-**Physical** saves resist exhaustion, poisons, diseases, or other bodily afflictions. A PC’s Physical saving throw target is equal to 16 minus their character level and the highest of their Strength or Constitution modifiers.
+**Physical** saves resist exhaustion, poisons, diseases, or other bodily afflictions. A PC’s Physical saving throw target is equal to 16 minus their character level and the highest of their Str or Con.
 
-**Evasion** saves apply when dodging explosions, avoiding traps, reacting to sudden peril, or other occasions where speed is of the essence. A PC’s Evasion saving throw target is equal to 16 minus their character level and the highest of their Dexterity or Intelligence modifiers.
+**Evasion** saves apply when dodging explosions, avoiding traps, reacting to sudden peril, or other occasions where speed is of the essence. A PC’s Evasion saving throw target is equal to 16 minus their character level and the highest of their Dex or Int.
 
-**Mental** saves apply when resisting mental attacks, insubstantial magic spells, psychological trauma, and other mental hazards. A PC’s Mental saving throw target is equal to 16 minus their character level and the highest of their Wisdom or Charisma modifiers.
+**Mental** saves apply when resisting mental attacks, insubstantial magic spells, psychological trauma, and other mental hazards. A PC’s Mental saving throw target is equal to 16 minus their character level and the highest of their Wis or Cha.
 
 **Luck** saves are used when only blind chance can save a PC, regardless of their native abilities. A PC’s Luck saving throw target is equal to 16 minus their character level, unmodified by their attributes.
 
@@ -113,9 +113,9 @@ NPCs have a single saving throw target equal to 15 minus half their rounded-down
 
 Most characters are skilled, competent folks who are perfectly capable of carrying out the ordinary duties of their role. Sometimes, however, they are faced with a situation or challenge beyond the usual scope of their role and the GM calls for a skill check.
 
-To make a skill check, roll 2d6 and add the most relevant skill level and attribute modifier (denoted as Attribute/Skill, like Str/Exert or Int/Magic). If the total is equal or higher than the check’s difficulty class (DC), the check is a success. On a failure, the PC either can’t accomplish the feat at all, bad luck cheats them, or they achieve it at the cost of some further complication. The GM determines the specific consequence of a failure.
+To make a skill check, roll 2d6 and add the most relevant skill level and attribute modifier (denoted as Attribute Modifier/Skill, like Str/Exert or Int/Magic). If the total is equal or higher than the check’s difficulty class (DC), the check is a success. On a failure, the PC either can’t accomplish the feat at all, bad luck cheats them, or they achieve it at the cost of some further complication. The GM determines the specific consequence of a failure.
 
-To refer to this procedure compactly, we write DC {Difficulty Class} {Attribute/Skill}. For example, DC 8 Int/Know or DC 12 Dex/Heal.
+To express to this compactly, we write DC {Difficulty Class} {Attribute Modifier/Skill}. For example, DC 8 Int/Know or DC 12 Dex/Heal.
 
 The GM is always the one who calls for a skill check, and they do so at their discretion. The player simply describes what their PC is attempting to do, and the GM will tell them what skill and attribute combination to roll. If multiple skills or attributes might plausibly fit the action, the player can pick the one most favorable to them.
 
@@ -139,7 +139,7 @@ This represents forcing open a heavy door together, everyone trying to stealth p
 
 ### Opposed Skill Checks
 
-When skills oppose each other, the participant attempting to change the situation rolls a skill check vs a DC of 8, plus the other participant's modifier. For example, a Delver trying to sneak past a guard might roll 2d6 plus their Dex/Sneak against a DC of 8 + the guard’s skill modifier. If the guard was significant enough to actually have attributes and skill levels, it might be a Dex/Sneak challenge versus their Wis/Notice.
+When skills oppose each other, the participant attempting to change the situation rolls a skill check vs a DC of 8, plus the other participant's modifier. For example, a Delver trying to sneak past a guard might roll 2d6 plus their Dex/Sneak against a DC of 8 + the guard’s skill modifier. If the guard is significant enough to have attributes and skill levels, it might be a Dex/Sneak challenge versus their Wis/Notice.
 
 ## Injury, Healing, and System Strain
 

@@ -37,6 +37,8 @@ Each attribute has a modifier, usually ranging from -2 to +2. This modifier is a
 
 An attribute score of 3 has a modifier of -2. A score of 4-7 has a modifier of -1. A score of 8-13 has a modifier of +0. A score of 14-17 has a modifier of +1. A score of 18 has a modifier of +2.
 
+In this text, when referring to an attribute's score, it will be spelled completely, like Strength. When referring to an attribute's modifier, it will be abbreviated to three letters. Str, Dex, Con, Int, Wis, or Cha.
+
 Some Feats and abilities may add bonuses or penalties to an attribute’s base modifier. Such bonuses or penalties cannot increase the modifier above +2 or below -2. If an injury or character advancements alters an attribute, update the attribute’s modifier.
 
 ## Skills
@@ -46,6 +48,8 @@ A Delver’s skills reprsent their training. A newly-created Delver starts with 
 ### Interpretting Skill Levels
 
 Skills are rated on a scale from -1 to 4. Level -1 represents an absence of training. Level 0 represents basic competence. Level 1 represents professional-level skill. Level 2 in a skill likely makes a character the best in a village or city block. Level 3 represents mastery, and likely makes the character one of the best in a city. Level 4 represents world-class skill.
+
+All skills start at level -1.
 
 ### The Skill List
 
@@ -64,7 +68,7 @@ Skills may overlap in their application; the character may use either skill at t
 
 ## Starting Improvements
 
-A newly-created Delver may make 4 total improvements to their Skills or Attributes. To improve an Attribute, raise it by 1 to a maximum of 18 and then recalculate its Modifier. To improve a Skill, raise its level by 1 to a maximum of 1.
+A newly-created Delver may make 4 total improvements to their Skills or Attributes. To improve an Attribute, raise it by 1 to a maximum of 18 and then recalculate its modifier. To improve a Skill, raise its level by 1 to a maximum of 1.
 
 A single Attribute or Skill can be improved multiple times.
 
@@ -88,7 +92,7 @@ To replicate the classic, well-rounded D&D party of Fighter, Wizard, Thief, Cler
 
 Your character’s hit points measure their distance from defeat or death. If your character is reduced to zero hit points, they are either dying or incapacitated based on the nature of the injury.
 
-A new character rolls the hit die for their class, adding their Constitution modifier to it. If they have chosen the Die Hard Feat they may add +2 to the roll. The final value for a given die cannot be less than 1 hit point.
+A new character rolls the hit die for their class, adding their Con to it. If they have chosen the Die Hard Feat they may add +2 to the roll. The final value for a given die cannot be less than 1 hit point.
 
 A character gains hit points as they advance in character level, rerolling their prior levels and taking the new score if it’s higher, as explained in the rules section.
 
@@ -102,11 +106,11 @@ A new character’s attack bonus is usually +0, though Full Warriors start with 
 
 When faced with unusual dangers such as fireball explosions, toxic darts, pit traps, or magical curses, the character may need to make a saving throw to resist or mitigate the peril. Saving throws are rolled on a d20 and are explained in the rules section.
 
-Physical saving throws are used to resist exhaustion, disease, poison, or other biological harms. A new character’s Physical save target is equal to 15 minus the better of their Strength or Constitution modifiers.
+Physical saving throws are used to resist exhaustion, disease, poison, or other biological harms. A new character’s Physical save target is equal to 15 minus the highest of their Str or Con.
 
-Evasion saving throws are used to avoid explosions, traps, or other dangers requiring fast reactions. A new character’s Evasion save target is equal to 15 minus the better of their Intelligence or Dexterity modifiers.
+Evasion saving throws are used to avoid explosions, traps, or other dangers requiring fast reactions. A new character’s Evasion save target is equal to 15 minus the highest of their Int or Dex.
 
-Mental saving throws are used to resist intangible spells, mental attacks, or other tests of willpower or self-control. A new character’s Mental save target is equal to 15 minus the better of their Wisdom or Charisma modifiers.
+Mental saving throws are used to resist intangible spells, mental attacks, or other tests of willpower or self-control. A new character’s Mental save target is equal to 15 minus the highest of their Wis or Cha.
 
 Luck saving throws are rolled when facing a danger that only blind chance can spare them from, such as landslide, bridge collapse, or a sniper’s random choice of victims. A new character’s Luck save target is always 15.
 
@@ -118,13 +122,12 @@ Spellcasting full Mages begin play knowing four first-level spells and partial M
 
 ## Choose Starting Gear
 
-Gain 3d6 x 10 gold to spend on gear or keep in your pocket.
+Gain 3d6 x 10 gold to spend on gear (ignoring Market Availability) or keep.
 
 ## Record Weapon and Armor Statistics
 
-Now that you know what kind of weaponry or armor your delver has,
-take a moment to record the total hit bonus for your weaponry. This is equal to your attack bonus plus your relevant Stab, Shoot, or Punch skill, and the relevant attribute modifier for the weapon given on the weapon table. If two attributes are listed for a weapon, use whichever is better for you.
+Record the total hit bonus for your weaponry. This is equal to your attack bonus plus your relevant Stab, Shoot, or Punch skill, and the relevant attribute modifier for the weapon given on the weapon table. If two attributes are listed for a weapon, use whichever is better for you.
 
 For each weapon’s damage and Shock, note down the information from the table. You add your attribute modifier to both damage rolls and Shock. Punch weapons or unarmed attacks can also add your Punch skill.
 
-For your PC’s Armor Class, record the AC of the armor you usually wear. Unarmored humans have an AC of 10. Armor Class is modified by your Dexterity modifier.
+For your PC’s Armor Class, record the AC of the armor you usually wear. Unarmored humans have an AC of 10. Armor Class is modified by Dex.
