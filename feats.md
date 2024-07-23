@@ -103,7 +103,7 @@ Gain Shoot as a bonus skill. You can Ready a Stowed ranged weapon as an Instant 
 
 ### Level 2
 
-You can reload crossbows or other slow-loading weapons as an On Turn action, provided they don’t take more than a round to reload. You can use ranged weapons of any size in melee without penalty. Once per scene, as an On Turn action when target shooting at an inanimate, non-creature target, you automatically hit unless you roll a 2 on your Shoot skill check or the shot is physically impossible.
+You can reload crossbows or other slow-loading weapons as an On Turn action, provided they don’t take more than a round to reload. You can use ranged weapons of any size in melee without penalty. Once per turn, as an On Turn action when target shooting at an inanimate, non-creature target, you automatically hit unless you roll a 2 on your Shoot skill check or the shot is physically impossible.
 
 ## Developed Attribute
 
@@ -157,7 +157,7 @@ You are exceedingly skilled at presenting yourself as something you are not, inc
 
 ### Level 1
 
-Gain Sneak as a bonus skill. Once per scene, reroll any failed skill check or saving throw related to maintaining an imposture or disguise. Create one false identity of no great social importance; you can flawlessly pretend to be that person, such that only extremely persuasive proof can connect you with it. You can change this identity with a week’s worth of effort in building a new one.
+Gain Sneak as a bonus skill. Once per turn, reroll any failed skill check or saving throw related to maintaining an imposture or disguise. Create one false identity of no great social importance; you can flawlessly pretend to be that person, such that only extremely persuasive proof can connect you with it. You can change this identity with a week’s worth of effort in building a new one.
 
 ### Level 2
 
@@ -173,7 +173,7 @@ You and all allies within twenty feet gain a +2 bonus to all saving throws again
 
 ### Level 2
 
-Once per day, as an Instant action, you are simply not affected by an unwanted magical effect or supernatural monstrous ability, even if it wouldn’t normally allow a saving throw. Immunity to a persistent effect lasts for the rest of the scene.
+Once per day, as an Instant action, you are simply not affected by an unwanted magical effect or supernatural monstrous ability, even if it wouldn’t normally allow a saving throw. Immunity to a persistent effect lasts for the rest of the turn.
 
 ## Poisoner
 
@@ -251,13 +251,13 @@ You have uncommon expertise in handling traps and snares, both mundane ones and 
 
 ### Level 1
 
-Gain Notice as a bonus skill. Once per scene, reroll any failed saving throw or skill check related to traps or snares. Given five
+Gain Notice as a bonus skill. Once per turn, reroll any failed saving throw or skill check related to traps or snares. Given five
 
 minutes of work you can trap a portal, container, passageway, or other relatively narrow space with foot snares, caltrops, toxic needles, or other hazards. Non-lethal traps cause the first victim to trigger it to lose a round of actions while dangerous ones inflict 1d6 damage plus twice the character’s level, with an appropriate saving throw for half. Only one such improvised trap can be maintained at a time. More fearsome traps may be laid with congenial circumstances and the GM’s permission.
 
 ### Level 2
 
-You know secrets for unraveling even magical traps or arcane hazards that would normally require a wizard to dispel them. Once per scene, your efforts count as an Extirpate Arcana spell against the trap or hazard, cast as if a Mage of twice your level, with any relevant skill check being Int/Notice or Dex/Notice. This ability can be used against any stationary magical effect that’s susceptible to being dispelled by Extirpate Arcana.
+You know secrets for unraveling even magical traps or arcane hazards that would normally require a wizard to dispel them. Once per turn, your efforts count as an Extirpate Arcana spell against the trap or hazard, cast as if a Mage of twice your level, with any relevant skill check being Int/Notice or Dex/Notice. This ability can be used against any stationary magical effect that’s susceptible to being dispelled by Extirpate Arcana.
 
 ## Unarmed Combatant ⚔️
 
@@ -289,7 +289,7 @@ You are a frenzy of bloody havoc in melee combat, and can hack down numerous les
 
 ### Level 1
 
-Gain Stab as a bonus skill. Once per scene, as an On Turn action, apply your Shock damage to all foes within melee range, assuming they’re susceptible to your Shock.
+Gain Stab as a bonus skill. Once per turn, as an On Turn action, apply your Shock damage to all foes within melee range, assuming they’re susceptible to your Shock.
 
 ### Level 2
 

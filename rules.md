@@ -85,9 +85,9 @@ If the skill points aren’t quite enough to raise the skill to a new level, the
 
 ## Keeping Track of Time
 
-A Turn is a time measurement used to determine how often certain abilities or actions can be taken. Some powers can be triggered only so many times per scene, while some special abilities only work once per scene.
+A Turn is a time measurement used to determine how often certain abilities or actions can be taken. Some powers can be triggered only so many times per turn, while some special abilities only work once per turn.
 
-A Turn is one particular fight, event, activity, or effort that usually doesn’t take more than ten or fifteen minutes. A fight is a scene. A chase is a scene. A tense backroom negotiation is a scene. So long as the PCs are doing the same general activity in the same general location, it’s probably one scene. Most scenes don’t last more than fifteen minutes, though a GM can stretch this if it seems logical.
+A Turn is one particular fight, event, activity, or effort that usually doesn’t take more than ten or fifteen minutes. A fight is a turn. A chase is a turn. A tense backroom negotiation is a turn. So long as the PCs are doing the same general activity in the same general location, it’s probably one turn. Most turns don’t last more than fifteen minutes, though a GM can stretch this if it seems logical.
 
 Combat is made up of Rounds, each one lasting approximately ten seconds. A single combat may involve multiple Rounds of action, but always takes a turn. A round begins with the actions of the side that wins initiative and ends after the actions of the side that lost initiative.
 
@@ -268,7 +268,7 @@ At the start of each turn after the party enters the site:
 
 ### Timekeeping in the Dungeon
 
-Once the heroes intrude on a ruin, dungeon, corrupt noble’s mansion, or other dangerous site the GM starts tracking time in turns. Each turn counts as about ten minutes or one scene. Members of the party can generally do one significant thing per turn. Different party members can be doing different things in the same turn.
+Once the heroes intrude on a ruin, dungeon, corrupt noble’s mansion, or other dangerous site the GM starts tracking time in turns. Members of the party can generally do one significant thing per turn. Different party members can be doing different things in the same turn.
 
 The point of tracking turns isn’t to have a minute-by-minute tally of PC activities, but to have a rough measure of how much activity they’re engaging in within the ruin. The more they do and the longer they stay, the more likely that they’ll run into Wandering Encounters or the natives will have time to realize that intruders are present. Eventually, the PCs need to either pull back or clear the site entirely of its dangerous inhabitants.
 

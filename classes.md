@@ -23,7 +23,7 @@ Most class powers require that Effort be Committed. Committing Effort is done as
 
 Some powers **Commit Effort for the duration**. This means the Effort remains Committed as long as the power is active. The PC can reclaim the Committed Effort at any time as an Instant action, deactivating the power.
 
-Some powers **Commit Effort for the scene**. The Effort remains Committed until the end of the scene, after which it returns to the PC. It cannot be reclaimed earlier, even if the ability it fuels is only good for a single attack or action. A scene usually amounts to a single fight, event, or dungeon turn, almost never lasting more than fifteen minutes. Further specifics are provided in the time section of the game rules.
+Some powers **Commit Effort for the turn**. The Effort remains Committed until the end of the turn, after which it returns to the PC. It cannot be reclaimed earlier, even if the ability it fuels is only good for a single attack or action.
 
 Some powers **Commit Effort for the day**. Once Committed, this Effort can be recovered only after a comfortable night’s rest. If the PC is hungry, cold, sick, or sleeping without the benefits of a bedroll or other basic comforts, this Effort cannot be recovered.
 
@@ -51,8 +51,6 @@ Experts gain the widest variety of non-combat skills and are the quickest to lea
 ## Class Ability: Masterful Expertise
 
 Once per turn, a Expert may reroll any non-combat skill check as an Instant action. This allows the Expert to make a roll and then immediately use this ability if the resulting total isn’t good enough to succeed. In cases where it matters, the better of the two rolls may be used.
-
-Note that the typical ten-minute dungeon exploration turn generally counts as a scene, allowing the Full Expert to use this ability every turn if they so wish.
 
 Partial Experts **do not** receive this ability.
 
@@ -193,7 +191,7 @@ Partial Warriors **do not** get this ability.
 
 ## Class Ability: Veteran’s Luck
 
-Once per scene, as an Instant action, the Warrior may turn a missed attack they have made into a hit. Alternately, they may turn a successful attack against them into a miss, also as an Instant action. This ability is particularly lethal when used with the Make a Snap Attack action against weaker monsters, ordinary human warriors, and spell casters.
+Once per turn, as an Instant action, the Warrior may turn a missed attack they have made into a hit. Alternately, they may turn a successful attack against them into a miss, also as an Instant action. This ability is particularly lethal when used with the Make a Snap Attack action against weaker monsters, ordinary human warriors, and spell casters.
 
 Partial Warriors **do not** get this ability.
 
