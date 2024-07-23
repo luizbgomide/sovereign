@@ -88,7 +88,7 @@ To replicate the classic, well-rounded D&D party of Fighter, Wizard, Thief, Cler
 
 Your character’s hit points measure their distance from defeat or death. If your character is reduced to zero hit points, they are either dying or incapacitated based on the nature of the injury.
 
-A new character rolls the hit die for their class, adding their Constitution modifier to it. If they have chosen the Die Hard Focus they may add +2 to the roll. The final value for a given die cannot be less than 1 hit point.
+A new character rolls the hit die for their class, adding their Constitution modifier to it. If they have chosen the Die Hard Feat they may add +2 to the roll. The final value for a given die cannot be less than 1 hit point.
 
 A character gains hit points as they advance in character level, rerolling their prior levels and taking the new score if it’s higher, as explained in the rules section.
 

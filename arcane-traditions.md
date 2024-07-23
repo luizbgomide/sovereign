@@ -11,7 +11,7 @@ The Accursed are Partial Mages that have made pacts with otherworldly beings, in
 
 All Accursed gain Magic-0 during character creation. Even those who are not spellcasters must understand the ways of eldritch beings and the subtleties of sorcery.
 
-While the arts of Accursed Blade and Accursed Bolt use Magic as their combat skill, Foci that normally apply to mundane weapons such as Armsmaster or Deadeye also benefit their relevant melee or ranged attacks. For these Foci, use “Magic” in place of “Shoot” or “Stab” when gaining their benefits, including the granted skill and the stacking damage bonus that the first level of the Focus may grant.
+While the arts of Accursed Blade and Accursed Bolt use Magic as their combat skill, Feats that normally apply to mundane weapons such as Armsmaster or Deadeye also benefit their relevant melee or ranged attacks. For these Feats, use “Magic” in place of “Shoot” or “Stab” when gaining their benefits, including the granted skill and the stacking damage bonus that the first level of the Feat may grant.
 
 ### Accursed Arts
 
@@ -100,7 +100,7 @@ Elementalists can prepare and cast High Magic spells in addition to Elemental Ma
 
 Each time Elementalists advance a level, they can pick a new High Magic spell or an Elementalist spell to add to their spellbook. They must be able to cast the spell to add it to their selection.
 
-| Level | Hit Dice | Attack Bonus | Focus Picks | Max Level | Spells Cast | Spells Prepared | Arts Gained                                         |
+| Level | Hit Dice | Attack Bonus | Feat Picks  | Max Level | Spells Cast | Spells Prepared | Arts Gained                                         |
 | ----- | -------- | ------------ | ----------- | --------- | ----------- | --------------- | --------------------------------------------------- |
 | 1     | 1d6-1    | +0           | 1 Any       | 1         | 1           | 3               | Elemental Resilience, Elemental Sparks, and Any One |
 | 2     | 2d6-2    | +0           | +1 Any      | 1         | 1           | 3               | Any One                                             |

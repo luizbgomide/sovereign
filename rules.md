@@ -45,7 +45,7 @@ Once a character has enough XP to level up **and** is in a settlement, they do.
 
 ### Advancement Benefits
 
-**More HP.** To determine their new maximum, they roll their hit die for each level they now possess, adding their Constitution modifier to each die and +2 if they have the Die Hard Focus. No individual die can be reduced below 1 point, even with a Constitution penalty. If the total roll is greater than their current maximum hit points, they take the roll. If less or equal, their maximum hit points increase by one.
+**More HP.** To determine their new maximum, they roll their hit die for each level they now possess, adding their Constitution modifier to each die and +2 if they have the Die Hard Feat. No individual die can be reduced below 1 point, even with a Constitution penalty. If the total roll is greater than their current maximum hit points, they take the roll. If less or equal, their maximum hit points increase by one.
 
 **Better Saves.** Their saving throw scores decrease by one, making it easier to succeed on saving throws by rolling equal or over it. As a first level character has saving throw scores of 15, reaching second level would lower them to 14, modified by their appropriate attributes.
 
@@ -73,9 +73,9 @@ A Delver can also spend their Advancement Points to improve their attribute scor
 | 4th         | 4          | 6                |
 | 5th         | 5          | 9                |
 
-**Gain a new Feat**. At levels 2, 5, 7, and 10 a PC can add a level to an existing Focus or pick up the first level in a new Focus.
+**Gain a new Feat**. At levels 2, 5, 7, and 10 a PC can add a level to an existing Feat or pick up the first level in a new Feat.
 
-If this is the first level they’ve taken in the Focus, they might be granted a bonus skill. During character creation, this bonus skill pick is treated like any other skill pick. Taken as part of advancement, however, it counts as three skill points spent toward increasing the skill.
+If this is the first level they’ve taken in the Feat, they might be granted a bonus skill. During character creation, this bonus skill pick is treated like any other skill pick. Taken as part of advancement, however, it counts as three skill points spent toward increasing the skill.
 
 This is enough to raise a nonexistent skill to level-1, or boost a level-1 skill to level-2. They may do this even if they aren’t high-enough level to normally qualify for a skill level that high.
 

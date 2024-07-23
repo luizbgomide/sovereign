@@ -9,7 +9,7 @@ Feats are special talents that a Delver can possess.
 
 Feats usually come in two levels. The first time a Feat is chosen, the benefits of the first level are gained. The second time it’s chosen, the benefits of the second level are added to those of the first.
 
-A new Delver may choose one Focus of any kind. Warriors and Partial Warriors may select another combat-related Focus (marked with a ⚔️). Experts and Partial Experts may select another non-combat-related Focus.
+A new Delver may choose one Feat of any kind. Warriors and Partial Warriors may select another combat-related Feat (marked with a ⚔️). Experts and Partial Experts may select another non-combat-related Feat.
 
 ## Alert ⚔️
 You are keenly aware of your surroundings and virtually impossible to take unaware.
@@ -23,7 +23,7 @@ You always act first in a combat round unless someone else involved is also this
 
 ## Armored Magic ⚔️
 
-Usable only by Mage heroes who would otherwise be prevented from casting spells or using arts while armored, this Focus reflects special training in channeling magic through the hindering materials of conventional armor.
+Usable only by Mage heroes who would otherwise be prevented from casting spells or using arts while armored, this Feat reflects special training in channeling magic through the hindering materials of conventional armor.
 
 ### Level 1
 
@@ -35,7 +35,7 @@ You can cast spells while wearing armor of any Encumbrance. You’ve also learne
 
 ## Armsmaster ⚔️
 
-You have an unusual competence with thrown weapons and melee attacks. This Focus’ benefits do not apply to unarmed attacks or non-thrown projectile weapons. This Focus’ bonuses also don’t stack with Deadeye or other Foci that add a skill’s level to your damage or Shock.
+You have an unusual competence with thrown weapons and melee attacks. This Feat’s benefits do not apply to unarmed attacks or non-thrown projectile weapons. This Feat’s bonuses also don’t stack with Deadeye or other Feats that add a skill’s level to your damage or Shock.
 
 ### Level 1
 
@@ -59,7 +59,7 @@ You can take a Move action on the same round as you make an Execution Attack, cl
 
 ## Authority
 
-You have an uncanny kind of charisma about you, one that makes others instinctively follow your instructions and further your causes. At level 1, this is a knack of charm and personal magnetism, while level 2 might suggest latent magical powers or an ancient bloodline of sorcerous rule. Where this Focus refers to followers, it means NPCs who have voluntarily chosen to be in your service. PCs never count as followers.
+You have an uncanny kind of charisma about you, one that makes others instinctively follow your instructions and further your causes. At level 1, this is a knack of charm and personal magnetism, while level 2 might suggest latent magical powers or an ancient bloodline of sorcerous rule. Where this Feat refers to followers, it means NPCs who have voluntarily chosen to be in your service. PCs never count as followers.
 
 ### Level 1
 
@@ -87,7 +87,7 @@ You are surprisingly hard to kill. You can survive injuries or bear up under str
 
 ### Level 1
 
-You gain an extra 2 maximum hit points per level. This bonus applies retroactively if you take this Focus after first level. You automatically stabilize if Mortally Wounded, provided you have not been incinerated, dismembered, or otherwise torn apart.
+You gain an extra 2 maximum hit points per level. This bonus applies retroactively if you take this Feat after first level. You automatically stabilize if Mortally Wounded, provided you have not been incinerated, dismembered, or otherwise torn apart.
 
 ### Level 2
 
@@ -95,7 +95,7 @@ The first time each day that you are reduced to zero hit points by an injury, yo
 
 ## Deadeye ⚔️
 
-You have a gift with ranged weapons. While this talent most commonly applies to bows, it is also applicable to thrown weapons or other ranged weapons that can be used with the Shoot skill. For thrown weapons, you can’t use the benefits of the Armsmaster Focus at the same time as Deadeye.
+You have a gift with ranged weapons. While this talent most commonly applies to bows, it is also applicable to thrown weapons or other ranged weapons that can be used with the Shoot skill. For thrown weapons, you can’t use the benefits of the Armsmaster Feat at the same time as Deadeye.
 
 ### Level 1
 
@@ -107,11 +107,11 @@ You can reload crossbows or other slow-loading weapons as an On Turn action, pro
 
 ## Developed Attribute
 
-Your hero has a remarkable degree of development to one or more of their attributes. This may be derived from an eldritch bloodline, native brilliance, or sheer, stubborn determination. This Focus cannot be taken by heroes with the Mage or Partial Mage classes.
+Your hero has a remarkable degree of development to one or more of their attributes. This may be derived from an eldritch bloodline, native brilliance, or sheer, stubborn determination. This Feat cannot be taken by heroes with the Mage or Partial Mage classes.
 
 ### Level 1
 
-Choose an attribute; its modifier is increased by +1, up to a maximum of +3. The actual score does not change, but the modifier increases, and may increase again if later advancement improves the attribute enough. You can choose this Focus more than once to improve different attributes.
+Choose an attribute; its modifier is increased by +1, up to a maximum of +3. The actual score does not change, but the modifier increases, and may increase again if later advancement improves the attribute enough. You can choose this Feat more than once to improve different attributes.
 
 ## Gifted Chirurgeon
 
@@ -127,7 +127,7 @@ Your curative gifts count as magical healing. You can heal 1d6+Heal skill in dam
 
 ## Henchkeeper
 
-You have a distinct knack for picking up lost souls who willingly do your bidding. You might induce them with promises of money, power, excitement, sex, or some other prize that you may or may not eventually grant. A henchman obtained with this Focus will serve in loyal fashion until clearly betrayed or placed in unacceptable danger. Henchmen are not “important” people in their society, and are usually marginal sorts, outcasts, the desperate, or other persons with few options.
+You have a distinct knack for picking up lost souls who willingly do your bidding. You might induce them with promises of money, power, excitement, sex, or some other prize that you may or may not eventually grant. A henchman obtained with this Feat will serve in loyal fashion until clearly betrayed or placed in unacceptable danger. Henchmen are not “important” people in their society, and are usually marginal sorts, outcasts, the desperate, or other persons with few options.
 
 You can use more conventional pay or inducements to acquire additional henchmen, but these extra hirelings are no more loyal or competent than your pay and treatment can purchase.
 
@@ -141,7 +141,7 @@ Your henchmen are remarkably loyal and determined, and will fight for you agains
 
 ## Impervious Defense ⚔️
 
-Whether through uncanny reflexes, remarkable luck, supernatural heritage, or magical talent, you have natural defenses equivalent to high-quality armor. The benefits of this Focus don’t stack with armor, though Dexterity or shield modifiers apply.
+Whether through uncanny reflexes, remarkable luck, supernatural heritage, or magical talent, you have natural defenses equivalent to high-quality armor. The benefits of this Feat don’t stack with armor, though Dexterity or shield modifiers apply.
 
 ### Level 1
 
@@ -165,7 +165,7 @@ You can alter your clothing and armor such that a single Main Action lets you sw
 
 ## Nullifier ⚔️
 
-Something about your hero interferes with easy use of magic on them. It may be a strangely powerful birth blessing, a particular supernatural bloodline, or simple occult incompatibility. This Focus cannot be taken by Mages or Partial Mages.
+Something about your hero interferes with easy use of magic on them. It may be a strangely powerful birth blessing, a particular supernatural bloodline, or simple occult incompatibility. This Feat cannot be taken by Mages or Partial Mages.
 
 ### Level 1
 
@@ -214,7 +214,7 @@ You don’t miss ranged Execution Attacks. A target hit by one takes a -4 penalt
 
 ## Specialist
 
-You are remarkably talented at a particular skill. Whether a marvelous cat burglar, a famed athlete, a brilliant scholar, or some other savant, your expertise is extremely reliable. You may take this Focus more than once for different skills.
+You are remarkably talented at a particular skill. Whether a marvelous cat burglar, a famed athlete, a brilliant scholar, or some other savant, your expertise is extremely reliable. You may take this Feat more than once for different skills.
 
 ### Level 1
 

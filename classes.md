@@ -35,7 +35,7 @@ Activating a power only ever requires Committing a single point of Effort unless
 
 Experts gain the widest variety of non-combat skills and are the quickest to learn more of them.
 
-| Level | Hit Dice | Attack Bonus | Focus Picks           |
+| Level | Hit Dice | Attack Bonus | Feat Picks            |
 |-------|----------|--------------|-----------------------|
 | 1     | 1d6      | +0           | 1 Expert + 1 Any      |
 | 2     | 2d6      | +1           | +1 Any                |
@@ -68,7 +68,7 @@ A Partial Expert is treated just as a full Expert, including gaining the benefit
 
 ## Partial Mage/Partial Expert
 
-| Level | Hit Dice | Attack Bonus | Focus Picks           |
+| Level | Hit Dice | Attack Bonus | Feat Picks            |
 |-------|----------|--------------|-----------------------|
 | 1     | 1d6      | +0           | 1 Expert + 1 Any      |
 | 2     | 2d6      | +1           | +1 Any                |
@@ -83,7 +83,7 @@ A Partial Expert is treated just as a full Expert, including gaining the benefit
 
 ## Partial Warrior/Partial Expert
 
-| Level | Hit Dice | Attack Bonus | Focus Picks           |
+| Level | Hit Dice | Attack Bonus | Feat Picks            |
 |-------|----------|--------------|-----------------------|
 | 1     | 1d6+2    | +1           | 1 Warrior + 1 Expert + 1 Any |
 | 2     | 2d6+4    | +2           | +1 Any                |
@@ -102,7 +102,7 @@ A Partial Expert is treated just as a full Expert, including gaining the benefit
 
 The Mage class is a general header under which all Delvers with fundamentally supernatural powers or spellcasting ability are placed. Choose a specific [Arcane Tradition](/arcane-traditions) to follow - High Mage, Vowed, Elementalist, etc.
 
-| Level | Hit Dice  | Attack Bonus | Focus Picks |
+| Level | Hit Dice  | Attack Bonus | Feat Picks  |
 |-------|-----------|--------------|-------------|
 | 1     | 1d6-1     | +0           | 1 Any       |
 | 2     | 2d6-2     | +0           | +1 Any      |
@@ -121,7 +121,7 @@ A Partial Mage is treated as a Mage, and picks an Arcane Tradition for their pow
 
 You may pick the Partial Mage class twice for two different magical traditions. In this case, use the following table instead of the one listed in the partial class.
 
-| Level | Hit Dice | Attack Bonus | Focus Picks | Max Level | Spells Cast | Spells Prepared |
+| Level | Hit Dice | Attack Bonus | Feat Picks  | Max Level | Spells Cast | Spells Prepared |
 | ----- | -------- | ------------ | ----------- | --------- | ----------- | --------------- |
 | 1     | 1d6-1    | +0           | 1 Any       | 1         | 1           | 3               |
 | 2     | 2d6-2    | +0           | +1 Any      | 1         | 1           | 4               |
@@ -136,7 +136,7 @@ You may pick the Partial Mage class twice for two different magical traditions. 
 
 ## Partial Expert/Partial Mage
 
-| Level | Hit Dice | Attack Bonus | Focus Picks           |
+| Level | Hit Dice | Attack Bonus | Feat Picks            |
 |-------|----------|--------------|-----------------------|
 | 1     | 1d6      | +0           | 1 Expert + 1 Any      |
 | 2     | 2d6      | +1           | +1 Any                |
@@ -151,7 +151,7 @@ You may pick the Partial Mage class twice for two different magical traditions. 
 
 ## Partial Warrior/Partial Mage
 
-| Level | Hit Dice | Attack Bonus | Focus Picks           |
+| Level | Hit Dice | Attack Bonus | Feat Picks            |
 |-------|----------|--------------|-----------------------|
 | 1     | 1d6+2    | +1           | 1 Any + 1 Warrior     |
 | 2     | 2d6+4    | +2           | +1 Any                |
@@ -170,7 +170,7 @@ You may pick the Partial Mage class twice for two different magical traditions. 
 
 Born to the blade, gifted with a superb capacity for physical violence.
 
-| Level | Hit Dice | Attack Bonus | Focus Picks           |
+| Level | Hit Dice | Attack Bonus | Feat Picks            |
 |-------|----------|--------------|-----------------------|
 | 1     | 1d6+2    | +1           | 1 Any + 1 Warrior     |
 | 2     | 2d6+4    | +2           | +1 Any                |
@@ -187,7 +187,7 @@ Born to the blade, gifted with a superb capacity for physical violence.
 
 Whenever a Warrior inflicts damage with any attack, spell, or special ability they may add half their character level, rounded up, to the damage done. This damage is also added to any Shock they may inflict.
 
-Combined with Foci meant to improve Shock attacks such as Armsmaster, Close Combatant, or Shocking Assault, this ability ensures that an experienced Warrior will almost always kill any ordinary human soldier or minor monster, regardless of their attack roll result.
+Combined with Feats meant to improve Shock attacks such as Armsmaster, Close Combatant, or Shocking Assault, this ability ensures that an experienced Warrior will almost always kill any ordinary human soldier or minor monster, regardless of their attack roll result.
 
 Partial Warriors **do not** get this ability.
 
@@ -203,7 +203,7 @@ A Partial Warrior gains certain of the benefits of a full Warrior, including the
 
 ## Partial Mage/Partial Warrior
 
-| Level | Hit Dice | Attack Bonus | Focus Picks           |
+| Level | Hit Dice | Attack Bonus | Feat Picks            |
 |-------|----------|--------------|-----------------------|
 | 1     | 1d6+2    | +1           | 1 Any + 1 Warrior     |
 | 2     | 2d6+4    | +2           | +1 Any                |
@@ -218,7 +218,7 @@ A Partial Warrior gains certain of the benefits of a full Warrior, including the
 
 ## Partial Expert/Partial Warrior
 
-| Level | Hit Dice | Attack Bonus | Focus Picks                     |
+| Level | Hit Dice | Attack Bonus | Feat Picks                      |
 |-------|----------|--------------|---------------------------------|
 | 1     | 1d6+2    | +1           | 1 Warrior + 1 Expert + 1 Any    |
 | 2     | 2d6+4    | +2           | +1 Any                          |

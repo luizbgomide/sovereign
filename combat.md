@@ -133,7 +133,7 @@ Some attacks apply Shock on a miss regardless of the target’s Armor Class. Thi
 
 The only modifiers that add to Shock damage are the wielder’s relevant attribute modifier for the weapon and any damage bonuses that explicitly add to Shock.
 
-A person using a shield can ignore the first source of Shock they would normally suffer in a round. Some other Foci or special actions such as Total Defense can also render a subject immune to Shock.
+A person using a shield can ignore the first source of Shock they would normally suffer in a round. Some other Feats or special actions such as Total Defense can also render a subject immune to Shock.
 
 An attack that hits can never do less damage than the Shock that would have been inflicted on a miss.
 
