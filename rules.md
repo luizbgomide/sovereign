@@ -113,7 +113,9 @@ NPCs have a single saving throw target equal to 15 minus half their rounded-down
 
 Most characters are skilled, competent folks who are perfectly capable of carrying out the ordinary duties of their role. Sometimes, however, they are faced with a situation or challenge beyond the usual scope of their role and the GM calls for a skill check.
 
-To make a skill check, roll 2d6 and add the most relevant skill level and attribute modifier. If the total is equal or higher than the check’s difficulty, the check is a success. On a failure, the PC either can’t accomplish the feat at all, bad luck cheats them, or they achieve it at the cost of some further complication. The GM determines the specific consequence of a failure.
+To make a skill check, roll 2d6 and add the most relevant skill level and attribute modifier (denoted as Attribute/Skill, like Str/Exert or Int/Magic). If the total is equal or higher than the check’s difficulty class (DC), the check is a success. On a failure, the PC either can’t accomplish the feat at all, bad luck cheats them, or they achieve it at the cost of some further complication. The GM determines the specific consequence of a failure.
+
+To refer to this procedure compactly, we write DC {Difficulty Class} {Attribute/Skill}. For example, DC 8 Int/Know or DC 12 Dex/Heal.
 
 The GM is always the one who calls for a skill check, and they do so at their discretion. The player simply describes what their PC is attempting to do, and the GM will tell them what skill and attribute combination to roll. If multiple skills or attributes might plausibly fit the action, the player can pick the one most favorable to them.
 
@@ -151,19 +153,7 @@ Stabilizing an ally is a Main Action that requires a Dex/ Heal or Int/Heal skill
 
 Once stabilized the victim remains incapacitated for ten minutes before recovering with 1 hit point and the Frail condition. They may act normally after they recover, but if they are reduced to zero hit points again while still Frail, they die instantly. Frailty is removed by a week of bed rest and medical care. A physician can also make one attempt to remove Frailty with a healer’s kit and an hour of work, rolling a Dex/Heal or Int/Heal skill check against difficulty 10.
 
-### NPCs and Mortal Injury
-
 NPCs who aren’t important enough to merit a name usually die instantly when reduced to zero hit points.
-
-### System Strain
-
-Magical forms of healing or use of powerful augmenting magic can take a toll on a user’s physiology. Their System Strain total reflects the total amount of stress their body has undergone.
-
-A healthy character normally starts at zero System Strain and has their Constitution score as their allowed maximum. A character cannot accumulate more than this maximum in System Strain.
-
-Magical healing and certain spells and abilities will add to a subject’s System Strain. If this addition would put them over their maximum they cannot activate the spell, benefit from healing, or otherwise gain any use from the ability. If they are forced over the maximum by some unavoidable effect, they are instead knocked unconscious for n hour.
-
-Characters lose one point of accumulated System Strain after each night’s rest, assuming they are warm, fed, and comfortable and can get at least eight uninterrupted hours of sleep. Cold camps, stony bedding, and other sources of privation prevent this recuperation.
 
 ### Natural Healing
 
@@ -177,13 +167,23 @@ Healers can patch up victims in a hurry, albeit at a cost to their physical resi
 
 One ten-minute turn is enough time for a healer to apply as much first aid as is wanted to the rest of their party.
 
-### Poisons and Diseases
+### System Strain
+
+Magical forms of healing or use of powerful augmenting magic can take a toll on a user’s physiology. Their System Strain total reflects the total amount of stress their body has undergone.
+
+A healthy character normally starts at zero System Strain and has their Constitution score as their allowed maximum. A character cannot accumulate more than this maximum in System Strain.
+
+Magical healing and certain spells and abilities will add to a subject’s System Strain. If this addition would put them over their maximum they cannot activate the spell, benefit from healing, or otherwise gain any use from the ability. If they are forced over the maximum by some unavoidable effect, they are instead knocked unconscious for n hour.
+
+Characters lose one point of accumulated System Strain after each night’s rest, assuming they are warm, fed, and comfortable and can get at least eight uninterrupted hours of sleep. Cold camps, stony bedding, and other sources of privation prevent this recuperation.
+
+## Poisons and Diseases
 
 Most toxins force a victim to make a Physical saving throw to resist their effects or mitigate their harm. Weak perils might grant as much as a +4 to the saving throw, while dire threats might apply a -4 penalty.
 
 If the save is failed, the poison or disease takes hold. Most poisons act quickly, inflicting hit point damage, adding System Strain to the target, or applying long-lasting penalties. Diseases can have a slower onset but often apply the same sort of harms.
 
-A medic who gets to a poisoned person within a minute of the poisoning can use a healer’s kit to give them a better chance to resist. They may add twice their Heal skill level to the victim’s saving throw roll, or +1 if they have only Heal-0 skill. Specialized antitoxins may be able to neutralize such poisons entirely.
+A medic who gets to a poisoned person within a minute of the poisoning can use a healer’s kit to give them a better chance to resist. They may add twice their Heal skill level to the victim’s saving throw roll, or +1 if they have only Heal-0 skill. Once the poison takes hold, the victim has 1d4 turns to live. The medic can counteract the toxin with an Int/Heal skill check at a DC of at least 10 for most poisons, or 12 or more for truly fearsome ones.
 
 ## Chases and Pursuit
 
@@ -196,7 +196,6 @@ The group member in the fleeing party with the best Dex/Exert or Con/Exert total
 Other fleeing group members then hinder pursuit in whatever ways they think are helpful. Sometimes a skill check is needed, while other times a GM will simply decide it works. Each successful effort adds a +1 bonus to the pace, up to +3 maximum. Botched efforts are either unhelpful or apply a -1 penalty if they’re actively harmful. If the fleeing group is made up of NPCs, it’s the GM’s judgment as to whether any of them try to do something clever to stall the PCs.
 
 The pursuing group then makes a single Dex/Exert or Con/Exert skill check, modified by the table below. If they beat the fleeing group’s total they catch up to them, and if they tie or roll less the fleeing party has escaped immediate pursuit.
-
 
 | Situation                                        | Mod |
 | ------------------------------------------------ | --- |
@@ -246,17 +245,13 @@ To haul more equipment and loot than the PCs can carry, they need pack animals o
 ## Falling and Other Hazards
 Some perils occur with some regularity for adventurers. A few of the most common are detailed here.
 
-Falling: Most creatures will take 1d6 damage per 10 full feet they fall, up to 20d6 maximum. Spikes or other hazardous terrain at the bottom will add at least 1d6 to the total. A creature that intentionally leaps or skids down in a controlled way may make a Dex or Str/Exert skill check at a difficulty of 7 + 1 for every 10 full feet; on a success, the effective distance fallen is halved.
+**Falling**: Most creatures will take 1d6 damage per 10 full feet they fall, up to 20d6 maximum. Spikes or other hazardous terrain at the bottom will add at least 1d6 to the total. A creature that intentionally leaps or skids down in a controlled way may make a Dex or Str/Exert skill check at a difficulty of 7 + 1 for every 10 full feet; on a success, the effective distance fallen is halved.
 
-Suffocation: Creatures can fight or act normally without air for one round per point of Constitution, or 10 rounds for most NPCs. If they don’t move, they can quadruple this time. Once they run out of air, they must make a Physical save each round or take 1 hit point of damage per HD or level they have.
-
-Poisons: Typical dungeon poisons found crusted on needle traps force a Physical save or a loss of half the victim’s maximum hit points. Very potent ones might kill a victim outright. Those who die due to poison damage usually take at least 1d4 turns to actually expire, but are helpless in the meanwhile. An antidote applied during this time can revive them with 1 hit point. A skilled healer can try to counteract the toxin with an Int/Heal skill check at a difficult of at least 10 for most poisons, or 12 or more for truly fearsome ones.
-
-Aside from any hit point damage a poison does, many also have lingering side effects, such as penalties to hit rolls or skill checks, or the loss of Move actions for a certain period of time. Some also add System Strain to the victim due to the stress they put on their bodies. A victim forced above their maximum System Strain will collapse and die in minutes if the poison is not neutralized.
+**Suffocation**: Creatures can fight or act normally without air for one round per point of Constitution, or 10 rounds for most NPCs. If they don’t move, they can quadruple this time. Once they run out of air, they must make a Physical save each round or take 1 hit point of damage per HD or level they have.
 
 ## Overland Travel
 
-Unless there is an *extremely* compelling reason to play it out, skip to arriving at the destination. For time-tracking purposes, Delvers are able to travel ~18 miles/day.
+Unless there is an *extremely* compelling reason to play it out, montage through the geography traveled and arrive at the destination. For time-tracking purposes, Delvers are able to travel ~18 miles/day.
 
 ## Dungeon Exploration
 
@@ -292,7 +287,9 @@ The point of tracking turns isn’t to have a minute-by-minute tally of PC activ
 ### Encounters and Surprise
 Usually, PCs are sufficiently alert when exploring a site to avoid any chance of surprise, barring a set ambush. If they burst in on the natives suddenly, however, the locals might be too stunned to act for a round.
 
-If the GM thinks this is possible, give it X-out-of-6 odds. If the PCs run into a Wandering Encounter in a room, the creatures will enter through one of the available entrances. In the corridors outside, they’re usually 1d8 x 10 feet away when first spotted or heard, assuming there’s enough space for such a distance.
+If the GM thinks this is possible, use an opposed roll. Represent bursting into a room as group Str/Exert vs Wis/Notice. Represent sneaking up on a group as group Dex/Sneak vs Wis/Notice.
+
+If the PCs run into a Wandering Encounter in a room, the creatures will enter through one of the available entrances. In the corridors outside, they’re usually 1d8 x 10 feet away when first spotted or heard, assuming there’s enough space for such a distance.
 
 Remember to make a reaction roll when PCs encounter creatures. Not every group of dungeon denizens will immediately lunge for their weapons.
 
