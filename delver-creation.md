@@ -123,7 +123,7 @@ Gain 3d6 x 10 gold to spend on gear or keep in your pocket.
 ## Record Weapon and Armor Statistics
 
 Now that you know what kind of weaponry or armor your delver has,
-take a moment to record the total hit bonus for your weaponry. This is equal to your attack bonus plus your relevant Stab, Shoot, or Punch skill, and the relevant attribute modifier for the weapon given on the weapon table. If two attributes are listed for a weapon, use whichever is better for you. If you lack even level-0 skill in the weapon, take a -2 hit penalty with it.
+take a moment to record the total hit bonus for your weaponry. This is equal to your attack bonus plus your relevant Stab, Shoot, or Punch skill, and the relevant attribute modifier for the weapon given on the weapon table. If two attributes are listed for a weapon, use whichever is better for you.
 
 For each weapon’s damage and Shock, note down the information from the table. You add your attribute modifier to both damage rolls and Shock. Punch weapons or unarmed attacks can also add your Punch skill.
 

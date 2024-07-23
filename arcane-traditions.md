@@ -94,7 +94,7 @@ Duelist arts do not apply to thrown weapons.
 
 Elementalists are spellcasting Mages who focus on the manipulation of the material world around them. While they are capable of using High Magic, their specialist spells focus chiefly on wielding the classical elements of fire, air, water, and earth.
 
-All Elementalists gain Magic as a bonus skill, acquiring it at level-0, or level-1 if it was already level-0.
+All Elementalists gain Magic as a bonus skill, acquiring it at level 0, or level 1 if it was already level 0.
 
 Elementalists can prepare and cast High Magic spells in addition to Elemental Magic. Elementalists can’t cast spells or use arts while armored or holding a shield.
 
@@ -153,7 +153,7 @@ Elementalists gain the Elemental Resilience and Elemental Sparks arts as part of
 
 The Healer is a partial Mage that does not use spells. Instead, they gain specific arts that allow them to mend wounds, cure illnesses, and otherwise sustain their allies.
 
-Healers gain Heal as a bonus skill, acquiring it at level-0, or level-1 if they already have it at level-0. A basic grounding in mundane healing techniques is necessary in order to learn their more sophisticated magical arts.
+Healers gain Heal as a bonus skill, acquiring it at level 0, or level 1 if they already have it at level 0. A basic grounding in mundane healing techniques is necessary in order to learn their more sophisticated magical arts.
 
 Healers do not learn how to cast spells. Instead, they focus on their special arcane healing arts. Wielding these arts usually requires nothing more than touching the target and concentrating on the desired effect, and the process is direct and simple enough to perform even when burdened by armor or carrying a shield. These arts are usually quite subtle, and don’t produce visible or audible indications of their use.
 
@@ -197,7 +197,7 @@ All Healers are trained in the Healing Touch art, but may develop other techniqu
 
 High Mages represent the default spellcaster in most campaigns. Their spells tend to be generalist in nature rather than focusing on particular specific themes, but their arts make them extremely skilled at manipulating and augmenting the magics they use.
 
-High Mages gain Magic as a bonus skill, acquiring it at level-0, or level-1 if it was already level-0. Every High Mage is well-educated in the principles of magic as understood by the sorcerers of this world.
+High Mages gain Magic as a bonus skill, acquiring it at level 0, or level 1 if it was already level 0. Every High Mage is well-educated in the principles of magic as understood by the sorcerers of this world.
 
 High Mages can prepare and cast High Magic spells, and have a number of arts dedicated to improving their use of these incantations. They cannot wear bulky clothing or armor while casting or using arts, nor use shields.
 
@@ -258,7 +258,7 @@ High Mage Effort is equal to one plus their Magic skill level plus the highest o
 
 Necromancers are spellcasting Mages who deal with the energies of life and death.
 
-Necromancers gain Magic as a bonus skill, acquiring it at level-0, or level-1 if was already level-0.
+Necromancers gain Magic as a bonus skill, acquiring it at level 0, or level 1 if was already level 0.
 
 Necromancers can prepare and cast High Magic spells in addition to the spells specific to Necromatic Magic. Necromancers can’t cast spells or use arts while armored or holding a shield.
 

@@ -51,7 +51,7 @@ Spend both your Main Action and your Move action to move up to twice your normal
 
 ### Screen an Ally (Move Action)
 
-Move up to your normal movement rate to get adjacent to an ally. You then physically block attacks against them until the start of your next turn, provided they remain within 5 ft of you. Enemies who attack your ward must make a successful opposed combat skill check against you using either Str or Dex and the most applicable combat skill. If the enemy succeeds, their attack targets your ward normally. If you succeed, their attack instead targets you. You can screen against a number of attackers each round equal to your highest combat skill; thus, you need at least level-1 in a combat skill to successfully screen. Multiple defenders can screen the same target, in which case the opposed skill check is compared to all defenders and targets the worst-rolling successful defender. You can only screen against attacks you could feasibly physically parry or body-block.
+Move up to your normal movement rate to get adjacent to an ally. You then physically block attacks against them until the start of your next turn, provided they remain within 5 ft of you. Enemies who attack your ward must make a successful opposed combat skill check against you using either Str or Dex and the most applicable combat skill. If the enemy succeeds, their attack targets your ward normally. If you succeed, their attack instead targets you. You can screen against a number of attackers each round equal to your highest combat skill; thus, you need at least level 1 in a combat skill to successfully screen. Multiple defenders can screen the same target, in which case the opposed skill check is compared to all defenders and targets the worst-rolling successful defender. You can only screen against attacks you could feasibly physically parry or body-block.
 
 ### Total Defense (Instant Action)
 
@@ -155,7 +155,7 @@ These rules assume both targets are man-sized. Grappling or shoving significantl
 
 ### Dual Wielding Weapons
 
-Some attackers prefer to use two weapons at once. PCs who wish to do so must have at least level-1 in the relevant weapon skills, such as Stab-1 and Shoot-1 for dual-wielding a knife and hand crossbow.
+Some attackers prefer to use two weapons at once. PCs who wish to do so must have at least level 1 in the relevant weapon skills, such as Stab-1 and Shoot-1 for dual-wielding a knife and hand crossbow.
 
 When making an attack while dual-wielding, the attacker chooses which weapon they wish to use, rolling the attack roll accordingly. On a hit, the weapon does +2 damage so long as the target is within range of both wielded weapons. This bonus does not add to Shock.
 

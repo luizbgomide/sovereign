@@ -265,7 +265,7 @@ Your empty hands are more dangerous than swords in the grip of the less gifted. 
 
 ### Level 1
 
-Gain Punch as a bonus skill. Your unarmed attacks become more dangerous as your Punch skill increases. At level-0, they do 1d6 damage. At level-1, they do 1d8 damage. At level-2 they do 1d10, level-3 does 1d12, and level-4 does 1d12+1. At Punch-1 or better, they have the Shock quality equal to your Punch skill against AC 15 or less.
+Gain Punch as a bonus skill. Your unarmed attacks become more dangerous as your Punch skill increases. At level 0, they do 1d6 damage. At level 1, they do 1d8 damage. At level 2 they do 1d10, level 3 does 1d12, and level 4 does 1d12+1. At Punch-1 or better, they have the Shock quality equal to your Punch skill against AC 15 or less.
 
 ### Level 2
 

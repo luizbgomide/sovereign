@@ -53,7 +53,7 @@ Once a character has enough XP to level up **and** is in a settlement, they do.
 
 **Gain Advancement Points.** A Delver who advances a level gains three advancement points they can spend on improving their skills or attributes. Experts and Partial Experts gain an extra bonus Advancement Point to spend (via Quick Learner), giving them four points each time they advance.
 
-The cost for improving a skill is listed below. Every skill level must be purchased in order; to gain level-1 in a skill you need to pay one point for level-0 and then two points for level-1. A PC must be the requisite minimum level to increase a skill to certain levels. Less hardened adventurers simply don’t have the focus and real-life experience to attain such a pitch of mastery.
+The cost for improving a skill is listed below. Every skill level must be purchased in order; to gain level 1 in a skill you need to pay one point for level 0 and then two points for level 1. A PC must be the requisite minimum level to increase a skill to certain levels. Less hardened adventurers simply don’t have the focus and real-life experience to attain such a pitch of mastery.
 
 | Skill Level | Point Cost | Min Delver Level |
 | ----------- | ---------- | ---------------- |
@@ -77,7 +77,7 @@ A Delver can also spend their Advancement Points to improve their attribute scor
 
 If this is the first level they’ve taken in the Feat, they might be granted a bonus skill. During character creation, this bonus skill pick is treated like any other skill pick. Taken as part of advancement, however, it counts as three skill points spent toward increasing the skill.
 
-This is enough to raise a nonexistent skill to level-1, or boost a level-1 skill to level-2. They may do this even if they aren’t high-enough level to normally qualify for a skill level that high.
+This is enough to raise a nonexistent skill to level 1, or boost a level 1 skill to level-2. They may do this even if they aren’t high-enough level to normally qualify for a skill level that high.
 
 If the skill points aren’t quite enough to raise the skill to a new level, they remain as credit toward future advances. If applied to a skill that is already at level-4, the PC can spend the three skill points on any other skill of their choice.
 
