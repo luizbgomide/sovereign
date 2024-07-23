@@ -5,6 +5,66 @@ title: Home
 
 # Rules
 
+## Attributes
+
+A Delver has six attributes ranging from 3 to 18, reflecting a range from
+the minimum viable capacity for a playable character to the maximum normal
+human level.
+
+Three of these attributes are physical.
+
+**Strength**, reflecting physical prowess, melee combat, carrying gear, and brute force.
+
+**Dexterity**, reflecting speed, evasion, manual dexterity, reaction time, and combat initiative.
+
+**Constitution**, reflecting hardiness, enduring injury, and tolerating large amounts of magical healing.
+
+Three are mental attributes.
+
+**Intelligence**, reflecting memory, reasoning, technical skills, and general education.
+
+**Wisdom**, reflecting noticing things, making judgments, reading situations, and intuition.
+
+**Charisma**, reflecting commanding, charming, attracting attention, and being taken seriously.
+
+### Attribute Modifiers
+
+Each attribute has a modifier, usually ranging from -2 to +2 based on its score. This modifier is added to skill checks, attack rolls, damage rolls, Shock damage, and the relevant saving throw targets.
+
+| Attribute | Modifier |
+| --------- | -------- |
+| 3         | -2       |
+| 4-7       | -1       |
+| 8-13      | 0        |
+| 14-17     | +1       |
+| 18        | +2       |
+
+In this text, when referring to an attribute's score, it will be spelled completely, like Strength. When referring to an attribute's modifier, it will be abbreviated to three letters: Str, Dex, Con, Int, Wis, or Cha.
+
+Some Feats and abilities may add bonuses or penalties to an attribute’s base modifier. Such bonuses or penalties cannot increase the modifier above +2 or below -2. If an injury or character advancements alters an attribute, immediately update the attribute’s modifier.
+
+## Hit Points
+
+A character’s hit points (HP) measure their distance from defeat or death. If a character is reduced to zero HP, they are either dying or incapacitated based on the nature of the injury.
+
+A new character rolls the hit die for their class, adding their Con to it. If they have chosen the Die Hard Feat they may add +2 to the roll. The final value for a given die cannot be less than 1 hit point.
+
+A character gains hit points as they advance in character level, rerolling their prior levels and taking the new score if it’s higher, as explained in the rules section.
+
+Each NPC rolls a number of d8's for thier HP equal to their Hit Dice (HD).
+
+## Saving Throws
+
+When faced with unusual dangers such as fireball explosions, toxic darts, pit traps, or magical curses, the character may need to make a saving throw to resist or mitigate the peril. Saving throws are rolled on a d20 and are explained in the rules section.
+
+**Physical** saving throws are used to resist exhaustion, disease, poison, or other biological harms. A new character’s Physical save target is equal to 15 minus the highest of their Str or Con.
+
+**Evasion** saving throws are used to avoid explosions, traps, or other dangers requiring fast reactions. A new character’s Evasion save target is equal to 15 minus the highest of their Int or Dex.
+
+**Mental** saving throws are used to resist intangible spells, mental attacks, or other tests of willpower or self-control. A new character’s Mental save target is equal to 15 minus the highest of their Wis or Cha.
+
+A character’s save targets all decrease by 1 point each time they advance an experience level.
+
 ## Advancement
 
 Characters accumulate XP by defeating monsters, extracting coins and treasure from dungeons, and making it back to a settlement. The *party* accumulates XP while on an adventure, and then all surviving members get a share of that treasure when they return to town. Delvers get a full share and Henchmen get half of a share.
@@ -109,7 +169,32 @@ There are four types of saving throws. Usually it will be obvious which type is 
 
 NPCs have a single saving throw target equal to 15 minus half their rounded-down hit dice. Thus, an NPC with 3 HD would have a saving throw target of 14+ for any particular hazard.
 
-## Skill Checks
+## Skills
+
+A Delver’s skills reprsent their training. A newly-created Delver starts with a few trained skills and may gain more as the Delver advances in level.
+
+### Interpretting Skill Levels
+
+Skills are rated on a scale from -1 to 4. Level -1 represents an absence of training. Level 0 represents basic competence. Level 1 represents professional-level skill. Level 2 in a skill likely makes a character the best in a village or city block. Level 3 represents mastery, and likely makes the character one of the best in a city. Level 4 represents world-class skill.
+
+All skills start at level -1.
+
+### The Skill List
+
+Skills may overlap in their application; the character may use either skill at their discretion.
+
+- **Exert**: Run, swim, climb, jump, labor for long periods, throw things, or otherwise exert your physical strength, stamina, and coordination. Even a PC with poor physical attributes might have a good Exert skill reflecting athletic training and expertise in making the most of their available talents.
+- **Heal**: Treat wounds, cure diseases, neutralize poisons, diagnose psychological health issues, and otherwise tend to the wounds of body and mind.
+- **Know**: Know matters of history, geography, natural science, zoology, and other academic fields appropriate to a sage or scholar. While some sages might specialize in particular fields, most learned folks have a broad range of understanding, and will rarely be unable to even attempt to answer a question relevant to this skill.
+- **Lead**: Inspire others to follow your lead and believe in your plans and goals. Manage subordinates and keep them focused, loyal, and motivated in the face of danger or failure. A successful leader will keep their subordinate’s faith and confidence even when reason might make the leader’s plan appear questionable at best.
+- **Magic**: Cast or analyze magic and know things about famous mages or notable magical events. Classes that can’t cast spells obtain only intellectual and scholarly benefits from this skill.
+- **Notice**: Notice small details, impending ambushes, hidden features, or concealed objects. Detect subtle smells, sounds, or other sensory input.
+- **Brawl**: Fight unarmed or with natural body weaponry. Punch, kick, grapple, or otherwise brawl without the benefit of man-made tools. This mode of fighting is inefficient at best without a Feat to improve it, but it’s reliably non-lethal.
+- **Shoot**: Fire a bow or crossbow or throw a hurled weapon. Maintain ranged weaponry and fletch arrows.
+- **Sneak**: Move silently, hide in shadows, avoid notice, pick pockets, disguise yourself, pick locks, disable traps, etc.
+- **Stab**: Fight with melee weapons or throw a hurled weapon. Maintain and identify weaponry.
+
+### Skill Checks
 
 Most characters are skilled, competent folks who are perfectly capable of carrying out the ordinary duties of their role. Sometimes, however, they are faced with a situation or challenge beyond the usual scope of their role and the GM calls for a skill check.
 
@@ -219,9 +304,11 @@ Gear has encumbrance, measured in points, as exampled in the table below. The mo
 | Requires a whole-body effort to haul it | 5+          |
 | Dragging an unconscious teammate        | 12          |
 
-Gear is either Stowed or Readied. Stowed gear is packed away carefully in pockets, packs, and harnesses. It’s easier to carry but harder to quickly access. Using Stowed gear requires that the bearer take a Main Action to pull it out before using it. Readied gear is carried in hands, holsters, quick-access pockets, or other easily-accessible places. It can be used as part of an action without any further preparation.
+Gear is either Stowed or Readied.
 
-A character can carry a total number of Stowed encumbrance points equal to their Strength score. They can carry a number of Readied points equal to half their Strength, rounded down. Thus, a PC with a Strength score of 11 could carry 11 points of Stowed gear and 5 points of Readied.
+<strong id="stowed">Stowed</strong> gear is packed away carefully in pockets, packs, and harnesses. It’s easier to carry but harder to quickly access. Using Stowed gear requires that the bearer take a Main Action to pull it out before using it. A character can carry a total number of Stowed encumbrance points equal to their Strength score.
+
+<strong id="readied">Readied</strong> gear is carried in hands, holsters, quick-access pockets, or other easily-accessible places. It can be used as part of an action without any further preparation. A character can carry a number of Readied points equal to half their Strength, rounded down.
 
 PCs can haul much heavier objects if necessary. If they push their limits for longer terms, they can carry an additional two Ready and four Stowed items. The first time they do this, their Move speed is cut by 30%, from 30 feet to 20 feet. The second time, it’s cut by 50%, from 20 feet to 10 feet. More weight than this can’t be practically hauled over significant distances.
 

@@ -37,7 +37,7 @@ Experts gain the widest variety of non-combat skills and are the quickest to lea
 
 | Level | Hit Dice | Attack Bonus | Feat Picks            |
 |-------|----------|--------------|-----------------------|
-| 1     | 1d6      | +0           | 1 Expert + 1 Any      |
+| 1     | 1d6      | +0           | 1 Non-Combat + 1 Any  |
 | 2     | 2d6      | +1           | +1 Any                |
 | 3     | 3d6      | +1           |                       |
 | 4     | 4d6      | +2           |                       |
@@ -68,7 +68,7 @@ A Partial Expert is treated just as a full Expert, including gaining the benefit
 
 | Level | Hit Dice | Attack Bonus | Feat Picks            |
 |-------|----------|--------------|-----------------------|
-| 1     | 1d6      | +0           | 1 Expert + 1 Any      |
+| 1     | 1d6      | +0           | 1 Non-Combat + 1 Any  |
 | 2     | 2d6      | +1           | +1 Any                |
 | 3     | 3d6      | +1           |                       |
 | 4     | 4d6      | +2           |                       |
@@ -83,7 +83,7 @@ A Partial Expert is treated just as a full Expert, including gaining the benefit
 
 | Level | Hit Dice | Attack Bonus | Feat Picks            |
 |-------|----------|--------------|-----------------------|
-| 1     | 1d6+2    | +1           | 1 Warrior + 1 Expert + 1 Any |
+| 1     | 1d6+2    | +1           | 1 Combat + 1 Non-Combat + 1 Any |
 | 2     | 2d6+4    | +2           | +1 Any                |
 | 3     | 3d6+6    | +2           |                       |
 | 4     | 4d6+8    | +3           |                       |
@@ -136,7 +136,7 @@ You may pick the Partial Mage class twice for two different magical traditions. 
 
 | Level | Hit Dice | Attack Bonus | Feat Picks            |
 |-------|----------|--------------|-----------------------|
-| 1     | 1d6      | +0           | 1 Expert + 1 Any      |
+| 1     | 1d6      | +0           | 1 Non-Combat + 1 Any  |
 | 2     | 2d6      | +1           | +1 Any                |
 | 3     | 3d6      | +1           |                       |
 | 4     | 4d6      | +2           |                       |
@@ -151,7 +151,7 @@ You may pick the Partial Mage class twice for two different magical traditions. 
 
 | Level | Hit Dice | Attack Bonus | Feat Picks            |
 |-------|----------|--------------|-----------------------|
-| 1     | 1d6+2    | +1           | 1 Any + 1 Warrior     |
+| 1     | 1d6+2    | +1           | 1 Any + 1 Combat      |
 | 2     | 2d6+4    | +2           | +1 Any                |
 | 3     | 3d6+6    | +2           |                       |
 | 4     | 4d6+8    | +3           |                       |
@@ -170,7 +170,7 @@ Born to the blade, gifted with a superb capacity for physical violence.
 
 | Level | Hit Dice | Attack Bonus | Feat Picks            |
 |-------|----------|--------------|-----------------------|
-| 1     | 1d6+2    | +1           | 1 Any + 1 Warrior     |
+| 1     | 1d6+2    | +1           | 1 Any + 1 Combat      |
 | 2     | 2d6+4    | +2           | +1 Any                |
 | 3     | 3d6+6    | +3           |                       |
 | 4     | 4d6+8    | +4           |                       |
@@ -203,7 +203,7 @@ A Partial Warrior gains certain of the benefits of a full Warrior, including the
 
 | Level | Hit Dice | Attack Bonus | Feat Picks            |
 |-------|----------|--------------|-----------------------|
-| 1     | 1d6+2    | +1           | 1 Any + 1 Warrior     |
+| 1     | 1d6+2    | +1           | 1 Any + 1 Combat      |
 | 2     | 2d6+4    | +2           | +1 Any                |
 | 3     | 3d6+6    | +2           |                       |
 | 4     | 4d6+8    | +3           |                       |
@@ -218,7 +218,7 @@ A Partial Warrior gains certain of the benefits of a full Warrior, including the
 
 | Level | Hit Dice | Attack Bonus | Feat Picks                      |
 |-------|----------|--------------|---------------------------------|
-| 1     | 1d6+2    | +1           | 1 Warrior + 1 Expert + 1 Any    |
+| 1     | 1d6+2    | +1           | 1 Combat + 1 Non-Combat + 1 Any    |
 | 2     | 2d6+4    | +2           | +1 Any                          |
 | 3     | 3d6+6    | +2           |                                 |
 | 4     | 4d6+8    | +3           |                                 |
