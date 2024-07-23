@@ -15,10 +15,10 @@ While the arts of Accursed Blade and Accursed Bolt use Magic as their combat ski
 
 ### Accursed Arts
 
-An Accursed has an Effort score equal to their Magic skill level plus their Intelligence or Charisma modifier, to a minimum of one point. Every Accursed gains either Accursed Bolt or Accursed Blade as a starting art, plus one more of their choice. Accursed arts may be used in or out of armor.
+Accursed have Effort equal to their Magic skill level plus the highest of their Intelligence or Charisma modifiers, to a minimum of one point. Every Accursed gains either Accursed Bolt or Accursed Blade as a starting art, plus one more of their choice. Accursed arts may be used in or out of armor.
 
-- **Accursed Blade:** As an On Turn action, manifest an occult melee weapon as a one-handed 1d8 weapon or a two-handed 2d6 weapon. Both add your Magic skill to the damage roll, have a Shock rating of 2/15, and use Magic as the attack skill and the best of Str, Dex, Int, or Cha as its modifying attribute.
-- **Accursed Bolt:** As Accursed Blade, but you launch blasts of occult force instead of meleeing. Their damage is 1d8 plus your Magic skill, their range is 200’, and the bolts can be thrown in melee at a -4 penalty to hit. These bolts need both hands free to hurl them.
+- **Accursed Blade:** As an On Turn action, manifest an occult melee weapon as a one-handed 1d8 weapon or a two-handed 2d6 weapon. Both add your Magic skill to the damage roll, have a Shock rating of 2/15, use Magic as the attack skill and the best of Str, Dex, Int, or Cha as its modifying attribute.
+- **Accursed Bolt:** Launch blasts of occult force using Magic as your attack skill and the best of Str, Dex, Int, or Cha as its modifying attribute. Their damage is 1d8 plus your Magic skill, their range is 200’, and the bolts can be thrown in melee at a -4 penalty to hit. These bolts need both hands free to hurl them.
 - **Bewitching Distraction:** Commit Effort for the day as a Main Action when talking to an intelligent target when not in combat. They must make a Mental save or become dazed, oblivious to their surroundings and forgetting you and all else that happened in that scene. Danger ends the daze but not the forgetting.
 - **Compelling Shriek:** Once per scene, Commit Effort for the day as a Main Action and shout a command of no more than seven words. Chosen targets who hear and understand must make a Mental save or perform that action for one round, provided it is not totally contrary to their character.
 - **Devil’s Bargain:** As a Main Action, consecrate a deal you’ve made with an uncoerced person. If they violate the deal or its spirit, you know instantly and may inflict 1d6 damage per level on them if desired.
@@ -47,7 +47,7 @@ Duelists gain Stab as a bonus skill. No Duelist worth the name is entirely incap
 
 ### The Flaw of Fragility
 
-While the canons of the duelist make for an excellent one-on-one combatant, their practitioners spend much less time at raw physical conditioning than their more traditional Warrior peers. The techniques they use are swift and lethal, but they aren’t as generally applicable to enduring harm as are standard training methods.
+While duelists are excellent one-on-one combatants, they spend much less time at raw physical conditioning than Warriors. The techniques they use are swift and lethal, but they aren’t as generally applicable to enduring harm as the standard training methods.
 
 As such, Partial Warriors/Partial Duelists use 1d6 for their hit dice, rather than the Partial Warrior’s usual 1d6+2. Other partial class mixes are unaffected by this flaw.
 
@@ -115,7 +115,7 @@ Each time Elementalists advance a level, they can pick a new High Magic spell or
 
 ### Elementalist Arts
 
-Elementalist Effort is equal to one plus their Magic skill level plus the better of their Intelligence or Charisma modifiers. Partial Elementalists have a score one point lower than this, albeit not less than one.
+Elementalist Effort is equal to one plus their Magic skill level plus the highest of their Intelligence or Charisma modifiers to a minimum of one point. Partial Elementalists have one less Effort, to a minimum of one.
 
 Elementalists gain the Elemental Resilience and Elemental Sparks arts as part of their basic training, and may pick one additional art from the list below. Further arts are learned as they advance in character level, as given in the tables below.
 
@@ -161,7 +161,7 @@ At first level, a Healer gains the Healing Touch art and can pick one more of th
 
 ### Healer Arts
 
-Healer Effort is calculated with Heal rather than Magic, with each PC’s maximum being equal to their Heal skill level plus the better of their Intelligence or Charisma modifiers, to a minimum of one point.
+Healer Effort is equal to one plus their Heal skill level plus the highest of their Intelligence or Charisma modifiers, to a minimum of one point.
 
 All Healers are trained in the Healing Touch art, but may develop other techniques with time.
 
@@ -235,7 +235,7 @@ High Mages conduct extensive experimentation and study as part of their daily ac
 
 ### High Mage Arts
 
-High Mage Effort is equal to one plus their Magic skill level plus the better of their Intelligence or Charisma modifiers. Partial High Mages have a score one point lower than this, albeit not less than one.
+High Mage Effort is equal to one plus their Magic skill level plus the highest of their Intelligence or Charisma modifiers, to a minimum of one point. Partial High Mages have one less Effort, to a minimum of one.
 
 - **Arcane Lexicon:** Commit Effort for the scene. For the rest of the scene, you can read any script that was not intentionally obfuscated or encoded by its writer. Extremely esoteric or nonhuman scripts may not be comprehensible this way; the “plain meaning” of the text might be utterly foreign to human logic.
 - **Counter Magic:** Commit Effort for the day as an Instant action when a visible enemy mage casts a spell. Both of you make opposed Int/Magic or Cha/Magic skill checks; if you win, their spell fizzles and is wasted. This art only works on actual spellcasters and not creatures that merely activate magical powers. You can use this art no more than once per round.
@@ -296,7 +296,7 @@ Each time a Necromancer advances a level, they can pick a new High Magic spell o
 
 ### Necromancer Arts
 
-Necromancer Effort is equal to one plus their Magic skill level plus the better of their Intelligence or Charisma modifiers. Partial Necromancers have a score one point lower than this, albeit not less than one.
+Necromancer Effort is equal to one plus their Magic skill level plus the highest of their Intelligence or Charisma modifiers, to a minimum of one point. Partial Necromancers have one less Effort, to a minimum of one.
 
 - **Bonetalker:** You can see and communicate with any undead creature, regardless of a shared language or the creature’s natural state of invisibility. By Committing Effort for the scene you can sense the surface thoughts of any visible undead, including an impression of any commands or behavior it has been ordered to carry out. Unintelligent undead will not attack you or your companions unless specifically compelled to do so by a command or a master. Even intelligent undead will generally pause at least for an initial parley before attacking.
 - **Cold Flesh:** You no longer require sleep and feel pain only in an abstract sense. You can suffer no more than 2 points of damage from any given instance of Shock and you have a natural Armor Class equal to 12 plus half your level, rounded down.
