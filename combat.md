@@ -31,7 +31,7 @@ Attacks, movement, spellcasting, and other combat activities all require one of 
 
 ### Make a Melee Attack (Main Action)
 
-Attack a target in melee range with an unarmed attack or melee weapon. Such weapons use either the Punch or the Stab skill, depending on the type of attack.
+Attack a target in melee range with an unarmed attack or melee weapon. Such weapons use either the Brawl or the Stab skill, depending on the type of attack.
 
 ### Make a Ranged Attack (Main Action)
 
@@ -121,7 +121,7 @@ Some common situations can modify an attack roll, granting a bonus or penalty. G
 
 If an attack hits, it inflicts hit point damage equal to the weapon’s damage die plus the weapon’s relevant attribute modifier. Special weapon mods or abilities may increase this damage.
 
-If you are making a purely unarmed attack you may add your Punch skill to the damage.
+If you are making a purely unarmed attack you may add your Brawl skill to the damage.
 
 If the result is less than your Shock damage, inflict that much instead.
 
@@ -141,15 +141,15 @@ An attack that hits can never do less damage than the Shock that would have been
 
 ### Shoving
 
-To knock a target down or force them elsewhere, the attacker must first hit the target normally for no damage and then succeed in an opposed Str/Punch or Str/Exert skill check. If the attacker succeeds in the skill check, the target is forced into an adjacent square or knocked prone.
+To knock a target down or force them elsewhere, the attacker must first hit the target normally for no damage and then succeed in an opposed Str/Brawl or Str/Exert skill check. If the attacker succeeds in the skill check, the target is forced into an adjacent square or knocked prone.
 
 ### Grappling
 
-To grapple a foe, the attacker must first hit with an unarmed attack, doing no damage, and then both must make opposed Str/Punch skill checks. If the attacker wins, the defender is grappled and remains that way until released or until they spend a Main Action and succeed in a new opposed check. An attacker can grapple only one target at a time, though multiple attackers can cling to the same luckless defender. In such cases, the defender’s single skill check is compared against all of their foes.
+To grapple a foe, the attacker must first hit with an unarmed attack, doing no damage, and then both must make opposed Str/Brawl skill checks. If the attacker wins, the defender is grappled and remains that way until released or until they spend a Main Action and succeed in a new opposed check. An attacker can grapple only one target at a time, though multiple attackers can cling to the same luckless defender. In such cases, the defender’s single skill check is compared against all of their foes.
 
 While grappling, neither attackers or defenders can move from their current location, nor can they fight with anything but unarmed attacks. At the end of each round in which a defender remains grappled, they suffer damage from each attacker as if hit with an unarmed attack from each foe grappling them.
 
-If the attacker wishes to move the target, they must spend a Main Action and succeed in an opposed Str/ Punch skill check. If they win, the target is either moved ten feet along with them, or thrown five feet and knocked prone. If they lose, the defender breaks free.
+If the attacker wishes to move the target, they must spend a Main Action and succeed in an opposed Str/Brawl skill check. If they win, the target is either moved ten feet along with them, or thrown five feet and knocked prone. If they lose, the defender breaks free.
 
 These rules assume both targets are man-sized. Grappling or shoving significantly larger but still humanoid targets is done at a -2 penalty on all skill checks by the attacker. Doing so to creatures only barely plausible for such manhandling is done at a -4 skill check penalty.
 

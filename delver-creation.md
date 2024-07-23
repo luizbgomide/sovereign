@@ -126,8 +126,8 @@ Gain 3d6 x 10 gold to spend on gear (ignoring Market Availability) or keep.
 
 ## Record Weapon and Armor Statistics
 
-Record the total hit bonus for your weaponry. This is equal to your attack bonus plus your relevant Stab, Shoot, or Punch skill, and the relevant attribute modifier for the weapon given on the weapon table. If two attributes are listed for a weapon, use whichever is better for you.
+Record the total hit bonus for your weaponry. This is equal to your attack bonus plus your relevant Stab, Shoot, or Brawl skill, and the relevant attribute modifier for the weapon given on the weapon table. If two attributes are listed for a weapon, use whichever is better for you.
 
-For each weapon’s damage and Shock, note down the information from the table. You add your attribute modifier to both damage rolls and Shock. Punch weapons or unarmed attacks can also add your Punch skill.
+For each weapon’s damage and Shock, note down the information from the table. You add your attribute modifier to both damage rolls and Shock. Brawl weapons or unarmed attacks can also add your Brawl skill.
 
 For your PC’s Armor Class, record the AC of the armor you usually wear. Unarmored humans have an AC of 10. Armor Class is modified by Dex.

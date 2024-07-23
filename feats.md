@@ -194,7 +194,7 @@ You’re extremely dangerous to enemies around you. The ferocity of your melee a
 
 ### Level 1
 
-Gain Punch or Stab as a bonus skill. The Shock damage of your weapon treats all targets as if they were AC 10, assuming your weapon is capable of harming the target in the first place and the target is not immune to Shock.
+Gain Brawl or Stab as a bonus skill. The Shock damage of your weapon treats all targets as if they were AC 10, assuming your weapon is capable of harming the target in the first place and the target is not immune to Shock.
 
 ### Level 2
 
@@ -218,7 +218,7 @@ You are remarkably talented at a particular skill. Whether a marvelous cat burgl
 
 ### Level 1
 
-Gain any skill as a bonus, except for Magic, Stab, Shoot, or Punch. Roll 3d6 and drop the lowest die for all skill checks in this skill.
+Gain any skill as a bonus, except for Magic, Stab, Shoot, or Brawl. Roll 3d6 and drop the lowest die for all skill checks in this skill.
 
 ### Level 2
 
@@ -265,11 +265,11 @@ Your empty hands are more dangerous than swords in the grip of the less gifted. 
 
 ### Level 1
 
-Gain Punch as a bonus skill. Your unarmed attacks become more dangerous as your Punch skill increases. At level 0, they do 1d6 damage. At level 1, they do 1d8 damage. At level 2 they do 1d10, level 3 does 1d12, and level 4 does 1d12+1. At Punch-1 or better, they have the Shock quality equal to your Punch skill against AC 15 or less.
+Gain Brawl as a bonus skill. Your unarmed attacks become more dangerous as your Brawl skill increases. At level 0, they do 1d6 damage. At level 1, they do 1d8 damage. At level 2 they do 1d10, level 3 does 1d12, and level 4 does 1d12+1. At Brawl-1 or better, they have the Shock quality equal to your Brawl skill against AC 15 or less.
 
 ### Level 2
 
-Even on a miss with a Punch attack, you do an unmodified 1d6 damage, plus any Shock that the blow might inflict on the target.
+Even on a miss with a Brawl attack, you do an unmodified 1d6 damage, plus any Shock that the blow might inflict on the target.
 
 ## Valiant Defender ⚔️
 
@@ -277,7 +277,7 @@ You are a bodyguard, shieldbearer, or other gifted defender of others, accustome
 
 ### Level 1
 
-Gain Stab or Punch as a bonus skill. Gain a +2 on all skill checks for the Screen Ally combat action. You can screen against one more attacker per round than your skill would normally allow. Once per round, you can Screen Ally against even intangible spells or magical attacks or bodily shield them from an area-effect explosion or magic. Such attempts require the usual successful opposing skill check, with the assailant using their Magic skill.
+Gain Stab or Brawl as a bonus skill. Gain a +2 on all skill checks for the Screen Ally combat action. You can screen against one more attacker per round than your skill would normally allow. Once per round, you can Screen Ally against even intangible spells or magical attacks or bodily shield them from an area-effect explosion or magic. Such attempts require the usual successful opposing skill check, with the assailant using their Magic skill.
 
 ### Level 2
 
