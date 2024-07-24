@@ -75,7 +75,7 @@ Duelist arts do not apply to thrown weapons.
 - **Favored Weapon:** Choose one specific type of melee weapon. When using this type you may use the Favored Weapon attack bonus column on the above table to determine your base hit bonus, unless it’s already better for some other reason. If your second partial class is Partial Warrior, your class’ base hit bonus with the weapon is instead equal to your level.
 - **Blood for Blood:** Commit Effort for the Turn as an Instant action when an enemy hits you with a physical attack. If you attack that enemy with your favored weapon before the end of the next round, the first blow hits automatically and can do no less damage than was done to you, up to the weapon’s maximum.
 - **Burst of Speed:** Commit Effort for the day as a Free action. You may move your full normal movement rate as a Free action. This art can be used only once per round.
-- **Code Duello:** Commit Effort for the day as a Free action when engaging with a single foe. So long as no other combatant attacks either your target or you, and you attack no one but your target, you gain a +4 bonus to your Armor Class and can roll your hit rolls twice, taking the better result. Once the Code Duello has been disrupted or ended, it cannot be invoked again during that Turn.
+- **Code Duello:** Commit Effort for the day as a Free action when engaging with a single foe. So long as no other combatant attacks either your target or you, and you attack no one but your target, you gain a +4 bonus to your AC and roll your hit rolls twice, taking the better result. Once the Code Duello has been disrupted or ended, it cannot be invoked again during that Turn.
 - **Crushing Superiority:** Your favored weapon gains the Less Lethal quality if it doesn’t already have it. Commit Effort for the Turn as an Instant action when you hit a target; they must immediately make an Instant check. This ability can be used only once per Turn on any given target.
 - **Dauntless Step:** Commit Effort for the Turn as a Free action. The Move actions you make for the rest of the round can cross vertical surfaces or difficult terrain at your full normal movement rate, provided you end the round standing upright on a surface that can bear your weight.
 - **Dodge Doom:** Commit Effort for the day as an Instant action when caught in some explosion or other burst effect. You take half damage, or no damage if the effect allows a save and you succeed at it. You can move yourself up to ten feet away from your original location, provided the new location is behind cover or away from the blast’s point of origin.
@@ -86,7 +86,7 @@ Duelist arts do not apply to thrown weapons.
 - **Spiritual Weapon:** You are able to translate examples of your favored weapon into a spiritual template that you may manifest as you wish. Any favored weapon can be turned into such a template, including a magical weapon, but the process destroys the object’s physical form. To manifest a template, Commit Effort as an Instant action; a ghostly copy of the weapon appears Readied in hand for you until you release the Effort or stop touching the weapon. Dual-wielders can summon the same weapon into both hands with one use of this art.
 - **Unbindable:** Commit Effort for the day as a Free action whenever you wish to escape chains, grapples, shackles, ropes, or even a magical spell of physical binding. You automatically wriggle free from mundane restraints and gain an Evasion saving throw to instantly end a physical magical binding of some sort. You can use this art only once per round.
 - **Unworthy Rabble:** Commit Effort for the day as a Free action. For the rest of the Turn, when using your favored weapon, reroll any failed hit roll against foes with one hit die. At eighth level, this applies to foes with two hit dice.
-- **Whirling Evasion:** Your base Armor Class becomes equal to 13 plus half your level, rounded up. This AC can be modified by small shields and your DEX, but not by armor or large shields.
+- **Whirling Evasion:** Your base Armor Class becomes equal to 13 plus half your level, rounded up. This AC is modified by small shields and your DEX, but not by armor or large shields.
 
 ---
 
@@ -98,7 +98,7 @@ All Elementalists gain Magic as a bonus skill, acquiring it at level 0, or level
 
 Elementalists can prepare and cast High Magic spells in addition to Elemental Magic. Elementalists can’t cast spells or use arts while armored or holding a shield.
 
-Each time Elementalists advance a level, they can pick a new High Magic spell or an Elementalist spell to add to their spellbook. They must be able to cast the spell to add it to their selection.
+Each time Elementalists advance a level, they pick a new High Magic spell or an Elementalist spell to add to their spellbook. They must be able to cast the spell to add it to their selection.
 
 | Level | Hit Dice | Attack Bonus | Feat Picks  | Max Level | Spells Cast | Spells Prepared | Arts Gained                                         |
 | ----- | -------- | ------------ | ----------- | --------- | ----------- | --------------- | --------------------------------------------------- |
@@ -261,7 +261,7 @@ Necromancers gain Magic as a bonus skill, acquiring it at level 0, or level 1 if
 
 Necromancers can prepare and cast High Magic spells in addition to the spells specific to Necromatic Magic. Necromancers can’t cast spells or use arts while armored or holding a shield.
 
-Each time a Necromancer advances a level, they can pick a new High Magic spell or a Necromancer spell to add to their spellbook. They must be able to cast the spell to add it to their selection.
+Each time a Necromancer advances a level, they pick a new High Magic spell or a Necromancer spell to add to their spellbook. They must be able to cast the spell to add it to their selection.
 
 ### Necromancer Arts and Spells
 
@@ -298,8 +298,8 @@ Each time a Necromancer advances a level, they can pick a new High Magic spell o
 Necromancer Effort is equal to one plus their Magic skill level plus the highest of their INT or CHA, to a minimum of one point. Partial Necromancers have one less Effort, to a minimum of one.
 
 - **Bonetalker:** You can see and communicate with any undead creature, regardless of a shared language or the creature’s natural state of invisibility. By Committing Effort for the Turn you can sense the surface thoughts of any visible undead, including an impression of any commands or behavior it has been ordered to carry out. Unintelligent undead will not attack you or your companions unless specifically compelled to do so by a command or a master. Even intelligent undead will generally pause at least for an initial parley before attacking.
-- **Cold Flesh:** You no longer require sleep and feel pain only in an abstract sense. You can suffer no more than 2 points of damage from any given instance of Shock and you have a natural Armor Class equal to 12 plus half your level, rounded down.
-- **Consume Life Energy:** By making a Brawl attack or using a melee weapon you have spent at least an hour properly consecrating, you can absorb a portion of the damage you inflict on others as healing to yourself. For each successful attack you make with such implements, you heal 1d6 damage, up to a maximum of the damage done by the attack. You cannot drain more life than the target has remaining HP.
+- **Cold Flesh:** You no longer require sleep and feel pain only in an abstract sense. You suffer no more than 2 points of damage from any given instance of Shock and you have a natural Armor Class equal to 12 plus half your level, rounded down.
+- **Consume Life Energy:** By making a Brawl attack or using a melee weapon you have spent at least an hour properly consecrating, you absorb a portion of the damage you inflict on others as healing to yourself. For each successful attack you make with such implements, you heal 1d6 damage, up to a maximum of the damage done by the attack. You cannot drain more life than the target has remaining HP.
 - **False Death:** Commit Effort as an Instant action; while it remains Committed you appear dead to all mundane examination. You lose your Main Actions while “dead”, but can move and perceive normally and do not need to eat, drink, breathe, or perform other bodily functions. Poisons and diseases do not progress in you while you are “dead”. You can maintain this state of death for up to one day per level before needing at least an hour to recover.
 - **Gravesight**: Commit Effort as a Free action; while it remains Committed, you can see the life energies of living creatures around you as various glowing patterns, regardless of the mundane illumination available. You can perceive sicknesses, poisons, and other physical qualities on sight. As a side effect of this ability, you can see normally even in perfect blackness.
 - **Keeper of the Gate**: At your discretion, creatures within twenty feet of you per character level that are Mortally Wounded will die instantly and cannot be revived by magic or medicine. Conversely, you can Commit Effort for the day to automatically stabilize any or all within that range, increasing their System Strain by 1 point. This benefit cannot aid creatures that have been dismembered, shredded, or otherwise suffered unsurvivable injuries.

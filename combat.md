@@ -11,9 +11,9 @@ Each participating side rolls 1d8, with the player's side adding the highest DEX
 
 ## Surprise
 
-If a group is caught entirely unawares they may suffer surprise, granting their enemies a full free round of action before initiative can be rolled. The GM decides when surprise applies, possibly calling for an opposed DEX/Sneak (for a stealthy approach) skill check or STR/Exert (to kick a door in) versus the target’s WIS/Notice.
+If a group is caught entirely unawares they may suffer surprise, granting their enemies a full free round of action before initiative is rolled. The GM decides when surprise applies, possibly calling for an opposed DEX/Sneak (for a stealthy approach) skill check or STR/Exert (to kick a door in) versus the target’s WIS/Notice.
 
-Groups cannot be surprised if they are actively anticipating the possibility of combat. Delvers moving carefully through a dungeon can not be surprised unless the enemy is specifically Hidden.
+Groups cannot be surprised if they are actively anticipating the possibility of combat. Delvers moving carefully through a dungeon are not surprised unless the enemy is specifically Hidden.
 
 ## Combat Action Types
 
@@ -101,7 +101,7 @@ Every weapon listed in the equipment section is listed as using one or more attr
 
 NPCs usually do not have attribute modifiers or skill levels. Instead, the attack bonus of a trained NPC combatant is usually equal to their hit dice, often with an additional bonus to reflect particularly good training or talent.
 
-Some common situations can modify an attack roll, granting a bonus or penalty. GMs may add others depending on the situation.
+Some common situations modify an attack roll, granting a bonus or penalty. GMs may add others depending on the situation.
 
 | Situation                                                                  | Mod |
 |----------------------------------------------------------------------------|-----|
@@ -133,9 +133,9 @@ Some attacks apply Shock on a miss regardless of the target’s Armor Class. Thi
 
 The only modifiers that add to Shock damage are the wielder’s relevant attribute modifier for the weapon and any damage bonuses that explicitly add to Shock.
 
-A person using a shield can ignore the first source of Shock they would normally suffer in a round. Some other Feats or special actions such as Total Defense can also render a subject immune to Shock.
+A person using a shield ignores the first source of Shock they would normally suffer in a round. Some other Feats or special actions such as Total Defense can also render a subject immune to Shock.
 
-An attack that hits can never do less damage than the Shock that would have been inflicted on a miss.
+An attack that hits never does less damage than the Shock that would have been inflicted on a miss.
 
 ## Combat Maneuvers
 

@@ -14,7 +14,7 @@ A new Delver chooses one Feat of any kind. Warriors and Partial Warriors select 
 ## Alert ⚔️
 You are keenly aware of your surroundings and virtually impossible to take unaware.
 
-- **Level 1**: Gain Notice as a bonus skill. You cannot be surprised, nor can others use the Execution Attack option on you. If the GM rolls initiative by sides, you can add a +1 bonus to your side’s initiative roll, though multiple Alert Delvers don’t stack this bonus.
+- **Level 1**: Gain Notice as a bonus skill. You cannot be surprised, nor can others use the Execution Attack option on you. Add a +1 bonus to your side’s initiative roll, though multiple Alert Delvers don’t stack this bonus.
 - **Level 2**: You always act first in a combat round unless someone else involved is also this Alert.
 
 ## Armored Magic ⚔️
@@ -50,11 +50,11 @@ You have an uncanny kind of charisma about you, one that makes others instinctiv
 You’ve had all too much practice at close-in fighting and desperate struggles with drawn blades. You’re extremely skilled at avoiding injury in melee combat, and at level 2 you can dodge through a melee scrum without fear of being knifed in passing.
 
 - **Level 1**: Gain any combat skill as a bonus skill. You can use knife-sized thrown weapons in melee without suffering penalties for the proximity of melee attackers. You ignore Shock damage from melee assailants, even if you’re unarmored at the time, but invoking this benefit disrupts any spellcasting you might do that round due to the need for violently active evasion.
-- **Level 2**: The Shock damage from your melee attacks treats all targets as if they were AC 10. The Fighting Withdrawal combat action is treated as a Free action for you and can be performed freely.
+- **Level 2**: The Shock damage from your melee attacks treats all targets as if they were AC 10. The Fighting Withdrawal combat action is treated as a Free action for you.
 
 ## Die Hard ⚔️
 
-You are surprisingly hard to kill. You can survive injuries or bear up under stresses that would incapacitate a less determined hero.
+You are surprisingly hard to kill. You survive injuries and bear up under stresses that would incapacitate a less determined hero.
 
 - **Level 1**: You gain an extra 2 maximum HP per level. This bonus applies retroactively if you take this Feat after first level. You automatically stabilize if Mortally Wounded, provided you have not been incinerated, dismembered, or otherwise torn apart.
 - **Level 2**: The first time each day that you are reduced to zero HP by an injury, you instead survive with 1 HP. This ability can’t save you from large-scale, instantly-lethal trauma.
@@ -64,7 +64,7 @@ You are surprisingly hard to kill. You can survive injuries or bear up under str
 You have a gift with ranged weapons. While this talent most commonly applies to bows, it is also applicable to thrown weapons or other ranged weapons that can be used with the Shoot skill. For thrown weapons, you can’t use the benefits of the Armsmaster Feat at the same time as Deadeye.
 
 - **Level 1**: Gain Shoot as a bonus skill. You can Ready a Stowed ranged weapon as an Instant action. You may use a bow or two-handed ranged weapon even when an enemy is within melee range, albeit at a -4 hit penalty. You add your Shoot skill level to a ranged weapon’s damage roll.
-- **Level 2**: You can reload crossbows or other slow-loading weapons as a Free action, provided they don’t take more than a round to reload. You can use ranged weapons of any size in melee without penalty. Once per Turn, as a Free action when target shooting at an inanimate, non-creature target, you automatically hit unless you roll a 2 on your Shoot skill check or the shot is physically impossible.
+- **Level 2**: You reload crossbows or other slow-loading weapons as a Free action, provided they don’t take more than a round to reload. You use ranged weapons in melee without penalty. Once per Turn, as a Free action when target shooting at an inanimate, non-creature target, you automatically hit unless you roll a 2 on your Shoot skill check or the shot is physically impossible.
 
 ## Gifted Chirurgeon
 
@@ -93,14 +93,14 @@ Whether through uncanny reflexes, remarkable luck, supernatural heritage, or mag
 
 You are exceedingly skilled at presenting yourself as something you are not, including disguises, voice mimicry, and lightning-fast wardrobe changes.
 
-- **Level 1**: Gain Sneak as a bonus skill. Once per Turn, reroll any failed skill check or saving throw related to maintaining an imposture or disguise. Create one false identity of no great social importance; you can flawlessly pretend to be that person, such that only extremely persuasive proof can connect you with it. You can change this identity with a week’s worth of effort in building a new one.
+- **Level 1**: Gain Sneak as a bonus skill. Once per Turn, reroll any failed skill check or saving throw related to maintaining an imposture or disguise. Create one false identity of no great social importance; you can flawlessly pretend to be that person, such that only extremely persuasive proof connects you with it. You can change this identity with a week’s worth of effort in building a new one.
 - **Level 2**: You can alter your clothing and armor such that a single Main Action lets you swap between any of three chosen appearances. In addition to your original false identity, you can establish a new false identity in each city or significant community you spend at least a day in.
 
 ## Nullifier ⚔️
 
 Something about your hero interferes with easy use of magic on them. It may be a strangely powerful birth blessing, a particular supernatural bloodline, or simple occult incompatibility. This Feat cannot be taken by Mages or Partial Mages.
 
-- **Level 1**: You and all allies within twenty feet gain a +2 bonus to all saving throws against magical effects. As a Free action, you can feel the presence or use of magic within twenty feet of you, though you can’t discern details about it or the specific source. The first failed saving throw against a magical effect you suffer in a day is converted into a success.
+- **Level 1**: You and all allies within twenty feet gain a +2 bonus to all saving throws against magical effects. As a Free action, you feel the presence or use of magic within twenty feet of you, though you can’t discern details about it or the specific source. The first failed saving throw against a magical effect you suffer in a day is converted into a success.
 - **Level 2**: Once per day, as an Instant action, you are simply not affected by an unwanted magical effect or supernatural monstrous ability, even if it wouldn’t normally allow a saving throw. Immunity to a persistent effect lasts for the rest of the Turn.
 
 ## Poisoner
@@ -108,8 +108,7 @@ Something about your hero interferes with easy use of magic on them. It may be a
 You are a skilled poisoner, capable of compounding toxins out of readily-available flora and minerals. It takes an hour to brew a poison, and you can keep as many doses fresh as you have levels. Blade venoms take a Main Action to apply and last for ten minutes or until a hit or Shock is inflicted, whichever comes first. Detecting poisoned food is a WIS/Notice skill check against 10, or 12 if the diner’s not a noble or otherwise normally wary of poison. One dose can poison up to a half-dozen diners.
 
 - **Level 1**: Gain Heal as a bonus skill. Gain a reroll on any failed saving throw versus poison. Your toxins inflict 2d6 damage plus your level on a hit or Shock, with a Physical save for half. Your incapacitating or hallucinogenic toxins do the same, but those reduced to zero HP are simply incapacitated for an hour.
-- **Level 2**: You are immune to poison and can apply a universal antidote to any poisoned ally as a Main Action. Any attempt to detect or save
-against your poisons takes a penalty equal to your Heal skill. Your ingested poisons count as an Execution Attack against unsuspecting targets, with Heal used for the Physical saving throw penalty and 1d6 damage per level done on a success. Such poisons can be non-lethal at your discretion.
+- **Level 2**: You are immune to poison and can apply a universal antidote to any poisoned ally as a Main Action. Any attempt to detect or save against your poisons takes a penalty equal to your Heal skill. Your ingested poisons count as an Execution Attack against unsuspecting targets, with Heal used for the Physical saving throw penalty and 1d6 damage per level done on a success. Such poisons are non-lethal at your discretion.
 
 ## Shocking Assault ⚔️
 
@@ -139,10 +138,8 @@ You have a minor spirit, devil, construct, magical beast, or other creature as a
 - **Level 1**: Choose a form for your familiar no smaller than a cat nor larger than a human. It has the traits and abilities of an entity created by [Summon Familiar](/spells#summon-Familiar---level-2) but may be summoned or dismissed as a Main Action, appearing within melee range of its owner. It cannot carry objects with it during its vanishment aside from the clothing natural to its shape. It has no need for food, water, or sleep. If killed, it vanishes and cannot be re-summoned for 24 hours. Once per day, it can refresh one point of Committed Effort for you.
 - **Level 2**: Pick two benefits from the list below for your familiar. This level may be taken more than once, adding two additional options each time.
   - It has HP equal to three times your level
-  - It gains the ability to attack with a hit bonus equal to half your level, rounded up, doing 1d8 damage on a hit with no
-Shock
-  - It gains a +1 skill check bonus and can apply it to a range
-  of situations equivalent to one normal human background
+  - It gains the ability to attack with a hit bonus equal to half your level, rounded up, doing 1d8 damage on a hit with no Shock
+  - It gains a +1 skill check bonus and can apply it to a range of situations equivalent to one normal human profession
   - It gains another shape of your choice which it can adopt or discard as a Free action
   - It can hover or fly at its usual movement rate
   - It can communicate freely with others in any language you know

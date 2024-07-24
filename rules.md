@@ -9,10 +9,10 @@ title: Home
 
 Sovereign is played with one Game Master (GM) and at most 8 players, playing as 4 to 8 Delvers, venturing into dark dungeons, corrupt mansions, and wizard towers for fun and profit. The game is, predominately, a conversation, but that conversation has *structure*:
 
-1. The Game Master (GM) describes a situation to the players, making sure to not assume actions from the players, paying special attention to what they can see,  hear, and smell. Then, they ask "What do you do?"
+1. The Game Master (GM) describes a situation to the players, making sure to not assume actions from the players, paying special attention to what they see, hear, and smell. Then, they ask "What do you do?"
 2. The players describe their actions and the *intent* behind their actions. When acting as a group (such as picking the next room to explore), elect one person to speak for the group to reduce chaos.
 3. The GM informs the players how likely their actions are to accomplish their intent (taking into account the situation, their attributes, and their skills), what happens if they fail, and how much it costs them to try. Actions that have no chance to fail, have no consequences for failure and no appreciable cost to attempt *just happen*. [Skill checks](#skill-checks) are a useful way come up with likelihood, but the GM is free to come up with probabilities directly, like 1-in-6 or 45%.
-4. If the players find the ruling to be reasonable, the dice are rolled and we honor the stakes. If they *don't*, they can negotiate or come up with a better plan. Typical levers are higher chances of success for less impactful results, worse consequences for failure, or higher costs to attempt and vice versa.
+4. If the players find the ruling to be reasonable, the dice are rolled and we honor the stakes. If they *don't*, they negotiate or come up with a better plan. Typical levers are higher chances of success for less impactful results, worse consequences for failure, or higher costs to attempt and vice versa.
 5. This creates a new situation. The GM [fast forwards](https://thealexandrian.net/wordpress/31509/roleplaying-games/the-art-of-pacing) to the next meaningful decision, narrating the transition and repeats the process.
 
 That's the *whole* game. All other rules exist to either faciliate interesting decisions for #2, help the GM determine #3, or ease the negotiation in #4. If you find a rule *isn't* don't that, change or remove it.
@@ -81,15 +81,13 @@ NPCs roll a number of d8's for thier HP equal to their Hit Dice (HD).
 
 Saving throws are rolled to resist some unusual danger or chance hazard. To make a saving throw, a person rolls 1d20 and tries to get equal or higher than their saving throw target. Sometimes a save might have bonuses or penalties applied to the roll, but a natural roll of 1 on the die always fails the save, and a natural roll of 20 is always a success.
 
-There are four types of saving throws. Usually it will be obvious which type is most appropriate for a threat, but the GM can decide in marginal situations.
+There are three types of saving throws. Usually it will be obvious which type is most appropriate for a threat, but the GM makes the call.
 
 <strong id="physical">Physical</strong> saves resist exhaustion, poisons, diseases, or other bodily afflictions. A Delver's Physical saving throw target is equal to 16 minus their character level and the highest of their STR or CON.
 
 <strong id="evasion">Evasion</strong> saves apply when dodging explosions, avoiding traps, reacting to sudden peril, or other occasions where speed is of the essence. A Delver’s Evasion saving throw target is equal to 16 minus their character level and the highest of their DEX or INT.
 
 <strong id="mental">Mental</strong> saves apply when resisting mental attacks, insubstantial magic spells, psychological trauma, and other mental hazards. A Delver’s Mental saving throw target is equal to 16 minus their character level and the highest of their WIS or CHA.
-
-**Luck** saves are used when only blind chance can save a Delver, regardless of their native abilities. A Delver’s Luck saving throw target is equal to 16 minus their character level, unmodified by their attributes.
 
 NPCs have a single saving throw target equal to 15 minus half their rounded-down hit dice. Thus, an NPC with 3 HD would have a saving throw target of 14+ for any particular hazard.
 
@@ -126,7 +124,7 @@ To make a skill check, roll 2d6 and add the most relevant skill level and attrib
 
 To express to this compactly, we write DC {Difficulty Class} {Attribute Modifier/Skill}. For example, DC 8 INT/Know or DC 12 DEX/Heal.
 
-The GM is always the one who calls for a skill check, and they do so at their discretion. The player simply describes what their Delver is attempting to do, and the GM will tell them what skill and attribute combination to roll. If multiple skills or attributes might plausibly fit the action, the player can pick the one most favorable to them.
+The GM is always the one who calls for a skill check, and they do so at their discretion. The player simply describes what their Delver is attempting to do, and the GM will tell them what skill and attribute combination to roll. If multiple skills or attributes might plausibly fit the action, the player picks.
 
 | Difficulty | Skill Check                                                                                                                                   |
 |------------|-----------------------------------------------------------------------------------------------------------------------------------------------|
@@ -162,13 +160,13 @@ Between adventures or in safe places, time passes naturally, usually counted in 
 
 ## Injury, Healing, and System Strain
 
-Injury is almost inevitable in an adventurer’s career. Some forms of it can be longer-lasting than others.
+Injury is almost inevitable in an adventurer’s career. Some forms of it are longer-lasting than others.
 
 ### Mortal Injury and Stabalization
 
-When a Delver is reduced to zero HP by a lethal attack, they are Mortally Injured. They will die at the end of the sixth round after their incapacitation unless stabilized by an ally or some special ability. A Mortally Injured character is helpless, and can take no actions and do nothing useful.
+When a Delver is reduced to zero HP by a lethal attack, they are Mortally Injured. They will die at the end of the sixth round after their incapacitation unless stabilized by an ally or some special ability. A Mortally Injured character is helpless, takes no actions, and does nothing useful.
 
-Stabilizing an ally is a Main Action that requires a DEX/ Heal or INT/Heal skill check with a DC of 8 plus the number of full rounds since the target fell. If the medic lacks a [healer’s kit](/equipment#healers-kit) or other tools, this difficulty is increased by 2. Only one ally can try to stabilize a victim per round, though others can attempt to aid their check, but attempts may be retried each round for as long as hope lasts.
+Stabilizing an ally is a Main Action that requires a DEX/ Heal or INT/Heal skill check with a DC of 8 plus the number of full rounds since the target fell. If the medic lacks a [healer’s kit](/equipment#healers-kit) or other tools, this difficulty is increased by 2. Only one ally can try to stabilize a victim per round, though others can attempt to aid their check (via a group check). Attempts may be retried each round for as long as hope lasts.
 
 Once stabilized, the victim remains incapacitated for one Turn before recovering with 1 HP and the [Frail](#frail) condition.
 
@@ -178,41 +176,41 @@ NPCs who aren’t important enough to merit a name die instantly when reduced to
 
 Creatures who reach 0 HP and then recover are Frail.
 
-A Frail character can act normally, but if reduced to 0 HP again, they die instantly. Frail characters do not recover HP through [Natural Healing](#natural-healing).
+A Frail character acts normally, but if reduced to 0 HP again, they die instantly. Frail characters do not recover HP through [Natural Healing](#natural-healing).
 
-Frailty is removed with a week of bed rest and medical attention by someone with a [healer’s kit](/equipment#healers-kit) and at least Heal-0 skill. In addition, someone can with at least Heal-1 can make one attempt to remove Frailty with a healer's kit, an hour of labor, and a successful DC 10 DEX/Heal or INT/Heal check.
+Frailty is removed with a week of bed rest and medical attention by someone with a [healer’s kit](/equipment#healers-kit) and at least Heal-0 skill. In addition, someone with at least Heal-1 can make one attempt to remove Frailty with a healer's kit, an hour of labor, and a successful DC 10 DEX/Heal or INT/Heal check.
 
 Frail characters without this level of medical care must make a [Physical](#physical) save after a week; on a failure they die 1d6 days later, while success means they lose their Frailty after another month’s rest.
 
 ### Natural Healing
 
-A wounded creature can recover HP by getting a good night’s rest and adequate food. Provided they are warm, fed, and comfortable, they regain HP each morning equal to their experience level, or equal to their hit dice if they are NPCs. Characters suffering some form of privation do not recover HP through sleep.
+A wounded creature recovers HP by getting a good night’s rest and adequate food. Provided they are warm, fed, and comfortable, they regain HP each morning equal to their experience level, or equal to their hit dice if they are NPCs.
 
 [Frail](#frail) creatures do not recover HP through natural healing.
 
 ### First Aid
 
-Healers can patch up victims in a hurry at a cost to their physical resilience. By spending one minute patching up an ally with a [healer’s kit](/equipment#healers-kit), a healer can heal 1d6+Heal points of damage. Each such application adds one [System Strain](#system-strain) to the target. First aid can restore HP to a [Frail](#frail) target, but it cannot remove their Frailty.
+Healers can patch up victims in a hurry at a cost to their physical resilience. By spending one minute patching up an ally with a [healer’s kit](/equipment#healers-kit), heal 1d6+Heal points of damage. Each such application adds one [System Strain](#system-strain) to the target. First aid restores HP to a [Frail](#frail) target, but it cannot remove their Frailty.
 
 One Turn is enough time for a healer to apply as much first aid as is wanted to the rest of their party.
 
 ### System Strain
 
-Magical forms of healing (like [Healing Touch](/arcane-traditions#healing-touch)) or use of powerful augmenting magic (like [Haste](/spells#haste---level-2)) can take a toll on a user’s physiology. Their System Strain total reflects the total amount of stress their body has undergone.
+Magical forms of healing (like [Healing Touch](/arcane-traditions#healing-touch)), use of powerful augmenting magic (like [Haste](/spells#haste---level-2)), and First Aid can take a toll on a user’s physiology. Their System Strain total reflects the total amount of stress their body has undergone.
 
 A healthy character starts at zero System Strain and has their Constitution as their maximum.
 
 Magical healing and certain spells and abilities (like [Speed](/spells#speed---level-1)) will add to a subject’s System Strain. If this addition would put them over their maximum they cannot activate the spell, benefit from healing, or otherwise gain any use from the ability. If they are forced over the maximum by some unavoidable effect, they are instead knocked unconscious for an hour.
 
-Characters lose one point of accumulated System Strain after each night’s rest, assuming they are warm, fed, and comfortable and can get at least eight uninterrupted hours of sleep. Cold camps, stony bedding, etc, prevent this recovery.
+Characters lose one point of accumulated System Strain after each night’s rest, assuming they are warm, fed, comfortable, and get at least eight uninterrupted hours of sleep. Cold camps, stony bedding, etc, prevent this recovery.
 
 ## Poisons and Diseases
 
 Most toxins force a victim to make a [Physical](#physical) saving throw to resist their effects or mitigate their harm. Weak perils might grant as much as a +4 to the saving throw, while dire threats might apply a -4 penalty.
 
-If the save is failed, the poison or disease takes hold. Most poisons act quickly, inflicting damage, adding System Strain to the target, or applying long-lasting penalties. Diseases can have a slower onset but often apply the same sort of harms.
+If the save is failed, the poison or disease takes hold. Most poisons act quickly, inflicting damage, adding System Strain to the target, or applying long-lasting penalties. Diseases have a slower onset but often apply the same sort of harms.
 
-A medic who treats a poisoned person within a minute of the poisoning can use a [healer’s kit](/equipment#healers-kit) to give them a better chance to resist. They add twice their Heal skill level to the victim’s saving throw roll, or +1 if they have only Heal-0 skill. Once the poison takes hold, the victim has 1d4 Turns to live. The medic can counteract the toxin with an INT/Heal skill check at a DC of at least 10 for most poisons, or 12 or more for truly fearsome ones.
+A medic can treats a poisoned person within a minute of the poisoning with a [healer’s kit](/equipment#healers-kit) to give them a better chance to resist. They add twice their Heal skill level to the victim’s saving throw roll, or +1 if they have only Heal-0 skill. Once the poison takes hold, the victim has 1d4 Turns to live. The medic can counteract the toxin with an INT/Heal skill check at a DC of at least 10 for most poisons, or 12 or more for truly fearsome ones.
 
 ## Chases and Pursuit
 
@@ -256,7 +254,7 @@ Delvers can haul much heavier objects if necessary. If they push their limits fo
 
 ### Bulk Weights
 
-Sometimes the Delvers need to transport bulk amounts of goods that are measured in pounds. When it’s necessary to convert these weights into encumbrance points, a GM can just assume that fifty pounds is worth about ten points of encumbrance.
+Sometimes the Delvers need to transport bulk amounts of goods that are measured in pounds. When it’s necessary to convert these weights into encumbrance points, assume that fifty pounds is worth ten points of encumbrance.
 
 ### Pack Animals and Porters
 
@@ -274,13 +272,13 @@ Some perils occur with some regularity for adventurers. A few of the most common
 
 **Falling**: Most creatures will take 1d6 damage per 10 full feet they fall, up to 20d6 maximum. Spikes or other hazardous terrain at the bottom will add at least 1d6 to the total. A creature that intentionally leaps or skids down in a controlled way makes a DEX or STR/Exert skill check at a difficulty of 7 + 1 for every 10 full feet; on a success, the effective distance fallen is halved.
 
-**Suffocation**: Creatures can fight or act normally without air for one round per point of Constitution, or 10 rounds for most NPCs. If they don’t move, they can quadruple this time. Once they run out of air, they must make a Physical save each round or take 1 HP per HD or level they have.
+**Suffocation**: Creatures fight or act normally without air for one round per point of Constitution, or 10 rounds for most NPCs. If they don’t move, they quadruple this time. Once they run out of air, they must make a Physical save each round or take 1 HP per HD or level they have.
 
 **Starvation**: Each day of insufficient food (1 Ration) causes 1 [System Strain](#system-strain).
 
 **Dehydration**: Each day of insufficient water (a waterskin's worth) causes 3 System Strain.
 
-Starvation and Dehydration are ignored so long as the Delvers aren't trying to sleep in a dungeon. Assume that they can find sufficient food in the wilderness.
+Starvation and Dehydration are ignored so long as the Delvers aren't trying to sleep in a dungeon. Assume that they find sufficient food in the wilderness.
 
 ## Overland Travel
 

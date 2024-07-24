@@ -13,11 +13,11 @@ Spells ranked in power from level one, the relatively weakest, to level five, th
 
 The common corpus of ancient spells is known as High Magic. These spells are the common heritage of all spellcasting mages, and any spellcasting mage can learn and use them.
 
-Elementalists or Necromancers also have bodies of spells specific to their tradition. Only they can learn or cast these enchantments.
+Elementalists or Necromancers also have bodies of spells specific to their tradition. Only they can learn or cast these spells.
 
 In addition to spells, mages commonly have access to Arts, magical techniques that allow them to produce certain effects quickly and easily. Most mages learn one or two arts as an apprentice and gradually master more as they advance in skill.
 
-Every tradition has its own body of arts, and only members of that tradition can ever learn them. Adventurers who take dual Mage classes can learn arts from both, but each class must choose its arts individually; a Partial High Mage/Partial Healer couldn’t use his High Mage art picks to choose Healer arts, or vice-versa.
+Every tradition has its own body of arts, and only members of that tradition can ever learn them. Delvers who take dual Mage classes can learn arts from both, but each class must choose its arts individually; a Partial High Mage/Partial Healer couldn’t use his High Mage art picks to choose Healer arts, or vice-versa.
 
 ## Learning a Spell
 
@@ -93,7 +93,7 @@ The mage targets a point within one hundred feet per caster level and designates
 ### Detect Thoughts - Level 1
 The mage focuses on a visible living creature within 100 feet per caster level. For the rest of the Turn, they immediately receive an impression of the target’s surface thoughts and interests, understanding them regardless of any lack of a shared language.
 
-The caster may ask one question of the target’s memories per caster level, but doing so risks breaking the spell; the target can make a Mental save before answering each question and the spell ends if the save is successful. These questions can only query memories, not compel any exercise of judgment. This spell is very subtle in its casting, and can be invoked without any visible gestures or audible incantations.
+The caster may ask one question of the target’s memories per caster level, but doing so risks breaking the spell; the target can make a Mental save before answering each question and the spell ends if the save is successful. These questions can only query memories, not compel any exercise of judgment. This spell is very subtle in its casting, and requires no gestures or audible incantations.
 
 ### Dominate Person - Level 1
 The mage targets a visible living creature within 100 feet. The subject must immediately make a Mental saving throw at a penalty equal to the caster’s Magic skill or become enthralled to the caster’s will. Such victims will obey any physical commands issued by the caster, barring ones that seem suicidal or patently meant to result in their death.
@@ -130,7 +130,7 @@ Stasis may be cast as a Free action and targets a single willing or helpless cre
 The spell ends when the mage releases it, or up to a maximum of one day per caster level. If cast on himself, the mage cannot end it before the full duration expires.
 
 ### The Wind of Final Repose - Level 1
-The mage designates a visible point within two hundred feet. A silent, invisible burst of soporific influence erupts from that point, targeting all living creatures within a twenty-foot radius. All such targets with 4 or fewer hit dice within that area fall unconscious instantly, and can be roused only by damage or by a Main Action used to kick them awake. If not roused, they revive at the end of the Turn. Entities that do not sleep are immune to this spell.
+The mage designates a visible point within two hundred feet. A silent, invisible burst of soporific influence erupts from that point, targeting all living creatures within a twenty-foot radius. All such targets with 4 or fewer hit dice within that area fall unconscious instantly, and are roused only by damage or by a Main Action used to kick them awake. If not roused, they revive at the end of the Turn. Entities that do not sleep are immune to this spell.
 
 ### Destroy Earth - Level 2
 Stone, earth, sod, sand, or other largely mineral material is reduced to a faint spray of fine dust, though metal and enchanted objects are unaffected.
@@ -199,9 +199,9 @@ The spell’s effects linger for one hour per caster level, after which the beli
 ### Summon Familiar - Level 2
 This spell conjures up an intelligent familiar for the caster, one with 1 HP per caster level, an AC of 14, a ground movement rate of 30’ per action, saving throws the same as the caster, a +0 skill modifier, and no effective attack.
 
-The familiar always adopts the same shape for the same caster, though the initial casting can set this to any shape the caster wishes provided it’s no larger than a small human. The familiar retains a telepathic connection with its creator and will obey any command it is given, including suicidal ones. It can perform any action that a competent human servant could.
+The familiar always adopts the same shape for the same caster, though the initial casting sets this to any shape the caster wishes provided it’s no larger than a small human. The familiar retains a telepathic connection with its creator and will obey any command it is given, including suicidal ones. It can perform any action that a competent human servant could.
 
-If the familiar is slain, it fades away, but can be called forth again by the spell. The familiar retains its memories of what happens while it’s summoned, and can develop its own personality in time.
+If the familiar is slain, it fades away, but can be called forth again by the spell. The familiar retains its memories of what happens while it’s summoned, and develops its own personality in time.
 
 The familiar remains in existence until dawn following the spell’s casting or until dismissed by the caster.
 
@@ -447,7 +447,7 @@ If the spell ends or is dispelled while aloft, the target descends gently to the
 ### Form Tunnel - Level 2
 A passage is carved through natural stone or earth, forming a tunnel up to twenty feet long per caster level and up to ten feet wide and tall.
 
-The caster can cause the earth to compress and pack itself so as to stabilize the tunnel even in very sandy or burdened soil, or they can allow it to collapse naturally if burdened by some large structure or unstable surroundings.
+The caster ca cause the earth to compress and pack itself so as to stabilize the tunnel even in very sandy or burdened soil, or they can allow it to collapse naturally if burdened by some large structure or unstable surroundings.
 
 This spell can function against worked stone, but the length of the tunnel is much shorter, being only two feet per level. Magical stone or earth cannot be altered by this spell. The caster has basic control over the direction and interior features of the tunnel, and can form stairs or other simple structures within it.
 
@@ -457,7 +457,7 @@ The elementalist charges their physical shape with the qualities of a chosen ele
 In all cases, they need not breathe and become immune to poisons and diseases not already present in them. If stone, they automatically stabilize at zero HP and ignore the first three points of damage from any source of harm. If water, they can pass through any aperture a mouse could get through. If air, they can fly at their usual movement rate and gain a +4 Armor Class bonus against ranged attacks. If fire, they inflict 1d6 damage to all creatures in melee range at the start of their turn each round and become immune to heat damage.
 
 ### Elemental Wall - Level 3
-A wall of a chosen churning elemental force can be called up by the elementalist.
+Conjure a a wall of a chosen churning elemental force.
 
 The barrier is ten feet long per character level, with a height of ten feet and a thickness of one foot. The barrier must rest on solid ground but may be bent or shaped as desired so long as no part of it is more than two hundred feet from the caster.
 
@@ -520,7 +520,7 @@ These undead must be visible and within one hundred feet of the caster. Undead g
 Regardless of how often the caster uses this spell, they may have no more than twice their level worth of hit dice bound at any one time, with the oldest-enchanted being first released.
 
 ### Disguise Death - Level 1
-A necromancer can give an undead creature the semblance of a healthy, normal living being with this spell.
+A necromancer gives an undead creature the semblance of a healthy, normal living being with this spell.
 
 The target appears as it did in life, at any point in its lifespan that the necromancer so desires, and is capable of performing all normal human activities that its cognition allows it to perform. The spell uses the creature’s nature as a template for its effects, so the disguise is tangible and physically real until dispelled or the necromancer drops the effect.
 
@@ -543,7 +543,7 @@ This spell may not be used twice on the same corpse.
 ### Augment Vitality - Level 2
 The necromancer refines and enhances the natural flow of vitality within a willing visible target.
 
-For the rest of the Turn, all Physical saving throws they make gain a bonus equal to the necromancer’s Magic skill and they automatically stabilize when Mortally Wounded. Once during the Turn, as an Instant action, they can immediately heal from all damage inflicted by an injury that did not Mortally Wound them.
+For the rest of the Turn, all Physical saving throws they make gain a bonus equal to the necromancer’s Magic skill and they automatically stabilize when Mortally Wounded. Once during the Turn, as an Instant action, they immediately heal from all damage inflicted by an injury that did not Mortally Wound them.
 
 The recipient of this spell gains one [System Strain](/rules#system-strain).
 
@@ -555,7 +555,7 @@ All living creatures within the area must make a Physical saving throw or for th
 ### Final Death - Level 2
 The necromancer curses one visible target per level.
 
-For the rest of the Turn, these targets cannot recover or gain HP and will die instantly if Mortally Injured. After each failed instance of healing, a target can make a Physical save to throw off the spell.
+For the rest of the Turn, these targets cannot recover or gain HP and will die instantly if Mortally Injured. After each failed instance of healing, a target makes a Physical save to throw off the spell.
 
 ### Raise Corpse - Level 2
 The necromancer targets a mostly-intact skeleton or corpse, imbuing it with a semblance of life.
@@ -581,14 +581,14 @@ The subject begins to rot, fester, and decay in whatever ways the necromancer th
 Creatures with more hit dice than the necromancer has levels can make a Physical save to resist the curse.
 
 ### Forgetting the Grave - Level 3
-A necromancer can temporarily suspend the mortality of a willing target within sight.
+Temporarily suspend the mortality of a willing target within sight.
 
 For one round per Necromancer level, the creature simply cannot die, no matter how drastic their injuries. Those reduced to zero HP lose their Move action each Round but can continue to act otherwise; if such a target is damaged yet again, they must make a Physical saving throw each time or become incapable of movement until healed.
 
 At the spell’s end targets reduced to zero HP are Mortally Injured; those that have been dismembered or otherwise slaughtered beyond the hope of survival die instantly.
 
 ### Share Vitality - Level 3
-By molding the plasmic stuff of life force, the necromancer can create a bond between two willing or helpless targets.
+By molding the plasmic stuff of life force, create a bond between two willing or helpless targets.
 
 These subjects must be close enough for the necromancer to touch; thereafter, for as long as the spell is in effect, the two creatures pool their HP. Injuries to either subtract from this pool, and neither dies until it is reduced to zero, whereupon both are Mortally Wounded. They can communicate telepathically at will while the spell is in effect.
 
@@ -611,7 +611,7 @@ One that has been reduced to zero HP is destroyed and can only be rebuilt with a
 ### Call of the Tomb - Level 5
 The necromancer invokes the inescapable urge for self-dissolution within the substance of all that exists, amplifying the weight of their own mortality.
 
-All enemy creatures within forty feet are affected. Targets can make a Physical saving throw to resist, in which case the effects last only one round, otherwise lasting for one round per caster level. During this time all attacks made against the victims automatically hit and all damage dice they suffer are maximized. Any special defenses they may have against mundane weapons or certain types of injury are negated while the spell is on them.
+All enemy creatures within forty feet are affected. Targets make a Physical saving throw to resist, in which case the effects last only one round, otherwise lasting for one round per caster level. During this time all attacks made against the victims automatically hit and all damage dice they suffer are maximized. Any special defenses they may have against mundane weapons or certain types of injury are negated while the spell is on them.
 
 ### Everlasting - Level 5
 The spell may be triggered as an Instant action by the caster, imparting a burst of unquenchable life force to all allied creatures within 50 feet.
