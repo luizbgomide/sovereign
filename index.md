@@ -28,7 +28,7 @@ A Bestiary, Magic Item repository, and extensive GM section are in progress. In 
 ### The Module Stack
 
 - Anything rated ["Best" at tenfootpole](https://tenfootpole.org/ironspike/?cat=7).
-- Anything Melan rates a `**** / *****` or higher. I don't know of a good way to filter here, but [here are all fo the reviews](https://beyondfomalhaut.blogspot.com/search/label/review)
+- Anything Melan rates a `**** / *****` or higher. I don't know of a good way to filter here, but [here are all of the reviews](https://beyondfomalhaut.blogspot.com/search/label/review)
 - Anything prince rates a `*****` or higher on [his review list](https://princeofnothingblogs.wordpress.com/reviews/)
 
 ### Change Log
