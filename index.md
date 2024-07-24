@@ -23,7 +23,7 @@ If you're looking up a rule, or prefer to learn more traditionally:
 - [Equipment](/equipment) lists weapons, armors, goods and services available for purchase.
 - [Spells](/spells) indexes all known spells, categorized by tradition and level.
 
-A Bestiary, Magic Item repository, and extensive GM section are in progress. In the mean time, check out [those outside the walls](https://www.drivethrurpg.com/en/product/422653/Those-Outside-the-Walls--A-450-Monster-Bestiary) and [basic fantasy](https://www.basicfantasy.org/srd/monstersTab.html) for monsters, and [basic fantasy](https://www.basicfantasy.org/srd/magicItems.html) for magic items.
+A Bestiary, Magic Item repository, and extensive GM section are in progress. In the mean time, check out [those outside the walls](https://www.drivethrurpg.com/en/product/422653/Those-Outside-the-Walls--A-450-Monster-Bestiary) and [basic fantasy](https://basicfantasy.org/srd/monstersAll.html) for monsters, and [basic fantasy](https://www.basicfantasy.org/srd/magicItems.html) for magic items.
 
 ### Change Log
 
