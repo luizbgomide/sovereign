@@ -9,13 +9,13 @@ title: Home
 
 Sovereign is played with one Game Master (GM) and at most 8 players, playing as 4 to 8 Delvers, venturing into dark dungeons, corrupt mansions, and wizard towers for fun and profit. The game is, predominately, a conversation, but that conversation has *structure*:
 
-1. The Game Master (GM) describes a situation to the players, making sure to not assume actions from the players, paying special attention to what they can see,  hear, and smell.
+1. The Game Master (GM) describes a situation to the players, making sure to not assume actions from the players, paying special attention to what they can see,  hear, and smell. Then, they ask "What do you do?"
 2. The players describe their actions and the *intent* behind their actions. When acting as a group (such as picking the next room to explore), elect one person to speak for the group to reduce chaos.
 3. The GM informs the players how likely their actions are to accomplish their intent (taking into account the situation, their attributes, and their skills), what happens if they fail, and how much it costs them to try. Actions that have no chance to fail, have no consequences for failure and no appreciable cost to attempt *just happen*. [Skill checks](#skill-checks) are a useful way come up with likelihood, but the GM is free to come up with probabilities directly, like 1-in-6 or 45%.
 4. If the players find the ruling to be reasonable, the dice are rolled and we honor the stakes. If they *don't*, they can negotiate or come up with a better plan. Typical levers are higher chances of success for less impactful results, worse consequences for failure, or higher costs to attempt and vice versa.
 5. This creates a new situation. The GM [fast forwards](https://thealexandrian.net/wordpress/31509/roleplaying-games/the-art-of-pacing) to the next meaningful decision, narrating the transition and repeats the process.
 
-That's the *whole* game. All other rules exist to either faciliate interesting decisions for #2, help the GM determine #3, and ease the negotiation in #4. If you find a rule *isn't* don't that, change or remove it.
+That's the *whole* game. All other rules exist to either faciliate interesting decisions for #2, help the GM determine #3, or ease the negotiation in #4. If you find a rule *isn't* don't that, change or remove it.
 
 ## Attributes
 
