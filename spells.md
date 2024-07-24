@@ -85,7 +85,7 @@ Illusory monsters fight with the caster’s hit bonus, do 1d8 damage, have AC 10
 
 Creatures convinced the illusion is false can make a Mental saving throw each round to reject its psychic influences, becoming immune to its effects. The illusion lasts until dispelled, the caster drops it, or this spell is cast again.
 
-### Destroy Earth - Level 1
+### Destroy Plants - Level 1
 Wood, linen, cotton, rope, and other plant or fungus-derived matter is annihilated by a wave of entropic force that washes through an area near the caster.
 
 The mage targets a point within one hundred feet per caster level and designates a number of contiguous 10-foot cubes within that area equal to or less than their caster level. All non-magical plant matter within that area immediately erodes away to dust. Enchanted objects of plant matter cannot be affected, but ordinary plant-based clothing, bows, or wooden-hafted weapons will be destroyed. If used against plant-based monsters, the spell does 1d10 damage per caster level, with a Physical save for half.
@@ -93,10 +93,10 @@ The mage targets a point within one hundred feet per caster level and designates
 ### Detect Thoughts - Level 1
 The mage focuses on a visible living creature within 100 feet per caster level. For the rest of the Turn, they immediately receive an impression of the target’s surface thoughts and interests, understanding them regardless of any lack of a shared language.
 
-The caster may ask one question of the target’s memories per caster level, but doing so risks breaking the spell; the target can make a Mental save before answering each question and the spell ends if the save is successful. These questions can only query memories, not compel any exercise of judgment or extrapolation. This spell is very subtle in its casting, and can be invoked without any visible gestures or audible incantations.
+The caster may ask one question of the target’s memories per caster level, but doing so risks breaking the spell; the target can make a Mental save before answering each question and the spell ends if the save is successful. These questions can only query memories, not compel any exercise of judgment. This spell is very subtle in its casting, and can be invoked without any visible gestures or audible incantations.
 
 ### Dominate Person - Level 1
-The mage targets a visible living creature within 100 feet. The subject must immediately make a Mental saving throw at a penalty equal to the caster’s Magic skill or become enthralled to the caster’s will. Such victims will obey any physical commands issued by the caster, barring ones that seem suicidal or patently meant to result in their murder.
+The mage targets a visible living creature within 100 feet. The subject must immediately make a Mental saving throw at a penalty equal to the caster’s Magic skill or become enthralled to the caster’s will. Such victims will obey any physical commands issued by the caster, barring ones that seem suicidal or patently meant to result in their death.
 
 The caster cannot order the creature to answer questions or perform acts that require independent judgment, nor to use non-physical abilities or spells, but it will fight for the caster or to defend its own life. Enchanted victims appear torpid and dazed, and will act only to defend themselves or satisfy their needs.
 
@@ -108,37 +108,37 @@ The caster targets a visible creature within two hundred feet. The target gets a
 Any false impression may be given, or any true one concealed, and a creature may be left effectively blinded or deafened. Distracting tactile sensations can force the victim to make a Physical saving throw in order to act each round. Blinded creatures can’t make ranged attacks and roll all melee hit rolls twice, taking the worst result. If a creature thinks itself in mortal peril its excitement allows it to make a Mental save to throw off the spell at the end of each round.
 
 ### Invisibility - Level 1
-The mage chooses up to one visible willing target per caster level provided they are within 100 feet, though afterwards the targets can separate freely. The targets and all they wear or carry become perfectly transparent.
+The mage chooses up to one visible willing target per caster level provided they are within 100 feet. The targets and all they wear or carry become perfectly transparent.
 
 Missile attacks against invisible foes are largely impossible, and melee attacks against them usually suffer a -4 penalty to hit rolls. The spell lasts for up to an hour per caster level, but it breaks if a subject performs some violent motion, such as running, attacking, or casting a spell. Once broken for one subject, it breaks for all.
 
 ### See Magic - Level 1
-The mage opens up their mind to the presence of occult energies. For one Turn per character level, they are capable of seeing active magical effects, curses, enchantments, or other dweomers as colored auras or patterns of light.
+The mage opens up their mind to the presence of occult energies. For one Turn per character level, they are capable of seeing active magical effects, curses, or other enchantments as colored auras or patterns of light.
 
 They may identify magical items and get a one-sentence description of their purpose or most significant powers, and may get more sophisticated answers with successful WIS/Magic skill checks at difficulties of 8 or more depending on the subtlety of the enchantment. Mages with prepared spells are visible to the caster, though which spells the subject might have prepared is not knowable. As a side effect of this spell, the ambient thaumic currents cast enough quasi-light to allow the caster to see normally even in perfect darkness.
 
 ### Speed - Level 1
-Unlike most spells, this one may be cast as a simple a Free action, targeting up to one visible willing creature per caster level within one hundred feet.
+Unlike most spells, this one may be cast as a Free action, targeting up to one visible willing creature per caster level within one hundred feet.
 
 Enchanted creatures become incredibly fleet of foot, doubling their usual ground movement rate and becoming capable of running up walls and across ceilings without falling, provided they end their round upright on a navigable surface.
 
 They may also move away from melee opponents without needing to make a Fighting Withdrawal to avoid a parting attack, and may pass through and around armed foes who do not completely physically block their path. The spell lasts for the remainder of the Turn and adds 1 [System Strain](/rules#system-strain) to those who take advantage of it.
 
 ### Statis - Level 1
-This spell may be cast as a Free action, provided no other has been cast this round, and targets a single willing or helpless creature the caster is touching. The subject is shifted out of the flow of conventional time, freezing and being limned in a pale sepia light. They and all their carried possessions are rendered impervious to all non-magical harm and are frozen in temporal stasis until the spell ends or is dispelled. Enchanted creatures are quite light, counting as only four items of Encumbrance due to their unwieldiness.
+This spell may be cast as a Free action and targets a single willing or helpless creature the caster is touching. The subject is shifted out of the flow of conventional time, freezing and being limned in a pale sepia light. They and all their carried possessions are rendered impervious to all non-magical harm and are frozen in temporal stasis until the spell ends or is dispelled. Enchanted creatures are quite light, counting as only four items of Encumbrance due to their unwieldiness.
 
 The spell ends when the mage releases it, or up to a maximum of one day per caster level. If cast on himself, the mage cannot end it before the full duration expires.
 
 ### The Wind of Final Repose - Level 1
 The mage designates a visible point within two hundred feet. A silent, invisible burst of soporific influence erupts from that point, targeting all living creatures within a twenty-foot radius. All such targets with 4 or fewer hit dice within that area fall unconscious instantly, and can be roused only by damage or by a Main Action used to kick them awake. If not roused, they revive at the end of the Turn. Entities that do not sleep are immune to this spell.
 
-### Destroy Plants - Level 2
+### Destroy Earth - Level 2
 Stone, earth, sod, sand, or other largely mineral material is reduced to a faint spray of fine dust, though metal and enchanted objects are unaffected.
 
 The caster chooses up to one contiguous 10-foot cube per caster level in a visible area within one hundred feet per caster level, causing all such stone or mineral material within the cubes to disappear. Such rapid destruction may cause larger structures to collapse. If used against rock-based monsters, the spell does 1d10 damage per caster level, with a Physical save for half.
 
 ### Dimension Door - Level 2
-A visible target within a hundred feet is immediately teleported to any visible, solid resting point within a half-mile, provided the target point has enough room to accept them and it is not a position of imminent physical peril.
+A visible target within a hundred feet is immediately teleported to any visible, solid resting point within a half-mile, provided the target point has enough room to accept them.
 
 Unattended objects can be teleported by the spell, but they can be no larger than a horse. Unwilling creatures targeted by this spell make a Mental saving throw to resist; on a success, it is the caster who is transported to the intended destination instead.
 
@@ -150,7 +150,7 @@ If the magical effect was cast by a creature with equal or fewer hit dice, the e
 This spell is not strong enough to permanently suppress standing magical effects, and requires the aforementioned contested roll to temporarily suppressing them. If successful, the effect is negated for 1d6 rounds. If cast on a very large enchantment, only the portion within the spell’s zone of effect is suppressed.
 
 ### Elemental Shield - Level 2
-The caster and up to three visible allies per caster level are shielded from hostile elemental energies, becoming immune to mundane extremes of heat, cold, natural acids, and electrical discharges. Against magical harm of this nature, they automatically take only half the damage they normally would, or none if they make a successful Physical saving throw. This spell lasts for 6 Turns per caster level.
+The caster and up to three visible allies per caster level are shielded from hostile elemental energies, becoming immune to mundane extremes of heat, cold, natural acids, and electrical discharges. Against magical harm of this nature, they automatically take only half the damage they normally would, or none if they make a successful Physical saving throw. This spell lasts for one hour per caster level.
 
 ### Fake Death - Level 2
 This spell may be cast as an Instant action, even if another spell has been cast the same round, and targets either the caster or a willing visible target. It can only be used in immediate response to an injury that reduces the target to zero HP.
