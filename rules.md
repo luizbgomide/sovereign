@@ -65,13 +65,13 @@ Each attribute has a modifier, usually ranging from -2 to +2 based on its score.
 
 In this text, when referring to an attribute's score, it will be spelled completely, like Strength. When referring to an attribute's modifier, it will be abbreviated to three letters: STR, DEX, CON, INT, WIS, or CHA.
 
-Some Feats and abilities may add bonuses or penalties to an attribute’s base modifier. Such bonuses or penalties cannot increase the modifier above +2 or below -2. If an injury or character advancements alters an attribute, immediately update the attribute’s modifier.
+If an injury, character advancements, or magic item alters an attribute, immediately update the attribute’s modifier.
 
 ## Hit Points
 
 A character’s hit points (HP) measure their distance from death. If a character is reduced to zero HP, they are [dying](#mortal-injury-and-stabalization).
 
-A new character rolls the hit die for their [Class](/classes), adding their Con to it. If they have chosen the [Die Hard](/feats#die-hard-) Feat they may add +2 to the roll. The final value for a given die cannot be less than 1 HP.
+A new character rolls the hit die for their [Class](/classes), adding their Con to it. If they have chosen the [Die Hard](/feats#die-hard-) Feat they add +2 to the roll. The final value for a given die cannot be less than 1 HP.
 
 A character gains HP as they advance in character level, re-rolling their prior levels and taking the new score if it’s higher, as explained in [advancement](#advancement-benefits).
 
@@ -95,7 +95,7 @@ NPCs have a single saving throw target equal to 15 minus half their rounded-down
 
 ## Skills
 
-A Delver’s skills reprsent their training. A newly-created Delver starts with a few trained skills and may gain more as the Delver advances in level.
+A Delver’s skills reprsent their training. A newly-created Delver starts with a few trained skills and gain more as the Delver advances in level.
 
 ### Interpretting Skill Levels
 
@@ -212,7 +212,7 @@ Most toxins force a victim to make a [Physical](#physical) saving throw to resis
 
 If the save is failed, the poison or disease takes hold. Most poisons act quickly, inflicting damage, adding System Strain to the target, or applying long-lasting penalties. Diseases can have a slower onset but often apply the same sort of harms.
 
-A medic who treats a poisoned person within a minute of the poisoning can use a [healer’s kit](/equipment#healers-kit) to give them a better chance to resist. They may add twice their Heal skill level to the victim’s saving throw roll, or +1 if they have only Heal-0 skill. Once the poison takes hold, the victim has 1d4 Turns to live. The medic can counteract the toxin with an INT/Heal skill check at a DC of at least 10 for most poisons, or 12 or more for truly fearsome ones.
+A medic who treats a poisoned person within a minute of the poisoning can use a [healer’s kit](/equipment#healers-kit) to give them a better chance to resist. They add twice their Heal skill level to the victim’s saving throw roll, or +1 if they have only Heal-0 skill. Once the poison takes hold, the victim has 1d4 Turns to live. The medic can counteract the toxin with an INT/Heal skill check at a DC of at least 10 for most poisons, or 12 or more for truly fearsome ones.
 
 ## Chases and Pursuit
 
@@ -272,7 +272,7 @@ To haul more equipment and loot than the Delvers can carry, they need pack anima
 ## Falling and Other Hazards
 Some perils occur with some regularity for adventurers. A few of the most common are detailed here.
 
-**Falling**: Most creatures will take 1d6 damage per 10 full feet they fall, up to 20d6 maximum. Spikes or other hazardous terrain at the bottom will add at least 1d6 to the total. A creature that intentionally leaps or skids down in a controlled way may make a DEX or STR/Exert skill check at a difficulty of 7 + 1 for every 10 full feet; on a success, the effective distance fallen is halved.
+**Falling**: Most creatures will take 1d6 damage per 10 full feet they fall, up to 20d6 maximum. Spikes or other hazardous terrain at the bottom will add at least 1d6 to the total. A creature that intentionally leaps or skids down in a controlled way makes a DEX or STR/Exert skill check at a difficulty of 7 + 1 for every 10 full feet; on a success, the effective distance fallen is halved.
 
 **Suffocation**: Creatures can fight or act normally without air for one round per point of Constitution, or 10 rounds for most NPCs. If they don’t move, they can quadruple this time. Once they run out of air, they must make a Physical save each round or take 1 HP per HD or level they have.
 
@@ -464,7 +464,7 @@ A Delver can also spend their Advancement Points to improve their attribute scor
 
 If this is the first level they’ve taken in the Feat, they might be granted a bonus skill. During character creation, this bonus skill pick is treated like any other skill pick. Taken as part of advancement, however, it counts as three skill points spent toward increasing the skill.
 
-This is enough to raise a nonexistent skill to level 1, or boost a level 1 skill to level-2. They may do this even if they aren’t high-enough level to normally qualify for a skill level that high.
+This is enough to raise a level -1 skill to level 1, or boost a level 1 skill to level-2. They may do this even if they aren’t high-enough level to normally qualify for a skill level that high.
 
 If the skill points aren’t quite enough to raise the skill to a new level, they remain as credit toward future advances. If applied to a skill that is already at level 4, the Delver can spend the three skill points on any other skill of their choice.
 

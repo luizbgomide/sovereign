@@ -119,9 +119,9 @@ Some common situations can modify an attack roll, granting a bonus or penalty. G
 
 ## Damage
 
-If an attack hits, it inflicts HP damage equal to the weapon’s damage die plus the weapon’s relevant attribute modifier. Special weapon mods or abilities may increase this damage.
+If an attack hits, it inflicts HP damage equal to the weapon’s damage die plus the weapon’s relevant attribute modifier. Class Abilities (like [Killing Blow](/classes#class-ability-killing-blow)), Feats (like [Armsmaster](/feats#armsmaster-)), and Magic weapon enchantments increase this damage.
 
-If you are making a purely unarmed attack you may add your Brawl skill to the damage.
+If you are making a purely unarmed attack add your Brawl skill to the damage.
 
 If the result is less than your Shock damage, inflict that much instead.
 
@@ -129,7 +129,7 @@ If the result is less than your Shock damage, inflict that much instead.
 
 Some melee weapons inflict Shock on a missed attack roll. This damage reflects the inevitable harm a poorly-armored combatant suffers when engaging in armed combat. Shock for a weapon is recorded as a point value and target Armor Class, such as “Shock 2/15”. If the wielder misses a target with this weapon that has a Armor Class equal or less than the weapon’s Shock rating, they suffer the listed amount of damage anyway. Thus, if that weapon were to miss a victim with Melee AC 13, it would still do 2 points of damage.
 
-Some attacks apply Shock on a miss regardless of the target’s Armor Class. This benefit may be granted by certain abilities, or it may be part of a dangerous NPC’s talents. Such Shock ratings are recorded with “-” as the affected AC, such as “Shock 5/-”. This automatic Shock is still negated by shields or abilities that grant a subject immunity to Shock.
+Some attacks apply Shock on a miss regardless of the target’s Armor Class. This benefit may be granted by certain abilities (like [Armsmaster](/feats#armsmaster-)), or it be part of a dangerous NPC’s talents. Such Shock ratings are recorded with “-” as the affected AC, such as “Shock 5/-”. This automatic Shock is still negated by shields or abilities that grant a subject immunity to Shock.
 
 The only modifiers that add to Shock damage are the wielder’s relevant attribute modifier for the weapon and any damage bonuses that explicitly add to Shock.
 
@@ -165,11 +165,11 @@ Managing two weapons at once is difficult, and applies a -1 penalty to all hit r
 
 A target that is entirely unsuspecting of danger is subject to execution attacks. A subject that is expecting danger or alert to potential harm cannot be targeted by an execution attack.
 
-A ranged execution attack requires one full minute of aiming, waiting, and adjusting on the part of the would-be sniper. Any disturbance during this time will spoil the shot. After spending this time, the assassin may make a DEX/Shoot skill check. The difficulty is 6 for an attack within two meters, 8 for an attack within the weapon’s normal range, or 10 for one at the weapon’s long range. On a success, the attack hits; the victim’s Armor Class is ignored.
+A ranged execution attack requires one full minute of aiming, waiting, and adjusting. Any disturbance during this time will spoil the shot. After spending this time, the assassin may make a DEX/Shoot skill check. The DC is 6 for an attack within two meters, 8 for an attack within the weapon’s normal range, or 10 for one at the weapon’s long range. On a success, the attack hits; the victim’s AC is ignored.
 
 A melee execution attack requires one full minute of near proximity to the target, watching for just the right opening and getting to within melee range of the victim. If this time is granted, the assassin may make a melee attack, automatically hitting.
 
-When a target is hit with an execution attack they must make a Physical saving throw at a penalty equal to the assailant’s combat skill. On a failure, they are immediately reduced to zero HP and Mortally Wounded, or knocked unconscious if the weapon was non-lethal.
+When a target is hit with an execution attack they must make a Physical saving throw at a penalty equal to the assailant’s combat skill. On a failure, they are immediately reduced to zero HP and Mortally Injured, or knocked unconscious if the weapon was non-lethal.
 
 If they succeed on the save, they still take maximum damage from the hit.
 

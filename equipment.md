@@ -51,7 +51,7 @@ This chart represents the party's ability to both buy *and sell* in a market, so
 
 Each of the weapons on the following chart has a listed damage it inflicts on a successful hit, an amount of [Shock](/rules#shock) inflicted on a miss to targets with an [AC](#armor-class) equal or less than that given, and a particular attribute relevant to the weapon’s use. That attribute’s [modifier](/rules#attribute-modifiers) is applied to all hit rolls, damage rolls, and Shock inflicted by the weapon. If more than one attribute is listed, the wielder can use whichever one is better.
 
-Ranged weapons have both short and long ranges listed in feet. Attacking a target within short range may be done at no penalty, while hitting a target at long range is done with a-2 penalty to the hit roll. Ranged weapons cannot be used while an enemy is locked in melee with the wielder.
+Ranged weapons have both short and long ranges listed in feet. Attacking a target within short range is done at no penalty, while hitting a target at long range is done with a -2 penalty to the hit roll. Ranged weapons cannot be used while an enemy is locked in melee with the wielder.
 
 Some weapons have additional unique traits, perhaps being particularly slow to reload, or requiring two hands to wield correctly, or being easily hidden in common clothing. The GM might choose to apply these traits to improvised weapons snatched up by the PCs if any of them seem appropriate.
 

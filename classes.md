@@ -183,7 +183,7 @@ Born to the blade, gifted with a superb capacity for physical violence.
 
 ## Class Ability: Killing Blow
 
-Whenever a Warrior inflicts damage with any attack, spell, or special ability they may add half their character level, rounded up, to the damage done. This damage is also added to any Shock they may inflict.
+Whenever a Warrior inflicts damage with any attack, spell, or special ability they add half their character level, rounded up, to the damage done. This damage is also added to any Shock they inflict.
 
 Combined with Feats meant to improve Shock attacks such as Armsmaster, Close Combatant, or Shocking Assault, this ability ensures that an experienced Warrior will almost always kill any ordinary human soldier or minor monster, regardless of their attack roll result.
 

@@ -31,7 +31,7 @@ Adventuring is a profession, and all Delvers have undergone extensive training t
 
 12. **Record Armor Class**. Record the [Armor Class](/equipment#armor-class) (AC) of the armor you normally wear. Armor class is modified by DEX.
 
-13. **Mages Choose Starting Spells**. [High Mages](/arcane-traditions#high-mage), [Elementalists](/arcane-traditions#elementalist), and [Necromancers](/arcane-traditions#necromancer) begin play knowing [Spells](/spells) based on their [Arcane Tradition](/arcane-traditions). These spells may be chosen from any spell list available to them. A new High Mage, for example, would pick first-level spells from the [High Magic spell list](/spells#high-magic-spells), while a new Elementalist could pick them from either the High Magic or [Elementalist spell list](/spells#elementalist-spells).
+13. **Mages Choose Starting Spells**. [High Mages](/arcane-traditions#high-mage), [Elementalists](/arcane-traditions#elementalist), and [Necromancers](/arcane-traditions#necromancer) begin play knowing [Spells](/spells) based on their [Arcane Tradition](/arcane-traditions). These spells are chosen from any spell list available to them. A new High Mage, for example, would pick first-level spells from the [High Magic spell list](/spells#high-magic-spells), while a new Elementalist could pick them from either the High Magic or [Elementalist spell list](/spells#elementalist-spells).
 
 14. **Mages Record Effort**. All Mages start with a pool of [Effort](/classes#effort) specific to their class. Refer to your chosen class's section for how to calculate it.
 

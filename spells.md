@@ -37,7 +37,7 @@ Preparing a new set of spells takes an hour, and can only be done after a good n
 
 ### Casting Prepared Spells
 
-Once a set of spells is prepared, the mage may then cast them at their leisure. Casting a spell usually requires a Main Action, a free hand, and vocalizations as loud as normal conversation. The process is obviously occult to any onlookers, but it's impossible to tell which spell a mage is casting by meerly looking.
+Once a set of spells is prepared, the mage may cast them at their leisure. Casting a spell usually requires a Main Action, a free hand, and vocalizations as loud as normal conversation. The process is obviously occult to any onlookers, but it's impossible to tell which spell a mage is casting by meerly looking.
 
 Casting a spell requires focus and undisturbed concentration. If a mage has taken damage or has been severely jostled in a round, they cannot cast magic that round. Thus, a mage who acts late in a round runs the risk of being hurt and having their concentration spoiled, forcing them to do something other than cast a spell when their turn comes around.
 
@@ -115,17 +115,17 @@ Missile attacks against invisible foes are largely impossible, and melee attacks
 ### See Magic - Level 1
 The mage opens up their mind to the presence of occult energies. For one Turn per character level, they are capable of seeing active magical effects, curses, or other enchantments as colored auras or patterns of light.
 
-They may identify magical items and get a one-sentence description of their purpose or most significant powers, and may get more sophisticated answers with successful WIS/Magic skill checks at difficulties of 8 or more depending on the subtlety of the enchantment. Mages with prepared spells are visible to the caster, though which spells the subject might have prepared is not knowable. As a side effect of this spell, the ambient thaumic currents cast enough quasi-light to allow the caster to see normally even in perfect darkness.
+They may identify magical items and get a one-sentence description of their purpose or most significant powers, and get more sophisticated answers with successful WIS/Magic skill checks at difficulties of 8 or more depending on the subtlety of the enchantment. Mages with prepared spells are visible to the caster, though which spells the subject might have prepared is not knowable. As a side effect of this spell, the ambient thaumic currents cast enough quasi-light to allow the caster to see normally even in perfect darkness.
 
 ### Speed - Level 1
-Unlike most spells, this one may be cast as a Free action, targeting up to one visible willing creature per caster level within one hundred feet.
+Unlike most spells, Speed may be cast as a Free action, targeting up to one visible willing creature per caster level within one hundred feet.
 
 Enchanted creatures become incredibly fleet of foot, doubling their usual ground movement rate and becoming capable of running up walls and across ceilings without falling, provided they end their round upright on a navigable surface.
 
 They may also move away from melee opponents without needing to make a Fighting Withdrawal to avoid a parting attack, and may pass through and around armed foes who do not completely physically block their path. The spell lasts for the remainder of the Turn and adds 1 [System Strain](/rules#system-strain) to those who take advantage of it.
 
-### Statis - Level 1
-This spell may be cast as a Free action and targets a single willing or helpless creature the caster is touching. The subject is shifted out of the flow of conventional time, freezing and being limned in a pale sepia light. They and all their carried possessions are rendered impervious to all non-magical harm and are frozen in temporal stasis until the spell ends or is dispelled. Enchanted creatures are quite light, counting as only four items of Encumbrance due to their unwieldiness.
+### Stasis - Level 1
+Stasis may be cast as a Free action and targets a single willing or helpless creature the caster is touching. The subject is shifted out of the flow of conventional time, freezing and being limned in a pale sepia light. They and all their carried possessions are rendered impervious to all non-magical harm and are frozen in temporal stasis until the spell ends or is dispelled. Enchanted creatures are quite light, counting as only four items of Encumbrance due to their unwieldiness.
 
 The spell ends when the mage releases it, or up to a maximum of one day per caster level. If cast on himself, the mage cannot end it before the full duration expires.
 
@@ -153,7 +153,7 @@ This spell is not strong enough to permanently suppress standing magical effects
 The caster and up to three visible allies per caster level are shielded from hostile elemental energies, becoming immune to mundane extremes of heat, cold, natural acids, and electrical discharges. Against magical harm of this nature, they automatically take only half the damage they normally would, or none if they make a successful Physical saving throw. This spell lasts for one hour per caster level.
 
 ### Fake Death - Level 2
-This spell may be cast as an Instant action, even if another spell has been cast the same round, and targets either the caster or a willing visible target. It can only be used in immediate response to an injury that reduces the target to zero HP.
+Fake Death may be cast as an Instant action and targets either the caster or a willing visible target. It can only be used in immediate response to an injury that reduces the target to zero HP.
 
 The target suffers dramatic and ostentatiously obvious death, with mortal blows cleaving them asunder or gorily butchering them. They are dead to all mundane or magical examination. Up to two hours later however, at the target’s discretion, the various remains of the target flow back together and restore their body with two HP per caster level and two additional [System Strain](/rules#system-strain) points gained.
 
@@ -210,7 +210,7 @@ A vast wall of thick, heavy vines and other plant life blooms from a visible poi
 
 The wall is up to twenty feet high and three feet thick and runs for as much as twenty feet in width per caster level. The vine wall can be shaped as the caster wishes within the spell’s area of effect, so long as it’s contiguous, and may be laid horizontally if a bridge or roof is desired.
 
-Enemies must inflict five damage per caster level to cut a man-sized hole in the vines, and they must be using weapons or means that could actually cut through a wooden wall to do any meaningful harm. The vines may be optionally covered in long, vicious thorns to discourage climbing, inflicting 2d6 damage on any creature who tries to climb over it.
+Enemies must inflict five damage per caster level to cut a man-sized hole in the vines, and they must be using weapons or means that could actually cut through a wooden wall to do any meaningful harm. The vines may be covered in long, vicious thorns to discourage climbing, inflicting 2d6 damage on any creature who tries to climb over it.
 
 If the vine wall is summoned from earth that could plausibly support plant life, it remains until dispelled or until it dies naturally. If called from bare stone or other infertile soils, it withers away to dust at the end of the Turn.
 
@@ -250,14 +250,14 @@ Everything within the area suffers 1d8 damage from flame, concussion, and sonic 
 ### Magic Wall - Level 3
 The caster must form some sort of line as part of this spell’s invocation, either with dropped powders or a trace drawn in the dirt or a more permanent inlay into a floor. The caster can make such a line as part of a Move action, tracing it out or scattering powder as they go. The line itself may be no longer than twenty feet per caster level, and may be straight or curved as the caster wishes.
 
-Once it has been drawn, this spell may be cast, empowering the line with the ability to ward off a particular target and prevent them or their powers from crossing or being made to cross the line, as if it were a physical wall. The caster can nominate any kind of target to be warded that could be distinguished without need for knowing their thoughts, such as “humans” or “non-humans” or “men wearing the livery of the baron”.
+Once it has been drawn, Magic Wall empowers the line with the ability to ward off a particular target and prevent them or their powers from crossing or being made to cross the line, as if it were a physical wall. The caster can nominate any kind of target to be warded that could be distinguished without need for knowing their thoughts, such as “humans” or “non-humans” or “men wearing the livery of the baron”.
 
 The barrier extends a hundred feet upward and ten feet downward and blocks any attack or magical power used by those warded. If the excluded creatures are attacked or targeted by powers from the other side of the barrier, however, the entire field shatters. The barrier lasts until dispelled, the caster drops it, or until one hour has passed per caster level.
 
 ### Message - Level 3
 This spell calls forth a floating set of colored glass chimes. The caster alone may strike them, producing sounds of great subtlety and clarity. The caster may allow anyone within ten miles per level to hear the music, or may make it inaudible to anyone save specific targets within range.
 
-Such is the expressiveness of the chimes that those who hear them may instantly understand the caster’s desired message, however abstract. If the caster strikes the chimes violently as a Main Action, they may shatter them, causing a deafening clamor that does 3d6 damage to all non-deaf targets within forty feet except for the caster.
+Such is the expressiveness of the chimes that those who hear them instantly understands the caster’s desired message, however abstract. If the caster strikes the chimes violently as a Main Action, they shatter them, causing a deafening clamor that does 3d6 damage to all non-deaf targets within forty feet except for the caster.
 
 The chimes persist until shattered or the Turn ends.
 
@@ -292,7 +292,7 @@ For the rest of the Turn, those affected can move in such a way, remaining suspe
 Optionally, the caster can instead use this spell on one visible flying creature per caster level, which must make a Physical save at a penalty equal to the caster’s Magic skill or be forced to land as they had fallen half the distance they had descended. For the rest of the Turn, such creatures remain grounded and unable to fly.
 
 ### Control Wind - Level 4
-A fierce gust of wind may be conjured in a line a hundred feet long and thirty feet wide.
+Conjure a fierce gust of wind in a line a hundred feet long and thirty feet wide.
 
 All creatures of man-size or smaller must make Physical saves or be bowled over and blown back thirty feet, losing their next round’s Main Action and suffering 1d6 damage. Light wooden constructions or similar structures are flattened by the wind.
 
@@ -304,7 +304,7 @@ The caster sets up a triggered resonance of dispelling magic which may later be 
 ### Geas - Level 4
 A single visible living creature is struck with a grim geas, forcing it to comply with a particular command or else suffer a progressively-worse affliction.
 
-The caster may lay one single-sentence command on the target that is neither suicidal, indefinitely imprecise, nor likely physically impossible for them to comply with. Thus, the caster could geas a man to kill his son or never seek to harm his lord, but he could not reasonably command a peasant to become king or bind someone to forever after comply with a master’s arbitrary commands.
+The caster lays one single-sentence command on the target that is neither suicidal, indefinitely imprecise, nor likely physically impossible for them to comply with. Thus, the caster could geas a man to kill his son or never seek to harm his lord, but he could not reasonably command a peasant to become king or bind someone to forever after comply with a master’s arbitrary commands.
 
 If the target then defies that geas or unreasonably delays its execution, they suffer an agonizing progressive wasting disease that will inevitably kill them in 1d6 weeks, applying -2 to their hit rolls and -1 to skill checks for each week that passes and halving their maximum HP. If they again begin complying with the geas afterwards or if the curse is lifted, the disease halts and reverses itself at the same rate it progressed.
 
@@ -320,7 +320,7 @@ The spell lasts until it is dispelled or the caster releases the target. A caste
 Creatures under the effect of Greater Dominate Person display numerous small tics and magically-compelled quirks of behavior that may provoke puzzlement in casual observers and will give away the mental influence entirely to an onlooker with at least Magic-0 skill who can observe them for at least an hour.
 
 ### Pull Object - Level 4
-A single visible target is selected, whereupon whatever contents that target may possess are extracted and placed in the caster’s hands.
+The contents of single visible target are extracted and placed in the caster’s hands.
 
 If used on a cabinet, backpack, pocket, or other such container it can be no larger than an armoire, and the caster can choose whether or not to receive any particular object from inside it, being instantly appraised of its contents when the spell is cast.
 
@@ -329,7 +329,7 @@ If used on a creature, it attempts to tear out the subject’s innards; if the s
 ### Rewind - Level 4
 The caster may invoke this spell as an Instant action on any single creature within one hundred feet. Time is rolled back slightly, allowing them to replay their current round of action as if it never occurred, though all involved retain a memory of what originally happened.
 
-This spell is only useful on targets that are currently taking their round’s actions; once they’ve finished for the round and another creature has started acting, it is too late to benefit from this spell. If the target is unwilling to roll back their action, they may make a Mental saving throw to resist the spell.
+This spell is only useful on targets that are currently taking their round’s actions; once they’ve finished for the round and another creature has started acting, it is too late to benefit from this spell. If the target is unwilling to roll back their action, they make a Mental saving throw to resist the spell.
 
 ### Rift - Level 4
 The caster opens a short-ranged spatial rift between two points within one hundred feet per level, provided they can see or have physically occupied both points at some prior time and provided the two points are at least twenty feet apart.
@@ -380,12 +380,12 @@ Aimed at a visible point within three hundred feet, the spell affects all creatu
 
 The maze is infinite, featureless, and empty. Transported creatures get a Mental saving throw to end the spell, re-appearing one round after it was cast. Those who fail their save get to make an additional attempt once an hour afterwards. Creatures with five or fewer hit dice cannot attempt these saving throws and are trapped forever unless the mage is killed or ends the spell.
 
-Time passes normally while trapped, and creatures snared within may rest, fight, or starve as their situation and wills so recommends. Dead or escaped creatures appear in the nearest clear space to their original departure.
+Time passes normally while trapped, and creatures snared within may rest, fight, or starve. Dead or escaped creatures appear in the nearest clear space to their original departure.
 
 ### Mold Landscape - Level 5
 The caster molds the soil and stone of the land around them, raising hills, digging trenches, or forming simple structures out of extruded bedrock.
 
-Once cast, the mage may psychically mold the terrain within three hundred feet per caster level, shifting it slowly over the course of an hour to form whatever shape they desire out of it, provided the material used can actually maintain such a shape.
+Once cast, the mage psychically molds the terrain within three hundred feet per caster level, shifting it slowly over the course of an hour to form whatever shape they desire out of it, provided the material used can actually maintain such a shape.
 
 Simple buildings and walls may be created out of bedrock or available stone, and tunnels and caves may be shaped up to 50 feet down from the caster, while hills may be raised up to 200 feet above the prevailing grade. This spell cannot work within a thousand feet of stone or earth that has been significantly worked by intelligent creatures, though the use of this spell by the same caster doesn’t count as working the earth on further castings.
 
@@ -413,12 +413,12 @@ For one day per level, so long as the charmed object is not destroyed, dispersed
 ### Flame Scrying - Level 1
 The elementalist becomes aware of the approximate locations of all open flames within thirty feet per caster level.
 
-They may choose one of those flames as a focus for the scrying, allowing them to see and hear everything around the flame as if they were present. The spell’s duration lasts for as long as the elementalist remains motionlessly focused on it; during this duration, they may switch their focus between the various flames in range as they wish.
+They choose one of those flames as a focus for the scrying, allowing them to see and hear everything around the flame as if they were present. The spell’s duration lasts for as long as the elementalist remains motionlessly focused on it; during this duration, they may switch their focus between the various flames in range as they wish.
 
 ### One With Water - Level 1
-The elementalist and up to a dozen allies are charmed with powers of water-breathing, a tolerance for the pressure and cold of the deeps, and the ability to see through water as if it were well-lit air.
+The elementalist and up to a dozen allies are enchanted with powers of water-breathing, a tolerance for the pressure and cold of the deeps, and the ability to see through water as if it were well-lit air.
 
-Ensorceled beings may move freely while in the water at their usual movement rate and their attacks and projectile weapons are not hindered by the medium, nor are their possessions soaked or damaged. The spell lasts for one hour per caster level, but will not naturally end so long as a subject is still at least partially submerged. Only the caster or magical dispelling can stop it under those circumstances.
+Enchanted beings move freely while in the water at their usual movement rate and their attacks and projectile weapons are not hindered by the medium, nor are their possessions soaked or damaged. The spell lasts for one hour per caster level, but will not naturally end so long as a subject is still at least partially submerged. Only the caster or magical dispelling can stop it under those circumstances.
 
 ### Shape Element - Level 1
 The elementalist makes a direct appeal to a non-magical mass of earth, stone, water, flame, or air no larger than a ten-foot cube.
@@ -474,7 +474,7 @@ The walls vanish at the end of the Turn.
 ### Gaseous Form - Level 3
 A visible target creature and their possessions are briefly transformed into a misty, insubstantial cloud.
 
-Only sources of harm that could conceivably disrupt a cloud of mist can harm them, and until the spell’s end they may pass freely into any area that a vapor could reach. They may move freely in all three dimensions at their normal movement rate, though they cannot physically manipulate objects.
+Only sources of harm that could conceivably disrupt a cloud of mist can harm them, and until the spell’s end they may pass freely into any area that a vapor could reach. They move freely in all three dimensions at their normal movement rate, though they cannot physically manipulate objects.
 
 The spell lasts until the end of the Turn or until the target or the caster choose to end it.
 
@@ -541,7 +541,7 @@ The corpse cannot have been dead for more than one day per caster level. Once so
 This spell may not be used twice on the same corpse.
 
 ### Augment Vitality - Level 2
-The necromancer may refine and enhance the natural flow of vitality within a willing visible target.
+The necromancer refines and enhances the natural flow of vitality within a willing visible target.
 
 For the rest of the Turn, all Physical saving throws they make gain a bonus equal to the necromancer’s Magic skill and they automatically stabilize when Mortally Wounded. Once during the Turn, as an Instant action, they can immediately heal from all damage inflicted by an injury that did not Mortally Wound them.
 
@@ -560,7 +560,7 @@ For the rest of the Turn, these targets cannot recover or gain HP and will die i
 ### Raise Corpse - Level 2
 The necromancer targets a mostly-intact skeleton or corpse, imbuing it with a semblance of life.
 
-Whatever the creature’s attributes were in life, it now has 1 HD, an AC of 13, a Move of 30’/round, a +0 skill bonus, saves of 15+, a +1/1d6 unarmed melee attack, Instinct 0, and a Morale of 12. Such corpses may be equipped with weapons or armor. Its decay or dissolution immediately ceases, and it becomes suicidally loyal to its creator. The corpse has no natural volition, but will obey commands with a human degree of intelligence. It has only vague memories of its prior life, and while it may retain human tics or habits it had in life it can answer only the simplest and most self-evident questions.
+Whatever the creature’s attributes were in life, it now has 1 HD, an AC of 13, a Move of 30’/round, a +0 skill bonus, saves of 15+, a +1/1d6 unarmed melee attack, Instinct 0, and a Morale of 12. Such corpses may be equipped with weapons or armor. Its decay or dissolution immediately ceases, and it becomes suicidally loyal to its creator. The corpse has no natural volition, but will obey commands with a human degree of intelligence. It has only vague memories of its prior life, and while it retains human tics or habits it had in life it can answer only the simplest and most self-evident questions.
 
 Damage to a corpse can be repaired only by casting this spell on it again, which restores it to its original “health”. The corpse continues to exist until it is reduced to zero HP or its creator releases it.
 

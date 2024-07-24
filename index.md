@@ -34,6 +34,7 @@ A Bestiary, Magic Item repository, and extensive GM section are in progress. In 
 ### Change Log
 
 #### 2024-07-24
+- Drop a ton of instances of 'may' that weren't actual choices.
 - Use "HP" instead of "hit points".
 - Add paragraphs to the spell descriptions.
 - Use those outside the walls and basic fantasy as stop-gaps.

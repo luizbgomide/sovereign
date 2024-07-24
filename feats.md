@@ -9,7 +9,7 @@ Feats are special talents that a Delver can possess.
 
 Feats usually come in two levels. The first time a Feat is chosen, the benefits of the first level are gained. The second time it’s chosen, the benefits of the second level are added to those of the first.
 
-A new Delver may choose one Feat of any kind. Warriors and Partial Warriors may select another combat-related Feat (marked with a ⚔️). Experts and Partial Experts may select another non-combat-related Feat.
+A new Delver chooses one Feat of any kind. Warriors and Partial Warriors select another combat-related Feat (marked with a ⚔️). Experts and Partial Experts select another non-combat-related Feat.
 
 ## Alert ⚔️
 You are keenly aware of your surroundings and virtually impossible to take unaware.
@@ -28,7 +28,7 @@ Usable only by Mage heroes who would otherwise be prevented from casting spells 
 
 You have an unusual competence with thrown weapons and melee attacks. This Feat’s benefits do not apply to unarmed attacks or non-thrown projectile weapons. This Feat’s bonuses also don’t stack with Deadeye or other Feats that add a skill’s level to your damage or Shock.
 
-- **Level 1**: Gain Stab as a bonus skill. You can Ready a Stowed melee or thrown weapon as an Instant action. You may add your Stab skill level to a melee or thrown weapon’s damage roll or Shock damage, assuming it has any to begin with.
+- **Level 1**: Gain Stab as a bonus skill. You can Ready a Stowed melee or thrown weapon as an Instant action. You add your Stab skill level to a melee or thrown weapon’s damage roll or Shock damage, assuming it has any to begin with.
 - **Level 2**: The Shock from your melee attacks always treats the target as if they have AC 10. Gain a +1 bonus to hit with all thrown or melee attacks.
 
 ## Assassin ⚔️
@@ -63,14 +63,8 @@ You are surprisingly hard to kill. You can survive injuries or bear up under str
 
 You have a gift with ranged weapons. While this talent most commonly applies to bows, it is also applicable to thrown weapons or other ranged weapons that can be used with the Shoot skill. For thrown weapons, you can’t use the benefits of the Armsmaster Feat at the same time as Deadeye.
 
-- **Level 1**: Gain Shoot as a bonus skill. You can Ready a Stowed ranged weapon as an Instant action. You may use a bow or two-handed ranged weapon even when an enemy is within melee range, albeit at a -4 hit penalty. You may add your Shoot skill level to a ranged weapon’s damage roll.
+- **Level 1**: Gain Shoot as a bonus skill. You can Ready a Stowed ranged weapon as an Instant action. You may use a bow or two-handed ranged weapon even when an enemy is within melee range, albeit at a -4 hit penalty. You add your Shoot skill level to a ranged weapon’s damage roll.
 - **Level 2**: You can reload crossbows or other slow-loading weapons as a Free action, provided they don’t take more than a round to reload. You can use ranged weapons of any size in melee without penalty. Once per Turn, as a Free action when target shooting at an inanimate, non-creature target, you automatically hit unless you roll a 2 on your Shoot skill check or the shot is physically impossible.
-
-## Developed Attribute
-
-Your hero has a remarkable degree of development to one or more of their attributes. This may be derived from an eldritch bloodline, native brilliance, or sheer, stubborn determination. This Feat cannot be taken by heroes with the Mage or Partial Mage classes.
-
-Choose an attribute; its modifier is increased by +1, up to a maximum of +3. The actual score does not change, but the modifier increases, and may increase again if later advancement improves the attribute enough. You can choose this Feat more than once to improve different attributes.
 
 ## Gifted Chirurgeon
 
@@ -142,7 +136,7 @@ You are remarkably talented at a particular skill. Whether a marvelous cat burgl
 
 You have a minor spirit, devil, construct, magical beast, or other creature as a devoted companion. While its abilities are limited, it is absolutely loyal to you.
 
-- **Level 1**: Choose a form for your familiar no smaller than a cat nor larger than a human. It has the traits and abilities of an entity created by Calculation of the Evoked Servitor but may be summoned or dismissed as a Main Action, appearing within melee range of its owner. It cannot carry objects with it during its vanishment aside from the clothing natural to its shape. It has no need for food, water, or sleep. If killed, it vanishes and cannot be re-summoned for 24 hours. Once per day, it can refresh one point of Committed Effort for you.
+- **Level 1**: Choose a form for your familiar no smaller than a cat nor larger than a human. It has the traits and abilities of an entity created by [Summon Familiar](/spells#summon-Familiar---level-2) but may be summoned or dismissed as a Main Action, appearing within melee range of its owner. It cannot carry objects with it during its vanishment aside from the clothing natural to its shape. It has no need for food, water, or sleep. If killed, it vanishes and cannot be re-summoned for 24 hours. Once per day, it can refresh one point of Committed Effort for you.
 - **Level 2**: Pick two benefits from the list below for your familiar. This level may be taken more than once, adding two additional options each time.
   - It has HP equal to three times your level
   - It gains the ability to attack with a hit bonus equal to half your level, rounded up, doing 1d8 damage on a hit with no
