@@ -21,7 +21,7 @@ Adventuring is a profession, and all Delvers have undergone extensive training t
 
 7. **Record Maximum Hit Points**. Each class gets different amount of [Hit Points](/rules#hit-points) (HP) at first level, detailed in the "Hit Dice" column. Roll based on your class, add your CON, and +2 if you chose the [Die Hard](/feats#die-hard-) Feat.
 
-8. **Record Attack Bonus**. Your character has a certain degree of basic combat competence based on their class. This bonus increases as you advance in character levels and is added to your attack roll. A new character’s attack bonus is usually +0, though full Warriors start with a +1 base attack bonus.
+8. **Record Attack Bonus**. Your character has a certain degree of basic combat competence based on their class. This bonus increases as you advance in character levels and is added to your attack roll. A new character’s attack bonus is usually +0, though full Warriors start with a +1 attack bonus.
 
 9. **Record Saving Throws**. Record your Physical (exhaustion, poison, etc), Evasion (explosions, traps, etc), and Mental (mind control, tests of will, etc) [Saving Throws](/rules#saving-throws). Your Physical score is 15 minus the highest of your STR and CON. Your Evasion score is 15 minus the highest of your INT and DEX. Your Mental score is 15 minus the highest of your WIS and CHA.
 
