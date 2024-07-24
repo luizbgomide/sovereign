@@ -128,11 +128,11 @@ When skills oppose each other, the participant attempting to change the situatio
 
 ## Keeping Track of Time
 
-A Turn is a time measurement used to determine how often certain abilities or actions can be taken. Some powers can be triggered only so many times per turn, while some special abilities only work once per turn.
+A Turn is a time measurement used to determine how often certain abilities or actions can be taken. Some powers can be triggered only so many times per Turn, while some special abilities only work once per Turn.
 
-A Turn is one particular fight, event, activity, or effort that usually doesn’t take more than ten or fifteen minutes. A fight is a turn. A chase is a turn. A tense backroom negotiation is a turn. So long as the party is doing the same general activity in the same general location, it’s probably one turn. Most turns don’t last more than fifteen minutes, though a GM can stretch this if it seems logical.
+A Turn is one particular fight, event, activity, or effort that usually doesn’t take more than ten or fifteen minutes. A fight takes a Turn. A chase takes a Turn. A tense backroom negotiation takes a Turn. So long as the party is doing the same general activity in the same general location, it’s probably one Turn. Most Turns don’t last more than fifteen minutes, though a GM can stretch this if it seems logical.
 
-Combat is made up of Rounds, each one lasting approximately ten seconds. A single combat may involve multiple Rounds of action, but always takes a turn. A round begins with the actions of the side that wins initiative and ends after the actions of the side with the lowest initiative.
+Combat is made up of Rounds, each one lasting approximately ten seconds. A single combat may involve multiple Rounds of action, but always takes a Turn. A round begins with the actions of the side that wins initiative and ends after the actions of the side with the lowest initiative.
 
 Between adventures or in safe places, time passes naturally, usually counted in either hours, days, or weeks as appropriate.
 
@@ -146,7 +146,7 @@ When a Delver is reduced to zero hit points by a lethal attack, they are Mortall
 
 Stabilizing an ally is a Main Action that requires a Dex/ Heal or Int/Heal skill check with a DC of 8 plus the number of full rounds since the target fell. If the medic lacks a [healer’s kit](/equipment#healers-kit) or other tools, this difficulty is increased by 2. Only one ally can try to stabilize a victim per round, though others can attempt to aid their check, but attempts may be retried each round for as long as hope lasts.
 
-Once stabilized, the victim remains incapacitated for one turn before recovering with 1 hit point and the [Frail](#frail) condition.
+Once stabilized, the victim remains incapacitated for one Turn before recovering with 1 hit point and the [Frail](#frail) condition.
 
 NPCs who aren’t important enough to merit a name die instantly when reduced to zero hit points.
 
@@ -170,7 +170,7 @@ A wounded creature can recover hit points by getting a good night’s rest and a
 
 Healers can patch up victims in a hurry at a cost to their physical resilience. By spending one minute patching up an ally with a [healer’s kit](/equipment#healers-kit), a healer can heal 1d6+Heal points of damage. Each such application adds one [System Strain](#system-strain) to the target. First aid can restore hit points to a [Frail](#frail) target, but it cannot remove their Frailty.
 
-One ten-minute turn is enough time for a healer to apply as much first aid as is wanted to the rest of their party.
+One Turn is enough time for a healer to apply as much first aid as is wanted to the rest of their party.
 
 ### System Strain
 
@@ -188,11 +188,11 @@ Most toxins force a victim to make a [Physical](#physical) saving throw to resis
 
 If the save is failed, the poison or disease takes hold. Most poisons act quickly, inflicting hit point damage, adding System Strain to the target, or applying long-lasting penalties. Diseases can have a slower onset but often apply the same sort of harms.
 
-A medic who treats a poisoned person within a minute of the poisoning can use a [healer’s kit](/equipment#healers-kit) to give them a better chance to resist. They may add twice their Heal skill level to the victim’s saving throw roll, or +1 if they have only Heal-0 skill. Once the poison takes hold, the victim has 1d4 turns to live. The medic can counteract the toxin with an Int/Heal skill check at a DC of at least 10 for most poisons, or 12 or more for truly fearsome ones.
+A medic who treats a poisoned person within a minute of the poisoning can use a [healer’s kit](/equipment#healers-kit) to give them a better chance to resist. They may add twice their Heal skill level to the victim’s saving throw roll, or +1 if they have only Heal-0 skill. Once the poison takes hold, the victim has 1d4 Turns to live. The medic can counteract the toxin with an Int/Heal skill check at a DC of at least 10 for most poisons, or 12 or more for truly fearsome ones.
 
 ## Chases and Pursuit
 
-Adventurers have a habit of chasing after others and being chased in turn.
+Delvers have a habit of chasing others and being chased.
 
 If one group is faster than the other group, that group succeeds.
 
@@ -266,18 +266,18 @@ Unless there is an *extremely* compelling reason to play it out, montage through
 
 These rules are meant for tracking adventures in a dangerous site where perils could spring up at any moment. Not all Wandering Encounters are hostile (see [, but each is a risk of pointless fighting or sudden alarm.
 
-At the start of each turn after the party enters the site:
+At the start of each Turn after the party enters the site:
 
-1. Roll a secret Wandering Encounter check if necessary. On a 1, the encounter will happen at some appropriate moment this turn.
-2. The Delvers decide what they want to do this turn: move into a new room, carefully search their current location, fiddle with some object they’ve found, or something else that takes ten minutes.
+1. Roll a secret Wandering Encounter check if necessary. On a 1, the encounter will happen at some appropriate moment this Turn.
+2. The Delvers decide what they want to do this Turn: move into a new room, carefully search their current location, fiddle with some object they’ve found, or something else that takes ~ten minutes.
 3. The GM explains the result of their actions, whether that’s a first-glance description of a new room, notice of the hideous abomination that’s rearing up before them, or the explosive detonation of the crystal they just experimentally prodded.
-4. Start over from the top, assuming their actions have consumed a full turn, until they withdraw from the site or it becomes safe enough to stop counting turns.
+4. Start over from the top, assuming their actions have consumed a Turn, until they withdraw from the site or it becomes safe enough to stop counting Turns.
 
 ### Timekeeping in the Dungeon
 
-Once the Delvers intrude on a ruin, dungeon, corrupt noble’s mansion, or other dangerous site the GM starts tracking time in turns. Each Delver can do one significant thing per turn. Different Delvers can be doing different things in the same turn.
+Once the Delvers intrude on a ruin, dungeon, corrupt noble’s mansion, or other dangerous site the GM starts tracking time in Turns. Each Delver can do one significant thing per Turn. Different Delvers can be doing different things in the same Turn.
 
-The point of tracking turns is to have a rough measure of how much activity they’re engaging in within the ruin. The more the Delvers do and the longer they stay, the more likely that they’ll run into Wandering Encounters or the denizens will have time to realize that intruders are present. Eventually, the Delvers need to either pull back or clear the site entirely of its dangerous inhabitants.
+The point of tracking Turns is to have a rough measure of how much activity they’re engaging in within the ruin. The more the Delvers do and the longer they stay, the more likely that they’ll run into Wandering Encounters or the denizens will have time to realize that intruders are present. Eventually, the Delvers need to either pull back or clear the site entirely of its dangerous inhabitants.
 
 | Activity                                       | Turns |
 |------------------------------------------------|-------|
@@ -307,7 +307,7 @@ If the Delvers run into a Wandering Encounter in a room, the creatures will ente
 
 ### Wandering Encounters
 
-Every so many turns, a GM should roll 1d6 to check for a Wandering Encounter. On a 1, the Delvers will run into one at some point during the turn. The frequency of the check will depend on how vigorously alert and organized the site’s inhabitants are.
+Every so many Turns, a GM should roll 1d6 to check for a Wandering Encounter. On a 1, the Delvers will run into one at some point during the Turn. The frequency of the check will depend on how alert and organized the site’s inhabitants are.
 
 The actual contents of the encounter are decided when the GM puts together the site. Not all encounters involve running into creatures. Some are mere events or situations that fit the site. In the same vein, not all encounters are necessarily hostile, either. [Reaction rolls](#reaction-rolls) should be made for all groups of creatures.
 

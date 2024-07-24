@@ -64,7 +64,7 @@ You are surprisingly hard to kill. You can survive injuries or bear up under str
 You have a gift with ranged weapons. While this talent most commonly applies to bows, it is also applicable to thrown weapons or other ranged weapons that can be used with the Shoot skill. For thrown weapons, you can’t use the benefits of the Armsmaster Feat at the same time as Deadeye.
 
 - **Level 1**: Gain Shoot as a bonus skill. You can Ready a Stowed ranged weapon as an Instant action. You may use a bow or two-handed ranged weapon even when an enemy is within melee range, albeit at a -4 hit penalty. You may add your Shoot skill level to a ranged weapon’s damage roll.
-- **Level 2**: You can reload crossbows or other slow-loading weapons as a Free action, provided they don’t take more than a round to reload. You can use ranged weapons of any size in melee without penalty. Once per turn, as a Free action when target shooting at an inanimate, non-creature target, you automatically hit unless you roll a 2 on your Shoot skill check or the shot is physically impossible.
+- **Level 2**: You can reload crossbows or other slow-loading weapons as a Free action, provided they don’t take more than a round to reload. You can use ranged weapons of any size in melee without penalty. Once per Turn, as a Free action when target shooting at an inanimate, non-creature target, you automatically hit unless you roll a 2 on your Shoot skill check or the shot is physically impossible.
 
 ## Developed Attribute
 
@@ -99,15 +99,15 @@ Whether through uncanny reflexes, remarkable luck, supernatural heritage, or mag
 
 You are exceedingly skilled at presenting yourself as something you are not, including disguises, voice mimicry, and lightning-fast wardrobe changes.
 
-- **Level 1**: Gain Sneak as a bonus skill. Once per turn, reroll any failed skill check or saving throw related to maintaining an imposture or disguise. Create one false identity of no great social importance; you can flawlessly pretend to be that person, such that only extremely persuasive proof can connect you with it. You can change this identity with a week’s worth of effort in building a new one.
+- **Level 1**: Gain Sneak as a bonus skill. Once per Turn, reroll any failed skill check or saving throw related to maintaining an imposture or disguise. Create one false identity of no great social importance; you can flawlessly pretend to be that person, such that only extremely persuasive proof can connect you with it. You can change this identity with a week’s worth of effort in building a new one.
 - **Level 2**: You can alter your clothing and armor such that a single Main Action lets you swap between any of three chosen appearances. In addition to your original false identity, you can establish a new false identity in each city or significant community you spend at least a day in.
 
 ## Nullifier ⚔️
 
 Something about your hero interferes with easy use of magic on them. It may be a strangely powerful birth blessing, a particular supernatural bloodline, or simple occult incompatibility. This Feat cannot be taken by Mages or Partial Mages.
 
-- **Level 1**: You and all allies within twenty feet gain a +2 bonus to all saving throws against magical effects. As a Free action, you can feel the presence or use of magic within twenty feet of you, though you can’t discern details about it or the specific source. The first failed saving throw against a magical effect you suffer in a day is turned into a success.
-- **Level 2**: Once per day, as an Instant action, you are simply not affected by an unwanted magical effect or supernatural monstrous ability, even if it wouldn’t normally allow a saving throw. Immunity to a persistent effect lasts for the rest of the turn.
+- **Level 1**: You and all allies within twenty feet gain a +2 bonus to all saving throws against magical effects. As a Free action, you can feel the presence or use of magic within twenty feet of you, though you can’t discern details about it or the specific source. The first failed saving throw against a magical effect you suffer in a day is converted into a success.
+- **Level 2**: Once per day, as an Instant action, you are simply not affected by an unwanted magical effect or supernatural monstrous ability, even if it wouldn’t normally allow a saving throw. Immunity to a persistent effect lasts for the rest of the Turn.
 
 ## Poisoner
 
@@ -157,8 +157,8 @@ Shock
 
 You have uncommon expertise in handling traps and snares, both mundane ones and the magical perils sometimes found in dungeons or the lairs of sorcerers. You know how to improvise traps with materials you easily carry.
 
-- **Level 1**: Gain Notice as a bonus skill. Once per turn, reroll any failed saving throw or skill check related to traps or snares. Given five minutes of work you can trap a portal, container, passageway, or other relatively narrow space with foot snares, caltrops, toxic needles, or other hazards. Non-lethal traps cause the first victim to trigger it to lose a round of actions while dangerous ones inflict 1d6 damage plus twice the character’s level, with an appropriate saving throw for half. Only one such improvised trap can be maintained at a time. More fearsome traps may be laid with congenial circumstances and the GM’s permission.
-- **Level 2**: You know secrets for unraveling even magical traps or arcane hazards that would normally require a wizard to dispel them. Once per turn, your efforts count as an Extirpate Arcana spell against the trap or hazard, cast as if a Mage of twice your level, with any relevant skill check being Int/Notice or Dex/Notice. This ability can be used against any stationary magical effect that’s susceptible to being dispelled by Extirpate Arcana.
+- **Level 1**: Gain Notice as a bonus skill. Once per Turn, reroll any failed saving throw or skill check related to traps or snares. Given five minutes of work you can trap a portal, container, passageway, or other relatively narrow space with foot snares, caltrops, toxic needles, or other hazards. Non-lethal traps cause the first victim to trigger it to lose a round of actions while dangerous ones inflict 1d6 damage plus twice the character’s level, with an appropriate saving throw for half. Only one such improvised trap can be maintained at a time. More fearsome traps may be laid with congenial circumstances and the GM’s permission.
+- **Level 2**: You know secrets for unraveling even magical traps or arcane hazards that would normally require a wizard to dispel them. Once per Turn, your efforts count as an Extirpate Arcana spell against the trap or hazard, cast as if a Mage of twice your level, with any relevant skill check being Int/Notice or Dex/Notice. This ability can be used against any stationary magical effect that’s susceptible to being dispelled by Extirpate Arcana.
 
 ## Unarmed Combatant ⚔️
 
@@ -178,5 +178,5 @@ You are a bodyguard, shieldbearer, or other gifted defender of others, accustome
 
 You are a frenzy of bloody havoc in melee combat, and can hack down numerous lesser foes in close combat... assuming you survive being surrounded.
 
-- **Level 1**: Gain Stab as a bonus skill. Once per turn, as a Free action, apply your Shock damage to all foes within melee range, assuming they’re susceptible to your Shock.
+- **Level 1**: Gain Stab as a bonus skill. Once per Turn, as a Free action, apply your Shock damage to all foes within melee range, assuming they’re susceptible to your Shock.
 - **Level 2**: The first time you kill someone in a round with a normal attack, either with its rolled damage on a hit or with the Shock damage it inflicts, instantly gain a second attack on any target within range using any Ready weapon you have.
