@@ -178,7 +178,7 @@ All Healers are trained in the Healing Touch art, but may develop other techniqu
 | 9     |                              |
 | 10    | Any One                      |
 
-- **Healing Touch:** Commit Effort for the turn as an Instant action; for the rest of the turn, you may heal 2d6 damage plus your Heal skill to a touched ally as a Main Action. This healing adds 1 System Strain to the target each time it is applied.
+- <strong id="healing-touch">Healing Touch:</strong> Commit Effort for the turn as an Instant action; for the rest of the turn, you may heal 2d6 damage plus your Heal skill to a touched ally as a Main Action. This healing adds 1 System Strain to the target each time it is applied.
 - **Empowered Healer:** Your Healing Touch becomes more powerful, adding your level to any healing.
 - **Facile Healer:** Your Healing Touch ability is improved, and you no longer need to Commit Effort to activate it.
 - **Far Healer:** Your Healing Touch ability is improved, and may be used on a visible target within ten feet per character level.

@@ -113,6 +113,7 @@ Armor provides an <strong id="armor-class">Armor Class</strong> (AC). Equipped a
 | Earplugs                        | 1s   | -   |
 | Grappling Hook                  | 25g  | 1   |
 | Hammer (small)                  | 2g   | 1   |
+| <span id="healers-kit">Healer's Kit</span>                    | 10g  | 1   |
 | Holy Water (1 pint)             | 25g  | 1   |
 | Ink (1 pint)                    | 7g   | 1   |
 | Iron Spikes (6)                 | 1g   | 1   |
