@@ -19,7 +19,7 @@ Groups cannot be surprised if they are actively anticipating the possibility of 
 
 Attacks, movement, spellcasting, and other combat activities all require one of the following four types of actions.
 
-**Main actions** are a character’s primary action during a combat round, such as attacking an enemy, applying first aid to a downed ally, casting a spell, frantically evading incoming spears, or something else that takes less than six seconds to do. A combatant gets one Main action per round.
+**Main actions** are a character’s primary action during a combat round, such as attacking an enemy, applying first aid to a downed ally, casting a spell, frantically evading incoming spears, or something else that takes less than ten seconds to do. A combatant gets one Main action per round.
 
 **Move actions** involve moving the character’s normal movement rate of 30 feet or performing some other relatively brief bodily action, such as getting up from prone. A combatant gets one Move action per round, but can spend their main action to get a second.
 
