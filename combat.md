@@ -119,7 +119,7 @@ Some common situations can modify an attack roll, granting a bonus or penalty. G
 
 ## Damage
 
-If an attack hits, it inflicts hit point damage equal to the weapon’s damage die plus the weapon’s relevant attribute modifier. Special weapon mods or abilities may increase this damage.
+If an attack hits, it inflicts HP damage equal to the weapon’s damage die plus the weapon’s relevant attribute modifier. Special weapon mods or abilities may increase this damage.
 
 If you are making a purely unarmed attack you may add your Brawl skill to the damage.
 
@@ -169,7 +169,7 @@ A ranged execution attack requires one full minute of aiming, waiting, and adjus
 
 A melee execution attack requires one full minute of near proximity to the target, watching for just the right opening and getting to within melee range of the victim. If this time is granted, the assassin may make a melee attack, automatically hitting.
 
-When a target is hit with an execution attack they must make a Physical saving throw at a penalty equal to the assailant’s combat skill. On a failure, they are immediately reduced to zero hit points and Mortally Wounded, or knocked unconscious if the weapon was non-lethal.
+When a target is hit with an execution attack they must make a Physical saving throw at a penalty equal to the assailant’s combat skill. On a failure, they are immediately reduced to zero HP and Mortally Wounded, or knocked unconscious if the weapon was non-lethal.
 
 If they succeed on the save, they still take maximum damage from the hit.
 

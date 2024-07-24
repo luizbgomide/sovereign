@@ -39,7 +39,7 @@ Preparing a new set of spells takes an hour, and can only be done after a good n
 
 Once a set of spells is prepared, the mage may then cast them at their leisure. Casting a spell usually requires a Main Action, a free hand, and vocalizations as loud as normal conversation. The process is obviously occult to any onlookers, but it's impossible to tell which spell a mage is casting by meerly looking.
 
-Casting a spell requires focus and undisturbed concentration. If a mage has taken hit point damage or has been severely jostled in a round, they cannot cast magic that round. Thus, a mage who acts late in a round runs the risk of being hurt and having their concentration spoiled, thus forcing them to do something other than cast a spell when their turn comes around.
+Casting a spell requires focus and undisturbed concentration. If a mage has taken damage or has been severely jostled in a round, they cannot cast magic that round. Thus, a mage who acts late in a round runs the risk of being hurt and having their concentration spoiled, forcing them to do something other than cast a spell when their turn comes around.
 
 Spells and Arts cannot be cast while wearing armor, restrictive clothing, or wielding a shield.
 
@@ -60,7 +60,7 @@ A “visible” target is a target the mage can see or whose exact location is o
 ### Arcane Spark - Level 1
 A thaumic discharge is focused on a single visible creature within one hundred feet per caster level, wreathing them in a lethal mantle of crackling energy.
 
-The target suffers 1d8 damage per caster level, with a Physical save for half. NPC targets with only 1 hit die will inevitably be slain regardless of the damage done. The spell cannot be blocked by non-magical intervening barriers, provided the caster can see the target with their unaided vision.
+The target suffers 1d8 damage per caster level, with a Physical save for half. NPC targets with only 1 hit die will inevitably be slain regardless of the damage done.
 
 ### Blunt Contact - Level 1
 This spell may be cast in two different forms.
@@ -77,11 +77,11 @@ The mage targets a visible, normal, non-magical animal or insect, obtaining temp
 The mage must focus to share the beast’s senses, requiring a Main Action and leaving the mage unable to act physically while so focused. The spell lasts until the mage releases the beast, it is dispelled, or it is cast again.
 
 ### Create Illusion - Level 1
-The mage creates a phantasmal seeming at a visible location within 100 feet per caster level. The illusion can occupy a number of 10-foot cubes equal to the caster’s level and can include visual, audible, olfactory, and even tactile elements.
+The mage creates a illusion at a visible location within 100 feet per caster level. The illusion can occupy a number of 10-foot cubes equal to the caster’s level and can fool sight, hearing, smell, and even touch.
 
-If onlookers have no reason to believe the illusion is false, they will unconsciously move and perceive so as to conform to its apparent physical qualities, halting before walls, reeling from imagined blows, and seeing their clothing burnt by phantasmal flames. The illusion will behave and act on its own in accordance with the caster’s intentions for it, but it cannot go more than a hundred feet from where it was conjured.
+If onlookers have no reason to believe the illusion is false, they will unconsciously conform to its apparent physical qualities, halting before walls, reeling from imagined blows, and seeing their clothing burnt by illusory flames. The illusion will behave and act on its own in accordance with the caster’s intentions for it, but it cannot go more than a hundred feet from where it was conjured.
 
-Phantasmal monsters fight with the caster’s hit bonus, do 1d8 damage, have AC 10, and vanish if struck. There can be no more than one active illusionary attacker per two caster levels. Foes brought to zero hit points fall unconscious and wake up ten minutes later with 1 hit point.
+Illusory monsters fight with the caster’s hit bonus, do 1d8 damage, have AC 10, and vanish if struck. There can be no more than one active illusionary attacker per two caster levels. Foes brought to zero HP fall unconscious and wake up ten minutes later with 1 HP.
 
 Creatures convinced the illusion is false can make a Mental saving throw each round to reject its psychic influences, becoming immune to its effects. The illusion lasts until dispelled, the caster drops it, or this spell is cast again.
 
@@ -153,9 +153,9 @@ This spell is not strong enough to permanently suppress standing magical effects
 The caster and up to three visible allies per caster level are shielded from hostile elemental energies, becoming immune to mundane extremes of heat, cold, natural acids, and electrical discharges. Against magical harm of this nature, they automatically take only half the damage they normally would, or none if they make a successful Physical saving throw. This spell lasts for 6 Turns per caster level.
 
 ### Fake Death - Level 2
-This spell may be cast as an Instant action, even if another spell has been cast the same round, and targets either the caster or a willing visible target. It can only be used in immediate response to an injury that reduces the target to zero hit points.
+This spell may be cast as an Instant action, even if another spell has been cast the same round, and targets either the caster or a willing visible target. It can only be used in immediate response to an injury that reduces the target to zero HP.
 
-The target suffers dramatic and ostentatiously obvious death, with mortal blows cleaving them asunder or gorily butchering them. They are dead to all mundane or magical examination. Up to two hours later however, at the target’s discretion, the various remains of the target flow back together and restore their body with two hit points per caster level and two additional [System Strain](/rules#system-strain) points gained.
+The target suffers dramatic and ostentatiously obvious death, with mortal blows cleaving them asunder or gorily butchering them. They are dead to all mundane or magical examination. Up to two hours later however, at the target’s discretion, the various remains of the target flow back together and restore their body with two HP per caster level and two additional [System Strain](/rules#system-strain) points gained.
 
 If the target’s remains are intentionally scattered widely, incinerated, or entirely eaten, however, they cannot revive. The subject is aware of their surroundings while “dead”.
 
@@ -197,7 +197,7 @@ The listeners must be able to understand the caster’s language, and the caster
 The spell’s effects linger for one hour per caster level, after which the believers will be no more persuaded of the fact than events or their own common sense would allow.
 
 ### Summon Familiar - Level 2
-This spell conjures up an intelligent familiar for the caster, one with one hit point per caster level, an AC of 14, a ground movement rate of 30’ per action, saving throws the same as the caster, a +0 skill modifier, and no effective attack.
+This spell conjures up an intelligent familiar for the caster, one with 1 HP per caster level, an AC of 14, a ground movement rate of 30’ per action, saving throws the same as the caster, a +0 skill modifier, and no effective attack.
 
 The familiar always adopts the same shape for the same caster, though the initial casting can set this to any shape the caster wishes provided it’s no larger than a small human. The familiar retains a telepathic connection with its creator and will obey any command it is given, including suicidal ones. It can perform any action that a competent human servant could.
 
@@ -210,7 +210,7 @@ A vast wall of thick, heavy vines and other plant life blooms from a visible poi
 
 The wall is up to twenty feet high and three feet thick and runs for as much as twenty feet in width per caster level. The vine wall can be shaped as the caster wishes within the spell’s area of effect, so long as it’s contiguous, and may be laid horizontally if a bridge or roof is desired.
 
-Enemies must inflict five hit points of damage per caster level to cut a man-sized hole in the vines, and they must be using weapons or means that could actually cut through a wooden wall to do any meaningful harm. The vines may be optionally covered in long, vicious thorns to discourage climbing, inflicting 2d6 damage on any creature who tries to climb over it.
+Enemies must inflict five damage per caster level to cut a man-sized hole in the vines, and they must be using weapons or means that could actually cut through a wooden wall to do any meaningful harm. The vines may be optionally covered in long, vicious thorns to discourage climbing, inflicting 2d6 damage on any creature who tries to climb over it.
 
 If the vine wall is summoned from earth that could plausibly support plant life, it remains until dispelled or until it dies naturally. If called from bare stone or other infertile soils, it withers away to dust at the end of the Turn.
 
@@ -238,7 +238,7 @@ A creature may spend its Main Action to attempt a Physical save to throw off the
 ### Fear - Level 3
 A wave of numbing terror sweeps over all enemies of the caster within forty feet.
 
-They must immediately make a Mental save, with failure causing flight. Those who succeed at the check suffer one point of damage per caster level from demoralization and despair, with those brought to zero hit points instead regaining one hit point and fleeing.
+They must immediately make a Mental save, with failure causing flight. Those who succeed at the check suffer one point of damage per caster level from demoralization and despair, with those brought to zero HP instead regaining 1 HP and fleeing.
 
 This spell has no effect on creatures that feel no fear.
 
@@ -271,11 +271,11 @@ The spell ends when the caster ceases to touch the barrier or immediately after 
 ### Transfer Life - Level 3
 The caster renders the forms and life energy of up to one visible subject per caster level into something plastic and transferable.
 
-Hit points, poisons, and diseases can be transferred from one creature to another, if both are willing or helplessly bound, healing up to the maximum allowed hit points of the target creature.
+HP, poisons, and diseases can be transferred from one creature to another, if both are willing or helplessly bound, healing up to the maximum allowed HP of the target creature.
 
 Body parts can be exchanged or gifted so long as each subject retains at least half of their original body. A willing target can even be absorbed into the body of another subject of the spell, disappearing into them until the spell ends or they choose to spring back out, fully-equipped. Assimilated subjects can continue to see and hear what goes on outside their carrier. A given subject can absorb up to five other human-sized targets.
 
-The spell lasts until dispelled, released, or one hour per caster level has passed, though transferred hit points or afflictions do not return to their original subject. If a subject is killed while “borrowing” another’s body parts, those parts do not return.
+The spell lasts until dispelled, released, or one hour per caster level has passed, though transferred HP or afflictions do not return to their original subject. If a subject is killed while “borrowing” another’s body parts, those parts do not return.
 
 ### Transfiguration - Level 3
 A brief incantation transforms one visible, willing target per caster level into a perfect simulacrum of any humanoid creature the caster has seen before, whether a specific individual or a general type.
@@ -306,7 +306,7 @@ A single visible living creature is struck with a grim geas, forcing it to compl
 
 The caster may lay one single-sentence command on the target that is neither suicidal, indefinitely imprecise, nor likely physically impossible for them to comply with. Thus, the caster could geas a man to kill his son or never seek to harm his lord, but he could not reasonably command a peasant to become king or bind someone to forever after comply with a master’s arbitrary commands.
 
-If the target then defies that geas or unreasonably delays its execution, they suffer an agonizing progressive wasting disease that will inevitably kill them in 1d6 weeks, applying -2 to their hit rolls and -1 to skill checks for each week that passes and halving their maximum hit points. If they again begin complying with the geas afterwards or if the curse is lifted, the disease halts and reverses itself at the same rate it progressed.
+If the target then defies that geas or unreasonably delays its execution, they suffer an agonizing progressive wasting disease that will inevitably kill them in 1d6 weeks, applying -2 to their hit rolls and -1 to skill checks for each week that passes and halving their maximum HP. If they again begin complying with the geas afterwards or if the curse is lifted, the disease halts and reverses itself at the same rate it progressed.
 
 An active target can make a Mental save to resist this spell, but they cannot if they are restrained, unconscious, or otherwise subdued. The curse lasts until dispelled or the caster lifts it.
 
@@ -341,7 +341,7 @@ The portal remains open for up to one round per caster level, but can be shut as
 ### Summon Creature - Level 4
 The caster conjures up a semi-real phantasmal creature in any shape or appearance they desire, provided it is no larger than an ox.
 
-The servitor is as intelligent as a human and will obey the caster with fearless and suicidal devotion, having 4 effective hit dice, 20 hit points, AC 15, a movement rate of 30’ per action, a +1 skill modifier, saves of 13+, and a +6/1d8 damage melee attack with 2/AC 15 Shock. As the creature is partly phantasmal, the damage it inflicts cannot kill a subject, but only knock them unconscious for an hour before they awaken with 1 hit point.
+The servitor is as intelligent as a human and will obey the caster with fearless and suicidal devotion, having 4 effective hit dice, 20 HP, AC 15, a movement rate of 30’ per action, a +1 skill modifier, saves of 13+, and a +6/1d8 damage melee attack with 2/AC 15 Shock. As the creature is partly phantasmal, the damage it inflicts cannot kill a subject, but only knock them unconscious for an hour before they awaken with 1 HP.
 
 The caster may pick one special quality for the creature when it is summoned: the ability to fly at a rate of 30’/ move, the perfect duplication of a particular person they’ve seen, the ability to form a telepathic speech connection with the caster, or the ability to effectively use normal weaponry and armor.
 
@@ -454,7 +454,7 @@ This spell can function against worked stone, but the length of the tunnel is mu
 ### Become Element - Level 3
 The elementalist charges their physical shape with the qualities of a chosen element for the rest of the Turn.
 
-In all cases, they need not breathe and become immune to poisons and diseases not already present in them. If stone, they automatically stabilize at zero hit points and ignore the first three points of damage from any source of harm. If water, they can pass through any aperture a mouse could get through. If air, they can fly at their usual movement rate and gain a +4 Armor Class bonus against ranged attacks. If fire, they inflict 1d6 damage to all creatures in melee range at the start of their turn each round and become immune to heat damage.
+In all cases, they need not breathe and become immune to poisons and diseases not already present in them. If stone, they automatically stabilize at zero HP and ignore the first three points of damage from any source of harm. If water, they can pass through any aperture a mouse could get through. If air, they can fly at their usual movement rate and gain a +4 Armor Class bonus against ranged attacks. If fire, they inflict 1d6 damage to all creatures in melee range at the start of their turn each round and become immune to heat damage.
 
 ### Elemental Wall - Level 3
 A wall of a chosen churning elemental force can be called up by the elementalist.
@@ -555,14 +555,14 @@ All living creatures within the area must make a Physical saving throw or for th
 ### Final Death - Level 2
 The necromancer curses one visible target per level.
 
-For the rest of the Turn, these targets cannot recover or gain hit points and will die instantly if Mortally Wounded. After each failed instance of healing, a target can make a Physical save to throw off the spell.
+For the rest of the Turn, these targets cannot recover or gain HP and will die instantly if Mortally Injured. After each failed instance of healing, a target can make a Physical save to throw off the spell.
 
 ### Raise Corpse - Level 2
 The necromancer targets a mostly-intact skeleton or corpse, imbuing it with a semblance of life.
 
 Whatever the creature’s attributes were in life, it now has 1 HD, an AC of 13, a Move of 30’/round, a +0 skill bonus, saves of 15+, a +1/1d6 unarmed melee attack, Instinct 0, and a Morale of 12. Such corpses may be equipped with weapons or armor. Its decay or dissolution immediately ceases, and it becomes suicidally loyal to its creator. The corpse has no natural volition, but will obey commands with a human degree of intelligence. It has only vague memories of its prior life, and while it may retain human tics or habits it had in life it can answer only the simplest and most self-evident questions.
 
-Damage to a corpse can be repaired only by casting this spell on it again, which restores it to its original “health”. The corpse continues to exist until it is reduced to zero hit points or its creator releases it.
+Damage to a corpse can be repaired only by casting this spell on it again, which restores it to its original “health”. The corpse continues to exist until it is reduced to zero HP or its creator releases it.
 
 A necromancer cannot have more active subjects of this spell than their character level.
 
@@ -583,14 +583,14 @@ Creatures with more hit dice than the necromancer has levels can make a Physical
 ### Forgetting the Grave - Level 3
 A necromancer can temporarily suspend the mortality of a willing target within sight.
 
-For one round per Necromancer level, the creature simply cannot die, no matter how drastic their injuries. Those reduced to zero hit points lose their Move action each Round but can continue to act otherwise; if such a target is damaged yet again, they must make a Physical saving throw each time or become incapable of movement until healed.
+For one round per Necromancer level, the creature simply cannot die, no matter how drastic their injuries. Those reduced to zero HP lose their Move action each Round but can continue to act otherwise; if such a target is damaged yet again, they must make a Physical saving throw each time or become incapable of movement until healed.
 
-At the spell’s end targets reduced to zero hit points are Mortally Wounded; those that have been dismembered or otherwise slaughtered beyond the hope of survival die instantly.
+At the spell’s end targets reduced to zero HP are Mortally Injured; those that have been dismembered or otherwise slaughtered beyond the hope of survival die instantly.
 
 ### Share Vitality - Level 3
 By molding the plasmic stuff of life force, the necromancer can create a bond between two willing or helpless targets.
 
-These subjects must be close enough for the necromancer to touch; thereafter, for as long as the spell is in effect, the two creatures pool their hit points. Injuries to either subtract from this pool, and neither dies until it is reduced to zero, whereupon both are Mortally Wounded. They can communicate telepathically at will while the spell is in effect.
+These subjects must be close enough for the necromancer to touch; thereafter, for as long as the spell is in effect, the two creatures pool their HP. Injuries to either subtract from this pool, and neither dies until it is reduced to zero, whereupon both are Mortally Wounded. They can communicate telepathically at will while the spell is in effect.
 
 The power ends at daybreak; if dispelled sooner, the remaining pool is split proportionately.
 
@@ -604,9 +604,9 @@ This spell lasts until the necromancer lifts it or it is dispelled.
 ### Raise Grave Knight - Level 4
 The corpse used for this spell must be of a relatively powerful creature with at least four hit dice or levels.
 
-The result is much like that of the Raise Corpse spell, but this undead servitor is much stronger, with 4 HD, AC 15, a Move of 40’/action, a +1 skill bonus, saves of 13+, Instinct 0, Morale of 12, and a melee attack of +6/1d10, assuming it doesn’t use a normal weapon. It is fully intelligent and self-willed, albeit utterly devoted to its creator, and it remembers a significant amount about its prior life. A grave knight regains all lost hit points at dusk each day, assuming it’s not destroyed. A caster may have only one grave knight active at a time.
+The result is much like that of the Raise Corpse spell, but this undead servitor is much stronger, with 4 HD, AC 15, a Move of 40’/action, a +1 skill bonus, saves of 13+, Instinct 0, Morale of 12, and a melee attack of +6/1d10, assuming it doesn’t use a normal weapon. It is fully intelligent and self-willed, albeit utterly devoted to its creator, and it remembers a significant amount about its prior life. A grave knight regains all lost HP at dusk each day, assuming it’s not destroyed. A caster may have only one grave knight active at a time.
 
-One that has been reduced to zero hit points is destroyed and can only be rebuilt with a month of painstaking repair and re-enchantment.
+One that has been reduced to zero HP is destroyed and can only be rebuilt with a month of painstaking repair and re-enchantment.
 
 ### Call of the Tomb - Level 5
 The necromancer invokes the inescapable urge for self-dissolution within the substance of all that exists, amplifying the weight of their own mortality.
@@ -616,6 +616,6 @@ All enemy creatures within forty feet are affected. Targets can make a Physical 
 ### Everlasting - Level 5
 The spell may be triggered as an Instant action by the caster, imparting a burst of unquenchable life force to all allied creatures within 50 feet.
 
-For the next five rounds, no affected ally can be reduced below 1 hit point, regardless of the damage inflicted upon them. At the end of the spell’s effect, the caster’s own life energy is exhausted, leaving them with only 1 hit point.
+For the next five rounds, no affected ally can be reduced below 1 HP, regardless of the damage inflicted upon them. At the end of the spell’s effect, the caster’s own life energy is exhausted, leaving them with only 1 HP.
 
 A creature can benefit from this spell no more than once per day.

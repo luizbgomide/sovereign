@@ -56,8 +56,8 @@ You’ve had all too much practice at close-in fighting and desperate struggles 
 
 You are surprisingly hard to kill. You can survive injuries or bear up under stresses that would incapacitate a less determined hero.
 
-- **Level 1**: You gain an extra 2 maximum hit points per level. This bonus applies retroactively if you take this Feat after first level. You automatically stabilize if Mortally Wounded, provided you have not been incinerated, dismembered, or otherwise torn apart.
-- **Level 2**: The first time each day that you are reduced to zero hit points by an injury, you instead survive with one hit point remaining. This ability can’t save you from large-scale, instantly-lethal trauma.
+- **Level 1**: You gain an extra 2 maximum HP per level. This bonus applies retroactively if you take this Feat after first level. You automatically stabilize if Mortally Wounded, provided you have not been incinerated, dismembered, or otherwise torn apart.
+- **Level 2**: The first time each day that you are reduced to zero HP by an injury, you instead survive with 1 HP. This ability can’t save you from large-scale, instantly-lethal trauma.
 
 ## Deadeye ⚔️
 
@@ -76,7 +76,7 @@ Choose an attribute; its modifier is increased by +1, up to a maximum of +3. The
 
 You have an unusual gift for saving Mortally Wounded allies and quickening the natural recovery of the wounded in your care.
 
-- **Level 1**: Gain Heal as a bonus skill. You may attempt to stabilize one Mortally Wounded adjacent person per round as a Free action. When rolling Heal skill checks, roll 3d6 and drop the lowest die. You heal twice as many hit points as usual when applying first aid after a battle.
+- **Level 1**: Gain Heal as a bonus skill. You may attempt to stabilize one Mortally Wounded adjacent person per round as a Free action. When rolling Heal skill checks, roll 3d6 and drop the lowest die. You heal twice as many HP as usual when applying first aid after a battle.
 - **Level 2**: Your curative gifts count as magical healing. You can heal 1d6+Heal skill in damage to an adjacent wounded ally as a Main Action, potentially reviving them without any lingering Frailty. Each such application of healing adds 1 System Strain to the target, and the gift cannot be used on targets already at their maximum System Strain.
 
 ## Henchkeeper
@@ -113,7 +113,7 @@ Something about your hero interferes with easy use of magic on them. It may be a
 
 You are a skilled poisoner, capable of compounding toxins out of readily-available flora and minerals. It takes an hour to brew a poison, and you can keep as many doses fresh as you have levels. Blade venoms take a Main Action to apply and last for ten minutes or until a hit or Shock is inflicted, whichever comes first. Detecting poisoned food is a WIS/Notice skill check against 10, or 12 if the diner’s not a noble or otherwise normally wary of poison. One dose can poison up to a half-dozen diners.
 
-- **Level 1**: Gain Heal as a bonus skill. Gain a reroll on any failed saving throw versus poison. Your toxins inflict 2d6 damage plus your level on a hit or Shock, with a Physical save for half. Your incapacitating or hallucinogenic toxins do the same, but those reduced to zero hit points are simply incapacitated for an hour.
+- **Level 1**: Gain Heal as a bonus skill. Gain a reroll on any failed saving throw versus poison. Your toxins inflict 2d6 damage plus your level on a hit or Shock, with a Physical save for half. Your incapacitating or hallucinogenic toxins do the same, but those reduced to zero HP are simply incapacitated for an hour.
 - **Level 2**: You are immune to poison and can apply a universal antidote to any poisoned ally as a Main Action. Any attempt to detect or save
 against your poisons takes a penalty equal to your Heal skill. Your ingested poisons count as an Execution Attack against unsuspecting targets, with Heal used for the Physical saving throw penalty and 1d6 damage per level done on a success. Such poisons can be non-lethal at your discretion.
 
@@ -144,7 +144,7 @@ You have a minor spirit, devil, construct, magical beast, or other creature as a
 
 - **Level 1**: Choose a form for your familiar no smaller than a cat nor larger than a human. It has the traits and abilities of an entity created by Calculation of the Evoked Servitor but may be summoned or dismissed as a Main Action, appearing within melee range of its owner. It cannot carry objects with it during its vanishment aside from the clothing natural to its shape. It has no need for food, water, or sleep. If killed, it vanishes and cannot be re-summoned for 24 hours. Once per day, it can refresh one point of Committed Effort for you.
 - **Level 2**: Pick two benefits from the list below for your familiar. This level may be taken more than once, adding two additional options each time.
-  - It has hit points equal to three times your level
+  - It has HP equal to three times your level
   - It gains the ability to attack with a hit bonus equal to half your level, rounded up, doing 1d8 damage on a hit with no
 Shock
   - It gains a +1 skill check bonus and can apply it to a range

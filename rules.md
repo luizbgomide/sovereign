@@ -71,7 +71,7 @@ Some Feats and abilities may add bonuses or penalties to an attribute’s base m
 
 A character’s hit points (HP) measure their distance from death. If a character is reduced to zero HP, they are [dying](#mortal-injury-and-stabalization).
 
-A new character rolls the hit die for their [Class](/classes), adding their Con to it. If they have chosen the [Die Hard](/feats#die-hard-) Feat they may add +2 to the roll. The final value for a given die cannot be less than 1 hit point.
+A new character rolls the hit die for their [Class](/classes), adding their Con to it. If they have chosen the [Die Hard](/feats#die-hard-) Feat they may add +2 to the roll. The final value for a given die cannot be less than 1 HP.
 
 A character gains HP as they advance in character level, re-rolling their prior levels and taking the new score if it’s higher, as explained in [advancement](#advancement-benefits).
 
@@ -166,19 +166,19 @@ Injury is almost inevitable in an adventurer’s career. Some forms of it can be
 
 ### Mortal Injury and Stabalization
 
-When a Delver is reduced to zero hit points by a lethal attack, they are Mortally Injured. They will die at the end of the sixth round after their incapacitation unless stabilized by an ally or some special ability. A Mortally Injured character is helpless, and can take no actions and do nothing useful.
+When a Delver is reduced to zero HP by a lethal attack, they are Mortally Injured. They will die at the end of the sixth round after their incapacitation unless stabilized by an ally or some special ability. A Mortally Injured character is helpless, and can take no actions and do nothing useful.
 
 Stabilizing an ally is a Main Action that requires a DEX/ Heal or INT/Heal skill check with a DC of 8 plus the number of full rounds since the target fell. If the medic lacks a [healer’s kit](/equipment#healers-kit) or other tools, this difficulty is increased by 2. Only one ally can try to stabilize a victim per round, though others can attempt to aid their check, but attempts may be retried each round for as long as hope lasts.
 
-Once stabilized, the victim remains incapacitated for one Turn before recovering with 1 hit point and the [Frail](#frail) condition.
+Once stabilized, the victim remains incapacitated for one Turn before recovering with 1 HP and the [Frail](#frail) condition.
 
-NPCs who aren’t important enough to merit a name die instantly when reduced to zero hit points.
+NPCs who aren’t important enough to merit a name die instantly when reduced to zero HP.
 
 ### Frail
 
 Creatures who reach 0 HP and then recover are Frail.
 
-A Frail character can act normally, but if reduced to 0 HP again, they die instantly. Frail characters do not recover hit points through [Natural Healing](#natural-healing).
+A Frail character can act normally, but if reduced to 0 HP again, they die instantly. Frail characters do not recover HP through [Natural Healing](#natural-healing).
 
 Frailty is removed with a week of bed rest and medical attention by someone with a [healer’s kit](/equipment#healers-kit) and at least Heal-0 skill. In addition, someone can with at least Heal-1 can make one attempt to remove Frailty with a healer's kit, an hour of labor, and a successful DC 10 DEX/Heal or INT/Heal check.
 
@@ -186,13 +186,13 @@ Frail characters without this level of medical care must make a [Physical](#phys
 
 ### Natural Healing
 
-A wounded creature can recover hit points by getting a good night’s rest and adequate food. Provided they are warm, fed, and comfortable, they regain hit points each morning equal to their experience level, or equal to their hit dice if they are NPCs. Characters suffering some form of privation do not recover hit points through sleep.
+A wounded creature can recover HP by getting a good night’s rest and adequate food. Provided they are warm, fed, and comfortable, they regain HP each morning equal to their experience level, or equal to their hit dice if they are NPCs. Characters suffering some form of privation do not recover HP through sleep.
 
-[Frail](#frail) creatures do not recover hit points through natural healing.
+[Frail](#frail) creatures do not recover HP through natural healing.
 
 ### First Aid
 
-Healers can patch up victims in a hurry at a cost to their physical resilience. By spending one minute patching up an ally with a [healer’s kit](/equipment#healers-kit), a healer can heal 1d6+Heal points of damage. Each such application adds one [System Strain](#system-strain) to the target. First aid can restore hit points to a [Frail](#frail) target, but it cannot remove their Frailty.
+Healers can patch up victims in a hurry at a cost to their physical resilience. By spending one minute patching up an ally with a [healer’s kit](/equipment#healers-kit), a healer can heal 1d6+Heal points of damage. Each such application adds one [System Strain](#system-strain) to the target. First aid can restore HP to a [Frail](#frail) target, but it cannot remove their Frailty.
 
 One Turn is enough time for a healer to apply as much first aid as is wanted to the rest of their party.
 
@@ -210,7 +210,7 @@ Characters lose one point of accumulated System Strain after each night’s rest
 
 Most toxins force a victim to make a [Physical](#physical) saving throw to resist their effects or mitigate their harm. Weak perils might grant as much as a +4 to the saving throw, while dire threats might apply a -4 penalty.
 
-If the save is failed, the poison or disease takes hold. Most poisons act quickly, inflicting hit point damage, adding System Strain to the target, or applying long-lasting penalties. Diseases can have a slower onset but often apply the same sort of harms.
+If the save is failed, the poison or disease takes hold. Most poisons act quickly, inflicting damage, adding System Strain to the target, or applying long-lasting penalties. Diseases can have a slower onset but often apply the same sort of harms.
 
 A medic who treats a poisoned person within a minute of the poisoning can use a [healer’s kit](/equipment#healers-kit) to give them a better chance to resist. They may add twice their Heal skill level to the victim’s saving throw roll, or +1 if they have only Heal-0 skill. Once the poison takes hold, the victim has 1d4 Turns to live. The medic can counteract the toxin with an INT/Heal skill check at a DC of at least 10 for most poisons, or 12 or more for truly fearsome ones.
 
@@ -274,7 +274,7 @@ Some perils occur with some regularity for adventurers. A few of the most common
 
 **Falling**: Most creatures will take 1d6 damage per 10 full feet they fall, up to 20d6 maximum. Spikes or other hazardous terrain at the bottom will add at least 1d6 to the total. A creature that intentionally leaps or skids down in a controlled way may make a DEX or STR/Exert skill check at a difficulty of 7 + 1 for every 10 full feet; on a success, the effective distance fallen is halved.
 
-**Suffocation**: Creatures can fight or act normally without air for one round per point of Constitution, or 10 rounds for most NPCs. If they don’t move, they can quadruple this time. Once they run out of air, they must make a Physical save each round or take 1 hit point of damage per HD or level they have.
+**Suffocation**: Creatures can fight or act normally without air for one round per point of Constitution, or 10 rounds for most NPCs. If they don’t move, they can quadruple this time. Once they run out of air, they must make a Physical save each round or take 1 HP per HD or level they have.
 
 **Starvation**: Each day of insufficient food (1 Ration) causes 1 [System Strain](#system-strain).
 
@@ -432,7 +432,7 @@ Once a character has enough XP to level up **and** is in a settlement, they do.
 
 ### Advancement Benefits
 
-**More HP.** To determine their new maximum, they roll their hit die for each level they now possess, adding their Con to each die. No individual die can be reduced below 1 point, even with a negative CON. If the total roll is greater than their current maximum hit points, they take the roll. If less or equal, their maximum hit points increase by one.
+**More HP.** To determine their new maximum, they roll their hit die for each level they now possess, adding their Con to each die. No individual die can be reduced below 1 point, even with a negative CON. If the total roll is greater than their current maximum HP, they take the roll. If less or equal, their maximum HP increases by one.
 
 **Better Saves.** Their saving throw scores decrease by one, making it easier to succeed on saving throws by rolling equal or over it. As a first level character has saving throw scores of 15, reaching second level would lower them to 14, modified by their appropriate attributes.
 
