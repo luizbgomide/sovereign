@@ -5,9 +5,7 @@ title: Home
 
 Welcome to Sovereign!
 
-This game endeavors to provide a ruleset that allows players to play through modules compatible with TSR-era D&D. Little conversion should be necessary. The game hopes to be written more clearly, be more searchable, better hyperlinked, have more depth, and boast a better in-game economy.
-
-The intended method of play is for the GM to create a loosely defined fantasy setting where most modules that they would want to run fits in somewhere. The GM proposes a few modules (describing them in vague strokes) to the players between sessions, the players pick the one they want to run next, and the GM prepares that module, using [hard framing](https://thealexandrian.net/wordpress/31509/roleplaying-games/the-art-of-pacing) to place the Delvers right on the adventure's doorstep with a strong hook. After a module is completed, the process repeats. Each module is mostly its own sandbox and often weeks or months pass in-game between adventures.
+This game endeavors to provide a ruleset that allows players to play through modules compatible with [1980s D&D](https://en.wikipedia.org/wiki/Dungeons_%26_Dragons_Basic_Set). Little conversion should be necessary. The game hopes to be written more clearly, be more searchable, better hyperlinked, have more depth, and boast a better in-game economy.
 
 This document is split in several sections.
 

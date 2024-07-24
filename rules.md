@@ -5,11 +5,21 @@ title: Home
 
 # Rules
 
+## The Big Picture
+
+1. The Game Master (GM) creates a loosely defined fantasy setting where most modules that they would want to run fits in somewhere.
+2. The GM proposes a few modules (describing them in vague strokes) to the players between sessions, the players pick the one they want to run next, and the GM prepares that module, using [hard framing](https://thealexandrian.net/wordpress/31509/roleplaying-games/the-art-of-pacing) to place the Delvers right on the adventure's doorstep with a strong hook.
+3. After a module is completed, the process repeats from step 2, usually with the same Delvers. Weeks or months pass in-game between adventures as appropriate.
+
+This is *very much* a game about playing all of the wonderful [modules](/#the-module-stack) that the [OSR](https://campaignwiki.org/osr/) has to offer. To that end, Sovereign attempts to strip out and de-emphasize anything that might entice the players *away* from the pre-written content in modules. Domain play, crafting, etc have all be deliberately removed.
+
+Finally, the episodic natures of the adventures facilitates players joining and leaving the table, and allows for players to easily introduce new Delvers as their old ones die, retire, or recover. We want everyone playing as smoothly as possible!
+
 ## Core Gameplay Loop
 
-Sovereign is played with one Game Master (GM) and at most 8 players, playing as 4 to 8 Delvers, venturing into dark dungeons, corrupt mansions, and wizard towers for fun and profit. The game is, predominately, a conversation, but that conversation has *structure*:
+Sovereign is played with one GM and at most 8 players, playing as 4 to 8 Delvers, venturing into dark dungeons, corrupt mansions, and wizard towers for fun and profit. The game is, predominately, a conversation, but that conversation has *structure*:
 
-1. The Game Master (GM) describes a situation to the players, making sure to not assume actions from the players, paying special attention to what they see, hear, and smell. Then, they ask "What do you do?"
+1. The GM describes a situation to the players, making sure to not assume actions from the players, paying special attention to what they see, hear, and smell. Then, they ask "What do you do?"
 2. The players describe their actions and the *intent* behind their actions. When acting as a group (such as picking the next room to explore), elect one person to speak for the group to reduce chaos.
 3. The GM informs the players how likely their actions are to accomplish their intent (taking into account the situation, their attributes, and their skills), what happens if they fail, and how much it costs them to try. Actions that have no chance to fail, have no consequences for failure and no appreciable cost to attempt *just happen*. [Skill checks](#skill-checks) are a useful way come up with likelihood, but the GM is free to come up with probabilities directly, like 1-in-6 or 45%.
 4. If the players find the ruling to be reasonable, the dice are rolled and we honor the stakes. If they *don't*, they negotiate or come up with a better plan. Typical levers are higher chances of success for less impactful results, worse consequences for failure, or higher costs to attempt and vice versa.
