@@ -28,6 +28,7 @@ A Bestiary, Magic Item repository, and extensive GM section are in progress.
 ### Change Log
 
 #### 2024-07-24
+- Add a narrative interaction section
 - Add morale
 - Add a core game loop section
 - Standardize on 'attack bonus' - it was sometimes called 'base attack bonus'

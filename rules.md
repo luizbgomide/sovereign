@@ -17,6 +17,18 @@ Sovereign is played with one Game Master (GM) and at most 8 players, playing as 
 
 That's the *whole* game. All other rules exist to either faciliate interesting decisions for #2, help the GM determine #3, or ease the negotiation in #4. If you find a rule *isn't* don't that, change or remove it.
 
+### Narrative Interaction
+
+Much of the intresting part (and what separates skilled players from novice players) is coming up with a plan that *avoids* rolling. Proposing a plan that triggers a skill check or roll is *feasible*, but also *risky*. Much of the fun, as a player, is coming up with plans that *can't fail*.
+
+For instance, consider being faced with a 15-foot wide, deep, pit. Dangerous. If a player says they want to leap to the other side, the GM might rule that as a DC 8 STR/Exert [check](#skill-checks) with failure resulting in taking 3d6 damage from the fall and spikes as well as being stuck at the bottom.
+
+A clever player might think to *fill up the pit*. Perhaps they spend some time dragging coffins, furniture, etc into the pit so that they can lower themselves down, walk across, and climb up the other side without rolling.
+
+Searching for stuff works the same way - the GM will describe a new room to the players, but *won't* assume that they touched anything (since it could be hazardous). A player can say "I search the room", and lean on their character's WIS/Notice, potentially triggering traps.
+
+Better is for the player to specify *what* and *how* they're searching. If their method (which usually has a time-cost measured in [Turns](#keeping-track-of-time)) would find the hidden thing (whether a trap, treasure, or clue), they *just do*.
+
 ## Attributes
 
 A Delver has six attributes ranging from 3 to 18, reflecting a range from
