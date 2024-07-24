@@ -25,6 +25,12 @@ If you're looking up a rule, or prefer to learn more traditionally:
 
 A Bestiary, Magic Item repository, and extensive GM section are in progress. In the mean time, check out [those outside the walls](https://www.drivethrurpg.com/en/product/422653/Those-Outside-the-Walls--A-450-Monster-Bestiary) and [basic fantasy](https://basicfantasy.org/srd/monstersAll.html) for monsters, and [basic fantasy](https://www.basicfantasy.org/srd/magicItems.html) for magic items.
 
+### The Module Stack
+
+- Anything rated ["Best" at tenfootpole](https://tenfootpole.org/ironspike/?cat=7).
+- Anything Melan rates a `**** / *****` or higher. I don't know of a good way to filter here, but [here are all fo the reviews](https://beyondfomalhaut.blogspot.com/search/label/review)
+- Anything prince rates a `*****` or higher on [his review list](https://princeofnothingblogs.wordpress.com/reviews/)
+
 ### Change Log
 
 #### 2024-07-24
