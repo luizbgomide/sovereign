@@ -82,7 +82,7 @@ This chart represents the party's ability to both buy *and sell* in a market, so
 - **LL**: Less Lethal. Foes brought to zero hit points by this weapon can always be left alive at the wielder’s discretion.
 - **N**: Numerous. Five of these count as only one Readied item.
 - **PM**: Precisely Murderous. When used for an Execution Attack, the weapon applies an additional -1 penalty to the Physical save and does double damage even if it succeeds.
-- **R**: Reload. The weapon takes a Move action to reload. If the user has at least Shoot-1 skill, they can reload as an On Turn action instead.
+- **R**: Reload. The weapon takes a Move action to reload. If the user has at least Shoot-1 skill, they can reload as a Free action instead.
 - **S**: Subtle. Can be easily hidden in clothing or jewelry.
 - **SR**: Slow Reload. It takes a Main Action to reload this weapon. SS: Single Shot. This weapon takes ten rounds to reload, and the reloading effort is spoiled if an enemy melees the wielder.
 - **T**: Throwable. While the weapon can be used in melee, it may be thrown out to the listed range as well, albeit it does no Shock in that case. Throwing a weapon while in melee applies a -4 penalty to the hit roll.

@@ -35,7 +35,7 @@ You have an unusual competence with thrown weapons and melee attacks. This Feat�
 
 You are practiced at sudden murder, and have certain advantages in carrying out an Execution Attack.
 
-- **Level 1**: Gain Sneak as a bonus skill. You can conceal an object no larger than a knife from anything less invasive than a strip search. You can draw or produce this object as an On Turn action, and your point-blank thrown or melee attacks made during a surprise round with it cannot miss the target.
+- **Level 1**: Gain Sneak as a bonus skill. You can conceal an object no larger than a knife from anything less invasive than a strip search. You can draw or produce this object as a Free action, and your point-blank thrown or melee attacks made during a surprise round with it cannot miss the target.
 - **Level 2**: You can take a Move action on the same round as you make an Execution Attack, closing rapidly with a target before you attack. You may split this Move action when making an Execution Attack, taking part of it before you murder your target and part of it afterwards. This movement happens too quickly to alert a victim or to be hindered by bodyguards.
 
 ## Authority
@@ -50,7 +50,7 @@ You have an uncanny kind of charisma about you, one that makes others instinctiv
 You’ve had all too much practice at close-in fighting and desperate struggles with drawn blades. You’re extremely skilled at avoiding injury in melee combat, and at level 2 you can dodge through a melee scrum without fear of being knifed in passing.
 
 - **Level 1**: Gain any combat skill as a bonus skill. You can use knife-sized thrown weapons in melee without suffering penalties for the proximity of melee attackers. You ignore Shock damage from melee assailants, even if you’re unarmored at the time, but invoking this benefit disrupts any spellcasting you might do that round due to the need for violently active evasion.
-- **Level 2**: The Shock damage from your melee attacks treats all targets as if they were AC 10. The Fighting Withdrawal combat action is treated as an On Turn action for you and can be performed freely.
+- **Level 2**: The Shock damage from your melee attacks treats all targets as if they were AC 10. The Fighting Withdrawal combat action is treated as a Free action for you and can be performed freely.
 
 ## Die Hard ⚔️
 
@@ -64,7 +64,7 @@ You are surprisingly hard to kill. You can survive injuries or bear up under str
 You have a gift with ranged weapons. While this talent most commonly applies to bows, it is also applicable to thrown weapons or other ranged weapons that can be used with the Shoot skill. For thrown weapons, you can’t use the benefits of the Armsmaster Feat at the same time as Deadeye.
 
 - **Level 1**: Gain Shoot as a bonus skill. You can Ready a Stowed ranged weapon as an Instant action. You may use a bow or two-handed ranged weapon even when an enemy is within melee range, albeit at a -4 hit penalty. You may add your Shoot skill level to a ranged weapon’s damage roll.
-- **Level 2**: You can reload crossbows or other slow-loading weapons as an On Turn action, provided they don’t take more than a round to reload. You can use ranged weapons of any size in melee without penalty. Once per turn, as an On Turn action when target shooting at an inanimate, non-creature target, you automatically hit unless you roll a 2 on your Shoot skill check or the shot is physically impossible.
+- **Level 2**: You can reload crossbows or other slow-loading weapons as a Free action, provided they don’t take more than a round to reload. You can use ranged weapons of any size in melee without penalty. Once per turn, as a Free action when target shooting at an inanimate, non-creature target, you automatically hit unless you roll a 2 on your Shoot skill check or the shot is physically impossible.
 
 ## Developed Attribute
 
@@ -76,7 +76,7 @@ Choose an attribute; its modifier is increased by +1, up to a maximum of +3. The
 
 You have an unusual gift for saving Mortally Wounded allies and quickening the natural recovery of the wounded in your care.
 
-- **Level 1**: Gain Heal as a bonus skill. You may attempt to stabilize one Mortally Wounded adjacent person per round as an On Turn action. When rolling Heal skill checks, roll 3d6 and drop the lowest die. You heal twice as many hit points as usual when applying first aid after a battle.
+- **Level 1**: Gain Heal as a bonus skill. You may attempt to stabilize one Mortally Wounded adjacent person per round as a Free action. When rolling Heal skill checks, roll 3d6 and drop the lowest die. You heal twice as many hit points as usual when applying first aid after a battle.
 - **Level 2**: Your curative gifts count as magical healing. You can heal 1d6+Heal skill in damage to an adjacent wounded ally as a Main Action, potentially reviving them without any lingering Frailty. Each such application of healing adds 1 System Strain to the target, and the gift cannot be used on targets already at their maximum System Strain.
 
 ## Henchkeeper
@@ -106,7 +106,7 @@ You are exceedingly skilled at presenting yourself as something you are not, inc
 
 Something about your hero interferes with easy use of magic on them. It may be a strangely powerful birth blessing, a particular supernatural bloodline, or simple occult incompatibility. This Feat cannot be taken by Mages or Partial Mages.
 
-- **Level 1**: You and all allies within twenty feet gain a +2 bonus to all saving throws against magical effects. As an On Turn action, you can feel the presence or use of magic within twenty feet of you, though you can’t discern details about it or the specific source. The first failed saving throw against a magical effect you suffer in a day is turned into a success.
+- **Level 1**: You and all allies within twenty feet gain a +2 bonus to all saving throws against magical effects. As a Free action, you can feel the presence or use of magic within twenty feet of you, though you can’t discern details about it or the specific source. The first failed saving throw against a magical effect you suffer in a day is turned into a success.
 - **Level 2**: Once per day, as an Instant action, you are simply not affected by an unwanted magical effect or supernatural monstrous ability, even if it wouldn’t normally allow a saving throw. Immunity to a persistent effect lasts for the rest of the turn.
 
 ## Poisoner
@@ -149,7 +149,7 @@ You have a minor spirit, devil, construct, magical beast, or other creature as a
 Shock
   - It gains a +1 skill check bonus and can apply it to a range
   of situations equivalent to one normal human background
-  - It gains another shape of your choice which it can adopt or discard as an On Turn action
+  - It gains another shape of your choice which it can adopt or discard as a Free action
   - It can hover or fly at its usual movement rate
   - It can communicate freely with others in any language you know
 
@@ -178,5 +178,5 @@ You are a bodyguard, shieldbearer, or other gifted defender of others, accustome
 
 You are a frenzy of bloody havoc in melee combat, and can hack down numerous lesser foes in close combat... assuming you survive being surrounded.
 
-- **Level 1**: Gain Stab as a bonus skill. Once per turn, as an On Turn action, apply your Shock damage to all foes within melee range, assuming they’re susceptible to your Shock.
+- **Level 1**: Gain Stab as a bonus skill. Once per turn, as a Free action, apply your Shock damage to all foes within melee range, assuming they’re susceptible to your Shock.
 - **Level 2**: The first time you kill someone in a round with a normal attack, either with its rolled damage on a hit or with the Shock damage it inflicts, instantly gain a second attack on any target within range using any Ready weapon you have.

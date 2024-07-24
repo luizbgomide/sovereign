@@ -23,7 +23,7 @@ Attacks, movement, spellcasting, and other combat activities all require one of 
 
 **Move actions** involve moving the character’s normal movement rate of 30 feet or performing some other relatively brief bodily action, such as getting up from prone. A combatant gets one Move action per round, but can spend their main action to get a second.
 
-**On Turn** actions are brief, simple acts that require only a moment’s concentration. Activating certain abilities or speaking a few words might constitute an On Turn action. A character can take as many On Turn actions on their round as the GM finds plausible.
+**Free** actions are brief, simple acts that require only a moment’s concentration. Activating certain abilities or speaking a few words might constitute a Free action. A character can take as many Free actions on their round as the GM finds plausible.
 
 **Instant actions** are special, most being provided only by certain powers or certain special actions. Instant actions can be performed even when it’s not your turn in the round, even after the dice have already been rolled. The Veteran’s Luck class ability provides one such Instant action, allowing the Delver to treat a missed attack roll as an automatic hit. A Delver can use as many Instant actions in a round as the GM finds plausible. Instant actions performed at the same time are resolved simultaneously, with the GM adjudicating any ambiguities.
 
@@ -75,7 +75,7 @@ A character can Ready an item for use from their pack or stowage or Stow it, as 
 
 ### Reload a Weapon (Main Action)
 
-Reload a crossbow from a Readied case of quarrels. Bows and crossbows may be reloaded as an On Turn action if the shooter has at least Shoot-1 skill; otherwise it’s a Move action to nock a new arrow in a bow.
+Reload a crossbow from a Readied case of quarrels. Bows and crossbows may be reloaded as a Free action if the shooter has at least Shoot-1 skill; otherwise it’s a Move action to nock a new arrow in a bow.
 
 ### Pick up an Item (Move Action)
 
@@ -85,7 +85,7 @@ Scoop up a dropped item within melee range, leaving it Readied in your hand.
 
 Rise from a prone position, picking up any dropped items as you do so.
 
-### Go Prone (On Turn Action)
+### Go Prone (Free Action)
 
 Fall prone, applying a -2 penalty to ranged attacks against you and a +2 bonus to melee-range attacks against you. Your normal movement rate is halved while you remain prone.
 
