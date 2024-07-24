@@ -9,7 +9,7 @@ High Mages, Necromancers, and Elementalists are capable of casting spells. NPC w
 
 ## Spells and Arts
 
-Magical invocations are known conventionally as spells, each one ranked in power from level one, the relatively weakest, to level five, the most potent.
+Spells ranked in power from level one, the relatively weakest, to level five, the most potent.
 
 The common corpus of ancient spells is known as High Magic. These spells are the common heritage of all spellcasting mages, and any spellcasting mage can learn and use them.
 
@@ -31,7 +31,7 @@ A mage must be able to cast the spell in order to learn it. A novice mage can ca
 
 ### Preparing a Spell
 
-Once a spell is learned, the mage must perform the necessary attunements and propitiations to prepare the spell for casting. The number of spells a mage can prepare at once varies with their experience level, from as few as two or three at first level to as many as twelve when at tenth level. The mage may prepare any spell they have in their spellbook; there’s no obligation to prepare a certain number of low-level spells should the mage wish to fill all their available “slots” with their most powerful magics and run the risk of lacking some lesser, yet more useful spell.
+Once a spell is learned, the mage must prepare the spell for casting. The number of spells a mage can prepare at once varies with their experience level, from as few as two or three at first level to as many as twelve when at tenth level. The mage may prepare any spell they have in their spellbook; there’s no obligation to prepare a certain number of low-level spells should the mage wish to fill all their available “slots” with their most powerful magics and run the risk of lacking some lesser, yet more useful spell.
 
 Preparing a new set of spells takes an hour, and can only be done after a good night’s rest, when the mage’s mind is most fresh and malleable. Once spells have been prepared they remain so indefinitely until replaced with a different set of magics.
 
