@@ -95,7 +95,7 @@ Spend your Move action to delay acting on your side’s turn. You may trigger th
 
 ## Combat Attack Rolls
 
-When an assailant makes an attack, they roll 1d20 and add their base attack bonus, the weapon’s relevant attribute modifier, their relevant combat skill level, and any magical bonuses from their weapon. If the total is equal or greater than the target’s relevant Armor Class, they hit. If less, they miss.
+When an assailant makes an attack, they roll 1d20 and add their attack bonus, the weapon’s relevant attribute modifier, their relevant combat skill level, and any magical bonuses from their weapon. If the total is equal or greater than the target’s relevant Armor Class, they hit. If less, they miss.
 
 Every weapon listed in the equipment section is listed as using one or more attributes, such as either STR or DEX for a dagger. The attacker may choose either attribute for modifying the weapon’s attack and damage rolls.
 

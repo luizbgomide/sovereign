@@ -424,7 +424,7 @@ Once a character has enough XP to level up **and** is in a settlement, they do.
 
 **Better Saves.** Their saving throw scores decrease by one, making it easier to succeed on saving throws by rolling equal or over it. As a first level character has saving throw scores of 15, reaching second level would lower them to 14, modified by their appropriate attributes.
 
-**Improved Attack Bonus.** A Delver’s base attack bonus improves according to their level and their chosen class.
+**Improved Attack Bonus.** A Delver’s attack bonus improves according to their level and their chosen class.
 
 **Gain Advancement Points.** A Delver who advances a level gains three advancement points they can spend on improving their skills or attributes. Experts and Partial Experts gain an extra bonus Advancement Point to spend (via Quick Learner), giving them four points each time they advance.
 

@@ -30,6 +30,7 @@ A Bestiary, Magic Item repository, and extensive GM section are in progress.
 #### 2024-07-24
 - Add morale
 - Add a core game loop section
+- Standardize on 'attack bonus' - it was sometimes called 'base attack bonus'
 
 #### 2024-07-23
 - Use population sizes instead of ACKS's market classes for equipment availability.
