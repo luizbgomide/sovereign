@@ -28,6 +28,7 @@ A Bestiary, Magic Item repository, and extensive GM section are in progress.
 ### Change Log
 
 #### 2024-07-24
+- Add morale
 - Add a core game loop section
 
 #### 2024-07-23

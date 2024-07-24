@@ -172,3 +172,16 @@ A melee execution attack requires one full minute of near proximity to the targe
 When a target is hit with an execution attack they must make a Physical saving throw at a penalty equal to the assailant’s combat skill. On a failure, they are immediately reduced to zero hit points and Mortally Wounded, or knocked unconscious if the weapon was non-lethal.
 
 If they succeed on the save, they still take maximum damage from the hit.
+
+## Morale
+
+Almost everything (especially [Henchmen](/equipment#henchmen)) prioritizes its own survival (undead, constructs, religious zealots, and extremely militarized creatures are notable exceptions). More food can be found, more wealth can be acquired, power can be regained, territory can be reclaimed, and more children can be made.
+
+The only time such beings should fight to the death is if they estimate that doing so is their *best shot at living*. To represent this:
+
+- Individuals should retreat after losing half of their HP *unless they clearly won't die*.
+- Groups should retreat after losing 1/3rd of their starting numbers (to death or retreat) *unless* they're still clearly winning.
+
+They're gone for now, but they will probably be *back*.
+
+The Delvers may wish to give [chase](#chases-and-pursuit).
