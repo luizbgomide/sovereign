@@ -59,13 +59,13 @@ Saving throws are rolled to resist some unusual danger or chance hazard. To make
 
 There are four types of saving throws. Usually it will be obvious which type is most appropriate for a threat, but the GM can decide in marginal situations.
 
-<strong id="physical">Physical</strong> saves resist exhaustion, poisons, diseases, or other bodily afflictions. A PC’s Physical saving throw target is equal to 16 minus their character level and the highest of their Str or Con.
+<strong id="physical">Physical</strong> saves resist exhaustion, poisons, diseases, or other bodily afflictions. A Delver's Physical saving throw target is equal to 16 minus their character level and the highest of their Str or Con.
 
-<strong id="evasion">Evasion</strong> saves apply when dodging explosions, avoiding traps, reacting to sudden peril, or other occasions where speed is of the essence. A PC’s Evasion saving throw target is equal to 16 minus their character level and the highest of their Dex or Int.
+<strong id="evasion">Evasion</strong> saves apply when dodging explosions, avoiding traps, reacting to sudden peril, or other occasions where speed is of the essence. A Delver’s Evasion saving throw target is equal to 16 minus their character level and the highest of their Dex or Int.
 
-<strong id="mental">Mental</strong> saves apply when resisting mental attacks, insubstantial magic spells, psychological trauma, and other mental hazards. A PC’s Mental saving throw target is equal to 16 minus their character level and the highest of their Wis or Cha.
+<strong id="mental">Mental</strong> saves apply when resisting mental attacks, insubstantial magic spells, psychological trauma, and other mental hazards. A Delver’s Mental saving throw target is equal to 16 minus their character level and the highest of their Wis or Cha.
 
-**Luck** saves are used when only blind chance can save a PC, regardless of their native abilities. A PC’s Luck saving throw target is equal to 16 minus their character level, unmodified by their attributes.
+**Luck** saves are used when only blind chance can save a Delver, regardless of their native abilities. A Delver’s Luck saving throw target is equal to 16 minus their character level, unmodified by their attributes.
 
 NPCs have a single saving throw target equal to 15 minus half their rounded-down hit dice. Thus, an NPC with 3 HD would have a saving throw target of 14+ for any particular hazard.
 
@@ -83,7 +83,7 @@ All skills start at level -1.
 
 Skills may overlap in their application; the character may use either skill at their discretion.
 
-- **Exert**: Run, swim, climb, jump, labor for long periods, throw things, or otherwise exert your physical strength, stamina, and coordination. Even a PC with poor physical attributes might have a good Exert skill reflecting athletic training and expertise in making the most of their available talents.
+- **Exert**: Run, swim, climb, jump, labor for long periods, throw things, or otherwise exert your physical strength, stamina, and coordination. Even a Delver with poor physical attributes might have a good Exert skill reflecting athletic training and expertise in making the most of their available talents.
 - **Heal**: Treat wounds, cure diseases, neutralize poisons, diagnose psychological health issues, and otherwise tend to the wounds of body and mind.
 - **Know**: Know matters of history, geography, natural science, zoology, and other academic fields appropriate to a sage or scholar. While some sages might specialize in particular fields, most learned folks have a broad range of understanding, and will rarely be unable to even attempt to answer a question relevant to this skill.
 - **Lead**: Inspire others to follow your lead and believe in your plans and goals. Manage subordinates and keep them focused, loyal, and motivated in the face of danger or failure. A successful leader will keep their subordinate’s faith and confidence even when reason might make the leader’s plan appear questionable at best.
@@ -96,13 +96,13 @@ Skills may overlap in their application; the character may use either skill at t
 
 ### Skill Checks
 
-Most characters are skilled, competent folks who are perfectly capable of carrying out the ordinary duties of their role. Sometimes, however, they are faced with a situation or challenge beyond the usual scope of their role and the GM calls for a skill check.
+Most Delvers are skilled, competent folks who are perfectly capable of carrying out the ordinary duties of their role. Sometimes, however, they are faced with a situation or challenge beyond the usual scope of their role and the GM calls for a skill check.
 
-To make a skill check, roll 2d6 and add the most relevant skill level and attribute modifier (denoted as Attribute Modifier/Skill, like Str/Exert or Int/Magic). If the total is equal or higher than the check’s difficulty class (DC), the check is a success. On a failure, the PC either can’t accomplish the feat at all, bad luck cheats them, or they achieve it at the cost of some further complication. The GM determines the specific consequence of a failure.
+To make a skill check, roll 2d6 and add the most relevant skill level and attribute modifier (denoted as Attribute Modifier/Skill, like Str/Exert or Int/Magic). If the total is equal or higher than the check’s difficulty class (DC), the check is a success. On a failure, the Delver either can’t accomplish the feat at all, bad luck cheats them, or they achieve it at the cost of some further complication. The GM determines the specific consequence of a failure.
 
 To express to this compactly, we write DC {Difficulty Class} {Attribute Modifier/Skill}. For example, DC 8 Int/Know or DC 12 Dex/Heal.
 
-The GM is always the one who calls for a skill check, and they do so at their discretion. The player simply describes what their PC is attempting to do, and the GM will tell them what skill and attribute combination to roll. If multiple skills or attributes might plausibly fit the action, the player can pick the one most favorable to them.
+The GM is always the one who calls for a skill check, and they do so at their discretion. The player simply describes what their Delver is attempting to do, and the GM will tell them what skill and attribute combination to roll. If multiple skills or attributes might plausibly fit the action, the player can pick the one most favorable to them.
 
 | Difficulty | Skill Check                                                                                                                                   |
 |------------|-----------------------------------------------------------------------------------------------------------------------------------------------|
@@ -130,7 +130,7 @@ When skills oppose each other, the participant attempting to change the situatio
 
 A Turn is a time measurement used to determine how often certain abilities or actions can be taken. Some powers can be triggered only so many times per turn, while some special abilities only work once per turn.
 
-A Turn is one particular fight, event, activity, or effort that usually doesn’t take more than ten or fifteen minutes. A fight is a turn. A chase is a turn. A tense backroom negotiation is a turn. So long as the PCs are doing the same general activity in the same general location, it’s probably one turn. Most turns don’t last more than fifteen minutes, though a GM can stretch this if it seems logical.
+A Turn is one particular fight, event, activity, or effort that usually doesn’t take more than ten or fifteen minutes. A fight is a turn. A chase is a turn. A tense backroom negotiation is a turn. So long as the party is doing the same general activity in the same general location, it’s probably one turn. Most turns don’t last more than fifteen minutes, though a GM can stretch this if it seems logical.
 
 Combat is made up of Rounds, each one lasting approximately ten seconds. A single combat may involve multiple Rounds of action, but always takes a turn. A round begins with the actions of the side that wins initiative and ends after the actions of the side with the lowest initiative.
 
@@ -142,7 +142,7 @@ Injury is almost inevitable in an adventurer’s career. Some forms of it can be
 
 ### Mortal Injury and Stabalization
 
-When a PC is reduced to zero hit points by a lethal attack, they are Mortally Injured. They will die at the end of the sixth round after their incapacitation unless stabilized by an ally or some special ability. A Mortally Wounded character is helpless, and can take no actions and do nothing useful.
+When a Delver is reduced to zero hit points by a lethal attack, they are Mortally Injured. They will die at the end of the sixth round after their incapacitation unless stabilized by an ally or some special ability. A Mortally Injured character is helpless, and can take no actions and do nothing useful.
 
 Stabilizing an ally is a Main Action that requires a Dex/ Heal or Int/Heal skill check with a DC of 8 plus the number of full rounds since the target fell. If the medic lacks a [healer’s kit](/equipment#healers-kit) or other tools, this difficulty is increased by 2. Only one ally can try to stabilize a victim per round, though others can attempt to aid their check, but attempts may be retried each round for as long as hope lasts.
 
@@ -228,15 +228,15 @@ Gear is either Stowed or Readied.
 
 <strong id="readied">Readied</strong> gear is carried in hands, holsters, quick-access pockets, or other easily-accessible places. It can be used as part of an action without any further preparation. A character can carry a number of Readied points equal to half their Strength, rounded down.
 
-PCs can haul much heavier objects if necessary. If they push their limits for longer terms, they can carry an additional two Ready and four Stowed items. The first time they do this, their Move speed is cut by 30%, from 30 feet to 20 feet. The second time, it’s cut by 50%, from 20 feet to 10 feet. More weight than this can’t be practically hauled over significant distances.
+Delvers can haul much heavier objects if necessary. If they push their limits for longer terms, they can carry an additional two Ready and four Stowed items. The first time they do this, their Move speed is cut by 30%, from 30 feet to 20 feet. The second time, it’s cut by 50%, from 20 feet to 10 feet. More weight than this can’t be practically hauled over significant distances.
 
 ### Bulk Weights
 
-Sometimes the PCs need to transport bulk amounts of goods that are measured in pounds. When it’s necessary to convert these weights into encumbrance points, a GM can just assume that fifty pounds is worth about ten points of encumbrance to a PC hauling a pack out on their back.
+Sometimes the Delvers need to transport bulk amounts of goods that are measured in pounds. When it’s necessary to convert these weights into encumbrance points, a GM can just assume that fifty pounds is worth about ten points of encumbrance.
 
 ### Pack Animals and Porters
 
-To haul more equipment and loot than the PCs can carry, they need pack animals or porters.
+To haul more equipment and loot than the Delvers can carry, they need pack animals or porters.
 
 | Type                      | Cost   | Enc |
 | ------------------------- | ------ | --- |
@@ -256,7 +256,7 @@ Some perils occur with some regularity for adventurers. A few of the most common
 
 **Dehydration**: Each day of insufficient water (a waterskin's worth) causes 3 System Strain.
 
-Starvation and Dehydration can be ignored so long as the PCs aren't trying to sleep in a dungeon. Assume that they can find sufficient food in the wilderness.
+Starvation and Dehydration are ignored so long as the Delvers aren't trying to sleep in a dungeon. Assume that they can find sufficient food in the wilderness.
 
 ## Overland Travel
 
@@ -269,8 +269,8 @@ These rules are meant for tracking adventures in a dangerous site where perils c
 At the start of each turn after the party enters the site:
 
 1. Roll a secret Wandering Encounter check if necessary. On a 1, the encounter will happen at some appropriate moment this turn.
-2. The PCs decide what they want to do this turn, be it move into a new room, carefully search their current location, fiddle with some object they’ve found, or something else that takes ten minutes.
-3. Tell them the result of their actions, whether that’s a first-glance description of a new room, notice of the hideous abomination that’s rearing up before them, or the explosive detonation of the crystal they just experimentally rapped.
+2. The Delvers decide what they want to do this turn: move into a new room, carefully search their current location, fiddle with some object they’ve found, or something else that takes ten minutes.
+3. The GM explains the result of their actions, whether that’s a first-glance description of a new room, notice of the hideous abomination that’s rearing up before them, or the explosive detonation of the crystal they just experimentally prodded.
 4. Start over from the top, assuming their actions have consumed a full turn, until they withdraw from the site or it becomes safe enough to stop counting turns.
 
 ### Timekeeping in the Dungeon
@@ -299,15 +299,15 @@ When the Delvers encounter a group of NPCs in a dungeon, either from a [Wanderin
 
 ### Encounters and Surprise
 
-PCs are sufficiently alert when exploring a site to avoid any chance of surprise, barring a set ambush. If they burst in on the denizens suddenly, however, the locals might be too stunned to act for a round.
+Delvers are sufficiently alert when exploring a site to avoid any chance of surprise, barring a set ambush. If they burst in on the denizens suddenly, however, the locals might be too stunned to act for a round.
 
 If the GM thinks this is possible, use an opposed roll. Represent bursting into a room as group Str/Exert vs Wis/Notice. Represent sneaking up on a group as group Dex/Sneak vs Wis/Notice.
 
-If the PCs run into a Wandering Encounter in a room, the creatures will enter through one of the available entrances. In the corridors outside, they’re usually 1d8 x 10 feet away when first spotted or heard, assuming there’s enough space for such a distance.
+If the Delvers run into a Wandering Encounter in a room, the creatures will enter through one of the available entrances. In the corridors outside, they’re usually 1d8 x 10 feet away when first spotted or heard, assuming there’s enough space for such a distance.
 
 ### Wandering Encounters
 
-Every so many turns, a GM should roll 1d6 to check for a Wandering Encounter. On a 1, the PCs will run into one at some point during the turn. The frequency of the check will depend on how vigorously alert and organized the site’s inhabitants are.
+Every so many turns, a GM should roll 1d6 to check for a Wandering Encounter. On a 1, the Delvers will run into one at some point during the turn. The frequency of the check will depend on how vigorously alert and organized the site’s inhabitants are.
 
 The actual contents of the encounter are decided when the GM puts together the site. Not all encounters involve running into creatures. Some are mere events or situations that fit the site. In the same vein, not all encounters are necessarily hostile, either. [Reaction rolls](#reaction-rolls) should be made for all groups of creatures.
 
@@ -416,7 +416,7 @@ Once a character has enough XP to level up **and** is in a settlement, they do.
 
 **Gain Advancement Points.** A Delver who advances a level gains three advancement points they can spend on improving their skills or attributes. Experts and Partial Experts gain an extra bonus Advancement Point to spend (via Quick Learner), giving them four points each time they advance.
 
-The cost for improving a skill is listed below. Every skill level must be purchased in order; to gain level 1 in a skill you need to pay one point for level 0 and then two points for level 1. A PC must be the requisite minimum level to increase a skill to certain levels. Less hardened adventurers simply don’t have the focus and real-life experience to attain such a pitch of mastery.
+The cost for improving a skill is listed below. Every skill level must be purchased in order; to gain level 1 in a skill you need to pay one point for level 0 and then two points for level 1. A Delver must be the requisite minimum level to increase a skill to certain levels. Less hardened adventurers simply don’t have the focus and real-life experience to attain such a pitch of mastery.
 
 | Skill Level | Point Cost | Min Delver Level |
 | ----------- | ---------- | ---------------- |
@@ -436,12 +436,12 @@ A Delver can also spend their Advancement Points to improve their attribute scor
 | 4th         | 4          | 6                |
 | 5th         | 5          | 9                |
 
-**Gain a new Feat**. At levels 2, 5, 7, and 10 a PC can add a level to an existing Feat or pick up the first level in a new Feat.
+**Gain a new Feat**. At levels 2, 5, 7, and 10 a Delver can add a level to an existing Feat or pick up the first level in a new Feat.
 
 If this is the first level they’ve taken in the Feat, they might be granted a bonus skill. During character creation, this bonus skill pick is treated like any other skill pick. Taken as part of advancement, however, it counts as three skill points spent toward increasing the skill.
 
 This is enough to raise a nonexistent skill to level 1, or boost a level 1 skill to level-2. They may do this even if they aren’t high-enough level to normally qualify for a skill level that high.
 
-If the skill points aren’t quite enough to raise the skill to a new level, they remain as credit toward future advances. If applied to a skill that is already at level-4, the PC can spend the three skill points on any other skill of their choice.
+If the skill points aren’t quite enough to raise the skill to a new level, they remain as credit toward future advances. If applied to a skill that is already at level 4, the Delver can spend the three skill points on any other skill of their choice.
 
 **More Spells and Arts**. Mages learn new arts, can cast and prepare more spells, and automatically learn new spells as they advance, based on their class and level.

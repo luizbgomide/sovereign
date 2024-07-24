@@ -25,7 +25,7 @@ Attacks, movement, spellcasting, and other combat activities all require one of 
 
 **On Turn** actions are brief, simple acts that require only a moment’s concentration. Activating certain abilities or speaking a few words might constitute an On Turn action. A character can take as many On Turn actions on their round as the GM finds plausible.
 
-**Instant actions** are special, most being provided only by certain powers or certain special actions. Instant actions can be performed even when it’s not your turn in the round, even after the dice have already been rolled. The Veteran’s Luck class ability provides one such Instant action, allowing the PC to treat a missed attack roll as an automatic hit. A PC can use as many Instant actions in a round as the GM finds plausible. Instant actions performed at the same time are resolved simultaneously, with the GM adjudicating any ambiguities.
+**Instant actions** are special, most being provided only by certain powers or certain special actions. Instant actions can be performed even when it’s not your turn in the round, even after the dice have already been rolled. The Veteran’s Luck class ability provides one such Instant action, allowing the Delver to treat a missed attack roll as an automatic hit. A Delver can use as many Instant actions in a round as the GM finds plausible. Instant actions performed at the same time are resolved simultaneously, with the GM adjudicating any ambiguities.
 
 ## Combat Actions
 
@@ -155,7 +155,7 @@ These rules assume both targets are man-sized. Grappling or shoving significantl
 
 ### Dual Wielding Weapons
 
-Some attackers prefer to use two weapons at once. PCs who wish to do so must have at least level 1 in the relevant weapon skills, such as Stab-1 and Shoot-1 for dual-wielding a knife and hand crossbow.
+Some attackers prefer to use two weapons at once. Delvers who wish to do so must have at least level 1 in the relevant weapon skills, such as Stab-1 and Shoot-1 for dual-wielding a knife and hand crossbow.
 
 When making an attack while dual-wielding, the attacker chooses which weapon they wish to use, rolling the attack roll accordingly. On a hit, the weapon does +2 damage so long as the target is within range of both wielded weapons. This bonus does not add to Shock.
 

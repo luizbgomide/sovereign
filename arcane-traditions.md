@@ -53,7 +53,7 @@ As such, Partial Warriors/Partial Duelists use 1d6 for their hit dice, rather th
 
 ### Duelist Arts
 
-Duelist Effort is equal to their Stab skill plus the highest of their Dex or Int, to a minimum of one point. All Duelists begin with the Favored Weapon art and one more of their choice. Additional arts are learned as the PC advances in experience.
+Duelist Effort is equal to their Stab skill plus the highest of their Dex or Int, to a minimum of one point. All Duelists begin with the Favored Weapon art and one more of their choice. Additional arts are learned as the Delver advances in experience.
 
 The arts of the Duelist require agility and free motion. The Duelist cannot benefit from any art of this class while wearing medium or heavy armor or carrying a large shield. Dual-wielding is practiced by some Duelists, but most prefer the defensive advantages of a small offhand shield.
 

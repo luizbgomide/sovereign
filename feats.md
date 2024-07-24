@@ -14,7 +14,7 @@ A new Delver may choose one Feat of any kind. Warriors and Partial Warriors may 
 ## Alert ⚔️
 You are keenly aware of your surroundings and virtually impossible to take unaware.
 
-- **Level 1**: Gain Notice as a bonus skill. You cannot be surprised, nor can others use the Execution Attack option on you. If the GM rolls initiative by sides, you can add a +1 bonus to your side’s initiative roll, though multiple Alert PCs don’t stack this bonus. If you roll initiative individually, you can roll it twice and take the better result.
+- **Level 1**: Gain Notice as a bonus skill. You cannot be surprised, nor can others use the Execution Attack option on you. If the GM rolls initiative by sides, you can add a +1 bonus to your side’s initiative roll, though multiple Alert Delvers don’t stack this bonus.
 - **Level 2**: You always act first in a combat round unless someone else involved is also this Alert.
 
 ## Armored Magic ⚔️
@@ -40,7 +40,7 @@ You are practiced at sudden murder, and have certain advantages in carrying out 
 
 ## Authority
 
-You have an uncanny kind of charisma about you, one that makes others instinctively follow your instructions and further your causes. At level 1, this is a knack of charm and personal magnetism, while level 2 might suggest latent magical powers or an ancient bloodline of sorcerous rule. Where this Feat refers to followers, it means NPCs who have voluntarily chosen to be in your service. PCs never count as followers.
+You have an uncanny kind of charisma about you, one that makes others instinctively follow your instructions and further your causes. At level 1, this is a knack of charm and personal magnetism, while level 2 might suggest latent magical powers or an ancient bloodline of sorcerous rule. Where this Feat refers to followers, it means NPCs who have voluntarily chosen to be in your service.
 
 - **Level 1**: Gain Lead as a bonus skill. Once per day, you can make a request from an NPC who is not openly hostile to you, rolling a Cha/Lead skill check at a difficulty of the NPC’s Morale score. If you succeed, they will comply with the request, provided it is not significantly harmful or extremely uncharacteristic.
 - **Level 2**: Those who follow you are fired with confidence. Any NPC being directly led by you gains a Morale and hit roll bonus equal to your Lead skill and a +1 bonus on all skill checks. Your followers and henchmen will not act against your interests unless under extreme pressure.

@@ -21,11 +21,11 @@ Every class that uses Effort has its own unique pool: High Mage Effort, Vowed Ef
 
 Most class powers require that Effort be Committed. Committing Effort is done as part of activating a power, and ties up the Effort for a varying amount of time depending on the ability used.
 
-Some powers **Commit Effort for the duration**. This means the Effort remains Committed as long as the power is active. The PC can reclaim the Committed Effort at any time as an Instant action, deactivating the power.
+Some powers **Commit Effort for the duration**. This means the Effort remains Committed as long as the power is active. The Delver can reclaim the Committed Effort at any time as an Instant action, deactivating the power.
 
-Some powers **Commit Effort for the turn**. The Effort remains Committed until the end of the turn, after which it returns to the PC. It cannot be reclaimed earlier, even if the ability it fuels is only good for a single attack or action.
+Some powers **Commit Effort for the turn**. The Effort remains Committed until the end of the turn, after which it returns to the Delver. It cannot be reclaimed earlier, even if the ability it fuels is only good for a single attack or action.
 
-Some powers **Commit Effort for the day**. Once Committed, this Effort can be recovered only after a comfortable night’s rest. If the PC is hungry, cold, sick, or sleeping without the benefits of a bedroll or other basic comforts, this Effort cannot be recovered.
+Some powers **Commit Effort for the day**. Once Committed, this Effort can be recovered only after a comfortable night’s rest. If the Delver is hungry, cold, sick, or sleeping without the benefits of a bedroll or other basic comforts, this Effort cannot be recovered.
 
 Activating a power only ever requires Committing a single point of Effort unless the power itself says otherwise.
 
