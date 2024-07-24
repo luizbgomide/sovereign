@@ -137,7 +137,7 @@ Armor provides an <strong id="armor-class">Armor Class</strong> (AC). Equipped a
 | Rope, 50’                       | 1g   | 2   |
 | Spell Book (blank)              | 20g  | 1   |
 | Stakes (6)                      | 3g   | 1   |
-| Thieves’ Tools                  | 25g  | 1   |
+| <span id="thieves-tools">Thieves’ Tools</span>                  | 25g  | 1   |
 | Tinderbox (flint & steel)       | 8s   | 1   |
 | Torches (2)                     | 1s   | 1   |
 | Waterskin                       | 6s   | 1   |

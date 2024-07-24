@@ -311,6 +311,24 @@ The point of tracking Turns is to have a rough measure of how much activity they
 | Time a torch lasts until burning out           | 6     |
 | Time a filled lantern lasts before burning out | 24    |
 
+### Doors
+
+Out of all the obstacles the party will face, doors will be *by far* the most common. Doors mark the beginning of every new area, and so how to handle doors will come up *over and over*.
+
+Doors can be **locked**, in which case a character with [Thieves Tools](/equipment#thieves-tools) can try pick it, usually with a DC 10 DEX/Sneak check. If they fail, they can not try again until they gain a level of experience.
+
+Locked doors can be **battered down**. 6 turns less STR and Exert for wooden doors, and triple that for metal-reinforced doors. Metal or stone doors can not be battered down with mundane means. Roll an extra Wandering Encounter every turn.
+
+Doors can be **stuck**, in which case a character can try to force them open in a Round with a DC 10 STR/Exert check. If they fail, it takes 1d3 Turns to open the door.
+
+Doors can be **listened at** for a Round, revealing noises as loud as talking without a roll, the presence of anything quieter with a DC 10 WIS/Notice check.
+
+To pass through a door, choose to make either a **hard** or **soft** entry. If not specififed, a soft entry is assumed.
+
+In a **hard** entry, the party arranges around the entrance, bashes it in, and charges the room in a planned pattern of entry. They trigger any traps over the threshold and appear hostile to any inhabitants, but are capable of surprising anyone who might be watching the door.
+
+In a **soft** entry, the party arranges to defend and hold the door as a choke point, sufficiently far away from traps. One Delver opens quietly opens the door and observes. They have the opportunity to notice traps, do not appear hostile, but are incapable of surprising anyone who might be watching the door.
+
 ## Encounters
 
 When the Delvers encounter a group of NPCs in a dungeon, either from a [Wandering Encounter](#wandering-encounters) or because the room contains NPCs, then:
