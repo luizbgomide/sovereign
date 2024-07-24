@@ -5,7 +5,7 @@ title: Home
 
 Welcome to Sovereign!
 
-This game endeavors to provide ruleset that allows players to play through TSR-era D&D modules and modern modules created with that compatibility in mind. Little conversion should be necessary. The game hopes to be written more clearly, be more searchable, better hyperlinked, have more depth, and boast a better in-game economy.
+This game endeavors to provide a ruleset that allows players to play through modules compatible with TSR-era D&D. Little conversion should be necessary. The game hopes to be written more clearly, be more searchable, better hyperlinked, have more depth, and boast a better in-game economy.
 
 The intended method of play is for the GM to create a loosely defined fantasy setting where most modules that they would want to run can fit in somewhere. The GM proposes a few modules (describing them in vague strokes) to the players between sessions, the players pick the one they want to run next, and the GM prepares that module, using [hard framing](https://thealexandrian.net/wordpress/31509/roleplaying-games/the-art-of-pacing) to place the Delvers right on the adventure's doorstep with a strong hook. After a module is completed, the process repeats. Each module is mostly its own sandbox and often weeks or months can pass in-game between adventures.
 
@@ -51,7 +51,7 @@ A Bestiary, Magic Item repository, and extensive GM section are in progress.
 - Simplify chases.
 - Replace WWN's XP system with a slightly-more-generous version of BX's.
 - Rip out all of the downtime stuff; it's out of scope. No crafting, no modifying.
-- Remove all of the wilderness explroation stuff. It's [not worth it](https://rancourt.substack.com/i/146342934/conclusions-and-suggestions). We want to spend time in dungeons playing modules.
+- Remove all of the wilderness exploration stuff. It's [not worth it](https://rancourt.substack.com/i/146342934/conclusions-and-suggestions). We want to spend time in dungeons playing modules.
 
 ### Attributions
 
