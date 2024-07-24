@@ -40,7 +40,7 @@ A Bestiary, Magic Item repository, and extensive GM section are in progress.
 - Remove the feats associated with those skills.
 - Remove the Bard, Beastmaster, Blood priest, Invoker, Mage Slayer, Skinshifter, Thought noble, Vowed, and Wise classes. The class list was bloated and each niche we carve out makes each other class less flexible. This also makes it so that there are no warrior or expert sub-classes, which simplifies the language.
 - Simplify the skill levels. There was an implied -1 level before (untrained) that gave an extra -1 for specifically attack rolls. Remove that exception and start all skills at level -1.
-- Standardize language around attribute modifiers. Rather than saying "Strength modifier", we just say "Str".
+- Standardize language around attribute modifiers. Rather than saying "Strength modifier", we just say "STR".
 - Remove starting packages. Just buy gear!
 - Standardize group checks and aiding skill checks into the same thing.
 - Rewrite opposed checks so that only one side is rolling. This saves time at the table and is probabilistically equivalent.

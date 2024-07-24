@@ -42,7 +42,7 @@ You are practiced at sudden murder, and have certain advantages in carrying out 
 
 You have an uncanny kind of charisma about you, one that makes others instinctively follow your instructions and further your causes. At level 1, this is a knack of charm and personal magnetism, while level 2 might suggest latent magical powers or an ancient bloodline of sorcerous rule. Where this Feat refers to followers, it means NPCs who have voluntarily chosen to be in your service.
 
-- **Level 1**: Gain Lead as a bonus skill. Once per day, you can make a request from an NPC who is not openly hostile to you, rolling a Cha/Lead skill check at a difficulty of the NPC’s Morale score. If you succeed, they will comply with the request, provided it is not significantly harmful or extremely uncharacteristic.
+- **Level 1**: Gain Lead as a bonus skill. Once per day, you can make a request from an NPC who is not openly hostile to you, rolling a CHA/Lead skill check at a difficulty of the NPC’s Morale score. If you succeed, they will comply with the request, provided it is not significantly harmful or extremely uncharacteristic.
 - **Level 2**: Those who follow you are fired with confidence. Any NPC being directly led by you gains a Morale and hit roll bonus equal to your Lead skill and a +1 bonus on all skill checks. Your followers and henchmen will not act against your interests unless under extreme pressure.
 
 ## Close Combatant ⚔️
@@ -90,7 +90,7 @@ You can use more conventional pay or inducements to acquire additional henchmen,
 
 ## Impervious Defense ⚔️
 
-Whether through uncanny reflexes, remarkable luck, supernatural heritage, or magical talent, you have natural defenses equivalent to high-quality armor. The benefits of this Feat don’t stack with armor, though Dex and shield modifiers apply.
+Whether through uncanny reflexes, remarkable luck, supernatural heritage, or magical talent, you have natural defenses equivalent to high-quality armor. The benefits of this Feat don’t stack with armor, though DEX and shield modifiers apply.
 
 - **Level 1**: You have an innate Armor Class of 15 plus half your character level, rounded up.
 - **Level 2**: Once per day, as an Instant action, you can shrug off any single weapon attack or physical trauma inflicted by a foe. Environmental damage, falling damage, or other harm that couldn’t be forfended by strong armor cannot be resisted this way.
@@ -111,7 +111,7 @@ Something about your hero interferes with easy use of magic on them. It may be a
 
 ## Poisoner
 
-You are a skilled poisoner, capable of compounding toxins out of readily-available flora and minerals. It takes an hour to brew a poison, and you can keep as many doses fresh as you have levels. Blade venoms take a Main Action to apply and last for ten minutes or until a hit or Shock is inflicted, whichever comes first. Detecting poisoned food is a Wis/Notice skill check against 10, or 12 if the diner’s not a noble or otherwise normally wary of poison. One dose can poison up to a half-dozen diners.
+You are a skilled poisoner, capable of compounding toxins out of readily-available flora and minerals. It takes an hour to brew a poison, and you can keep as many doses fresh as you have levels. Blade venoms take a Main Action to apply and last for ten minutes or until a hit or Shock is inflicted, whichever comes first. Detecting poisoned food is a WIS/Notice skill check against 10, or 12 if the diner’s not a noble or otherwise normally wary of poison. One dose can poison up to a half-dozen diners.
 
 - **Level 1**: Gain Heal as a bonus skill. Gain a reroll on any failed saving throw versus poison. Your toxins inflict 2d6 damage plus your level on a hit or Shock, with a Physical save for half. Your incapacitating or hallucinogenic toxins do the same, but those reduced to zero hit points are simply incapacitated for an hour.
 - **Level 2**: You are immune to poison and can apply a universal antidote to any poisoned ally as a Main Action. Any attempt to detect or save
@@ -158,7 +158,7 @@ Shock
 You have uncommon expertise in handling traps and snares, both mundane ones and the magical perils sometimes found in dungeons or the lairs of sorcerers. You know how to improvise traps with materials you easily carry.
 
 - **Level 1**: Gain Notice as a bonus skill. Once per Turn, reroll any failed saving throw or skill check related to traps or snares. Given five minutes of work you can trap a portal, container, passageway, or other relatively narrow space with foot snares, caltrops, toxic needles, or other hazards. Non-lethal traps cause the first victim to trigger it to lose a round of actions while dangerous ones inflict 1d6 damage plus twice the character’s level, with an appropriate saving throw for half. Only one such improvised trap can be maintained at a time. More fearsome traps may be laid with congenial circumstances and the GM’s permission.
-- **Level 2**: You know secrets for unraveling even magical traps or arcane hazards that would normally require a wizard to dispel them. Once per Turn, your efforts count as an Extirpate Arcana spell against the trap or hazard, cast as if a Mage of twice your level, with any relevant skill check being Int/Notice or Dex/Notice. This ability can be used against any stationary magical effect that’s susceptible to being dispelled by Extirpate Arcana.
+- **Level 2**: You know secrets for unraveling even magical traps or arcane hazards that would normally require a wizard to dispel them. Once per Turn, your efforts count as an Extirpate Arcana spell against the trap or hazard, cast as if a Mage of twice your level, with any relevant skill check being INT/Notice or DEX/Notice. This ability can be used against any stationary magical effect that’s susceptible to being dispelled by Extirpate Arcana.
 
 ## Unarmed Combatant ⚔️
 

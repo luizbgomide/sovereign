@@ -57,29 +57,29 @@ Some weapons have additional unique traits, perhaps being particularly slow to r
 
 | Weapon         | Dmg       | Shock   | Attribute | Range/Feet | Traits     | Cost | Enc |
 | -------------- | --------- | ------- | --------- | ---------- | ---------- | ---- | --- |
-| Axe, Hand      | 1d6       | 1/AC 15 | Str/Dex   | 10/30      | T          | 4g   | 1   |
-| Axe, War       | 1d10      | 3/AC 15 | Str       | -          | 2H         | 10g  | 2   |
-| Blackjack      | 1d4       | None    | Str/Dex   | -          | S, LL      | 1g   | 1   |
-| Bow, Large     | 1d8       | None    | Dex       | 100/600    | 2H, R, PM  | 7g   | 2   |
-| Bow, Small     | 1d6       | None    | Dex       | 50/300     | 2H, R, PM  | 3g   | 1   |
-| Club           | 1d4       | None    | Str/Dex   | 10/30      | T, LL      | -    | 1   |
-| Club, Great    | 1d10      | 2/AC 15 | Str       | -          | 2H         | 1g   | 2   |
-| Crossbow       | 1d10      | None    | Dex       | 100/300    | 2H, SR, PM | 30g  | 1   |
-| Dagger         | 1d4       | 1/AC 15 | Str/Dex   | 30/60      | S, T, PM   | 3g   | 1   |
-| Polearm        | 1d10      | 2/AC 15 | Str       | -          | 2H, L      | 7g   | 2   |
-| Great Hammer   | 1d10      | 2/AC 18 | Str       | -          | 2H         | 10g  | 2   |
-| Mace           | 1d6       | 1/AC 18 | Str       | -          | LL         | 5g   | 1   |
-| Oil, Military  | 2d8       | 1/AC 18 | Dex       | 20/40      | T          | 2g   | 1   |
-| Shield         | 1d4       | None    | Str/Dex   | -          | LL         | 10g  | -   |
-| Spear, Heavy   | 1d10      | 2/AC 15 | Str       | -          | 2H         | 3g   | 2   |
-| Spear, Light   | 1d6       | 2/AC 13 | Str/Dex   | 30/60      | T          | 3g   | 1   |
-| Throwing Blade | 1d4       | None    | Dex       | 30/60      | S, T, N    | 1g   | 1   |
-| Staff          | 1d6       | 1/AC 13 | Str/Dex   | -          | 2H, LL     | 1g   | 1   |
-| Stiletto       | 1d4       | 1/AC 18 | Dex       | -          | S, PM      | 3g   | 1   |
-| Sword, Great   | 1d12      | 2/AC 15 | Str       | -          | 2H         | 15g  | 2   |
-| Sword, Long    | 1d8       | 2/AC 13 | Str/Dex   | -          | -          | 10g  | 1   |
-| Sword, Short   | 1d6       | 2/AC 15 | Str/Dex   | -          | -          | 7g   | 1   |
-| Unarmed Attack | 1d2+Skill | None    | Str/Dex   | -          | LL         | -    | -   |
+| Axe, Hand      | 1d6       | 1/AC 15 | STR/DEX   | 10/30      | T          | 4g   | 1   |
+| Axe, War       | 1d10      | 3/AC 15 | STR       | -          | 2H         | 10g  | 2   |
+| Blackjack      | 1d4       | None    | STR/DEX   | -          | S, LL      | 1g   | 1   |
+| Bow, Large     | 1d8       | None    | DEX       | 100/600    | 2H, R, PM  | 7g   | 2   |
+| Bow, Small     | 1d6       | None    | DEX       | 50/300     | 2H, R, PM  | 3g   | 1   |
+| Club           | 1d4       | None    | STR/DEX   | 10/30      | T, LL      | -    | 1   |
+| Club, Great    | 1d10      | 2/AC 15 | STR       | -          | 2H         | 1g   | 2   |
+| Crossbow       | 1d10      | None    | DEX       | 100/300    | 2H, SR, PM | 30g  | 1   |
+| Dagger         | 1d4       | 1/AC 15 | STR/DEX   | 30/60      | S, T, PM   | 3g   | 1   |
+| Polearm        | 1d10      | 2/AC 15 | STR       | -          | 2H, L      | 7g   | 2   |
+| Great Hammer   | 1d10      | 2/AC 18 | STR       | -          | 2H         | 10g  | 2   |
+| Mace           | 1d6       | 1/AC 18 | STR       | -          | LL         | 5g   | 1   |
+| Oil, Military  | 2d8       | 1/AC 18 | DEX       | 20/40      | T          | 2g   | 1   |
+| Shield         | 1d4       | None    | STR/DEX   | -          | LL         | 10g  | -   |
+| Spear, Heavy   | 1d10      | 2/AC 15 | STR       | -          | 2H         | 3g   | 2   |
+| Spear, Light   | 1d6       | 2/AC 13 | STR/DEX   | 30/60      | T          | 3g   | 1   |
+| Throwing Blade | 1d4       | None    | DEX       | 30/60      | S, T, N    | 1g   | 1   |
+| Staff          | 1d6       | 1/AC 13 | STR/DEX   | -          | 2H, LL     | 1g   | 1   |
+| Stiletto       | 1d4       | 1/AC 18 | DEX       | -          | S, PM      | 3g   | 1   |
+| Sword, Great   | 1d12      | 2/AC 15 | STR       | -          | 2H         | 15g  | 2   |
+| Sword, Long    | 1d8       | 2/AC 13 | STR/DEX   | -          | -          | 10g  | 1   |
+| Sword, Short   | 1d6       | 2/AC 15 | STR/DEX   | -          | -          | 7g   | 1   |
+| Unarmed Attack | 1d2+Skill | None    | STR/DEX   | -          | LL         | -    | -   |
 
 - **2H**: Two Handed. The weapon requires two hands to use in combat. Ranged two-handed weapons cannot be fired effectively while an enemy is within melee range.
 - **AP**: Armor Piercing. This weapon ignores non-magical hides, armor and shields for purposes of its hit rolls.
@@ -93,7 +93,7 @@ Some weapons have additional unique traits, perhaps being particularly slow to r
 - **SR**: Slow Reload. It takes a Main Action to reload this weapon. SS: Single Shot. This weapon takes ten rounds to reload, and the reloading effort is spoiled if an enemy melees the wielder.
 - **T**: Throwable. While the weapon can be used in melee, it may be thrown out to the listed range as well, albeit it does no Shock in that case. Throwing a weapon while in melee applies a -4 penalty to the hit roll.
 
-Military oil may be ignited and thrown with a Dex/Shoot attck, dealing 1d8 damage for 2 rounds to the target. If the attack fails, it lands in a random adjacent square and deals 1d3 damage to that square and all adjacent squares.
+Military oil may be ignited and thrown with a DEX/Shoot attck, dealing 1d8 damage for 2 rounds to the target. If the attack fails, it lands in a random adjacent square and deals 1d3 damage to that square and all adjacent squares.
 
 ## Armor
 

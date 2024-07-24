@@ -11,7 +11,7 @@ Each participating side rolls 1d8, with the player's side adding the highest DEX
 
 ## Surprise
 
-If a group is caught entirely unawares they may suffer surprise, granting their enemies a full free round of action before initiative can be rolled. The GM decides when surprise applies, possibly calling for an opposed Dex/Sneak (for a stealthy approach) skill check or Str/Exert (to kick a door in) versus the target’s Wis/Notice.
+If a group is caught entirely unawares they may suffer surprise, granting their enemies a full free round of action before initiative can be rolled. The GM decides when surprise applies, possibly calling for an opposed DEX/Sneak (for a stealthy approach) skill check or STR/Exert (to kick a door in) versus the target’s WIS/Notice.
 
 Groups cannot be surprised if they are actively anticipating the possibility of combat. Delvers moving carefully through a dungeon can not be surprised unless the enemy is specifically Hidden.
 
@@ -51,7 +51,7 @@ Spend both your Main Action and your Move action to move up to twice your normal
 
 ### Screen an Ally (Move Action)
 
-Move up to your normal movement rate to get adjacent to an ally. You then physically block attacks against them until the start of your next turn, provided they remain within 5 ft of you. Enemies who attack your ward must make a successful opposed combat skill check against you using either Str or Dex and the most applicable combat skill. If the enemy succeeds, their attack targets your ward normally. If you succeed, their attack instead targets you. You can screen against a number of attackers each round equal to your highest combat skill; thus, you need at least level 1 in a combat skill to successfully screen. Multiple defenders can screen the same target, in which case the opposed skill check is compared to all defenders and targets the worst-rolling successful defender. You can only screen against attacks you could feasibly physically parry or body-block.
+Move up to your normal movement rate to get adjacent to an ally. You then physically block attacks against them until the start of your next turn, provided they remain within 5 ft of you. Enemies who attack your ward must make a successful opposed combat skill check against you using either STR or DEX and the most applicable combat skill. If the enemy succeeds, their attack targets your ward normally. If you succeed, their attack instead targets you. You can screen against a number of attackers each round equal to your highest combat skill; thus, you need at least level 1 in a combat skill to successfully screen. Multiple defenders can screen the same target, in which case the opposed skill check is compared to all defenders and targets the worst-rolling successful defender. You can only screen against attacks you could feasibly physically parry or body-block.
 
 ### Total Defense (Instant Action)
 
@@ -97,7 +97,7 @@ Spend your Move action to delay acting on your side’s turn. You may trigger th
 
 When an assailant makes an attack, they roll 1d20 and add their base attack bonus, the weapon’s relevant attribute modifier, their relevant combat skill level, and any magical bonuses from their weapon. If the total is equal or greater than the target’s relevant Armor Class, they hit. If less, they miss.
 
-Every weapon listed in the equipment section is listed as using one or more attributes, such as either Str or Dex for a dagger. The attacker may choose either attribute for modifying the weapon’s attack and damage rolls.
+Every weapon listed in the equipment section is listed as using one or more attributes, such as either STR or DEX for a dagger. The attacker may choose either attribute for modifying the weapon’s attack and damage rolls.
 
 NPCs usually do not have attribute modifiers or skill levels. Instead, the attack bonus of a trained NPC combatant is usually equal to their hit dice, often with an additional bonus to reflect particularly good training or talent.
 
@@ -141,15 +141,15 @@ An attack that hits can never do less damage than the Shock that would have been
 
 ### Shoving
 
-To knock a target down or force them elsewhere, the attacker must first hit the target normally for no damage and then succeed in an opposed Str/Brawl or Str/Exert skill check. If the attacker succeeds in the skill check, the target is forced into an adjacent square or knocked prone.
+To knock a target down or force them elsewhere, the attacker must first hit the target normally for no damage and then succeed in an opposed STR/Brawl or STR/Exert skill check. If the attacker succeeds in the skill check, the target is forced into an adjacent square or knocked prone.
 
 ### Grappling
 
-To grapple a foe, the attacker must first hit with an unarmed attack, doing no damage, and then both must make opposed Str/Brawl skill checks. If the attacker wins, the defender is grappled and remains that way until released or until they spend a Main Action and succeed in a new opposed check. An attacker can grapple only one target at a time, though multiple attackers can cling to the same luckless defender. In such cases, the defender’s single skill check is compared against all of their foes.
+To grapple a foe, the attacker must first hit with an unarmed attack, doing no damage, and then both must make opposed STR/Brawl skill checks. If the attacker wins, the defender is grappled and remains that way until released or until they spend a Main Action and succeed in a new opposed check. An attacker can grapple only one target at a time, though multiple attackers can cling to the same luckless defender. In such cases, the defender’s single skill check is compared against all of their foes.
 
 While grappling, neither attackers or defenders can move from their current location, nor can they fight with anything but unarmed attacks. At the end of each round in which a defender remains grappled, they suffer damage from each attacker as if hit with an unarmed attack from each foe grappling them.
 
-If the attacker wishes to move the target, they must spend a Main Action and succeed in an opposed Str/Brawl skill check. If they win, the target is either moved ten feet along with them, or thrown five feet and knocked prone. If they lose, the defender breaks free.
+If the attacker wishes to move the target, they must spend a Main Action and succeed in an opposed STR/Brawl skill check. If they win, the target is either moved ten feet along with them, or thrown five feet and knocked prone. If they lose, the defender breaks free.
 
 These rules assume both targets are man-sized. Grappling or shoving significantly larger but still humanoid targets is done at a -2 penalty on all skill checks by the attacker. Doing so to creatures only barely plausible for such manhandling is done at a -4 skill check penalty.
 
@@ -165,7 +165,7 @@ Managing two weapons at once is difficult, and applies a -1 penalty to all hit r
 
 A target that is entirely unsuspecting of danger is subject to execution attacks. A subject that is expecting danger or alert to potential harm cannot be targeted by an execution attack.
 
-A ranged execution attack requires one full minute of aiming, waiting, and adjusting on the part of the would-be sniper. Any disturbance during this time will spoil the shot. After spending this time, the assassin may make a Dex/Shoot skill check. The difficulty is 6 for an attack within two meters, 8 for an attack within the weapon’s normal range, or 10 for one at the weapon’s long range. On a success, the attack hits; the victim’s Armor Class is ignored.
+A ranged execution attack requires one full minute of aiming, waiting, and adjusting on the part of the would-be sniper. Any disturbance during this time will spoil the shot. After spending this time, the assassin may make a DEX/Shoot skill check. The difficulty is 6 for an attack within two meters, 8 for an attack within the weapon’s normal range, or 10 for one at the weapon’s long range. On a success, the attack hits; the victim’s Armor Class is ignored.
 
 A melee execution attack requires one full minute of near proximity to the target, watching for just the right opening and getting to within melee range of the victim. If this time is granted, the assassin may make a melee attack, automatically hitting.
 

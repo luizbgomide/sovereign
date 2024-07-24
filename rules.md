@@ -39,7 +39,7 @@ Each attribute has a modifier, usually ranging from -2 to +2 based on its score.
 | 14-17     | +1       |
 | 18        | +2       |
 
-In this text, when referring to an attribute's score, it will be spelled completely, like Strength. When referring to an attribute's modifier, it will be abbreviated to three letters: Str, Dex, Con, Int, Wis, or Cha.
+In this text, when referring to an attribute's score, it will be spelled completely, like Strength. When referring to an attribute's modifier, it will be abbreviated to three letters: STR, DEX, CON, INT, WIS, or CHA.
 
 Some Feats and abilities may add bonuses or penalties to an attribute’s base modifier. Such bonuses or penalties cannot increase the modifier above +2 or below -2. If an injury or character advancements alters an attribute, immediately update the attribute’s modifier.
 
@@ -59,11 +59,11 @@ Saving throws are rolled to resist some unusual danger or chance hazard. To make
 
 There are four types of saving throws. Usually it will be obvious which type is most appropriate for a threat, but the GM can decide in marginal situations.
 
-<strong id="physical">Physical</strong> saves resist exhaustion, poisons, diseases, or other bodily afflictions. A Delver's Physical saving throw target is equal to 16 minus their character level and the highest of their Str or Con.
+<strong id="physical">Physical</strong> saves resist exhaustion, poisons, diseases, or other bodily afflictions. A Delver's Physical saving throw target is equal to 16 minus their character level and the highest of their STR or CON.
 
-<strong id="evasion">Evasion</strong> saves apply when dodging explosions, avoiding traps, reacting to sudden peril, or other occasions where speed is of the essence. A Delver’s Evasion saving throw target is equal to 16 minus their character level and the highest of their Dex or Int.
+<strong id="evasion">Evasion</strong> saves apply when dodging explosions, avoiding traps, reacting to sudden peril, or other occasions where speed is of the essence. A Delver’s Evasion saving throw target is equal to 16 minus their character level and the highest of their DEX or INT.
 
-<strong id="mental">Mental</strong> saves apply when resisting mental attacks, insubstantial magic spells, psychological trauma, and other mental hazards. A Delver’s Mental saving throw target is equal to 16 minus their character level and the highest of their Wis or Cha.
+<strong id="mental">Mental</strong> saves apply when resisting mental attacks, insubstantial magic spells, psychological trauma, and other mental hazards. A Delver’s Mental saving throw target is equal to 16 minus their character level and the highest of their WIS or CHA.
 
 **Luck** saves are used when only blind chance can save a Delver, regardless of their native abilities. A Delver’s Luck saving throw target is equal to 16 minus their character level, unmodified by their attributes.
 
@@ -98,9 +98,9 @@ Skills may overlap in their application; the character may use either skill at t
 
 Most Delvers are skilled, competent folks who are perfectly capable of carrying out the ordinary duties of their role. Sometimes, however, they are faced with a situation or challenge beyond the usual scope of their role and the GM calls for a skill check.
 
-To make a skill check, roll 2d6 and add the most relevant skill level and attribute modifier (denoted as Attribute Modifier/Skill, like Str/Exert or Int/Magic). If the total is equal or higher than the check’s difficulty class (DC), the check is a success. On a failure, the Delver either can’t accomplish the feat at all, bad luck cheats them, or they achieve it at the cost of some further complication. The GM determines the specific consequence of a failure.
+To make a skill check, roll 2d6 and add the most relevant skill level and attribute modifier (denoted as Attribute Modifier/Skill, like STR/Exert or INT/Magic). If the total is equal or higher than the check’s difficulty class (DC), the check is a success. On a failure, the Delver either can’t accomplish the feat at all, bad luck cheats them, or they achieve it at the cost of some further complication. The GM determines the specific consequence of a failure.
 
-To express to this compactly, we write DC {Difficulty Class} {Attribute Modifier/Skill}. For example, DC 8 Int/Know or DC 12 Dex/Heal.
+To express to this compactly, we write DC {Difficulty Class} {Attribute Modifier/Skill}. For example, DC 8 INT/Know or DC 12 DEX/Heal.
 
 The GM is always the one who calls for a skill check, and they do so at their discretion. The player simply describes what their Delver is attempting to do, and the GM will tell them what skill and attribute combination to roll. If multiple skills or attributes might plausibly fit the action, the player can pick the one most favorable to them.
 
@@ -124,7 +124,7 @@ This represents forcing open a heavy door together, everyone trying to stealth p
 
 ### Opposed Skill Checks
 
-When skills oppose each other, the participant attempting to change the situation rolls a skill check vs a DC of 8, plus the other participant's modifier. For example, a Delver trying to sneak past a guard might roll 2d6 plus their Dex/Sneak against a DC of 8 + the guard’s skill modifier. If the guard is significant enough to have attributes and skill levels, it might be a 2d6+Dex/Sneak against a DC of 8+Wis/Notice. We write this compactly as Dex/Sneak vs Wis/Notice.
+When skills oppose each other, the participant attempting to change the situation rolls a skill check vs a DC of 8, plus the other participant's modifier. For example, a Delver trying to sneak past a guard might roll 2d6 plus their DEX/Sneak against a DC of 8 + the guard’s skill modifier. If the guard is significant enough to have attributes and skill levels, it might be a 2d6+DEX/Sneak against a DC of 8+WIS/Notice. We write this compactly as DEX/Sneak vs WIS/Notice.
 
 ## Keeping Track of Time
 
@@ -144,7 +144,7 @@ Injury is almost inevitable in an adventurer’s career. Some forms of it can be
 
 When a Delver is reduced to zero hit points by a lethal attack, they are Mortally Injured. They will die at the end of the sixth round after their incapacitation unless stabilized by an ally or some special ability. A Mortally Injured character is helpless, and can take no actions and do nothing useful.
 
-Stabilizing an ally is a Main Action that requires a Dex/ Heal or Int/Heal skill check with a DC of 8 plus the number of full rounds since the target fell. If the medic lacks a [healer’s kit](/equipment#healers-kit) or other tools, this difficulty is increased by 2. Only one ally can try to stabilize a victim per round, though others can attempt to aid their check, but attempts may be retried each round for as long as hope lasts.
+Stabilizing an ally is a Main Action that requires a DEX/ Heal or INT/Heal skill check with a DC of 8 plus the number of full rounds since the target fell. If the medic lacks a [healer’s kit](/equipment#healers-kit) or other tools, this difficulty is increased by 2. Only one ally can try to stabilize a victim per round, though others can attempt to aid their check, but attempts may be retried each round for as long as hope lasts.
 
 Once stabilized, the victim remains incapacitated for one Turn before recovering with 1 hit point and the [Frail](#frail) condition.
 
@@ -156,7 +156,7 @@ Creatures who reach 0 HP and then recover are Frail.
 
 A Frail character can act normally, but if reduced to 0 HP again, they die instantly. Frail characters do not recover hit points through [Natural Healing](#natural-healing).
 
-Frailty is removed with a week of bed rest and medical attention by someone with a [healer’s kit](/equipment#healers-kit) and at least Heal-0 skill. In addition, someone can with at least Heal-1 can make one attempt to remove Frailty with a healer's kit, an hour of labor, and a successful DC 10 Dex/Heal or Int/Heal check.
+Frailty is removed with a week of bed rest and medical attention by someone with a [healer’s kit](/equipment#healers-kit) and at least Heal-0 skill. In addition, someone can with at least Heal-1 can make one attempt to remove Frailty with a healer's kit, an hour of labor, and a successful DC 10 DEX/Heal or INT/Heal check.
 
 Frail characters without this level of medical care must make a [Physical](#physical) save after a week; on a failure they die 1d6 days later, while success means they lose their Frailty after another month’s rest.
 
@@ -188,7 +188,7 @@ Most toxins force a victim to make a [Physical](#physical) saving throw to resis
 
 If the save is failed, the poison or disease takes hold. Most poisons act quickly, inflicting hit point damage, adding System Strain to the target, or applying long-lasting penalties. Diseases can have a slower onset but often apply the same sort of harms.
 
-A medic who treats a poisoned person within a minute of the poisoning can use a [healer’s kit](/equipment#healers-kit) to give them a better chance to resist. They may add twice their Heal skill level to the victim’s saving throw roll, or +1 if they have only Heal-0 skill. Once the poison takes hold, the victim has 1d4 Turns to live. The medic can counteract the toxin with an Int/Heal skill check at a DC of at least 10 for most poisons, or 12 or more for truly fearsome ones.
+A medic who treats a poisoned person within a minute of the poisoning can use a [healer’s kit](/equipment#healers-kit) to give them a better chance to resist. They may add twice their Heal skill level to the victim’s saving throw roll, or +1 if they have only Heal-0 skill. Once the poison takes hold, the victim has 1d4 Turns to live. The medic can counteract the toxin with an INT/Heal skill check at a DC of at least 10 for most poisons, or 12 or more for truly fearsome ones.
 
 ## Chases and Pursuit
 
@@ -196,7 +196,7 @@ Delvers have a habit of chasing others and being chased.
 
 If one group is faster than the other group, that group succeeds.
 
-Otherwise, the pursuing group makes an opposed group Dex/Exert or Con/Exert skill check vs the fleeing group's Dex/Exert or Con/Exert subject to the following modifiers:
+Otherwise, the pursuing group makes an opposed group DEX/Exert or Con/Exert skill check vs the fleeing group's DEX/Exert or Con/Exert subject to the following modifiers:
 
 | Situation                                        | Mod |
 | ------------------------------------------------ | --- |
@@ -248,7 +248,7 @@ To haul more equipment and loot than the Delvers can carry, they need pack anima
 ## Falling and Other Hazards
 Some perils occur with some regularity for adventurers. A few of the most common are detailed here.
 
-**Falling**: Most creatures will take 1d6 damage per 10 full feet they fall, up to 20d6 maximum. Spikes or other hazardous terrain at the bottom will add at least 1d6 to the total. A creature that intentionally leaps or skids down in a controlled way may make a Dex or Str/Exert skill check at a difficulty of 7 + 1 for every 10 full feet; on a success, the effective distance fallen is halved.
+**Falling**: Most creatures will take 1d6 damage per 10 full feet they fall, up to 20d6 maximum. Spikes or other hazardous terrain at the bottom will add at least 1d6 to the total. A creature that intentionally leaps or skids down in a controlled way may make a DEX or STR/Exert skill check at a difficulty of 7 + 1 for every 10 full feet; on a success, the effective distance fallen is halved.
 
 **Suffocation**: Creatures can fight or act normally without air for one round per point of Constitution, or 10 rounds for most NPCs. If they don’t move, they can quadruple this time. Once they run out of air, they must make a Physical save each round or take 1 hit point of damage per HD or level they have.
 
@@ -301,7 +301,7 @@ When the Delvers encounter a group of NPCs in a dungeon, either from a [Wanderin
 
 Delvers are sufficiently alert when exploring a site to avoid any chance of surprise, barring a set ambush. If they burst in on the denizens suddenly, however, the locals might be too stunned to act for a round.
 
-If the GM thinks this is possible, use an opposed roll. Represent bursting into a room as group Str/Exert vs Wis/Notice. Represent sneaking up on a group as group Dex/Sneak vs Wis/Notice.
+If the GM thinks this is possible, use an opposed roll. Represent bursting into a room as group STR/Exert vs WIS/Notice. Represent sneaking up on a group as group DEX/Sneak vs WIS/Notice.
 
 If the Delvers run into a Wandering Encounter in a room, the creatures will enter through one of the available entrances. In the corridors outside, they’re usually 1d8 x 10 feet away when first spotted or heard, assuming there’s enough space for such a distance.
 
@@ -408,7 +408,7 @@ Once a character has enough XP to level up **and** is in a settlement, they do.
 
 ### Advancement Benefits
 
-**More HP.** To determine their new maximum, they roll their hit die for each level they now possess, adding their Con to each die. No individual die can be reduced below 1 point, even with a negative Con. If the total roll is greater than their current maximum hit points, they take the roll. If less or equal, their maximum hit points increase by one.
+**More HP.** To determine their new maximum, they roll their hit die for each level they now possess, adding their Con to each die. No individual die can be reduced below 1 point, even with a negative CON. If the total roll is greater than their current maximum hit points, they take the roll. If less or equal, their maximum hit points increase by one.
 
 **Better Saves.** Their saving throw scores decrease by one, making it easier to succeed on saving throws by rolling equal or over it. As a first level character has saving throw scores of 15, reaching second level would lower them to 14, modified by their appropriate attributes.
 

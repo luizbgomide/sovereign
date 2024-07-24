@@ -15,10 +15,10 @@ While the arts of Accursed Blade and Accursed Bolt use Magic as their combat ski
 
 ### Accursed Arts
 
-Accursed have Effort equal to their Magic skill level plus the highest of their Int or Cha, to a minimum of one point. Every Accursed gains either Accursed Bolt or Accursed Blade as a starting art, plus one more of their choice. Accursed arts may be used in or out of armor.
+Accursed have Effort equal to their Magic skill level plus the highest of their INT or CHA, to a minimum of one point. Every Accursed gains either Accursed Bolt or Accursed Blade as a starting art, plus one more of their choice. Accursed arts may be used in or out of armor.
 
-- **Accursed Blade:** As a Free action, manifest an occult melee weapon as a one-handed 1d8 weapon or a two-handed 2d6 weapon. Both add your Magic skill to the damage roll, have a Shock rating of 2/15, use Magic as the attack skill and the best of Str, Dex, Int, or Cha as its modifying attribute.
-- **Accursed Bolt:** Launch blasts of occult force using Magic as your attack skill and the best of Str, Dex, Int, or Cha as its modifying attribute. Their damage is 1d8 plus your Magic skill, their range is 200’, and the bolts can be thrown in melee at a -4 penalty to hit. These bolts need both hands free to hurl them.
+- **Accursed Blade:** As a Free action, manifest an occult melee weapon as a one-handed 1d8 weapon or a two-handed 2d6 weapon. Both add your Magic skill to the damage roll, have a Shock rating of 2/15, use Magic as the attack skill and the best of STR, DEX, INT, or CHA as its modifying attribute.
+- **Accursed Bolt:** Launch blasts of occult force using Magic as your attack skill and the best of STR, DEX, INT, or CHA as its modifying attribute. Their damage is 1d8 plus your Magic skill, their range is 200’, and the bolts can be thrown in melee at a -4 penalty to hit. These bolts need both hands free to hurl them.
 - **Bewitching Distraction:** Commit Effort for the day as a Main Action when talking to an intelligent target when not in combat. They must make a Mental save or become dazed, oblivious to their surroundings and forgetting you and all else that happened in that Turn. Danger ends the daze but not the forgetting.
 - **Compelling Shriek:** Once per Turn, Commit Effort for the day as a Main Action and shout a command of no more than seven words. Chosen targets who hear and understand must make a Mental save or perform that action for one round, provided it is not totally contrary to their character.
 - **Devil’s Bargain:** As a Main Action, consecrate a deal you’ve made with an uncoerced person. If they violate the deal or its spirit, you know instantly and may inflict 1d6 damage per level on them if desired.
@@ -53,7 +53,7 @@ As such, Partial Warriors/Partial Duelists use 1d6 for their hit dice, rather th
 
 ### Duelist Arts
 
-Duelist Effort is equal to their Stab skill plus the highest of their Dex or Int, to a minimum of one point. All Duelists begin with the Favored Weapon art and one more of their choice. Additional arts are learned as the Delver advances in experience.
+Duelist Effort is equal to their Stab skill plus the highest of their DEX or INT, to a minimum of one point. All Duelists begin with the Favored Weapon art and one more of their choice. Additional arts are learned as the Delver advances in experience.
 
 The arts of the Duelist require agility and free motion. The Duelist cannot benefit from any art of this class while wearing medium or heavy armor or carrying a large shield. Dual-wielding is practiced by some Duelists, but most prefer the defensive advantages of a small offhand shield.
 
@@ -86,7 +86,7 @@ Duelist arts do not apply to thrown weapons.
 - **Spiritual Weapon:** You are able to translate examples of your favored weapon into a spiritual template that you may manifest as you wish. Any favored weapon can be turned into such a template, including a magical weapon, but the process destroys the object’s physical form. To manifest a template, Commit Effort as an Instant action; a ghostly copy of the weapon appears Readied in hand for you until you release the Effort or stop touching the weapon. Dual-wielders can summon the same weapon into both hands with one use of this art.
 - **Unbindable:** Commit Effort for the day as a Free action whenever you wish to escape chains, grapples, shackles, ropes, or even a magical spell of physical binding. You automatically wriggle free from mundane restraints and gain an Evasion saving throw to instantly end a physical magical binding of some sort. You can use this art only once per round.
 - **Unworthy Rabble:** Commit Effort for the day as a Free action. For the rest of the Turn, when using your favored weapon, reroll any failed hit roll against foes with one hit die. At eighth level, this applies to foes with two hit dice.
-- **Whirling Evasion:** Your base Armor Class becomes equal to 13 plus half your level, rounded up. This AC can be modified by small shields and your Dex, but not by armor or large shields.
+- **Whirling Evasion:** Your base Armor Class becomes equal to 13 plus half your level, rounded up. This AC can be modified by small shields and your DEX, but not by armor or large shields.
 
 ---
 
@@ -115,7 +115,7 @@ Each time Elementalists advance a level, they can pick a new High Magic spell or
 
 ### Elementalist Arts
 
-Elementalist Effort is equal to one plus their Magic skill level plus the highest of their Int or Cha to a minimum of one point. Partial Elementalists have one less Effort, to a minimum of one.
+Elementalist Effort is equal to one plus their Magic skill level plus the highest of their INT or CHA to a minimum of one point. Partial Elementalists have one less Effort, to a minimum of one.
 
 Elementalists gain the Elemental Resilience and Elemental Sparks arts as part of their basic training, and may pick one additional art from the list below. Further arts are learned as they advance in character level, as given in the tables below.
 
@@ -123,7 +123,7 @@ Elementalists gain the Elemental Resilience and Elemental Sparks arts as part of
 - **Elemental Sparks:** You can conjure petty amounts of flame, water, ice, stone, or wind, sufficient to do small tricks, chill drinks, light candles, or do other minor things. Conjured substances last no longer than a Turn, and conjured water cannot lastingly quench thirst. This art cannot actually be useful in solving a problem or overcoming a challenge more than once per game session.
 - **Beckoned Deluge:** Commit Effort for the Turn as a Main Action to conjure a considerable amount of water at a visible point within fifty feet per caster level. This water is sufficient to drench one 10-foot cubic meter per character level, making non-magical bowstrings useless, extinguishing flames, and inflicting 1d6 damage per caster level on fiery supernatural creatures. This water persists indefinitely after its conjuration and is sufficient to hydrate ten people per caster level.
 - **Earthsight:** Commit Effort for the Turn as a Free action. For the rest of the Turn, you can see the outlines of solid objects even in perfect darkness, and can peer through a number of feet of earth or stone equal to your character level.
-- **Elemental Blast:** Commit Effort for the Turn as a Main Action to hurl a blast of some elemental force at a visible target within fifty feet per character level. The attack is made with Magic as the combat skill, Int, Cha, or Dex as the attribute, and a bonus to hit equal to your character level. It is not hindered by melee foes. On a hit, the attack does 1d6 damage plus your character level and attribute mod. The blast may have collateral effects on objects in the case of hurled fire or a torrent of pressurized water, but any conjured matter vanishes at the end of the round.
+- **Elemental Blast:** Commit Effort for the Turn as a Main Action to hurl a blast of some elemental force at a visible target within fifty feet per character level. The attack is made with Magic as the combat skill, INT, CHA, or DEX as the attribute, and a bonus to hit equal to your character level. It is not hindered by melee foes. On a hit, the attack does 1d6 damage plus your character level and attribute mod. The blast may have collateral effects on objects in the case of hurled fire or a torrent of pressurized water, but any conjured matter vanishes at the end of the round.
 - **Flamesight:** Commit Effort as a Free action. While the Effort remains Committed, you can see thermal gradients sufficient to distinguish surfaces and living creatures, even in perfect darkness. Optionally, you may cause your own eyes to cast a light sufficient to illuminate your surroundings clearly out to a range of 30 feet.
 - **Pavis of Elements:** Commit Effort as a Free action to conjure an elemental barrier around yourself. The barrier improves your Armor Class by +4 and remains as long as the Effort remains Committed. This bonus stacks with other effects, but cannot increase AC above 18, regardless of the combinations.
 - **Petrifying Stare:** Commit Effort for the day as a Main Action and target a visible creature. The creature must make a Physical save or become partially petrified, losing its Move action for a number of rounds equal to half your caster level, rounded up. Flying creatures are forced to land by this art and swimming creatures will inevitably sink to the bottom.
@@ -161,7 +161,7 @@ At first level, a Healer gains the Healing Touch art and can pick one more of th
 
 ### Healer Arts
 
-Healer Effort is equal to one plus their Heal skill level plus the highest of their Int or Cha, to a minimum of one point.
+Healer Effort is equal to one plus their Heal skill level plus the highest of their INT or CHA, to a minimum of one point.
 
 All Healers are trained in the Healing Touch art, but may develop other techniques with time.
 
@@ -185,7 +185,7 @@ All Healers are trained in the Healing Touch art, but may develop other techniqu
 - **Final Repose:** Target a visible living creature and Commit Effort for the day as an Instant action. For the rest of the Turn, they take a Physical saving throw penalty equal to your Heal skill. If they are reduced to zero hit points before the end of the Turn, they die with no chance for stabilization or revival.
 - **Healer’s Eye:** Commit Effort as a Free action; while the Effort remains committed, you can use a Main Action to visually detect diseases and poisons, diagnose creatures flawlessly, perceive their physiology, and learn their current hit point totals. As a side effect, you can detect living creatures by sight regardless of available light or obscuring mists.
 - **Limb Restoration:** Only expert healers can master this art, which cannot be learned earlier than 8th level. You must Commit all remaining Effort for the day, a minimum of one point, to regenerate a missing limb or organ for a target you are touching, or efface some dramatic scar or other physical debility. The target’s System Strain is automatically maximized.
-- **Purge Ailment**: Commit Effort for the day as a Main Action. An ally you are touching is cured of one poison or disease. Creatures killed by poison can be revived by this art if it is used within six minutes of death. Magical poisons and diseases may require a Wis/Heal or Cha/Heal skill check against a difficulty of 8 or more. At seventh level, you need only Commit Effort for the Turn to use this ability. Refined Restoration: You and up to a dozen allies you tend before they sleep will all lose 2 System Strain from a good night’s rest instead of 1.
+- **Purge Ailment**: Commit Effort for the day as a Main Action. An ally you are touching is cured of one poison or disease. Creatures killed by poison can be revived by this art if it is used within six minutes of death. Magical poisons and diseases may require a WIS/Heal or CHA/Heal skill check against a difficulty of 8 or more. At seventh level, you need only Commit Effort for the Turn to use this ability. Refined Restoration: You and up to a dozen allies you tend before they sleep will all lose 2 System Strain from a good night’s rest instead of 1.
 - **Revive the Fallen**: Only expert healers are capable of mastering this art, which cannot be learned earlier than 8th level. Commit Effort for the day as a Main Action to revive a recently-slain living creature that you are touching. This ability must be used on a target within one minute per caster level of their death, and will not work on a corpse that has been dismembered, incinerated, or otherwise disjected. The target’s System Strain is automatically maximized and they’ll be unconscious for twenty-four hours after their restoration before awakening with 1 hit point.
 - **Swift Healer**: Your Healing Touch ability is improved, and may be used as a Free action once per day per character level, though not more than once per round on any given target.
 - **Tireless Vigor**: Commit Effort; while it remains Committed your need to eat, drink, breathe, or sleep does not grow further. You may exert yourself tirelessly and regenerate 1 lost hit point per hour.
@@ -235,10 +235,10 @@ High Mages conduct extensive experimentation and study as part of their daily ac
 
 ### High Mage Arts
 
-High Mage Effort is equal to one plus their Magic skill level plus the highest of their Int or Cha, to a minimum of one point. Partial High Mages have one less Effort, to a minimum of one.
+High Mage Effort is equal to one plus their Magic skill level plus the highest of their INT or CHA, to a minimum of one point. Partial High Mages have one less Effort, to a minimum of one.
 
 - **Arcane Lexicon:** Commit Effort for the Turn. For the rest of the Turn, you can read any script that was not intentionally obfuscated or encoded by its writer. Extremely esoteric or nonhuman scripts may not be comprehensible this way; the “plain meaning” of the text might be utterly foreign to human logic.
-- **Counter Magic:** Commit Effort for the day as an Instant action when a visible enemy mage casts a spell. Both of you make opposed Int/Magic or Cha/Magic skill checks; if you win, their spell fizzles and is wasted. This art only works on actual spellcasters and not creatures that merely activate magical powers. You can use this art no more than once per round.
+- **Counter Magic:** Commit Effort for the day as an Instant action when a visible enemy mage casts a spell. Both of you make opposed INT/Magic or CHA/Magic skill checks; if you win, their spell fizzles and is wasted. This art only works on actual spellcasters and not creatures that merely activate magical powers. You can use this art no more than once per round.
 - **Empowered Sorcery:** Commit Effort for the day as an Instant action to re-roll any variable die roll associated with a spell’s effects, such as a damage roll; take the roll you prefer.
 - **Hang Sorcery:** Commit Effort for the Turn as an Instant action when casting a spell. The spell does not go off, but remains “hung” and waiting to be triggered as a Free action, with details of targeting and effect determined at that time. Damage does not disrupt a hung spell, but no additional spells can be cast until the hung spell is released or allowed to dissipate.
 - **Inexorable Effect:** Commit Effort for the day as an Instant action to force an enemy to re-roll a successful saving throw and take the worse result. You may use this art only once per Turn.
@@ -296,7 +296,7 @@ Each time a Necromancer advances a level, they can pick a new High Magic spell o
 
 ### Necromancer Arts
 
-Necromancer Effort is equal to one plus their Magic skill level plus the highest of their Int or Cha, to a minimum of one point. Partial Necromancers have one less Effort, to a minimum of one.
+Necromancer Effort is equal to one plus their Magic skill level plus the highest of their INT or CHA, to a minimum of one point. Partial Necromancers have one less Effort, to a minimum of one.
 
 - **Bonetalker:** You can see and communicate with any undead creature, regardless of a shared language or the creature’s natural state of invisibility. By Committing Effort for the Turn you can sense the surface thoughts of any visible undead, including an impression of any commands or behavior it has been ordered to carry out. Unintelligent undead will not attack you or your companions unless specifically compelled to do so by a command or a master. Even intelligent undead will generally pause at least for an initial parley before attacking.
 - **Cold Flesh:** You no longer require sleep and feel pain only in an abstract sense. You can suffer no more than 2 points of damage from any given instance of Shock and you have a natural Armor Class equal to 12 plus half your level, rounded down.
