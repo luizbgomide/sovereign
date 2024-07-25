@@ -15,9 +15,9 @@ Adventuring is a profession, and all Delvers have undergone extensive training t
 
 4. **Choose a Class**. Pick either a full [Class](/classes) or combine two Partial Classes. [Warriors](/classes#warrior) are great at [combat](/combat), [Experts](/classes#expert) are great a [skill checks](/rules#skills), and [Mages](/classes#mage) have specialized [supernatural powers](/arcane-traditions) or [spells](/spells).
 
-5. **Choose Feats**. Each class gets a different starting amount of [Feats](/feats) at first level, detailed in the "Feat Picks" column. Some Feats, like [Alert](/feats#Alert-) grant a bonus skill. Raise that skill by one level to a maximum of level 1. If that skill is *already* level 1, make a free [improvement](#improvement).
+6. **Choose Feats**. Each class gets a different starting amount of [Feats](/feats) at first level, detailed in the "Feat Picks" column. Some Feats, like [Alert](/feats#Alert-) grant a bonus skill. Raise that skill by one level to a maximum of level 1. If that skill is *already* level 1, make a free [improvement](#improvement).
 
-6. **Record Attribute Modifiers**. Each [Attribute](/rules#attributes) has a [Modifier](/rules#attribute-modifiers), usually ranging from -2 to +2 based on its score. This modifier is added to skill checks, attack rolls, damage rolls, Shock damage, and the relevant saving throw targets.
+5. **Record Attribute Modifiers**. Each [Attribute](/rules#attributes) has a [Modifier](/rules#attribute-modifiers), usually ranging from -2 to +2 based on its score. This modifier is added to skill checks, attack rolls, damage rolls, Shock damage, and the relevant saving throw targets.
 
 7. **Record Maximum Hit Points**. Each class gets different amount of [Hit Points](/rules#hit-points) (HP) at first level, detailed in the "Hit Dice" column. Roll based on your class, add your CON, and +2 if you chose the [Die Hard](/feats#die-hard-) Feat.
 

@@ -32,6 +32,8 @@ A Bestiary, Magic Item repository, and extensive GM section are in progress. In 
 ### Change Log
 
 #### 2024-07-24
+- Add a tutorial for learning delver creation. Still need a worked example.
+- Keep items on card stock
 - Add rules for doors. So many doors.
 - Drop a ton of instances of 'may' and 'can' that weren't actual choices.
 - Use "HP" instead of "hit points".
