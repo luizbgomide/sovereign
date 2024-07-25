@@ -38,13 +38,6 @@ You are practiced at sudden murder, and have certain advantages in carrying out 
 - **Level 1**: Gain Sneak as a bonus skill. You can conceal an object no larger than a knife from anything less invasive than a strip search. You can draw or produce this object as a Free action, and your point-blank thrown or melee attacks made during a surprise round with it cannot miss the target.
 - **Level 2**: You can take a Move action on the same round as you make an Execution Attack, closing rapidly with a target before you attack. You may split this Move action when making an Execution Attack, taking part of it before you murder your target and part of it afterwards. This movement happens too quickly to alert a victim or to be hindered by bodyguards.
 
-## Authority
-
-You have an uncanny kind of charisma about you, one that makes others instinctively follow your instructions and further your causes. At level 1, this is a knack of charm and personal magnetism, while level 2 might suggest latent magical powers or an ancient bloodline of sorcerous rule. Where this Feat refers to followers, it means NPCs who have voluntarily chosen to be in your service.
-
-- **Level 1**: Gain Lead as a bonus skill. Once per day, you can make a request from an NPC who is not openly hostile to you, rolling a CHA/Lead skill check at a difficulty of the NPC’s Morale score. If you succeed, they will comply with the request, provided it is not significantly harmful or extremely uncharacteristic.
-- **Level 2**: Those who follow you are fired with confidence. Any NPC being directly led by you gains a Morale and hit roll bonus equal to your Lead skill and a +1 bonus on all skill checks. Your followers and henchmen will not act against your interests unless under extreme pressure.
-
 ## Close Combatant ⚔️
 
 You’ve had all too much practice at close-in fighting and desperate struggles with drawn blades. You’re extremely skilled at avoiding injury in melee combat, and at level 2 you can dodge through a melee scrum without fear of being knifed in passing.
@@ -72,15 +65,6 @@ You have an unusual gift for saving Mortally Wounded allies and quickening the n
 
 - **Level 1**: Gain Heal as a bonus skill. You may attempt to stabilize one Mortally Wounded adjacent person per round as a Free action. When rolling Heal skill checks, roll 3d6 and drop the lowest die. You heal twice as many HP as usual when applying first aid after a battle.
 - **Level 2**: Your curative gifts count as magical healing. You can heal 1d6+Heal skill in damage to an adjacent wounded ally as a Main Action, potentially reviving them without any lingering Frailty. Each such application of healing adds 1 System Strain to the target, and the gift cannot be used on targets already at their maximum System Strain.
-
-## Henchkeeper
-
-You have a distinct knack for picking up lost souls who willingly do your bidding. You might induce them with promises of money, power, excitement, sex, or some other prize that you may or may not eventually grant. A henchman obtained with this Feat will serve in loyal fashion until clearly betrayed or placed in unacceptable danger. Henchmen are not “important” people in their society, and are usually marginal sorts, outcasts, the desperate, or other persons with few options.
-
-You can use more conventional pay or inducements to acquire additional henchmen, but these extra hirelings are no more loyal or competent than your pay and treatment can purchase.
-
-- **Level 1**: Gain Lead as a bonus skill. You can acquire henchmen within 24 hours of arriving in a community, assuming anyone is suitable hench material. These henchmen will not fight except to save their own lives, but will escort you on adventures and risk great danger to help you. Most henchmen will have the combat statistics of a normal adult from their culture. You can have one henchmen at a time for every three character levels you have, rounded up. You can release henchmen with no hard feelings at any plausible time and pick them back up later should you be without a current henchman.
-- **Level 2**: Your henchmen are remarkably loyal and determined, and will fight for you against anything but clearly overwhelming odds. Whether through natural competence or their devotion to you, they’re treated as 2 HD combatants from their culture. You can make faithful henchmen out of skilled and highly-capable NPCs, but this requires that you actually have done them some favor or help that would reasonably earn such fierce loyalty.
 
 ## Impervious Defense ⚔️
 

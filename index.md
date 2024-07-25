@@ -31,6 +31,9 @@ A Bestiary, Magic Item repository, and extensive GM section are in progress. In 
 
 ### Change Log
 
+#### 2024-07-25
+- Remove Lead and Lead-based Feats. Use leverage instead.
+
 #### 2024-07-24
 - Add a tutorial for learning delver creation. Still need a worked example.
 - Keep items on card stock
