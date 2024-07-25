@@ -9,7 +9,7 @@ This game endeavors to provide a ruleset that allows players to play through mod
 
 This document is split in several sections.
 
-If you prefer to learn by example and with exercises, the Tutorial (not available yet) has you covered.
+If you prefer to learn by example and with exercises, the [Tutorial](/tutorial) (work in progress) has you covered.
 
 [Delver Creation](/delver-creation) will walk you through the process of creating a character.
 
@@ -33,6 +33,7 @@ A Bestiary, Magic Item repository, and extensive GM section are in progress. In 
 
 #### 2024-07-25
 - Remove Lead and Lead-based Feats. Use leverage instead.
+- Remove Charisma
 
 #### 2024-07-24
 - Add a tutorial for learning delver creation. Still need a worked example.
