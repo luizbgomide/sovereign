@@ -51,7 +51,7 @@ Have a read through the [delver creation](/delver-creation) document, top to bot
 
 <details>
   <summary><strong>Exercise</strong>: An Expert rolls a 14 for their starting gold. They are starting play in a small hamlet, with a population of 300. How many pints of <a href="/equipment#holy-water">Holy Water</a> can they start with?</summary>
-  <p> 5. They would have 14•10 = 140g, and 5 vials costs 125g. We do not need consider <a href="/equipment#equipment-availability">Equipment Availabilty</a> at character creation, though afterwards the whole party could only has a 10% chance of being able to purchase one vial a month from the hamlet.</p>
+  <p> 5. They would have 14•10 = 140g, and 5 vials costs 125g. We do not need consider <a href="/equipment#equipment-availability">Equipment Availabilty</a> at character creation, though afterwards the whole party only has a 10% chance of being able to purchase one vial a month from the hamlet.</p>
 </details>
 
 <details>
