@@ -145,7 +145,7 @@ Unattended objects can be teleported by the spell, but they can be no larger tha
 ### Dispel Magic - Level 2
 The caster sweeps away all unwanted magical effects and enchantments within a twenty-foot radius, centered on any visible point within one hundred feet per level.
 
-If the magical effect was cast by a creature with equal or fewer hit dice, the effect is negated automatically. Otherwise, a contested INT/Magic or CHA/Magic skill roll must be made, with higher-leveled caster gaining a +2 bonus on their roll and the dispeller winning any ties.
+If the magical effect was cast by a creature with equal or fewer hit dice, the effect is negated automatically. Otherwise, make an opposed INT/Magic skill check, with higher-leveled caster gaining a +2 bonus and the dispeller getting a +1 bonus.
 
 This spell is not strong enough to permanently suppress standing magical effects, and requires the aforementioned contested roll to temporarily suppressing them. If successful, the effect is negated for 1d6 rounds. If cast on a very large enchantment, only the portion within the spell’s zone of effect is suppressed.
 
@@ -597,7 +597,7 @@ The power ends at daybreak; if dispelled sooner, the remaining pool is split pro
 ### Boneshape - Level 4
 The clay of flesh and bone run obediently to the will of the necromancer.
 
-Whether living or undead, a willing or helpless victim under the effects of this spell can be reshaped into any roughly-equivalent form with an hour’s work. Limbs can be added or removed and existing tissue can be recolored, re-textured, or rearranged to the necromancer’s wishes. Perfect imitation of a particular creature requires a DEX/Magic skill check against difficulty 10. This spell is limited in the physical changes it can effect; a bonus of +1 can be added to modifier of Charisma or a physical attribute at the cost of a -1 penalty to the modifier of one of the same attributes, to a maximum of +2 or -2.
+Whether living or undead, a willing or helpless victim under the effects of this spell can be reshaped into any roughly-equivalent form with an hour’s work. Limbs can be added or removed and existing tissue can be recolored, re-textured, or rearranged to the necromancer’s wishes. Perfect imitation of a particular creature requires a DEX/Magic skill check against difficulty 10. This spell is limited in the physical changes it can effect; a bonus of +1 can be added to a physical attribute at the cost of a -1 penalty to a different physical attribute, to a maximum of +2 or -2.
 
 This spell lasts until the necromancer lifts it or it is dispelled.
 

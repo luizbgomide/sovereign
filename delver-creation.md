@@ -9,7 +9,7 @@ Adventuring is a profession, and all Delvers have undergone extensive training t
 
 1. **Choose a character concept**. Discuss what your role will be in the team. A well-rounded party needs a way to deal with melee enemies, a way to deal with ranged or flying enemies, a way to deal with mundane security measures (guards, locked doors, traps), a way to deal with magical security measures, and a way to keep everyone healthy when things go south. A team of a melee-focused [Warrior](/classes#warrior), Sneak-focused [Expert](/classes#expert), utility-focued [High Mage](/arcane-traditions#high-mage), and [Partial Warrior](/classes#partial-warrior)/[Healer](/arcane-traditions#healer) is well-rounded, but part of the fun is trying out other compositions.
 
-2. **Generate Attributes**. For each of the six [Attributes](/rules#attributes), assign them a score of 3d6 in order. With your role on the team in mind, pick an Attribute to raise to 14.
+2. **Generate Attributes**. For each of the five [Attributes](/rules#attributes), assign them a score of 3d6 in order. With your role on the team in mind, pick an Attribute to raise to 14.
 
 3. **Starting Improvements**. Make a total of 4 <span id="improvement">Improvements<span> to your [Skills](/rules#skills) or [Attributes](/rules#attributes). To improve an Attribute, raise it by 1 to a max of 18. To improve a Skill, raise its level by 1 to a max of 1. All skills start at level -1. A single Attribute or Skill can be improved multiple times.
 
@@ -23,7 +23,7 @@ Adventuring is a profession, and all Delvers have undergone extensive training t
 
 8. **Record Attack Bonus**. Your character has a certain degree of basic combat competence based on their class. This bonus increases as you advance in character levels and is added to your attack roll. A new character’s attack bonus is usually +0, though full Warriors start with a +1 attack bonus.
 
-9. **Record Saving Throws**. Record your Physical (exhaustion, poison, etc), Evasion (explosions, traps, etc), and Mental (mind control, tests of will, etc) [Saving Throws](/rules#saving-throws). Your Physical score is 15 minus the highest of your STR and CON. Your Evasion score is 15 minus the highest of your INT and DEX. Your Mental score is 15 minus the highest of your WIS and CHA.
+9. **Record Saving Throws**. Record your Physical (exhaustion, poison, etc), Evasion (explosions, traps, etc), and Mental (mind control, tests of will, etc) [Saving Throws](/rules#saving-throws). Your Physical score is 15 minus the highest of your STR and CON. Your Evasion score is 15 minus the highest of your INT and DEX. Your Mental score is 15 minus the highest of your INT and WIS.
 
 10. **Choose Starting Gear**. Gain 3d6 x 10 gold to spend on [gear](/equipment) (ignoring [Equipment Availability](/equipment#equipment-availability)), noting thier [Encumbrance](/rules#encumbrance). You may carry [Readied](/rules#readied) equipment equal to half your Strength rounded down. You may carry [Stowed](/rules#stowed) equipment equal to your Strength. Other party members may be willing to Stow gear for you.
 

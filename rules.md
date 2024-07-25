@@ -41,7 +41,7 @@ Better is for the player to specify *what* and *how* they're searching. If their
 
 ## Attributes
 
-A Delver has six attributes ranging from 3 to 18, reflecting a range from
+A Delver has five attributes ranging from 3 to 18, reflecting a range from
 the minimum viable capacity for a playable character to the maximum normal
 human level.
 
@@ -53,13 +53,11 @@ Three of these attributes are physical.
 
 **Constitution**, reflecting hardiness, enduring injury, and tolerating large amounts of magical healing.
 
-Three are mental attributes.
+Two are mental attributes.
 
 **Intelligence**, reflecting memory, reasoning, technical skills, and general education.
 
 **Wisdom**, reflecting noticing things, making judgments, reading situations, and intuition.
-
-**Charisma**, reflecting commanding, charming, attracting attention, and being taken seriously.
 
 ### Attribute Modifiers
 
@@ -73,7 +71,7 @@ Each attribute has a modifier, usually ranging from -2 to +2 based on its score.
 | 14-17     | +1       |
 | 18        | +2       |
 
-In this text, when referring to an attribute's score, it will be spelled completely, like Strength. When referring to an attribute's modifier, it will be abbreviated to three letters: STR, DEX, CON, INT, WIS, or CHA.
+In this text, when referring to an attribute's score, it will be spelled completely, like Strength. When referring to an attribute's modifier, it will be abbreviated to three letters: STR, DEX, CON, INT, or WIS.
 
 If an injury, character advancements, or magic item alters an attribute, immediately update the attribute’s modifier.
 
@@ -97,7 +95,7 @@ There are three types of saving throws. Usually it will be obvious which type is
 
 <strong id="evasion">Evasion</strong> saves apply when dodging explosions, avoiding traps, reacting to sudden peril, or other occasions where speed is of the essence. A Delver’s Evasion saving throw target is equal to 16 minus their character level and the highest of their DEX or INT.
 
-<strong id="mental">Mental</strong> saves apply when resisting mental attacks, insubstantial magic spells, psychological trauma, and other mental hazards. A Delver’s Mental saving throw target is equal to 16 minus their character level and the highest of their WIS or CHA.
+<strong id="mental">Mental</strong> saves apply when resisting mental attacks, insubstantial magic spells, psychological trauma, and other mental hazards. A Delver’s Mental saving throw target is equal to 16 minus their character level and the highest of their INT or WIS.
 
 NPCs have a single saving throw target equal to 15 minus half their rounded-down hit dice. Thus, an NPC with 3 HD would have a saving throw target of 14+ for any particular hazard.
 
