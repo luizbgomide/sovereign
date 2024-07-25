@@ -29,9 +29,9 @@ That's the *whole* game. All other rules exist to either faciliate interesting d
 
 ### Narrative Interaction
 
-Much of the intresting part (and what separates skilled players from novice players) is coming up with a plan that *avoids* rolling. Proposing a plan that triggers a skill check or roll is *feasible*, but also *risky*. Much of the fun, as a player, is coming up with plans that *can't fail*.
+Much of the intresting part (and what separates skilled players from novice players) of exploring is coming up with a plan that *avoids* rolling. A plan that triggers a skill check or roll is *workable*, but also *risky*. A lot of the fun in this play style is coming up with plans that *can't fail*.
 
-For instance, consider being faced with a 15-foot wide, deep, pit. Dangerous. If a player says they want to leap to the other side, the GM might rule that as a DC 8 STR/Exert [check](#skill-checks) with failure resulting in taking 3d6 damage from the fall and spikes as well as being stuck at the bottom.
+Consider being faced with a deep, 15-foot wide spiked pit. Dangerous. If a player wants to leap to the other side, the GM might rule that as a DC 8 STR/Exert [check](#skill-checks) with failure resulting in taking 3d6 damage from the fall and spikes as well as being stuck at the bottom.
 
 A clever player might think to *fill up the pit*. Perhaps they spend some time dragging coffins, furniture, etc into the pit so that they can lower themselves down, walk across, and climb up the other side without rolling.
 
