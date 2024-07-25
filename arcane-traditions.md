@@ -100,7 +100,7 @@ Elementalists can prepare and cast High Magic spells in addition to Elemental Ma
 
 Each time Elementalists advance a level, they pick a new High Magic spell or an Elementalist spell to add to their spellbook. They must be able to cast the spell to add it to their selection.
 
-| Level | Hit Dice | Attack Bonus | Feat Picks  | Max Level | Spells Cast | Spells Prepared | Arts Gained                                         |
+| Level | Hit Dice | Attack Bonus | Feats       | Max Level | Spells Cast | Spells Prepared | Arts Gained                                         |
 | ----- | -------- | ------------ | ----------- | --------- | ----------- | --------------- | --------------------------------------------------- |
 | 1     | 1d6-1    | +0           | 1 Any       | 1         | 1           | 3               | Elemental Resilience, Elemental Sparks, and Any One |
 | 2     | 2d6-2    | +0           | +1 Any      | 1         | 1           | 3               | Any One                                             |
@@ -181,7 +181,7 @@ All Healers are trained in the Healing Touch art, but develop other techniques w
 - <strong id="healing-touch">Healing Touch:</strong> Commit Effort for the Turn as an Instant action; for the rest of the Turn, you may heal 2d6 damage plus your Heal skill to a touched ally as a Main Action. This healing adds 1 System Strain to the target each time it is applied.
 - **Empowered Healer:** Your Healing Touch becomes more powerful, adding your level to any healing.
 - **Facile Healer:** Your Healing Touch ability is improved, and you no longer need to Commit Effort to activate it.
-- **Far Healer:** Your Healing Touch ability is improved, and may be used on a visible target within ten feet per character level.
+- <strong id="far-healer">Far Healer:</strong> Your Healing Touch ability is improved, and may be used on a visible target within ten feet per character level.
 - **Final Repose:** Target a visible living creature and Commit Effort for the day as an Instant action. For the rest of the Turn, they take a Physical saving throw penalty equal to your Heal skill. If they are reduced to zero HP before the end of the Turn, they die with no chance for stabilization or revival.
 - **Healer’s Eye:** Commit Effort as a Free action; while the Effort remains committed, you can use a Main Action to visually detect diseases and poisons, diagnose creatures flawlessly, perceive their physiology, and learn their current HP. As a side effect, you can detect living creatures by sight regardless of available light or obscuring mists.
 - **Limb Restoration:** Only expert healers can master this art, which cannot be learned earlier than 8th level. You must Commit all remaining Effort for the day, a minimum of one point, to regenerate a missing limb or organ for a target you are touching, or efface some dramatic scar or other physical debility. The target’s System Strain is automatically maximized.

@@ -18,6 +18,90 @@ There will be both examples as well as *exercises*. It's easy enough to *think* 
 
 Have a read through the [delver creation](/delver-creation) document, top to bottom. When you're finished, grab a blank page of paper and *actually* create a character, writing your own labels for the data that you need to record.
 
+### Worked Example
+
+After reading through delver creation, following the various links and having a look at the classes, equipment, and spells, I start from the top.
+
+**Choose a character concept.** One friend wants going to play a big two-handed conan the barbarian type, my partner is obsessed with necromancy ever since watching the mummy as a child, and the other buddy really wants to be a bilbo baggins. I figure the best way I could round out the team would be to play someone that can keep the team alive. I'm thinking it would be really cool to play some sort of support archer, throwing out heals from range if needed, but being a decent shot with a bow otherwise.
+
+**Generate Attributes.** I roll [3d6](https://anydice.com/program/1) 5 times in order and get Strength 14, Dexterity 7, Constitution 11, Intelligence 8, Wisdom 10. Since I want to be a good shot, I raise my Dexterity to 14. I write them all down.
+
+![generate attributes](/assets/images/generate-attributes.png)
+
+**Starting Improvements.** I write down all of the skills at level -1
+
+![record initial skills](/assets/images/record-initial-skills.png)
+
+Then I get to make 4 improvements. My Strength and Dexterity are already 14, which is the threshold for +1, and the rest of my Attributes are at +0 and quite far away from 14 so I'll stick to improving my skills for now.
+
+I decide that want to be be a great healer, handy with a bow, and be knowledgable, so I improve Heal twice (to +1), Shoot once (to +0), and Know once (to +0).
+
+![improved skills](/assets/images/improved-skills.png)
+
+**Choose a Class.** I know that I want to be a Healer, but since it only comes as a Partial Mage, I need to pick another partial class. Partial Warrior would give me more HP and accuracy, but Partial Expert is still good with a bow and makes me *even better* at healing (as well as helping me with everything else). I decide on Partial Expert, making me an [Expert/Mage(Healer)](/classes#partial-expertpartial-mage).
+
+![improved skills](/assets/images/choose-class.png)
+
+**Choose Feats.** The "Feats" column for level 1 Partial Expert/Partial Mage says I get "1 Non-combat + 1 Any", which means I can select any feat that doesn't have the crossed swords icon, and then any feat I want.
+
+First, I'll pick up [Gifted Chirurgeon](/feats#gifted-chirurgeon) at rank 1 to be *even better* at healing. This gives me Heal as a bonus skill, and since I already have Heal at +1, I can make a free improvement. I'll improve my Shoot to +1.
+
+For my other feat, I'll pick up [Deadeye](/feats#deadeye-) at rank 1 to do more damage with my bow. This gives me Shoot as a bonus skill, and since I already have Shoot at +1, I can make a free improvement. I'll improve my Know to 1.
+
+![choose feats](/assets/images/choose-feats.png)
+
+**Record Attribute Modifiers.** I record my modifiers next to my attributes. My STR and DEX are +1 and the others are +0.
+
+![attribute mods](/assets/images/attribute-mods.png)
+
+**Generate Maximum Hit Points.** My class of [Expert/Mage(Healer)](/classes#partial-expertpartial-mage) tells me that I start with 1d6 HP (plus my 0 CON). I roll a 3. Mildly unlucky, but we'll take what we can get.
+
+![generate hp](/assets/images/generate-hp.png)
+
+**Record Attack Bonus.** My class tells me that I start with a +0 attack bonus.
+
+![attack bonus](/assets/images/attack-bonus.png)
+
+**Record Saving Throws**. My Physical save is 15 minus the highest of STR or CON, so 14. My Evasion save is 15 minus the highest of DEX or INT, so 15. My Mental save is 15 minus the highest of INT or WIS, so 15. I'll write them with the other stuff that tends to change when I level up.
+
+![saving throws](/assets/images/saving-throws.png)
+
+**Choose Starting Gear**. I roll 3d6•10 and get 130g starting gold; lucky! I can carry 7 Stowed enc and 14 Readied enc.
+
+I'll grab Plate armor (60g, 3 enc), a Large Bow (7g, 2 enc), a Quiver (10g, 1 enc, comes with infinite arrows), and a Healer's Kit (10g, 1 enc) for my Readied items.
+
+I'll save my other 43g to add to the party slush fund and wait to buy the rest of my adventuring equipment to fill in missing gaps.
+
+![inventory](/assets/images/inventory.png)
+
+**Record Weapon Statistics.** I can shoot my bow at 100 ft for close range, 600 for long range. I add +2 to hit (+1 from DEX, +1 from Shoot), and I do 1d8+1 damage on a hit (+1 from Deadeye). I haven't picked up a melee weapon yet, but I figure with Deadeye I probably won't need one.
+
+I write `• Bow(100/600): +2 -> 1d8+1` in my preferred short hand for weapon stats for basically any d20 game.
+
+![weapons](/assets/images/weapon-stats.png)
+
+**Record Armor Class.** Plate armor gives me 16 AC and my DEX bumps that to 17.
+
+![ac](/assets/images/armor-class.png)
+
+**Mages Choose Starting Spells.** Healers are technically mages, but don't get any starting spells, so we skip this.
+
+**Mages Record Effort.** Healers get Heal+INT effort, so 1 for now.
+
+![effort](/assets/images/effort.png)
+
+**Mages Choose Starting Arts.** I get [Healing Touch](/arcane-traditions#healing-touch) and an art of my choice. In order to make the healing-at-range thing work, I'll pick up [Far Healer](/arcane-traditions#far-healer). I'm limited to 10ft right now, but that should be fine. It'll get better as I level up. There's a decent argument to be made for taking a different Art that's more useful at lower levels, and then picking up Far Healer at level 2 or 4, but I think this is fine.
+
+![arts](/assets/images/arts.png)
+
+**Create Descriptive Details.** I'm imagining a character a lot like [Lucie](https://battlerite.fandom.com/wiki/Lucie) from Battlerite. I decide she's a chipper, slightly unhinged failed alchemist and flavor healing touch as chucking alchemical healing bombs at people. I think it will be fun to juxtapose her relentless optimism with the brutality and horror of dungeoneering. I'll name her Sunny.
+
+![character details](/assets/images/character-details.png)
+
+That's a character!
+
+### Exercises
+
 <details>
   <summary><strong>Exercise</strong>: Say that a Warrior has a Strength of 17. What is their STR?</summary>
   <p>+1. This is notable becuase in BX it would be +2 and in D&D5e it would be +3. Sovereign uses a more narrow mod distribution because it also uses skills.</p>

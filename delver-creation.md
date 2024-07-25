@@ -9,17 +9,17 @@ Adventuring is a profession, and all Delvers have undergone extensive training t
 
 1. **Choose a character concept**. Discuss what your role will be in the team. A well-rounded party needs a way to deal with melee enemies, a way to deal with ranged or flying enemies, a way to deal with mundane security measures (guards, locked doors, traps), a way to deal with magical security measures, and a way to keep everyone healthy when things go south. A team of a melee-focused [Warrior](/classes#warrior), Sneak-focused [Expert](/classes#expert), utility-focued [High Mage](/arcane-traditions#high-mage), and [Partial Warrior](/classes#partial-warrior)/[Healer](/arcane-traditions#healer) is well-rounded, but part of the fun is trying out other compositions.
 
-2. **Generate Attributes**. For each of the five [Attributes](/rules#attributes), assign them a score of 3d6 in order. With your role on the team in mind, pick an Attribute to raise to 14.
+2. **Generate Attributes**. For each of the five [Attributes](/rules#attributes), assign them a score of 3d6 in order. With your role on the team in mind, pick an Attribute to raise to 14. Record all of your attributes.
 
 3. **Starting Improvements**. Make a total of 4 <span id="improvement">Improvements<span> to your [Skills](/rules#skills) or [Attributes](/rules#attributes). To improve an Attribute, raise it by 1 to a max of 18. To improve a Skill, raise its level by 1 to a max of 1. All skills start at level -1. A single Attribute or Skill can be improved multiple times.
 
 4. **Choose a Class**. Pick either a full [Class](/classes) or combine two Partial Classes. [Warriors](/classes#warrior) are great at [combat](/combat), [Experts](/classes#expert) are great a [skill checks](/rules#skills), and [Mages](/classes#mage) have specialized [supernatural powers](/arcane-traditions) or [spells](/spells).
 
-6. **Choose Feats**. Each class gets a different starting amount of [Feats](/feats) at first level, detailed in the "Feat Picks" column. Some Feats, like [Alert](/feats#Alert-) grant a bonus skill. Raise that skill by one level to a maximum of level 1. If that skill is *already* level 1, make a free [improvement](#improvement).
+6. **Choose Feats**. Each class gets a different starting amount of [Feats](/feats) at first level, detailed in the "Feats" column. Some Feats, like [Alert](/feats#Alert-) grant a bonus skill. Raise that skill by one level to a maximum of level 1. If that skill is *already* level 1, make a free [improvement](#improvement).
 
 5. **Record Attribute Modifiers**. Each [Attribute](/rules#attributes) has a [Modifier](/rules#attribute-modifiers), usually ranging from -2 to +2 based on its score. This modifier is added to skill checks, attack rolls, damage rolls, Shock damage, and the relevant saving throw targets.
 
-7. **Record Maximum Hit Points**. Each class gets different amount of [Hit Points](/rules#hit-points) (HP) at first level, detailed in the "Hit Dice" column. Roll based on your class, add your CON, and +2 if you chose the [Die Hard](/feats#die-hard-) Feat.
+7. **Generate Maximum Hit Points**. Each class gets different amount of [Hit Points](/rules#hit-points) (HP) at first level, detailed in the "Hit Dice" column. Roll based on your class, add your CON, and +2 if you chose the [Die Hard](/feats#die-hard-) Feat.
 
 8. **Record Attack Bonus**. Your character has a certain degree of basic combat competence based on their class. This bonus increases as you advance in character levels and is added to your attack roll. A new character’s attack bonus is usually +0, though full Warriors start with a +1 attack bonus.
 

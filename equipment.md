@@ -134,7 +134,7 @@ Armor provides an <strong id="armor-class">Armor Class</strong> (AC). Equipped a
 | Oil, Common (1 pint)            | 3s   | 1   |
 | Oil, Military (1 pint)          | 2g   | 1   |
 | Pole, 10ft                      | 1cp  | 2   |
-| Quiver                          | 10g  | 1   |
+| Quiver + ∞ Arrows               | 10g  | 1   |
 | Rations, Iron (one day)         | 2s   | 1   |
 | Rope, 50’                       | 1g   | 2   |
 | Spell Book (blank)              | 20g  | 1   |

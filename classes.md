@@ -35,7 +35,7 @@ Activating a power only ever requires Committing a single point of Effort unless
 
 Experts gain the widest variety of non-combat skills and are the quickest to learn more of them.
 
-| Level | Hit Dice | Attack Bonus | Feat Picks            |
+| Level | Hit Dice | Attack Bonus | Feats                 |
 |-------|----------|--------------|-----------------------|
 | 1     | 1d6      | +0           | 1 Non-Combat + 1 Any  |
 | 2     | 2d6      | +1           | +1 Any                |
@@ -66,7 +66,7 @@ A Partial Expert is treated just as a full Expert, including gaining the benefit
 
 ## Partial Mage/Partial Expert
 
-| Level | Hit Dice | Attack Bonus | Feat Picks            |
+| Level | Hit Dice | Attack Bonus | Feats                 |
 |-------|----------|--------------|-----------------------|
 | 1     | 1d6      | +0           | 1 Non-Combat + 1 Any  |
 | 2     | 2d6      | +1           | +1 Any                |
@@ -81,7 +81,7 @@ A Partial Expert is treated just as a full Expert, including gaining the benefit
 
 ## Partial Warrior/Partial Expert
 
-| Level | Hit Dice | Attack Bonus | Feat Picks            |
+| Level | Hit Dice | Attack Bonus | Feats                 |
 |-------|----------|--------------|-----------------------|
 | 1     | 1d6+2    | +1           | 1 Combat + 1 Non-Combat + 1 Any |
 | 2     | 2d6+4    | +2           | +1 Any                |
@@ -100,7 +100,7 @@ A Partial Expert is treated just as a full Expert, including gaining the benefit
 
 The Mage class is a general header under which all Delvers with fundamentally supernatural powers or spellcasting ability are placed. Choose a specific [Arcane Tradition](/arcane-traditions) to follow - High Mage, Vowed, Elementalist, etc.
 
-| Level | Hit Dice  | Attack Bonus | Feat Picks  |
+| Level | Hit Dice  | Attack Bonus | Feats       |
 |-------|-----------|--------------|-------------|
 | 1     | 1d6-1     | +0           | 1 Any       |
 | 2     | 2d6-2     | +0           | +1 Any      |
@@ -119,7 +119,7 @@ A Partial Mage is treated as a Mage, and picks an Arcane Tradition for their pow
 
 You may pick the Partial Mage class twice for two different magical traditions. In this case, use the following table instead of the one listed in the partial class.
 
-| Level | Hit Dice | Attack Bonus | Feat Picks  | Max Level | Spells Cast | Spells Prepared |
+| Level | Hit Dice | Attack Bonus | Feats       | Max Level | Spells Cast | Spells Prepared |
 | ----- | -------- | ------------ | ----------- | --------- | ----------- | --------------- |
 | 1     | 1d6-1    | +0           | 1 Any       | 1         | 1           | 3               |
 | 2     | 2d6-2    | +0           | +1 Any      | 1         | 1           | 4               |
@@ -134,7 +134,7 @@ You may pick the Partial Mage class twice for two different magical traditions. 
 
 ## Partial Expert/Partial Mage
 
-| Level | Hit Dice | Attack Bonus | Feat Picks            |
+| Level | Hit Dice | Attack Bonus | Feats                 |
 |-------|----------|--------------|-----------------------|
 | 1     | 1d6      | +0           | 1 Non-Combat + 1 Any  |
 | 2     | 2d6      | +1           | +1 Any                |
@@ -149,7 +149,7 @@ You may pick the Partial Mage class twice for two different magical traditions. 
 
 ## Partial Warrior/Partial Mage
 
-| Level | Hit Dice | Attack Bonus | Feat Picks            |
+| Level | Hit Dice | Attack Bonus | Feats                 |
 |-------|----------|--------------|-----------------------|
 | 1     | 1d6+2    | +1           | 1 Any + 1 Combat      |
 | 2     | 2d6+4    | +2           | +1 Any                |
@@ -168,7 +168,7 @@ You may pick the Partial Mage class twice for two different magical traditions. 
 
 Born to the blade, gifted with a superb capacity for physical violence.
 
-| Level | Hit Dice | Attack Bonus | Feat Picks            |
+| Level | Hit Dice | Attack Bonus | Feats                 |
 |-------|----------|--------------|-----------------------|
 | 1     | 1d6+2    | +1           | 1 Any + 1 Combat      |
 | 2     | 2d6+4    | +2           | +1 Any                |
@@ -201,7 +201,7 @@ A Partial Warrior gains certain of the benefits of a full Warrior, including the
 
 ## Partial Mage/Partial Warrior
 
-| Level | Hit Dice | Attack Bonus | Feat Picks            |
+| Level | Hit Dice | Attack Bonus | Feats                 |
 |-------|----------|--------------|-----------------------|
 | 1     | 1d6+2    | +1           | 1 Any + 1 Combat      |
 | 2     | 2d6+4    | +2           | +1 Any                |
@@ -216,7 +216,7 @@ A Partial Warrior gains certain of the benefits of a full Warrior, including the
 
 ## Partial Expert/Partial Warrior
 
-| Level | Hit Dice | Attack Bonus | Feat Picks                      |
+| Level | Hit Dice | Attack Bonus |                                 |
 |-------|----------|--------------|---------------------------------|
 | 1     | 1d6+2    | +1           | 1 Combat + 1 Non-Combat + 1 Any    |
 | 2     | 2d6+4    | +2           | +1 Any                          |

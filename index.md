@@ -34,6 +34,7 @@ A Bestiary, Magic Item repository, and extensive GM section are in progress. In 
 #### 2024-07-25
 - Remove Lead and Lead-based Feats. Use leverage instead.
 - Remove Charisma
+- Worked delver creation example. Whew.
 
 #### 2024-07-24
 - Add a tutorial for learning delver creation. Still need a worked example.
