@@ -27,9 +27,23 @@ A Bestiary, Magic Item repository, and extensive GM section are in progress. In 
 
 - Anything rated ["Best" at tenfootpole](https://tenfootpole.org/ironspike/?cat=7).
 - Anything Melan rates a `**** / *****` or higher. I don't know of a good way to filter here, but [here are all of the reviews](https://beyondfomalhaut.blogspot.com/search/label/review)
-- Anything prince rates a `*****` or higher on [his review list](https://princeofnothingblogs.wordpress.com/reviews/)
+- Anything prince rates a `*****` on [his review list](https://princeofnothingblogs.wordpress.com/reviews/)
+
+### Under Construction
+
+- Actually playtest the classes. I know it uses WWN which has its own playtesting, but there's probably still jank somewhere.
+- Make sure that there's enough skills for all the advancement points that PCs get while leveling up. Need to make sure that not every high level character is the same.
+- Make sure that there's enough feats for spellcasters.
+- The whole GM section. The advice and theory can wait, but conversion guides and whatnot are pressing.
+- The bestiary
+- Magic items
+- Most of the tutorial. I don't plan on covering every paragraph, but it would be useful to go over skill checks, combat, arts, and spells.
 
 ### Change Log
+
+#### 2024-07-25
+- Add big picture and core loop tutorials
+- Add the under construction section
 
 #### 2024-07-25
 - Remove Lead and Lead-based Feats. Use leverage instead.

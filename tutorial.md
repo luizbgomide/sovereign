@@ -147,3 +147,37 @@ That's a character!
   <summary><strong>Exercise</strong>: Can I have darkvision or infravision?</summary>
   <p>Yes, though you'll have to take the right <a href="/arcane-traditions">Arcane Tradition</a>.</p>
 </details>
+
+## The Big Picture
+
+First, read through [The Big Picture](/rules#the-big-picture) and [Core Gameplay Loop](/rules#core-gameplay-loop) and then come back here.
+We focus on playing adventures because that's where the [high quality](https://udan-adan.blogspot.com/2016/11/conceptual-density-or-what-are-rpg.html) content is. The GM proposes only modules that *they'd like to run*. That means that regardless of the player's choice, they're happy. Having the players talk and choose out-of-game means that they're making choices as players (who are playing to have fun) rather than characters (who are choosing based on in-game goals like wealth and power). It can be a whole lot of fun to put your Delver through horrible sitautions!
+
+
+## Worked Example
+
+The players just defeated the [Black Wyrm of Brandonsford](https://rancourt.substack.com/p/review-the-black-wyrm-of-brandonsford) and hauled its hoard back to town, everyone reaching level 3.
+
+**GM**: The citizens of brandonsford ecstatic that you've slain the beast, and the revelry continues well into the week. Many of the folks you've met or helped come to pay their respect, Bently of the clumsy fox, Warwick, hand in hand with Ingrid, Father William, and even George the hunter seems to be in better spirits. As the celebrations are winding down, the town reeve, Eric, announces that they'll be memoralizing you along side Brandon as the second saviors of Brandonsford. Is there anything else you want to do here before we wrap up?
+
+**Player**: I'd like to have my character, Huxley, stick around in Brandonsford for a few years. Settle in. Help Rebuild.
+
+**GM**: No problem, we can make another chacter between sessions. Speaking of, here's what I'm thinking: We could play [the forest of gornate](https://www.drivethrurpg.com/en/product/426926/The-Forest-of-Gornate?1892600=) which is a forest adventure with fallen civilizations, strange denizens, natural wonders, mysterious villas, and reclusive bandit leaders - there's a lot going on. Another option is [cavern of the creeping terror](https://www.drivethrurpg.com/en/product/418780/Cavern-of-the-Creeping-Terror?1892600=) which is a dungeon crawl with undead pirates, imprisoned fae, and huge slugs. Finally, we have [peril in the olden wood](https://www.drivethrurpg.com/en/product/397008/Peril-in-Olden-Wood?1892600=) which is a small hexcrawl with a bunch of interconnected problems happening; bigger in scope than the other two.
+
+**Player**: I'm leaning toward the creeping terror one, but I don't know yet.
+
+**GM**: No problem, don't need to decide right now. I'll drop the options in the group chat, but please vote by end-of-day tomorrow so I have time to prep!
+
+## Core Gameplay Loop
+
+I can't stress enough how important this is "getting" it. This loop and The Big Picture are the whole thing - all the rest is commentary.
+
+We have stuff like attributes and skills to make it easier for the GM to come up with consistent rulings for common situations, and for the players to be on the same page as the GM. We have subsystems like combat because it tends to be high stakes as well as *fun* to game out, but ultimately it serves the same purpose.
+
+The Core Gameplay Loop has a lot of hidden complexity in it. For instance, take "players describe their actions and the *intent* behind their actions". Say that there's a 20ft pit that a player wants to cross. There's a big difference between an intent of "I want to clear the pit" and "I want to have a shot of grabbing the far ledge". In the first one, they're asking to just totally succeed. In the second one, they're asking for a *chance* to catch the ledge - even if they succeed at their *jump*, they still might not *catch*, and that uncertainty puts us back at the beginning of the loop, and allows us to build more complex mechanics. An excellent post on the subject is [Advantage and Impact - Dreaming Dragonslayer](https://dreamingdragonslayer.wordpress.com/2020/03/28/advantage-and-impact/).
+
+These are the levers for negotiation. If the players are unhappy with their chances, they can negotiate with less desirable intents or more grevious consequences and so on. Similarly, this is the GM's space to port in more complex subsystems where they think they're needed, to handwave it all with a roll, or to say it *just happens*.
+
+Finally, this is what allows for [tactical infinity](https://rolltop-indigo.blogspot.com/2018/05/the-invisible-rulebooks.html). Notice how the phrase is "players describe their actions and the intent behind their actions" and **not** "players pick an action or skill to use". The players can try *anything*, and it's the GM's job to figure out what happens. *Sometimes* that results in a dice roll (which is *sometimes* a skill check), but usually what they want to do just happens.
+
+This isn't to say that players don't need to learn the rules; *they do*. If a game is about making [informed, impactful choices](https://www.bastionland.com/2018/09/the-ici-doctrine-information-choice.html) then the rules themselves are doing a lot of the heavy lifting of making the choices *informed*. A player who has read the rules is much more informed about how "I want to distract the Bear with my staff to give Huxley an opening" will *actually work* if they know how [Swarm Attack](/combat#make-a-swarm-attack-main-action) works and so on. Playing Sovereign without knowing how the rules work would be a *lot* like playing chess without knowing the rules. You *can do it*, but it'll be much less interesting and can potentially feel unfair.
