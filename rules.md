@@ -147,7 +147,7 @@ When an NPC needs to make a skill check, they roll 2d6 and add their listed skil
 
 ### Group Checks
 
-When multiple Delvers face a situation together, they elect one to make the roll. For each other Delver with at least level 1 in the skill, add 1 to the roll. For each delver with -1 in the skill, subtract 1.
+When multiple Delvers face a situation together, they elect one to make the roll. For each other Delver with a positive modifier, add 1 to the roll. For each delver with a negative modifier, subtract 1.
 
 This represents forcing open a heavy door together, everyone trying to stealth past a guard, or collectively climbing a cliff face.
 

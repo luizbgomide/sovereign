@@ -43,6 +43,7 @@ A Bestiary, Magic Item repository, and extensive GM section are in progress. In 
 
 #### 2024-07-26
 - Add check penalties to chain and plate armor.
+- Include attributes in group checks.
 
 #### 2024-07-25
 - Add big picture and core loop tutorials.
