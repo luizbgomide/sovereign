@@ -173,7 +173,7 @@ Injury is almost inevitable in an adventurer’s career. Some forms of it are lo
 
 When a Delver is reduced to zero HP by a lethal attack, they are Mortally Injured. They will die at the end of the sixth round after their incapacitation unless stabilized by an ally or some special ability. A Mortally Injured character is helpless, takes no actions, and does nothing useful.
 
-Stabilizing an ally is a Main Action that requires a DEX/ Heal or INT/Heal skill check with a DC of 8 plus the number of full rounds since the target fell. If the medic lacks a [healer’s kit](/equipment#healers-kit) or other tools, this difficulty is increased by 2. Only one ally can try to stabilize a victim per round, though others can attempt to aid their check (via a group check). Attempts may be retried each round for as long as hope lasts.
+Stabilizing an ally is a Main Action that requires a DEX/Heal or INT/Heal skill check with a DC of 8 plus the number of full Rounds since the target fell. If the medic lacks a [healer’s kit](/equipment#healers-kit), this difficulty is increased by 2. Only one ally can try to stabilize a victim per round, though others can attempt to aid their check (via a group check). Attempts may be retried each round for as long as hope lasts.
 
 Once stabilized, the victim remains incapacitated for one Turn before recovering with 1 HP and the [Frail](#frail) condition.
 

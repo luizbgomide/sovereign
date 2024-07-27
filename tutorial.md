@@ -230,4 +230,34 @@ Say that we're playing [Winter's Daughter](https://www.drivethrurpg.com/en/produ
 
 ## Skills
 
-Have a read of [Attributes](#attributes) and [Skills](#skills).
+Have a read of [Attributes](#attributes) and [Skills](#skills) and then come back.
+
+A check is `2d6 + attribute mod + skill >= DC`, and the GM is in charge of determining each factor. As a player, you *do not* want to request skill checks - skill checks are how things go *wrong*. Instead, stick to stating your actions and intents, and *hope* that a skill check isn't called for!
+
+Of the three factors, the DC is supposed to represent how hard *in general* the task is. The attribute mod represents that some people are naturally smarter, more coordinated, or are stronger than others, and that for those people, the same task should be easier. Skill represents that some people can have more *training* in a thing than others, and it should be easier for those folks too. It's simpler and more abstract than reality, but [most things are](http://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail).
+
+When in doubt, use DC 10 as a default; it's low enough that success is still reasonable, but high enough to encourage players to work together, negotiate for softer intents, higher stakes, or higher costs, or come up with other plans.
+
+This graph gives the distribution of rolling at least a number on 2d6:
+
+![small](/assets/images/skill-check-stats.png)
+
+A DC 10 check has only a 17% chance of success. If they have +1 in the relevant mod and +1 in the relevant skill, then they'd only need to roll an 8, which jumps them all the way up to 42%. If a friend is able to help, that gets them to 58%. These are *huge* differences, and incentivize the style of play we're aiming for.
+
+### Worked Example
+
+Say we are playing through [Stonehell](https://www.lulu.com/shop/michael-curtis/stonehell-dungeon-down-night-haunted-halls/paperback/product-1v8vy2zz.html)). Alice's Delver has just fallen down the pit trap in area 1B, arriving at 2B21. Here's the original text:
+
+> 21. Landing Pad: Fearsome faces carved in walls; bloodstains; broken weapons & equipment. Victims of the pit trap on Level 1B arrive here, taking 1d6 points of damage from the slide and tumble. The chute may be climbed by a thief with a Climb Walls check or by any other character aided by ropes & spikes and making a STR check.
+
+If the Delver wants to rejoin the party, we might rule getting up by yourself as a DEX/Exert 10 check, each attempt taking a turn, and on failure they fall and suffer 1d3 damage (since they're prepared and falling less distance). If they get a rope lowered down, I'd have this be a DC 6 group STR/Exert check (or just let them back up).
+
+## Injury, Healing, and System Strain
+
+Have a read through [Injury, Healing, and System Strain](injury-healing-and-system-strain) and then come back.
+
+The main changes here compared to [BX](https://www.drivethrurpg.com/en/product/110274/d-d-basic-set-rulebook-b-x-ed-basic) are:
+
+- Characters do not die at 0 hp. Instead, they're [Mortally Injured](/rules#mortal-injury-and-stabalization) and become [Frail](/rules#frail).
+- Frail is a harder to remove, either requiring luck or a week of rest.
+- Healing is much more accessible (via [First Aid](/rules#first-aid)), but also still wears characters down over time (via [System Strain](/rules#system-strain)).
