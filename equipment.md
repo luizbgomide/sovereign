@@ -101,6 +101,8 @@ Military oil may be ignited and thrown with a DEX/Shoot attck, dealing 1d8 damag
 
 Armor provides an <strong id="armor-class">Armor Class</strong> (AC). Equipped armor must always occupy Readied slots.
 
+Chain applies a -2 penalty to Sneak checks. Plate applies a -3 penalty to Sneak and Exert checks.
+
 | Name    | AC  | Cost | Enc |
 | ------- | --- | ---- | --- |
 | None    | 10  | 0g   | 0   |

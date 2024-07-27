@@ -41,10 +41,13 @@ A Bestiary, Magic Item repository, and extensive GM section are in progress. In 
 
 ### Change Log
 
+#### 2024-07-26
+- Add check penalties to chain and plate armor.
+
 #### 2024-07-25
-- Add big picture and core loop tutorials
-- Add the under construction section
-- Add a worked example for the core loop tutorial
+- Add big picture and core loop tutorials.
+- Add the under construction section.
+- Add a worked example for the core loop tutorial.
 
 #### 2024-07-25
 - Remove Lead and Lead-based Feats. Use leverage instead.
@@ -89,6 +92,7 @@ A Bestiary, Magic Item repository, and extensive GM section are in progress. In 
 - Replace WWN's XP system with a slightly-more-generous version of BX's.
 - Rip out all of the downtime stuff; it's out of scope. No crafting, no modifying.
 - Remove all of the wilderness exploration stuff. It's [not worth it](https://rancourt.substack.com/i/146342934/conclusions-and-suggestions). We want to spend time in dungeons playing modules.
+- Simplify WWN's armor list down to just leather/chain/plate.
 
 ### Attributions
 
