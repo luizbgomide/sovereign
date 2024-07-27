@@ -44,6 +44,7 @@ A Bestiary, Magic Item repository, and extensive GM section are in progress. In 
 #### 2024-07-25
 - Add big picture and core loop tutorials
 - Add the under construction section
+- Add a worked example for the core loop tutorial
 
 #### 2024-07-25
 - Remove Lead and Lead-based Feats. Use leverage instead.
