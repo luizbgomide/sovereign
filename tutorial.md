@@ -154,7 +154,7 @@ First, read through [The Big Picture](/rules#the-big-picture) and [Core Gameplay
 We focus on playing adventures because that's where the [high quality](https://udan-adan.blogspot.com/2016/11/conceptual-density-or-what-are-rpg.html) content is. The GM proposes only modules that *they'd like to run*. That means that regardless of the player's choice, they're happy. Having the players talk and choose out-of-game means that they're making choices as players (who are playing to have fun) rather than characters (who are choosing based on in-game goals like wealth and power). It can be a whole lot of fun to put your Delver through horrible sitautions!
 
 
-## Worked Example
+### Worked Example
 
 The players just defeated the [Black Wyrm of Brandonsford](https://rancourt.substack.com/p/review-the-black-wyrm-of-brandonsford) and hauled its hoard back to town, everyone reaching level 3.
 
