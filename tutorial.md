@@ -209,3 +209,25 @@ Say that we're playing [Winter's Daughter](https://www.drivethrurpg.com/en/produ
 **Player**: Works for me. *(if the players find the ruling reasonable...)*
 
 **GM**: Alrighty - ya'll head back to town, rustle folks up, pay them their dues, and then in the morning head back to the barrow and get the stone pushed off. The townsfolk shudder, clearly nervous, and quickly head back. Underneath the huge are dusty stone stairs descending down into the darkness. It's deathly silent and it smells moist and mouldy. *(honor the stakes and fast forward to the next meaningful decision)*
+
+### Exercises
+
+<details>
+  <summary><strong>Exercise</strong>: What should the GM tell the players when the enter a new situation?</summary>
+  <p>Only what they can sense without taking further action, which is usually sights, sounds, and smells and <strong>not</strong> what they feel or taste.</p>
+  <p>It should not be assumed that the PCs touch anything or move anywhere. The choice of what to interact with and how to interact with it are a big part of player skill, and what makes exploration a <strong>game</strong>.</p>
+</details>
+
+<details>
+  <summary><strong>Exercise</strong>: As a player, what are my options if I don't like the ruling the GM made for my plan?</summary>
+  <p>Broadly, you have three choices. Come up with a different plan entirely, try to change their mind (weak), or negotiate (strong). Some plans are strictly better than other plans, but most of the time, you'll be making trade-offs. It's <i>faster</i> to jump over a pit than to fetch a plank to slide across it, but <i>riskier</i>.</p>
+</details>
+
+<details>
+  <summary><strong>Exercise</strong>: As a GM, do I need to narrate every situation?</summary>
+  <p>No! Check out the last statement in the worked example. The GM narrates through the trip back to town, the process of gathering folks to help, whatever happened in the evening, and the trip back to the mound, all in one sentence. This is the <a href="https://thealexandrian.net/wordpress/31509/roleplaying-games/the-art-of-pacing">art of pacing</a>.</p>
+</details>
+
+## Skills
+
+Have a read of [Attributes](#attributes) and [Skills](#skills).
