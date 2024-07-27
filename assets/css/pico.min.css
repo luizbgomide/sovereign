@@ -3079,7 +3079,3 @@ textarea {
         transition-duration: 0s !important;
     }
 }
-
-img[alt="small"] {
-    width: 600px;
-}
