@@ -26,21 +26,21 @@ After reading through delver creation, following the various links and having a 
 
 **Generate Attributes.** I roll [3d6](https://anydice.com/program/1) 5 times in order and get Strength 14, Dexterity 7, Constitution 11, Intelligence 8, Wisdom 10. Since I want to be a good shot, I raise my Dexterity to 14. I write them all down.
 
-![generate attributes](/assets/images/generate-attributes.png)
+![small](/assets/images/generate-attributes.png)
 
 **Starting Improvements.** I write down all of the skills at level -1
 
-![record initial skills](/assets/images/record-initial-skills.png)
+![small](/assets/images/record-initial-skills.png)
 
 Then I get to make 4 improvements. My Strength and Dexterity are already 14, which is the threshold for +1, and the rest of my Attributes are at +0 and quite far away from 14 so I'll stick to improving my skills for now.
 
 I decide that want to be be a great healer, handy with a bow, and be knowledgable, so I improve Heal twice (to +1), Shoot once (to +0), and Know once (to +0).
 
-![improved skills](/assets/images/improved-skills.png)
+![small](/assets/images/improved-skills.png)
 
 **Choose a Class.** I know that I want to be a Healer, but since it only comes as a Partial Mage, I need to pick another partial class. Partial Warrior would give me more HP and accuracy, but Partial Expert is still good with a bow and makes me *even better* at healing (as well as helping me with everything else). I decide on Partial Expert, making me an [Expert/Mage(Healer)](/classes#partial-expertpartial-mage).
 
-![improved skills](/assets/images/choose-class.png)
+![small](/assets/images/choose-class.png)
 
 **Choose Feats.** The "Feats" column for level 1 Partial Expert/Partial Mage says I get "1 Non-combat + 1 Any", which means I can select any feat that doesn't have the crossed swords icon, and then any feat I want.
 
@@ -48,23 +48,23 @@ First, I'll pick up [Gifted Chirurgeon](/feats#gifted-chirurgeon) at rank 1 to b
 
 For my other feat, I'll pick up [Deadeye](/feats#deadeye-) at rank 1 to do more damage with my bow. This gives me Shoot as a bonus skill, and since I already have Shoot at +1, I can make a free improvement. I'll improve my Know to 1.
 
-![choose feats](/assets/images/choose-feats.png)
+![small](/assets/images/choose-feats.png)
 
 **Record Attribute Modifiers.** I record my modifiers next to my attributes. My STR and DEX are +1 and the others are +0.
 
-![attribute mods](/assets/images/attribute-mods.png)
+![small](/assets/images/attribute-mods.png)
 
 **Generate Maximum Hit Points.** My class of [Expert/Mage(Healer)](/classes#partial-expertpartial-mage) tells me that I start with 1d6 HP (plus my 0 CON). I roll a 3. Mildly unlucky, but we'll take what we can get.
 
-![generate hp](/assets/images/generate-hp.png)
+![small](/assets/images/generate-hp.png)
 
 **Record Attack Bonus.** My class tells me that I start with a +0 attack bonus.
 
-![attack bonus](/assets/images/attack-bonus.png)
+![small](/assets/images/attack-bonus.png)
 
 **Record Saving Throws**. My Physical save is 15 minus the highest of STR or CON, so 14. My Evasion save is 15 minus the highest of DEX or INT, so 15. My Mental save is 15 minus the highest of INT or WIS, so 15. I'll write them with the other stuff that tends to change when I level up.
 
-![saving throws](/assets/images/saving-throws.png)
+![small](/assets/images/saving-throws.png)
 
 **Choose Starting Gear**. I roll 3d6•10 and get 130g starting gold; lucky! I can carry 7 Stowed enc and 14 Readied enc.
 
@@ -72,31 +72,31 @@ I'll grab Plate armor (60g, 3 enc), a Large Bow (7g, 2 enc), a Quiver (10g, 1 en
 
 I'll save my other 43g to add to the party slush fund and wait to buy the rest of my adventuring equipment to fill in missing gaps.
 
-![inventory](/assets/images/inventory.png)
+![small](/assets/images/inventory.png)
 
 **Record Weapon Statistics.** I can shoot my bow at 100 ft for close range, 600 for long range. I add +2 to hit (+1 from DEX, +1 from Shoot), and I do 1d8+1 damage on a hit (+1 from Deadeye). I haven't picked up a melee weapon yet, but I figure with Deadeye I probably won't need one.
 
 I write `• Bow(100/600): +2 -> 1d8+1` in my preferred short hand for weapon stats for basically any d20 game.
 
-![weapons](/assets/images/weapon-stats.png)
+![small](/assets/images/weapon-stats.png)
 
 **Record Armor Class.** Plate armor gives me 16 AC and my DEX bumps that to 17.
 
-![ac](/assets/images/armor-class.png)
+![small](/assets/images/armor-class.png)
 
 **Mages Choose Starting Spells.** Healers are technically mages, but don't get any starting spells, so we skip this.
 
 **Mages Record Effort.** Healers get Heal+INT effort, so 1 for now.
 
-![effort](/assets/images/effort.png)
+![small](/assets/images/effort.png)
 
 **Mages Choose Starting Arts.** I get [Healing Touch](/arcane-traditions#healing-touch) and an art of my choice. In order to make the healing-at-range thing work, I'll pick up [Far Healer](/arcane-traditions#far-healer). I'm limited to 10ft right now, but that should be fine. It'll get better as I level up. There's a decent argument to be made for taking a different Art that's more useful at lower levels, and then picking up Far Healer at level 2 or 4, but I think this is fine.
 
-![arts](/assets/images/arts.png)
+![small](/assets/images/arts.png)
 
 **Create Descriptive Details.** I'm imagining a character a lot like [Lucie](https://battlerite.fandom.com/wiki/Lucie) from Battlerite. I decide she's a chipper, slightly unhinged failed alchemist and flavor healing touch as chucking alchemical healing bombs at people. I think it will be fun to juxtapose her relentless optimism with the brutality and horror of dungeoneering. I'll name her Sunny.
 
-![character details](/assets/images/character-details.png)
+![small](/assets/images/character-details.png)
 
 That's a character!
 
@@ -166,7 +166,7 @@ The players just defeated the [Black Wyrm of Brandonsford](https://rancourt.subs
 
 **Player**: I'm leaning toward the creeping terror one, but I don't know yet.
 
-**GM**: No problem, don't need to decide right now. I'll drop the options in the group chat, but please vote by end-of-day tomorrow so I have time to prep!
+**GM**: No need to decide right now. I'll drop the options in the group chat, but please vote by end-of-day tomorrow so I have time to prep!
 
 ## Core Gameplay Loop
 
@@ -181,3 +181,31 @@ These are the levers for negotiation. If the players are unhappy with their chan
 Finally, this is what allows for [tactical infinity](https://rolltop-indigo.blogspot.com/2018/05/the-invisible-rulebooks.html). Notice how the phrase is "players describe their actions and the intent behind their actions" and **not** "players pick an action or skill to use". The players can try *anything*, and it's the GM's job to figure out what happens. *Sometimes* that results in a dice roll (which is *sometimes* a skill check), but usually what they want to do just happens.
 
 This isn't to say that players don't need to learn the rules; *they do*. If a game is about making [informed, impactful choices](https://www.bastionland.com/2018/09/the-ici-doctrine-information-choice.html) then the rules themselves are doing a lot of the heavy lifting of making the choices *informed*. A player who has read the rules is much more informed about how "I want to distract the Bear with my staff to give Huxley an opening" will *actually work* if they know how [Swarm Attack](/combat#make-a-swarm-attack-main-action) works and so on. Playing Sovereign without knowing how the rules work would be a *lot* like playing chess without knowing the rules. You *can do it*, but it'll be much less interesting and can potentially feel unfair.
+
+### Worked Example
+
+Say that we're playing [Winter's Daughter](https://www.drivethrurpg.com/en/product/270795/Winters-Daughter). The players at at the Tomb Entrance:
+
+![small](/assets/images/winters-daughter-stone.png)
+
+**GM**: You see a mound sealed by a huge, granite slab. The whole thing is overgrown with lichen and sweet-smelling roses. What do you do? *(describe the situation, ask "what do you do?")*
+
+**Player**: Does it look like we can move that slab? *(the players ask for clarification)*
+
+**GM**: Hmm - hard to say. It's huge and granite is **heavy**. You also don't know how thick it is and can't tell just by looking. Are you willing to try to budge it? *(describe the situation, ask "what do you do?")*
+
+**Player**: Sure - I'll use my crowbar and see if I can nudge it. *(the players describe their action and intent)*
+
+**GM**: It moves, but barely; not something you could lift off like that. What do you do? *(inform the players about their chances)*
+
+**Player**: What if everyone helps shove? *(come up with a better plan)*
+
+**GM**: Sure - how about a [DC 8 group STR/Exert check](/rules#group-checks)? And if it fails, everyone takes a point of System Strain as you have to give it your all? *(inform the players about their chances)*
+
+**Player**: Yuck, that's a lot of strain. We're pretty flush - do you think some of the burly townsfolk would be willing to help us out for coin? *(come up with a better plan)*
+
+**GM**: Sure - how about it takes a day and 20g to rustle everyone up, and then they'll be able to push it no problem? *(inform the players about their chances)*
+
+**Player**: Works for me. *(if the players find the ruling reasonable...)*
+
+**GM**: Alrighty - ya'll head back to town, rustle folks up, pay them their dues, and then in the morning head back to the barrow and get the stone pushed off. The townsfolk shudder, clearly nervous, and quickly head back. Underneath the huge are dusty stone stairs descending down into the darkness. It's deathly silent and it smells moist and mouldy. *(honor the stakes and fast forward to the next meaningful decision)*
