@@ -181,3 +181,71 @@ Henchmen, especially higher level ones, are subject to their own market availabi
 Henchmen are ultimately NPCs and the GM has the final say on what they do. However, player who hired the Henchman generally controls them.
 
 A Delver may each have one Henchman.
+
+## Magic Items
+
+Magic Items are wonderous, expensive objects. Some magic items are unique, while provide flat numerical bonuses, or mimic spell effects.
+
+Magic Items can be sold, though they are subject [Market Availbility](#equipment-availability). In order to estimate their price, decide which [spell](/spells) effect the item is most similar to, and note the spell level. If no such spell exists, try to guage which spell level it would be.
+
+Then, consult the following chart to determine market value:
+
+| Effect Type                  | Price (g)               |
+| ---------------------------- | ----------------------- |
+| One Use Effect               | 1,000 × level           |
+| Charged Effect               | 1,000 × level × charges |
+| Use 1/week                   | 3,000 × level           |
+| Use 3/week                   | 4,000 × level           |
+| Use 1/day                    | 5,000 × level           |
+| Use 3/day                    | 6,000 × level           |
+| Use 1/hour                   | 8,000 × level           |
+| Use 1/3 turns                | 12,500 × level          |
+| Use 1/turn                   | 16,500 × level          |
+| At-Will                      | 25,000 × level          |
+| Always On...                 |                         |
+| ...from effect ≥ 1 day       | 7,500 × level           |
+| ...from effect ≥ 1 hour      | 12,000 × level          |
+| ...from effect ≥ 3 turns     | 19,000 × level          |
+| ...from effect ≥ 1 turn      | 25,000 × level          |
+| +1 (e.g. Sword+1 or Armor+1) | 5,000                   |
+| +2                           | 15,000                  |
+| +3                           | 35,000                  |
+
+
+Each settlement has *some* sort of magic item market, however sparse, based on the population of the settlement. The following table lists how many of each type of item are available for purchase.
+
+| Item Type / Population | 100k+ | 25k+ | 10k+ | 3k+ | 1k+ | 999k- |
+| ---------------------- | ----- | ---- | ---- | --- | --- | ----- |
+| Potion                 | 37    | 9    | 5    | 1   | 50% | 10%   |
+| Ring                   | 9     | 2    | 1    | 30% | 10% | -     |
+| Scroll                 | 53    | 13   | 7    | 2   | 70% | 20%   |
+| Rod/Wand/Staff         | 9     | 2    | 1    | 30% | 10% | -     |
+| Miscellaneous Weapon   | 9     | 2    | 1    | 30% | 10% | -     |
+| Sword                  | 37    | 9    | 5    | 1   | 50% | 10%   |
+| Miscellaneous Item     | 9     | 2    | 1    | 30% | 10% | -     |
+| Armor & Shield         | 14    | 4    | 2    | 40% | 20% | 10%   |
+
+Each category corresponds to one of the [OSE Generators](https://oldschoolessentials.necroticgnome.com/generators/magic-item-generator), rerolling cursed items. For example, a City like [Baklin, Jewel of the Seas](https://beyondfomalhaut.blogspot.com/2020/11/module-baklin-jewel-of-seas-now.html) with a population of 20,000 would have, on any given month, something like:
+
+- Potion of Invisibility (1000g)
+- Potion of Flying (2000g)
+- Potion of ESP (1000g)
+- Potion of Fire Resistance (2000g)
+- Potion of Polymorph Self (4000g)
+- Ring of Invisibility (16500g)
+- Scroll [Dominate Sense] (1000g)
+- Scroll [Haste] (2000g)
+- Scroll [Augury] (3000g)
+- Scroll [Suggestion] (2000g)
+- Scroll [Dominate Person] (1000g)
+- Scroll [Scry] (2000g)
+- Scroll [Magic Bomb] (3000g)
+- Rod of Cancellation (4000g)
+- War Hammer +2 (15000g)
+- Sword +3 (35000g)
+- Sword +1 (5000g)
+- Sword +1 [+3 vs Lycanthropes] (12500g)
+- Sword +1 [+3 vs Undead] (12500g)
+- Sword +1 [Light] (21500g)
+- Shield +3 (35000g)
+- Shield +1 (5000g)
