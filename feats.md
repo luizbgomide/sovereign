@@ -72,7 +72,7 @@ You have an unusual gift for saving Mortally Wounded allies and quickening the n
 
 Whether through uncanny reflexes, remarkable luck, supernatural heritage, or magical talent, you have natural defenses equivalent to high-quality armor. The benefits of this Feat don’t stack with armor, though DEX and shield modifiers apply.
 
-- **Level 1**: You have an innate Armor Class of 15 plus half your character level, rounded up.
+- **Level 1**: You have an innate AC of 15 plus half your character level, rounded up.
 - **Level 2**: Once per day, as an Instant action, you can shrug off any single weapon attack or physical trauma inflicted by a foe. Environmental damage, falling damage, or other harm that couldn’t be forfended by strong armor cannot be resisted this way.
 
 ## Impostor

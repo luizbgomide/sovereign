@@ -74,7 +74,7 @@ Target an enemy within range of your weapon and take this action until up to fou
 
 ### Charge (Special Action)
 
-Spend both your Main Action and your Move action to move up to twice your normal movement rate in a straight line, making a melee or thrown ranged attack at the end of it with a +2 bonus to hit. You must be able to charge at least 3 meters to build up sufficient momentum and you suffer a -2 penalty to your Armor Classes until the end of the round.
+Spend both your Main Action and your Move action to move up to twice your normal movement rate in a straight line, making a melee or thrown ranged attack at the end of it with a +2 bonus to hit. You must be able to charge at least 3 meters to build up sufficient momentum and you suffer a -2 penalty to your AC until the end of the round.
 
 If you start your movement adjacent to an armed melee combatant, they get a free melee attack against you as you flee. To avoid this, you must Disengage first.
 
@@ -84,7 +84,7 @@ Move up to your normal movement rate to get adjacent to an ally. You then physic
 
 ### Total Defense (Instant Action)
 
-Give up your Main Action to focus entirely on dodging and evading incoming perils. Your Melee and Ranged Armor Classes increase by +2 and you become immune to Shock until the start of your next turn, including the otherwise-unavoidable damage from a Swarm Attack. You cannot take this action if you have already spent your Main Action for the round.
+Give up your Main Action to focus entirely on dodging and evading incoming perils. Your AC increases by 2 and you become immune to Shock until the start of your next turn, including the otherwise-unavoidable damage from a Swarm Attack. You cannot take this action if you have already spent your Main Action for the round.
 
 Since Total Defense is an Instant Action, you may use it *after* you see the result of an attack roll against you.
 
@@ -132,7 +132,7 @@ Spend your Move action to delay acting on your side’s turn. You may trigger th
 
 ## Combat Attack Rolls
 
-When an assailant makes an attack, they roll 1d20 and add their attack bonus, the weapon’s relevant attribute modifier, their relevant combat skill level, and any magical bonuses from their weapon. If the total is equal or greater than the target’s relevant Armor Class, they hit. If less, they miss.
+When an assailant makes an attack, they roll 1d20 and add their attack bonus, the weapon’s relevant attribute modifier, their relevant combat skill level, and any magical bonuses from their weapon. If the total is equal or greater than the target’s relevant AC, they hit. If less, they miss.
 
 Every weapon listed in the equipment section is listed as using one or more attributes, such as either STR or DEX for a dagger. The attacker may choose either attribute for modifying the weapon’s attack and damage rolls.
 
@@ -164,9 +164,9 @@ If the result is less than your Shock damage, inflict that much instead.
 
 ## Shock
 
-Some melee weapons inflict Shock on a missed attack roll. This damage reflects the inevitable harm a poorly-armored combatant suffers when engaging in armed combat. Shock for a weapon is recorded as a point value and target Armor Class, such as “Shock 2/15”. If the wielder misses a target with this weapon that has a Armor Class equal or less than the weapon’s Shock rating, they suffer the listed amount of damage anyway. Thus, if that weapon were to miss a victim with Melee AC 13, it would still do 2 points of damage.
+Some melee weapons inflict Shock on a missed attack roll. This damage reflects the inevitable harm a poorly-armored combatant suffers when engaging in armed combat. Shock for a weapon is recorded as a point value and target AC, such as “Shock 2/15”. If the wielder misses a target with this weapon that has a AC equal or less than the weapon’s Shock rating, they suffer the listed amount of damage anyway. Thus, if that weapon were to miss a victim with Melee AC 13, it would still do 2 points of damage.
 
-Some attacks apply Shock on a miss regardless of the target’s Armor Class. This benefit may be granted by certain abilities (like [Armsmaster](/feats#armsmaster-c)), or it be part of a dangerous NPC’s talents. Such Shock ratings are recorded with “-” as the affected AC, such as “Shock 5/-”. This automatic Shock is still negated by shields or abilities that grant a subject immunity to Shock.
+Some attacks apply Shock on a miss regardless of the target’s AC. This benefit may be granted by certain abilities (like [Armsmaster](/feats#armsmaster-c)), or it be part of a dangerous NPC’s talents. Such Shock ratings are recorded with “-” as the affected AC, such as “Shock 5/-”. This automatic Shock is still negated by shields or abilities that grant a subject immunity to Shock.
 
 The only modifiers that add to Shock damage are the wielder’s relevant attribute modifier for the weapon and any damage bonuses that explicitly add to Shock.
 

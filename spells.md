@@ -473,7 +473,7 @@ This spell can function against worked stone, but the length of the tunnel is mu
 #### Become Element
 The elementalist charges their physical shape with the qualities of a chosen element for the rest of the Turn.
 
-In all cases, they need not breathe and become immune to poisons and diseases not already present in them. If stone, they automatically stabilize at zero HP and ignore the first three points of damage from any source of harm. If water, they can pass through any aperture a mouse could get through. If air, they can fly at their usual movement rate and gain a +4 Armor Class bonus against ranged attacks. If fire, they inflict 1d6 damage to all creatures in melee range at the start of their turn each round and become immune to heat damage.
+In all cases, they need not breathe and become immune to poisons and diseases not already present in them. If stone, they automatically stabilize at zero HP and ignore the first three points of damage from any source of harm. If water, they can pass through any aperture a mouse could get through. If air, they can fly at their usual movement rate and gain a +4 AC bonus against ranged attacks. If fire, they inflict 1d6 damage to all creatures in melee range at the start of their turn each round and become immune to heat damage.
 
 ### Level 3
 

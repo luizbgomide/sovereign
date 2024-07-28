@@ -29,7 +29,7 @@ Adventuring is a profession, and all Delvers have undergone extensive training t
 
 11. **Record Weapon Statistics**. Record the total hit bonus for your weaponry. This is equal to your attack bonus plus your relevant Stab, Shoot, or Brawl skill, and the relevant [attribute modifier](/rules#attribute-modifiers) for the weapon given on the weapon table. If two attributes are listed for a weapon, use whichever is better for you. For each weapon’s damage and [Shock](/combat#shock), note down the information from the table. You add your attribute modifier to both damage rolls and Shock. Brawl weapons or unarmed attacks also add your Brawl skill.
 
-12. **Record Armor Class**. Record the [Armor Class](/equipment#armor-class) (AC) of the armor you normally wear. Armor class is modified by DEX.
+12. **Record Armor Class**. Record the [Armor Class](/equipment#armor-class) (AC) of the armor you normally wear. AC is modified by DEX.
 
 13. **Mages Choose Starting Spells**. [High Mages](/arcane-traditions#high-mage), [Elementalists](/arcane-traditions#elementalist), and [Necromancers](/arcane-traditions#necromancer) begin play knowing [Spells](/spells) based on their [Arcane Tradition](/arcane-traditions). These spells are chosen from any spell list available to them. A new High Mage, for example, would pick first-level spells from the [High Magic spell list](/spells#high-magic-spells), while a new Elementalist could pick them from either the High Magic or [Elementalist spell list](/spells#elementalist-spells).
 
