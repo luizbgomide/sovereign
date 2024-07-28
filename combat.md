@@ -3,6 +3,8 @@ layout: default
 title: Home
 ---
 
+{% include toc-combat.md %}
+
 # Combat
 
 ## Combat Sequence

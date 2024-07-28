@@ -3,6 +3,8 @@ layout: default
 title: Home
 ---
 
+{% include toc-spells.md %}
+
 # Spells
 
 High Mages, Necromancers, and Elementalists are capable of casting spells. NPC wizards may also have access to spellcasting, though NPCs seldom have classes.

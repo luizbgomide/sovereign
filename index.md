@@ -23,6 +23,10 @@ If you're looking up a rule, or prefer to learn more traditionally:
 
 A Bestiary, Magic Item repository, and extensive GM section are in progress. In the mean time, check out [those outside the walls](https://www.drivethrurpg.com/en/product/422653/Those-Outside-the-Walls--A-450-Monster-Bestiary) and [basic fantasy](https://basicfantasy.org/srd/monstersAll.html) for monsters, and [basic fantasy](https://www.basicfantasy.org/srd/magicItems.html) for magic items.
 
+# Table Of Contents
+
+{% include toc.md %}
+
 ### The Module Stack
 
 - Anything rated ["Best" at tenfootpole](https://tenfootpole.org/ironspike/?cat=7).
@@ -40,6 +44,9 @@ A Bestiary, Magic Item repository, and extensive GM section are in progress. In 
 - Most of the tutorial. I don't plan on covering every paragraph, but it would be useful to go over skill checks, combat, arts, and spells.
 
 ### Change Log
+
+#### 2024-07-28
+- Build a table of contents for the index and each section.
 
 #### 2024-07-26
 - Add check penalties to chain and plate armor.
