@@ -511,7 +511,7 @@ If the Physical saving throw is made successfully by a creature, the target is t
 #### Elemental Guardian
 The elementalist imbues a human-sized mass of earth, water, fire, or air with a crude awareness and an eagerness to defend them.
 
-Whatever the substance used, it now has 4 HD, AC 15, a Move of 40’/action, a +1 skill bonus, saves of 13+, Instinct 0, Morale 12, and a melee attack of +6/1d10 with no Shock. If called from earth, it has 6 hit dice, albeit its other stats don’t change. If called from fire, it does 5/- Shock damage.
+Whatever the substance used, it now has 4 HD, AC 15, a Move of 40’/action, a +1 skill bonus, saves of 13+, and a melee attack of +6/1d10 with no Shock. If called from earth, it has 6 hit dice, albeit its other stats don’t change. If called from fire, it does 5/- Shock damage.
 
 If summoned from water, it has an AC of 18, and if called from air, it can fly at its usual movement rate. It has a human degree of intelligence, can communicate with others and manipulate objects, and serves with suicidal devotion.
 
@@ -589,7 +589,7 @@ For the rest of the Turn, these targets cannot recover or gain HP and will die i
 #### Raise Corpse
 The necromancer targets a mostly-intact skeleton or corpse, imbuing it with a semblance of life.
 
-Whatever the creature’s attributes were in life, it now has 1 HD, an AC of 13, a Move of 30’/round, a +0 skill bonus, saves of 15+, a +1/1d6 unarmed melee attack, Instinct 0, and a Morale of 12. Such corpses may be equipped with weapons or armor. Its decay or dissolution immediately ceases, and it becomes suicidally loyal to its creator. The corpse has no natural volition, but will obey commands with a human degree of intelligence. It has only vague memories of its prior life, and while it retains human tics or habits it had in life it can answer only the simplest and most self-evident questions.
+Whatever the creature’s attributes were in life, it now has 1 HD, an AC of 13, a Move of 30’/round, a +0 skill bonus, saves of 15+, and a +1/1d6 unarmed melee attack. Such corpses may be equipped with weapons or armor. Its decay or dissolution immediately ceases, and it becomes suicidally loyal to its creator. The corpse has no natural volition, but will obey commands with a human degree of intelligence. It has only vague memories of its prior life, and while it retains human tics or habits it had in life it can answer only the simplest and most self-evident questions.
 
 Damage to a corpse can be repaired only by casting this spell on it again, which restores it to its original “health”. The corpse continues to exist until it is reduced to zero HP or its creator releases it.
 
@@ -637,7 +637,7 @@ This spell lasts until the necromancer lifts it or it is dispelled.
 #### Raise Grave Knight
 The corpse used for this spell must be of a relatively powerful creature with at least four hit dice or levels.
 
-The result is much like that of the Raise Corpse spell, but this undead servitor is much stronger, with 4 HD, AC 15, a Move of 40’/action, a +1 skill bonus, saves of 13+, Instinct 0, Morale of 12, and a melee attack of +6/1d10, assuming it doesn’t use a normal weapon. It is fully intelligent and self-willed, albeit utterly devoted to its creator, and it remembers a significant amount about its prior life. A grave knight regains all lost HP at dusk each day, assuming it’s not destroyed. A caster may have only one grave knight active at a time.
+The result is much like that of the Raise Corpse spell, but this undead servitor is much stronger, with 4 HD, AC 15, a Move of 40’/action, a +1 skill bonus, saves of 13+, and a melee attack of +6/1d10, assuming it doesn’t use a normal weapon. It is fully intelligent and self-willed, albeit utterly devoted to its creator, and it remembers a significant amount about its prior life. A grave knight regains all lost HP at dusk each day, assuming it’s not destroyed. A caster may have only one grave knight active at a time.
 
 One that has been reduced to zero HP is destroyed and can only be rebuilt with a month of painstaking repair and re-enchantment.
 
