@@ -121,7 +121,7 @@ Some common situations modify an attack roll, granting a bonus or penalty. GMs m
 
 ## Damage
 
-If an attack hits, it inflicts HP damage equal to the weapon’s damage die plus the weapon’s relevant attribute modifier. Class Abilities (like [Killing Blow](/classes#class-ability-killing-blow)), Feats (like [Armsmaster](/feats#armsmaster-)), and Magic weapon enchantments increase this damage.
+If an attack hits, it inflicts HP damage equal to the weapon’s damage die plus the weapon’s relevant attribute modifier. Class Abilities (like [Killing Blow](/classes#class-ability-killing-blow)), Feats (like [Armsmaster](/feats#armsmaster-c)), and Magic weapon enchantments increase this damage.
 
 If you are making a purely unarmed attack add your Brawl skill to the damage.
 
@@ -131,7 +131,7 @@ If the result is less than your Shock damage, inflict that much instead.
 
 Some melee weapons inflict Shock on a missed attack roll. This damage reflects the inevitable harm a poorly-armored combatant suffers when engaging in armed combat. Shock for a weapon is recorded as a point value and target Armor Class, such as “Shock 2/15”. If the wielder misses a target with this weapon that has a Armor Class equal or less than the weapon’s Shock rating, they suffer the listed amount of damage anyway. Thus, if that weapon were to miss a victim with Melee AC 13, it would still do 2 points of damage.
 
-Some attacks apply Shock on a miss regardless of the target’s Armor Class. This benefit may be granted by certain abilities (like [Armsmaster](/feats#armsmaster-)), or it be part of a dangerous NPC’s talents. Such Shock ratings are recorded with “-” as the affected AC, such as “Shock 5/-”. This automatic Shock is still negated by shields or abilities that grant a subject immunity to Shock.
+Some attacks apply Shock on a miss regardless of the target’s Armor Class. This benefit may be granted by certain abilities (like [Armsmaster](/feats#armsmaster-c)), or it be part of a dangerous NPC’s talents. Such Shock ratings are recorded with “-” as the affected AC, such as “Shock 5/-”. This automatic Shock is still negated by shields or abilities that grant a subject immunity to Shock.
 
 The only modifiers that add to Shock damage are the wielder’s relevant attribute modifier for the weapon and any damage bonuses that explicitly add to Shock.
 

@@ -81,7 +81,7 @@ If an injury, character advancements, or magic item alters an attribute, immedia
 
 A character’s hit points (HP) measure their distance from death. If a character is reduced to zero HP, they are [dying](#mortal-injury-and-stabalization).
 
-A new character rolls the hit die for their [Class](/classes), adding their Con to it. If they have chosen the [Die Hard](/feats#die-hard-) Feat they add +2 to the roll. The final value for a given die cannot be less than 1 HP.
+A new character rolls the hit die for their [Class](/classes), adding their Con to it. If they have chosen the [Die Hard](/feats#die-hard-c) Feat they add +2 to the roll. The final value for a given die cannot be less than 1 HP.
 
 A character gains HP as they advance in character level, re-rolling their prior levels and taking the new score if it’s higher, as explained in [advancement](#advancement-benefits).
 

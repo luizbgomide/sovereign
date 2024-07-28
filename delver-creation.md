@@ -15,11 +15,11 @@ Adventuring is a profession, and all Delvers have undergone extensive training t
 
 4. **Choose a Class**. Pick either a full [Class](/classes) or combine two Partial Classes. [Warriors](/classes#warrior) are great at [combat](/combat), [Experts](/classes#expert) are great a [skill checks](/rules#skills), and [Mages](/classes#mage) have specialized [supernatural powers](/arcane-traditions) or [spells](/spells).
 
-6. **Choose Feats**. Each class gets a different starting amount of [Feats](/feats) at first level, detailed in the "Feats" column. Some Feats, like [Alert](/feats#Alert-) grant a bonus skill. Raise that skill by one level to a maximum of level 1. If that skill is *already* level 1, make a free [improvement](#improvement).
+6. **Choose Feats**. Each class gets a different starting amount of [Feats](/feats) at first level, detailed in the "Feats" column. Some Feats, like [Alert](/feats#Alert-c) grant a bonus skill. Raise that skill by one level to a maximum of level 1. If that skill is *already* level 1, make a free [improvement](#improvement).
 
 5. **Record Attribute Modifiers**. Each [Attribute](/rules#attributes) has a [Modifier](/rules#attribute-modifiers), usually ranging from -2 to +2 based on its score. This modifier is added to skill checks, attack rolls, damage rolls, Shock damage, and the relevant saving throw targets.
 
-7. **Generate Maximum Hit Points**. Each class gets different amount of [Hit Points](/rules#hit-points) (HP) at first level, detailed in the "Hit Dice" column. Roll based on your class, add your CON, and +2 if you chose the [Die Hard](/feats#die-hard-) Feat.
+7. **Generate Maximum Hit Points**. Each class gets different amount of [Hit Points](/rules#hit-points) (HP) at first level, detailed in the "Hit Dice" column. Roll based on your class, add your CON, and +2 if you chose the [Die Hard](/feats#die-hard-c) Feat.
 
 8. **Record Attack Bonus**. Your character has a certain degree of basic combat competence based on their class. This bonus increases as you advance in character levels and is added to your attack roll. A new character’s attack bonus is usually +0, though full Warriors start with a +1 attack bonus.
 

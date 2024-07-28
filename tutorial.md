@@ -46,7 +46,7 @@ I decide that want to be be a great healer, handy with a bow, and be knowledgabl
 
 First, I'll pick up [Gifted Chirurgeon](/feats#gifted-chirurgeon) at rank 1 to be *even better* at healing. This gives me Heal as a bonus skill, and since I already have Heal at +1, I can make a free improvement. I'll improve my Shoot to +1.
 
-For my other feat, I'll pick up [Deadeye](/feats#deadeye-) at rank 1 to do more damage with my bow. This gives me Shoot as a bonus skill, and since I already have Shoot at +1, I can make a free improvement. I'll improve my Know to 1.
+For my other feat, I'll pick up [Deadeye](/feats#deadeye-c) at rank 1 to do more damage with my bow. This gives me Shoot as a bonus skill, and since I already have Shoot at +1, I can make a free improvement. I'll improve my Know to 1.
 
 ![small](/assets/images/choose-feats.png)
 
@@ -117,7 +117,7 @@ That's a character!
   <p>They either need +1 DEX and Sneak-0, or +0 DEX and Sneak-1.</p>
   <p>Getting to +1 DEX would take 3 of their 4 improvements, and they could spend the last one on Sneak.</p>
   <p>Alternatively, getting to Sneak-1 just takes 2 improvements.</p>
-  <p>Finally, they could save themselves an improvement by choosing a Feat (or multiple feats) that grant Sneak as a bonus skill, like <a href="/feats#assassin-">Assassin</a> or <a href="/feats#imposter">Imposter</a>.</p>
+  <p>Finally, they could save themselves an improvement by choosing a Feat (or multiple feats) that grant Sneak as a bonus skill, like <a href="/feats#assassin-c">Assassin</a> or <a href="/feats#imposter">Imposter</a>.</p>
   <p>Note the dynamics here. There are more skills than attributes, so skills apply more narrowly and attributes apply more broadly. Attributes, in turn, tend to be more expensive to meaningfully upgrade.</p>
 </details>
 
