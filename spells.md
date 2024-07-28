@@ -121,6 +121,11 @@ The mage opens up their mind to the presence of occult energies. For one Turn pe
 
 They may identify magical items and get a one-sentence description of their purpose or most significant powers, and get more sophisticated answers with successful WIS/Magic skill checks at difficulties of 8 or more depending on the subtlety of the enchantment. Mages with prepared spells are visible to the caster, though which spells the subject might have prepared is not knowable. As a side effect of this spell, the ambient thaumic currents cast enough quasi-light to allow the caster to see normally even in perfect darkness.
 
+#### Sleep
+The mage designates a visible point within two hundred feet. A silent, invisible burst of soporific influence erupts from that point, targeting all living creatures within a twenty-foot radius. All such targets with 4 or fewer hit dice within that area fall unconscious instantly, and are roused only by damage or by a Main Action used to kick them awake.
+
+If not roused, they revive at the end of the Turn. Entities that do not sleep are immune to this spell.
+
 #### Speed
 Unlike most spells, Speed may be cast as a Free action, targeting up to one visible willing creature per caster level within one hundred feet.
 
@@ -133,8 +138,6 @@ Stasis may be cast as a Free action and targets a single willing or helpless cre
 
 The spell ends when the mage releases it, or up to a maximum of one day per caster level. If cast on himself, the mage cannot end it before the full duration expires.
 
-#### The Wind of Final Repose
-The mage designates a visible point within two hundred feet. A silent, invisible burst of soporific influence erupts from that point, targeting all living creatures within a twenty-foot radius. All such targets with 4 or fewer hit dice within that area fall unconscious instantly, and are roused only by damage or by a Main Action used to kick them awake. If not roused, they revive at the end of the Turn. Entities that do not sleep are immune to this spell.
 
 ### Level 2
 
