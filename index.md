@@ -11,17 +11,9 @@ This document is split in several sections.
 
 If you prefer to learn by example and with exercises, the [Tutorial](/tutorial) (work in progress) has you covered.
 
-[Delver Creation](/delver-creation) will walk you through the process of creating a character.
+A Bestiary, Magic Item repository, and extensive GM section are in progress. In the mean time, check out [those outside the walls](https://www.drivethrurpg.com/en/product/422653/Those-Outside-the-Walls--A-450-Monster-Bestiary) and [basic fantasy](https://basicfantasy.org/srd/monstersAll.html) for monsters, and [OSE](https://oldschoolessentials.necroticgnome.com/srd/index.php/Magic_Items_(General)) for magic items.
 
-If you're looking up a rule, or prefer to learn more traditionally:
-
-- [Rules](/rules) goes over the character stats, delving, hazards, and recovery rules.
-- [Feats](/feats) details all of the feats available to a Delver.
-- [Combat](/combat) explains all things relating to fighting.
-- [Equipment](/equipment) lists weapons, armors, goods and services available for purchase.
-- [Spells](/spells) indexes all known spells, categorized by tradition and level.
-
-A Bestiary, Magic Item repository, and extensive GM section are in progress. In the mean time, check out [those outside the walls](https://www.drivethrurpg.com/en/product/422653/Those-Outside-the-Walls--A-450-Monster-Bestiary) and [basic fantasy](https://basicfantasy.org/srd/monstersAll.html) for monsters, and [basic fantasy](https://www.basicfantasy.org/srd/magicItems.html) for magic items.
+Otherwise...
 
 # Table Of Contents
 
@@ -49,6 +41,8 @@ A Bestiary, Magic Item repository, and extensive GM section are in progress. In 
 - Build a table of contents for the index and each section.
 - Reorganize the spell hierarchy
 - Use (C) instead of the crossed swords emoji for feats. Works better for hyperlinks.
+- Clean up the index page now that we have a ToC.
+- Link to OSE instead of BF for magic items; it's a little better.
 
 #### 2024-07-26
 - Add check penalties to chain and plate armor.
