@@ -47,6 +47,7 @@ A Bestiary, Magic Item repository, and extensive GM section are in progress. In 
 
 #### 2024-07-28
 - Build a table of contents for the index and each section.
+- Reorganize the spell hierarchy
 
 #### 2024-07-26
 - Add check penalties to chain and plate armor.

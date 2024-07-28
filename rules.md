@@ -205,11 +205,11 @@ One Turn is enough time for a healer to apply as much first aid as is wanted to 
 
 ### System Strain
 
-Magical forms of healing (like [Healing Touch](/arcane-traditions#healing-touch)), use of powerful augmenting magic (like [Haste](/spells#haste---level-2)), and First Aid can take a toll on a user’s physiology. Their System Strain total reflects the total amount of stress their body has undergone.
+Magical forms of healing (like [Healing Touch](/arcane-traditions#healing-touch)), use of powerful augmenting magic (like [Haste](/spells#haste)), and First Aid can take a toll on a user’s physiology. Their System Strain total reflects the total amount of stress their body has undergone.
 
 A healthy character starts at zero System Strain and has their Constitution as their maximum.
 
-Magical healing and certain spells and abilities (like [Speed](/spells#speed---level-1)) will add to a subject’s System Strain. If this addition would put them over their maximum they cannot activate the spell, benefit from healing, or otherwise gain any use from the ability. If they are forced over the maximum by some unavoidable effect, they are instead knocked unconscious for an hour.
+Magical healing and certain spells and abilities (like [Speed](/spells#speed)) will add to a subject’s System Strain. If this addition would put them over their maximum they cannot activate the spell, benefit from healing, or otherwise gain any use from the ability. If they are forced over the maximum by some unavoidable effect, they are instead knocked unconscious for an hour.
 
 Characters lose one point of accumulated System Strain after each night’s rest, assuming they are warm, fed, comfortable, and get at least eight uninterrupted hours of sleep. Cold camps, stony bedding, etc, prevent this recovery.
 
