@@ -66,6 +66,8 @@ Attack a target with a bow or thrown weapon. The Shoot skill is used for these a
 
 As an Instant action, give up your Main Action and either Make a Melee Attack or Make a Ranged Attack at a -4 penalty to hit. As an Instant action, you can Make a Snap Attack even when it’s not your turn, but you must not have taken your Main Action this round yet. Only well-trained and disciplined NPCs have enough focus to Make a Snap Attack.
 
+Since Snap Attack is an Instant action, you can use it to interrupt a spell, or kill a foe *after* they have hit but *before* damage has been rolled in order to prevent that damage.
+
 ### Make a Swarm Attack (Main Action)
 
 Target an enemy within range of your weapon and take this action until up to four allies have Made a Swarm Attack on that target this round. At that point or any point beforehand, one of these assailants can Make a Melee Attack or Make a Ranged Attack on the target with a +2 bonus to hit and +1 bonus to damage for every other assailant, up to a maximum bonus of +6 to hit and +3 damage. This bonus damage does not add to the attack’s Shock and cannot make it do more than its usual maximum damage. Any Shock inflicted by this attack is always applicable, however, even if the target’s AC is too high, they’re using a shield, or have some power that makes them immune to Shock; the damage a Swarm Attack does isn’t really Shock, but a reflection of the inevitable hazards of being swarmed by numerous armed foes.

@@ -45,6 +45,7 @@ Otherwise...
 - Link to OSE instead of BF for magic items; it's a little better.
 - Tabulate the combat actions.
 - Explain how to make improvised combat actions.
+- Specify that snap attacks can make spells and other attacks fizzle
 
 #### 2024-07-26
 - Add check penalties to chain and plate armor.
