@@ -47,6 +47,7 @@ Otherwise...
 - Explain how to make improvised combat actions.
 - Specify that snap attacks can make spells and other attacks fizzle
 - Remove last vestiges of Instinct.
+- Cleanup and hyperlink the [rules](/rules).
 
 #### 2024-07-26
 - Add check penalties to chain and plate armor.

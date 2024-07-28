@@ -21,13 +21,13 @@ Groups cannot be surprised if they are actively anticipating the possibility of 
 
 Attacks, movement, spellcasting, and other combat activities all require one of the following four types of actions.
 
-**Main actions** are a character’s primary action during a combat round, such as attacking an enemy, applying first aid to a downed ally, casting a spell, frantically evading incoming spears, or something else that takes less than ten seconds to do. A combatant gets one Main action per round.
+<strong id="main-action">Main actions</strong> are a character’s primary action during a combat round, such as attacking an enemy, applying first aid to a downed ally, casting a spell, frantically evading incoming spears, or something else that takes less than ten seconds to do. A combatant gets one Main action per round.
 
-**Move actions** involve moving the character’s normal movement rate of 30 feet or performing some other relatively brief bodily action, such as getting up from prone. A combatant gets one Move action per round, but can spend their main action to get a second.
+<strong id="move-action">Move actions</strong> involve moving the character’s normal movement rate of 30 feet or performing some other relatively brief bodily action, such as getting up from prone. A combatant gets one Move action per round, but can spend their main action to get a second.
 
-**Free** actions are brief, simple acts that require only a moment’s concentration. Activating certain abilities or speaking a few words might constitute a Free action. A character can take as many Free actions on their round as the GM finds plausible.
+<strong id="free-action">Free</strong> actions are brief, simple acts that require only a moment’s concentration. Activating certain abilities or speaking a few words might constitute a Free action. A character can take as many Free actions on their round as the GM finds plausible.
 
-**Instant actions** are special, most being provided only by certain powers or certain special actions. Instant actions can be performed even when it’s not your turn in the round, even after the dice have already been rolled. The Veteran’s Luck class ability provides one such Instant action, allowing the Delver to treat a missed attack roll as an automatic hit. A Delver can use as many Instant actions in a round as the GM finds plausible. Instant actions performed at the same time are resolved simultaneously, with the GM adjudicating any ambiguities.
+<strong id="instant-action">Instant actions</strong> are special, most being provided only by certain powers or certain special actions. Instant actions can be performed even when it’s not your turn in the round, even after the dice have already been rolled. The Veteran’s Luck class ability provides one such Instant action, allowing the Delver to treat a missed attack roll as an automatic hit. A Delver can use as many Instant actions in a round as the GM finds plausible. Instant actions performed at the same time are resolved simultaneously, with the GM adjudicating any ambiguities.
 
 Many actions (like [Run](/combat#run-move-action) and [Stand Up](/combat#stand-up-move-action)) allow any adjacent foes armed with a melee weapon to make a free Attack of Opportunity. To avoid this, either do not be in melee range or use the [Disengage](/combat#disengage-main-action) action first.
 

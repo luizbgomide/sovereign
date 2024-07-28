@@ -33,7 +33,7 @@ That's the *whole* game. All other rules exist to either faciliate interesting d
 
 Much of the intresting part (and what separates skilled players from novice players) of exploring is coming up with a plan that *avoids* rolling. A plan that triggers a skill check or roll is *workable*, but also *risky*. A lot of the fun in this play style is coming up with plans that *can't fail*.
 
-Consider being faced with a deep, 15-foot wide spiked pit. Dangerous. If a player wants to leap to the other side, the GM might rule that as a DC 8 STR/Exert [check](#skill-checks) with failure resulting in taking 3d6 damage from the fall and spikes as well as being stuck at the bottom.
+Consider being faced with a deep, 15-foot wide spiked pit. Dangerous. If a player wants to leap to the other side, the GM might rule that as a DC 8 STR/Exert [check](#skill-checks) with failure resulting in taking 3d6 [damage](#damage) from the fall and spikes as well as being stuck at the bottom.
 
 A clever player might think to *fill up the pit*. Perhaps they spend some time dragging coffins, furniture, etc into the pit so that they can lower themselves down, walk across, and climb up the other side without rolling.
 
@@ -63,7 +63,7 @@ Two are mental attributes.
 
 ### Attribute Modifiers
 
-Each attribute has a modifier, usually ranging from -2 to +2 based on its score. This modifier is added to skill checks, attack rolls, damage rolls, Shock damage, and the relevant saving throw targets.
+Each attribute has a modifier, ranging from -2 to +2 based on its score. This modifier is added to skill checks, attack rolls, [damage](#damage) rolls, [Shock](#shock) damage, and the relevant [saving throw](#saving-throws) targets.
 
 | Attribute | Modifier |
 | --------- | -------- |
@@ -79,11 +79,11 @@ If an injury, character advancements, or magic item alters an attribute, immedia
 
 ## Hit Points
 
-A character’s hit points (HP) measure their distance from death. If a character is reduced to zero HP, they are [dying](#mortal-injury-and-stabalization).
+A character’s hit points (HP) measure their distance from death. If a character is reduced to zero HP, they are [dying](#mortal-injury-and-stabalization). Taking <span id="damage">damage</span> reduces a character's HP. For instance, when a character with 11 HP takes 5 damage, they would have 6 HP remaining.
 
-A new character rolls the hit die for their [Class](/classes), adding their Con to it. If they have chosen the [Die Hard](/feats#die-hard-c) Feat they add +2 to the roll. The final value for a given die cannot be less than 1 HP.
+A new character rolls the hit die for their [Class](/classes) for the maximum HP, adding their Con. If they have chosen the [Die Hard](/feats#die-hard-c) Feat they add +2 to the roll. The final value for a given die cannot be less than 1 HP.
 
-A character gains HP as they advance in character level, re-rolling their prior levels and taking the new score if it’s higher, as explained in [advancement](#advancement-benefits).
+A character gains maximum HP as they advance in character level, re-rolling their prior levels and taking the new score if it’s higher, as explained in [advancement](#advancement-benefits).
 
 NPCs roll a number of d8's for thier HP equal to their Hit Dice (HD).
 
@@ -103,11 +103,13 @@ NPCs have a single saving throw target equal to 15 minus half their rounded-down
 
 ## Skills
 
-A Delver’s skills reprsent their training. A newly-created Delver starts with a few trained skills and gain more as the Delver advances in level.
+A Delver’s skills reprsent their training. A newly-created Delver starts with a few trained skills and [gain more](#advancement-benefits) as the Delver [advances](#advancement) in level.
 
 ### Interpretting Skill Levels
 
 Skills are rated on a scale from -1 to 4. Level -1 represents an absence of training. Level 0 represents basic competence. Level 1 represents professional-level skill. Level 2 in a skill likely makes a character the best in a village or city block. Level 3 represents mastery, and likely makes the character one of the best in a city. Level 4 represents world-class skill.
+
+When this text refers to skills and their level, we use shorthand like {Skill}-{Level}. For instance Exert-1 or Heal-2.
 
 All skills start at level -1.
 
@@ -129,7 +131,7 @@ Skills may overlap in their application; the character may use either skill at t
 
 Most Delvers are skilled, competent folks who are perfectly capable of carrying out the ordinary duties of their role. Sometimes, however, they are faced with a situation or challenge beyond the usual scope of their role and the GM calls for a skill check.
 
-To make a skill check, roll 2d6 and add the most relevant skill level and attribute modifier (denoted as Attribute Modifier/Skill, like STR/Exert or INT/Magic). If the total is equal or higher than the check’s difficulty class (DC), the check is a success. On a failure, the Delver either can’t accomplish the feat at all, bad luck cheats them, or they achieve it at the cost of some further complication. The GM determines the specific consequence of a failure.
+To make a skill check, roll 2d6 and add the most relevant skill level and [attribute modifier](#attribute-modifiers) (denoted as Attribute Modifier/Skill, like STR/Exert or INT/Magic). If the total is equal or higher than the check’s Difficulty Class (DC), the check is a success. On a failure, the Delver either can’t accomplish the feat at all, bad luck cheats them, or they achieve it at the cost of some further complication. The GM determines the specific consequence of a failure.
 
 To express to this compactly, we write DC {Difficulty Class} {Attribute Modifier/Skill}. For example, DC 8 INT/Know or DC 12 DEX/Heal.
 
@@ -155,13 +157,13 @@ This represents forcing open a heavy door together, everyone trying to stealth p
 
 ### Opposed Skill Checks
 
-When skills oppose each other, the participant attempting to change the situation rolls a skill check vs a DC of 8, plus the other participant's modifier. For example, a Delver trying to sneak past a guard might roll 2d6 plus their DEX/Sneak against a DC of 8 + the guard’s skill modifier. If the guard is significant enough to have attributes and skill levels, it might be a 2d6+DEX/Sneak against a DC of 8+WIS/Notice. We write this compactly as DEX/Sneak vs WIS/Notice.
+When skills oppose each other, the side attempting to change the situation rolls a skill check vs a DC of 8, plus the other side's modifier. For example, a Delver trying to sneak past a guard might roll 2d6 plus their DEX/Sneak against a DC of 8 + the guard’s skill modifier. If the guard is significant enough to have attributes and skill levels, it might be a 2d6+DEX/Sneak against a DC of 8+WIS/Notice. We write this compactly as DEX/Sneak vs WIS/Notice.
 
 ## Keeping Track of Time
 
 A Turn is a time measurement used to determine how often certain abilities or actions can be taken. Some powers can be triggered only so many times per Turn, while some special abilities only work once per Turn.
 
-A Turn is one particular fight, event, activity, or effort that usually doesn’t take more than ten or fifteen minutes. A fight takes a Turn. A chase takes a Turn. A tense backroom negotiation takes a Turn. So long as the party is doing the same general activity in the same general location, it’s probably one Turn. Most Turns don’t last more than fifteen minutes, though a GM can stretch this if it seems logical.
+A Turn is one particular fight, event, activity, or effort that doesn’t take more than ten or fifteen minutes. A fight takes a Turn. A chase takes a Turn. A tense backroom negotiation takes a Turn. So long as the party is doing the same general activity in the same general location, it’s probably one Turn.
 
 Combat is made up of Rounds, each one lasting approximately ten seconds. A single combat may involve multiple Rounds of action, but always takes a Turn. A round begins with the actions of the side that wins initiative and ends after the actions of the side with the lowest initiative.
 
@@ -173,9 +175,9 @@ Injury is almost inevitable in an adventurer’s career. Some forms of it are lo
 
 ### Mortal Injury and Stabalization
 
-When a Delver is reduced to zero HP by a lethal attack, they are Mortally Injured. They will die at the end of the sixth round after their incapacitation unless stabilized by an ally or some special ability. A Mortally Injured character is helpless, takes no actions, and does nothing useful.
+When a Delver is reduced to zero HP from taking [damage](#damage), they are Mortally Injured. They will die at the end of the sixth round after their incapacitation unless stabilized by an ally or some special ability. A Mortally Injured character is helpless, takes no actions, and does nothing useful.
 
-Stabilizing an ally is a Main Action that requires a DEX/Heal or INT/Heal skill check with a DC of 8 plus the number of full Rounds since the target fell. If the medic lacks a [healer’s kit](/equipment#healers-kit), this difficulty is increased by 2. Only one ally can try to stabilize a victim per round, though others can attempt to aid their check (via a group check). Attempts may be retried each round for as long as hope lasts.
+Stabilizing an ally is a [Main Action](/combat#main-action) that requires a DEX/Heal or INT/Heal skill check with a DC of 8 plus the number of full Rounds since the target fell. If the medic lacks a [healer’s kit](/equipment#healers-kit), this difficulty is increased by 2. Only one ally can try to stabilize a victim per round, though others can attempt to aid their check (via a [group check](#group-checks)). Attempts may be retried each round for as long as hope lasts.
 
 Once stabilized, the victim remains incapacitated for one Turn before recovering with 1 HP and the [Frail](#frail) condition.
 
@@ -195,6 +197,8 @@ Frail characters without this level of medical care must make a [Physical](#phys
 
 A wounded creature recovers HP by getting a good night’s rest and adequate food. Provided they are warm, fed, and comfortable, they regain HP each morning equal to their experience level, or equal to their hit dice if they are NPCs.
 
+Delvers are *not* confortable while sleeping in tents, outdoors, etc. It has to be a honest *bed*.
+
 [Frail](#frail) creatures do not recover HP through natural healing.
 
 ### First Aid
@@ -211,13 +215,15 @@ A healthy character starts at zero System Strain and has their Constitution as t
 
 Magical healing and certain spells and abilities (like [Speed](/spells#speed)) will add to a subject’s System Strain. If this addition would put them over their maximum they cannot activate the spell, benefit from healing, or otherwise gain any use from the ability. If they are forced over the maximum by some unavoidable effect, they are instead knocked unconscious for an hour.
 
-Characters lose one point of accumulated System Strain after each night’s rest, assuming they are warm, fed, comfortable, and get at least eight uninterrupted hours of sleep. Cold camps, stony bedding, etc, prevent this recovery.
+Characters lose one point of accumulated System Strain after each night’s rest, assuming they are warm, fed, comfortable, and get at least eight uninterrupted hours of sleep.
+
+Delvers are *not* confortable while sleeping in tents, outdoors, etc. It has to be a honest *bed*.
 
 ## Poisons and Diseases
 
 Most toxins force a victim to make a [Physical](#physical) saving throw to resist their effects or mitigate their harm. Weak perils might grant as much as a +4 to the saving throw, while dire threats might apply a -4 penalty.
 
-If the save is failed, the poison or disease takes hold. Most poisons act quickly, inflicting damage, adding System Strain to the target, or applying long-lasting penalties. Diseases have a slower onset but often apply the same sort of harms.
+If the save is failed, the poison or disease takes hold. Most poisons act quickly, inflicting damage, adding [System Strain](#system-strain) to the target, or applying long-lasting penalties. Diseases have a slower onset but often apply the same sort of harms.
 
 A medic can treats a poisoned person within a minute of the poisoning with a [healer’s kit](/equipment#healers-kit) to give them a better chance to resist. They add twice their Heal skill level to the victim’s saving throw roll, or +1 if they have only Heal-0 skill. Once the poison takes hold, the victim has 1d4 Turns to live. The medic can counteract the toxin with an INT/Heal skill check at a DC of at least 10 for most poisons, or 12 or more for truly fearsome ones.
 
@@ -227,7 +233,7 @@ Delvers have a habit of chasing others and being chased.
 
 If one group is faster than the other group, that group succeeds.
 
-Otherwise, the pursuing group makes an opposed group DEX/Exert or Con/Exert skill check vs the fleeing group's DEX/Exert or Con/Exert subject to the following modifiers:
+Otherwise, the pursuing group makes an opposed group DEX/Exert or Con/Exert [skill check](#skill-checks) vs the fleeing group's DEX/Exert or Con/Exert subject to the following modifiers:
 
 | Situation                                        | Mod |
 | ------------------------------------------------ | --- |
@@ -243,9 +249,9 @@ On a success, the pursuing group catches up with the fleeing group, beginning co
 
 ## Encumbrance
 
-Gear has encumbrance, measured in points, as exampled in the table below. The more awkward or bulky the object, the greater the encumbrance. The GM adjudicates ambiguous objects.
+Gear has encumbrance, measured in points and denoted `enc`, as exampled in the table below. The more awkward or bulky the object, the greater the encumbrance. The GM adjudicates ambiguous objects.
 
-| Gear                                    | Encumbrance |
+| Gear                                    | enc         |
 | --------------------------------------- | ----------- |
 | Portable in a small pocket              | 0           |
 | Portable in one hand                    | 1           |
@@ -255,21 +261,21 @@ Gear has encumbrance, measured in points, as exampled in the table below. The mo
 
 Gear is either Stowed or Readied.
 
-<strong id="stowed">Stowed</strong> gear is packed away carefully in pockets, packs, and harnesses. It’s easier to carry but harder to quickly access. Using Stowed gear requires that the bearer take a Main Action to pull it out before using it. A character can carry a total number of Stowed encumbrance points equal to their Strength score.
+<strong id="stowed">Stowed</strong> gear is packed away carefully in pockets, packs, and harnesses. It’s easier to carry but harder to quickly access. Using Stowed gear requires that the bearer take a [Main Action](/combat#main-action) to pull it out before using it. A character can carry a total number of Stowed encumbrance points equal to their Strength score.
 
-<strong id="readied">Readied</strong> gear is carried in hands, holsters, quick-access pockets, or other easily-accessible places. It can be used as part of an action without any further preparation. A character can carry a number of Readied points equal to half their Strength, rounded down.
-
-Delvers can haul much heavier objects if necessary. If they push their limits for longer terms, they can carry an additional two Ready and four Stowed items. The first time they do this, their Move speed is cut by 30%, from 30 feet to 20 feet. The second time, it’s cut by 50%, from 20 feet to 10 feet. More weight than this can’t be practically hauled over significant distances.
+<strong id="readied">Readied</strong> gear is carried in hands, holsters, quick-access pockets, or other easily-accessible places. It can be used as part of an action without any further preparation. A character can carry a number of Readied encumbrance points equal to half their Strength, rounded down.
 
 ### Bulk Weights
 
-Sometimes the Delvers need to transport bulk amounts of goods that are measured in pounds. When it’s necessary to convert these weights into encumbrance points, assume that fifty pounds is worth ten points of encumbrance.
+Sometimes the Delvers need to transport bulk amounts of goods that are measured in pounds. When it’s necessary to convert these weights into encumbrance points, assume that 50lbs is 10 enc.
+
+Every 100 coins counts as 1 enc.
 
 ### Pack Animals and Porters
 
 To haul more equipment and loot than the Delvers can carry, they need pack animals or porters.
 
-| Type                      | Cost   | Enc |
+| Type                      | Cost   | enc |
 | ------------------------- | ------ | --- |
 | Heavy pack horse          | 40g    | 30  |
 | Mule or donkey            | 20g    | 15  |
@@ -281,7 +287,7 @@ Some perils occur with some regularity for adventurers. A few of the most common
 
 **Falling**: Most creatures will take 1d6 damage per 10 full feet they fall, up to 20d6 maximum. Spikes or other hazardous terrain at the bottom will add at least 1d6 to the total. A creature that intentionally leaps or skids down in a controlled way makes a DEX or STR/Exert skill check at a difficulty of 7 + 1 for every 10 full feet; on a success, the effective distance fallen is halved.
 
-**Suffocation**: Creatures fight or act normally without air for one round per point of Constitution, or 10 rounds for most NPCs. If they don’t move, they quadruple this time. Once they run out of air, they must make a Physical save each round or take 1 HP per HD or level they have.
+**Suffocation**: Creatures fight or act normally without air for one round per point of Constitution, or 10 rounds for most NPCs. If they don’t move, they quadruple this time. Once they run out of air, they must make a [Physical](#physical) save each round or take 1 HP per HD or level they have.
 
 **Starvation**: Each day of insufficient food (1 Ration) causes 1 [System Strain](#system-strain).
 
@@ -299,7 +305,7 @@ These rules are meant for tracking adventures in a dangerous site where perils c
 
 At the start of each Turn after the party enters the site:
 
-1. Roll a secret Wandering Encounter check if necessary. On a 1, the encounter will happen at some appropriate moment this Turn.
+1. Roll a secret [Wandering Encounter](#wandering-encounters) check if necessary. On a 1, the encounter will happen at some appropriate moment this Turn.
 2. The Delvers decide what they want to do this Turn: move into a new room, carefully search their current location, fiddle with some object they’ve found, or something else that takes ~ten minutes.
 3. The GM explains the result of their actions, whether that’s a first-glance description of a new room, notice of the hideous abomination that’s rearing up before them, or the explosive detonation of the crystal they just experimentally prodded.
 4. Start over from the top, assuming their actions have consumed a Turn, until they withdraw from the site or it becomes safe enough to stop counting Turns.
@@ -322,7 +328,7 @@ The point of tracking Turns is to have a rough measure of how much activity they
 
 ### Doors
 
-Out of all the obstacles the party will face, doors will be *by far* the most common. Doors mark the beginning of every new area, and so how to handle doors will come up *over and over*.
+Out of all the obstacles the party will face, doors will be *by far* the most common. Doors mark the beginning of most new areas, and so how to handle doors will come up *over and over*.
 
 Doors can be **locked**, in which case a character with [Thieves Tools](/equipment#thieves-tools) can try pick it, usually with a DC 10 DEX/Sneak check. If they fail, they can not try again until they gain a level of experience.
 
@@ -330,11 +336,11 @@ Locked doors can be **battered down**. 6 turns less STR and Exert for wooden doo
 
 Doors can be **stuck**, in which case a character can try to force them open in a Round with a DC 10 STR/Exert check. If they fail, it takes 1d3 Turns to open the door.
 
-Doors can be **listened at** for a Round, revealing noises as loud as talking without a roll, the presence of anything quieter with a DC 10 WIS/Notice check.
+Doors can be **listened at** for a Round (but only once per Turn), revealing noises as loud as talking without a roll. The presence of anything quieter with requires a DC 10 WIS/Notice check.
 
 To pass through a door, choose to make either a **hard** or **soft** entry. If not specififed, a soft entry is assumed.
 
-In a **hard** entry, the party arranges around the entrance, bashes it in, and charges the room in a planned pattern of entry. They trigger any traps over the threshold and appear hostile to any inhabitants, but are capable of surprising anyone who might be watching the door.
+In a **hard** entry, the party arranges around the entrance, bashes it in, and charges the room in a planned pattern of entry. They trigger any traps over the threshold and appear [hostile](#fight) to any inhabitants, but are capable of [surprising](#encounters-and-surprise) anyone who might be watching the door.
 
 In a **soft** entry, the party arranges to defend and hold the door as a choke point, sufficiently far away from traps. One Delver opens quietly opens the door and observes. They have the opportunity to notice traps, do not appear hostile, but are incapable of surprising anyone who might be watching the door.
 
@@ -352,13 +358,13 @@ Delvers are sufficiently alert when exploring a site to avoid any chance of surp
 
 If the GM thinks this is possible, use an opposed roll. Represent bursting into a room as group STR/Exert vs WIS/Notice. Represent sneaking up on a group as group DEX/Sneak vs WIS/Notice.
 
-If the Delvers run into a Wandering Encounter in a room, the creatures will enter through one of the available entrances. In the corridors outside, they’re usually 1d8 x 10 feet away when first spotted or heard, assuming there’s enough space for such a distance.
-
 ### Wandering Encounters
 
 Every so many Turns, a GM should roll 1d6 to check for a Wandering Encounter. On a 1, the Delvers will run into one at some point during the Turn. The frequency of the check will depend on how alert and organized the site’s inhabitants are.
 
 The actual contents of the encounter are decided when the GM puts together the site. Not all encounters involve running into creatures. Some are mere events or situations that fit the site. In the same vein, not all encounters are necessarily hostile, either. [Reaction rolls](#reaction-rolls) should be made for all groups of creatures.
+
+A wandering encounter starts when one side is able to see the other side, based on the map and available light sources. Usually this is symmetric, but differences in vision, light, etc may make one side able to see the other without being seen themselves. In these cases, the side with advantage may be able to achieve [surprise](#encounters-and-surprise).
 
 #### When to Roll an Encounter Check
 
@@ -375,26 +381,28 @@ The actual contents of the encounter are decided when the GM puts together the s
 
 When the party enocunters other creatures, the GM describes what they sense and asks the Delvers what they do. Broadly, the Delvers can:
 
-- Start a **fight**, in which case [combat](/combat) begins.
-- Try to **talk** (if the other creatures will listen). Getting anything useful requires [leverage](#leverage).
-- **Run away**, and the other creatures might give [chase](#chases-and-pursuit).
-- **Wait** to see what happens.
+- Start a <strong id="fight">fight</strong>, in which case [combat](/combat) begins.
+- Try to <strong id="talk">talk</strong> (if the other creatures will listen). Getting anything useful requires [leverage](#leverage).
+- <strong id="run-away">Run away</strong>, and the other creatures might give [chase](#chases-and-pursuit).
+- <strong id="wait">Wait</strong> to see what happens.
 
 If how the other creatures respond is uncertain, the GM rolls their reaction, comparing the result against the Delver's action:
 
-| 2d6 / Action | Fight | Talk                         | Run    | Wait                          |
-| ------------ | ----- | ---------------------------- | ------ | ----------------------------- |
-| 2            | Fight | Fight                        | Chase  | Fight                         |
-| 3-5          | Fight | Fight if could win, run otw. | Chase  | Attack if could win, run otw. |
-| 6-8          | Fight | Talk                         | Ignore | Ignore                        |
-| 9-11         | Run   | Talk                         | Ignore | Ignore                        |
-| 12           | Run   | Talk                         | Ignore | Talk                          |
+| 2d6 / Action | Fight  | Talk                          | Run    | Wait                          |
+| ------------ | ------ | ----------------------------- | ------ | ----------------------------- |
+| 2            | Combat | Combat                        | Chase  | Fight                         |
+| 3-5          | Combat | Combat if could win, run otw. | Chase  | Combat if could win, run otw. |
+| 6-8          | Combat | Parley                        | Ignore | Ignore                        |
+| 9-11         | Run    | Parley                        | Ignore | Ignore                        |
+| 12           | Run    | Parley                        | Ignore | Parley                        |
 
-Results of **Fight** mean just that - head immediately into [combat](/combat).
+Results of **Combat** mean just that - head immediately into [combat](/combat).
 
-Results of **Fight if could win, run otw** means that they'll fight if they think that victory is *very* likely; typically this means they have a 3:1 HD advantage or greater.
+Results of **Combat if could win, run otw** means that they'll fight if they think that victory is *very* likely; typically this means they have a 3:1 HD advantage or greater. Otherwise, they'll Run.
 
-Results of **Talk** mean that they [parley](#parley) with the Delvers. Meaningful parley requires [leverage](#leverage), otherwise it's just pleasantries or posturing.
+Results of **Parley** mean that they [parley](#parley) with the Delvers. Meaningful parley requires [leverage](#leverage), otherwise it's just pleasantries or posturing.
+
+Results of **Run** means that the they run from the Delvers (often to group up with allies). The Delvers may [give chase](#chase-and-pursuit).
 
 Results of **Chase** means they'll [chase](#chase-and-pursuit) the fleeing Delvers.
 
@@ -457,15 +465,15 @@ Once a character has enough XP to level up **and** is in a settlement, they do.
 
 ### Advancement Benefits
 
-**More HP.** To determine their new maximum, they roll their hit die for each level they now possess, adding their Con to each die. No individual die can be reduced below 1 point, even with a negative CON. If the total roll is greater than their current maximum HP, they take the roll. If less or equal, their maximum HP increases by one.
+**More HP.** To determine their new maximum, they roll their hit die for each level they now possess, adding their CON to each die. No individual die can be reduced below 1 point, even with a negative CON. If the total roll is greater than their current maximum HP, they take the roll. Otherwise, their maximum HP increases by one.
 
 **Better Saves.** Their saving throw scores decrease by one, making it easier to succeed on saving throws by rolling equal or over it. As a first level character has saving throw scores of 15, reaching second level would lower them to 14, modified by their appropriate attributes.
 
-**Improved Attack Bonus.** A Delver’s attack bonus improves according to their level and their chosen class.
+**Improved Attack Bonus.** A Delver’s attack bonus improves according to their level and their chosen [class](/classes).
 
-**Gain Advancement Points.** A Delver who advances a level gains three advancement points they can spend on improving their skills or attributes. Experts and Partial Experts gain an extra bonus Advancement Point to spend (via Quick Learner), giving them four points each time they advance.
+**Gain Advancement Points.** A Delver who advances a level gains three advancement points they can spend on improving their skills or attributes. Experts and Partial Experts gain an extra bonus Advancement Point to spend (via [Quick Learner](/classes#class-ability-quick-learner)), giving them four points each time they advance.
 
-The cost for improving a skill is listed below. Every skill level must be purchased in order; to gain level 1 in a skill you need to pay one point for level 0 and then two points for level 1. A Delver must be the requisite minimum level to increase a skill to certain levels. Less hardened adventurers simply don’t have the focus and real-life experience to attain such a pitch of mastery.
+The cost for improving a skill is listed below. Every skill level must be purchased in order; to gain level 1 in a skill you need to pay one point for level 0 and then two points for level 1. A Delver must be the requisite minimum level to increase a skill to certain levels. Less hardened adventurers simply don’t have the focus and real-life experience to higher degrees of mastery.
 
 | Skill Level | Point Cost | Min Delver Level |
 | ----------- | ---------- | ---------------- |
@@ -493,4 +501,4 @@ This is enough to raise a level -1 skill to level 1, or boost a level 1 skill to
 
 If the skill points aren’t quite enough to raise the skill to a new level, they remain as credit toward future advances. If applied to a skill that is already at level 4, the Delver can spend the three skill points on any other skill of their choice.
 
-**More Spells and Arts**. Mages learn new arts, can cast and prepare more spells, and automatically learn new spells as they advance, based on their class and level.
+**More Spells and Arts**. Mages learn new arts, can cast and prepare more spells, and automatically learn new spells as they advance, based on their [arcane tradition](/arcane-traditions).
