@@ -84,6 +84,8 @@ Move up to your normal movement rate to get adjacent to an ally. You then physic
 
 Give up your Main Action to focus entirely on dodging and evading incoming perils. Your Melee and Ranged Armor Classes increase by +2 and you become immune to Shock until the start of your next turn, including the otherwise-unavoidable damage from a Swarm Attack. You cannot take this action if you have already spent your Main Action for the round.
 
+Since Total Defense is an Instant Action, you may use it *after* you see the result of an attack roll against you.
+
 ### Run (Move Action)
 
 Move your normal movement rate in combat, which is 30 feet for an ordinary human. If you start your movement adjacent to an armed melee combatant, they get a free melee attack against you as you flee. To avoid this, you must Disengage first.
