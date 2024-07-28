@@ -11,7 +11,7 @@
     - [Screen an Ally (Move Action)](/combat#screen-an-ally-move-action)
     - [Total Defense (Instant Action)](/combat#total-defense-instant-action)
     - [Run (Move Action)](/combat#run-move-action)
-    - [Fighting Withdrawal (Main Action)](/combat#fighting-withdrawal-main-action)
+    - [Disengage (Main Action)](/combat#disengage-main-action)
     - [Use a Skill (Main Action)](/combat#use-a-skill-main-action)
     - [Ready or Stow an Item (Main Action)](/combat#ready-or-stow-an-item-main-action)
     - [Reload a Weapon (Main Action)](/combat#reload-a-weapon-main-action)

@@ -43,6 +43,8 @@ Otherwise...
 - Use (C) instead of the crossed swords emoji for feats. Works better for hyperlinks.
 - Clean up the index page now that we have a ToC.
 - Link to OSE instead of BF for magic items; it's a little better.
+- Tabulate the combat actions.
+- Explain how to make improvised combat actions.
 
 #### 2024-07-26
 - Add check penalties to chain and plate armor.

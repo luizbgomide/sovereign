@@ -29,7 +29,30 @@ Attacks, movement, spellcasting, and other combat activities all require one of 
 
 **Instant actions** are special, most being provided only by certain powers or certain special actions. Instant actions can be performed even when it’s not your turn in the round, even after the dice have already been rolled. The Veteran’s Luck class ability provides one such Instant action, allowing the Delver to treat a missed attack roll as an automatic hit. A Delver can use as many Instant actions in a round as the GM finds plausible. Instant actions performed at the same time are resolved simultaneously, with the GM adjudicating any ambiguities.
 
+Many actions (like [Run](/combat#run-move-action) and [Stand Up](/combat#stand-up-move-action)) allow any adjacent foes armed with a melee weapon to make a free Attack of Opportunity. To avoid this, either do not be in melee range or use the [Disengage](/combat#disengage-main-action) action first.
+
 ## Combat Actions
+
+| Action                                                             | Type      | Attack of Opportunity? |
+| ------------------------------------------------------------------ | --------- | ---------------------- |
+| [Make a Melee Attack](/combat#make-a-melee-attack-main-action)     | Main      | No                     |
+| [Make a Ranged Attack](/combat#make-a-ranged-attack-main-action)   | Main      | No                     |
+| [Make a Swarm Attack](/combat#make-a-swarm-attack-main-action)     | Main      | No                     |
+| [Charge](/combat#charge-special-action)                            | Move+Main | Yes                    |
+| [Use a Skill](/combat#use-a-skill-main-action)                     | Main      | Yes                    |
+| [Reload a Weapon](/combat#reload-a-weapon-main-action)             | Main      | No                     |
+| [Ready or Stow an Item](/combat#ready-or-stow-an-item-main-action) | Main      | No                     |
+| [Disengage](/combat#disengage-main-action)                         | Main      | No                     |
+| [Screen an Ally](/combat#screen-an-ally-move-action)               | Move      | No                     |
+| [Run](/combat#run-move-action)                                     | Move      | Yes                    |
+| [Pick up an Item](/combat#pick-up-an-item-move-action)             | Move      | Yes                    |
+| [Stand Up](/combat#stand-up-move-action)                           | Move      | Yes                    |
+| [Hold An Action](/combat#hold-an-action-move-action)               | Move      | No                     |
+| [Go Prone](/combat#go-prone-free-action)                           | Free      | No                     |
+| [Total Defense](/combat#total-defense-instant-action)              | Instant   | No                     |
+| [Make a Snap Attack](/combat#make-a-snap-attack-instant-action)    | Instant   | No                     |
+
+This list is not exhaustive! If you want to do something else, or a variant of any of these actions, describe what you're doing and what you are hoping to have happen, and the GM will figure out the specifics - see [the core gameplay loop](/rules#core-gameplay-loop). Normally, this involves figuring out which sort of action it takes (main, move, free, etc), whether or not it provokes an attack of opportunity, etc.
 
 ### Make a Melee Attack (Main Action)
 
@@ -51,6 +74,8 @@ Target an enemy within range of your weapon and take this action until up to fou
 
 Spend both your Main Action and your Move action to move up to twice your normal movement rate in a straight line, making a melee or thrown ranged attack at the end of it with a +2 bonus to hit. You must be able to charge at least 3 meters to build up sufficient momentum and you suffer a -2 penalty to your Armor Classes until the end of the round.
 
+If you start your movement adjacent to an armed melee combatant, they get a free melee attack against you as you flee. To avoid this, you must Disengage first.
+
 ### Screen an Ally (Move Action)
 
 Move up to your normal movement rate to get adjacent to an ally. You then physically block attacks against them until the start of your next turn, provided they remain within 5 ft of you. Enemies who attack your ward must make a successful opposed combat skill check against you using either STR or DEX and the most applicable combat skill. If the enemy succeeds, their attack targets your ward normally. If you succeed, their attack instead targets you. You can screen against a number of attackers each round equal to your highest combat skill; thus, you need at least level 1 in a combat skill to successfully screen. Multiple defenders can screen the same target, in which case the opposed skill check is compared to all defenders and targets the worst-rolling successful defender. You can only screen against attacks you could feasibly physically parry or body-block.
@@ -61,15 +86,17 @@ Give up your Main Action to focus entirely on dodging and evading incoming peril
 
 ### Run (Move Action)
 
-Move your normal movement rate in combat, which is 30 feet for an ordinary human. If you start your movement adjacent to an armed melee combatant, they get a free melee attack against you as you flee. To avoid this, you must make a Fighting Withdrawal first.
+Move your normal movement rate in combat, which is 30 feet for an ordinary human. If you start your movement adjacent to an armed melee combatant, they get a free melee attack against you as you flee. To avoid this, you must Disengage first.
 
-### Fighting Withdrawal (Main Action)
+### Disengage (Main Action)
 
 Disengage from an adjacent melee attacker, allowing you to move away from them without incurring a free attack as you retreat. You do not actually leave melee range with this action alone, and your enemy can simply re-engage you next round if you don’t actually take a move action to retreat.
 
 ### Use a Skill (Main Action)
 
 Perform first aid on a downed comrade, cry out an appeal for parley, or otherwise use a skill that wouldn’t normally take more than six seconds.
+
+If you attempt to use a skill while adjacent to an armed melee combatant, they get a free melee attack against you.
 
 ### Ready or Stow an Item (Main Action)
 
@@ -83,9 +110,13 @@ Reload a crossbow from a Readied case of quarrels. Bows and crossbows may be rel
 
 Scoop up a dropped item within melee range, leaving it Readied in your hand.
 
+If you attempt to pick up an item while adjacent to an armed melee combatant, they get a free melee attack against you. To avoid this, you must Disengage first.
+
 ### Stand Up (Move Action)
 
 Rise from a prone position, picking up any dropped items as you do so.
+
+If you stand up adjacent to an armed melee combatant, they get a free melee attack against you. To avoid this, you must Disengage first.
 
 ### Go Prone (Free Action)
 
