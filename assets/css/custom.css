@@ -1,3 +1,7 @@
 img[alt="small"] {
     width: 800px;
 }
+
+ul {
+    margin-bottom: 0px;
+}
