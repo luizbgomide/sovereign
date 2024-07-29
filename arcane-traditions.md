@@ -11,7 +11,7 @@ title: Home
 
 Mages have special abilities that are fueled with magical power, inner focus, or some other reserve of energy. This is measured in points of Effort, a resource the Delver can commit to activate their abilities.
 
-Every class that uses Effort has its own unique pool: High Mage Effort, Vowed Effort, Healer Effort, etc. Delvers with two Partial classes that use Effort have two separately-tracked pools, one for each class. Points of Effort from one class cannot be used to fuel powers from another.
+Every class that uses Effort has its own unique pool: High Mage Effort, Healer Effort, etc. Delvers with two Partial classes that use Effort have two separately-tracked pools, one for each class. Points of Effort from one class cannot be used to fuel powers from another.
 
 ### Committing Effort
 

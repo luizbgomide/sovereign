@@ -9,7 +9,7 @@ title: Home
 
 Delving is done in a party of specialists. A class represents the particular skills, abilities, or talents that make the Delver valuable to the party.
 
-The three base classes are Expert, Mage, and Warrior. Each of these base classes has its own hit die, attack progression, and Feat advancement.
+The three base classes are [Expert](#expert), [Mage](#mage), and [Warrior](#warrior). Each of these base classes has its own hit die, attack progression, and [Feat](#feat) advancement.
 
 There are two kinds of classes: full classes and Partial classes. You may choose a single class, committing completely to that class’ profession. Alternatively, you may pick two Partial classes, mixing their abilities.
 
@@ -32,19 +32,19 @@ Experts gain the widest variety of non-combat skills and are the quickest to lea
 
 ### Class Ability: Masterful Expertise
 
-Once per Turn, a Expert may reroll any non-combat skill check as an Instant action. This allows the Expert to make a roll and then immediately use this ability if the resulting total isn’t good enough to succeed. In cases where it matters, the better of the two rolls may be used.
+Once per Turn, a Expert may reroll any non-combat [skill check](#skill-checks) as an [Instant](/combat#instant-action) action. This allows the Expert to make a roll and then immediately use this ability if the resulting total isn’t good enough to succeed. In cases where it matters, the better of the two rolls may be used.
 
-Partial Experts **do not** receive this ability.
+[Partial Experts](#partial-expert) **do not** receive this ability.
 
 ### Class Ability: Quick Learner
 
-When you advance a character level, you gain an extra skill point which may only be spent on gaining or improving non-combat skills or raising attributes. You may save this point to spend later if you wish.
+When you advance a character level, you gain an extra [Advancement Point](/rules#advancement-point) which may only be spent on gaining or improving non-combat [Skills](/rules#skills) or raising [Attributes](/rules#attributes).
 
-Partial Experts **do** receive this ability.
+[Partial Experts](#partial-expert) **do** receive this ability.
 
 ### Partial Expert
 
-A Partial Expert is treated just as a full Expert, including gaining the benefits of the Quick Learner ability. They do not have the Masterful Expertise ability, however, as they lack the versatility of a full Expert.
+A Partial Expert is treated just as a full Expert, including gaining the benefits of the [Quick Learner](#class-ability-quick-learner) ability. They do not have the [Masterful Expertise](#class-ability-masterful-expertise) ability, however, as they lack the versatility of a full Expert.
 
 ### Partial Mage/Partial Expert
 
@@ -63,24 +63,24 @@ A Partial Expert is treated just as a full Expert, including gaining the benefit
 
 ### Partial Warrior/Partial Expert
 
-| Level | Hit Dice | Attack Bonus | Feats                 |
-|-------|----------|--------------|-----------------------|
+| Level | Hit Dice | Attack Bonus | Feats                           |
+| ----- | -------- | ------------ | ------------------------------- |
 | 1     | 1d6+2    | +1           | 1 Combat + 1 Non-Combat + 1 Any |
-| 2     | 2d6+4    | +2           | +1 Any                |
-| 3     | 3d6+6    | +2           |                       |
-| 4     | 4d6+8    | +3           |                       |
-| 5     | 5d6+10   | +4           | +1 Any                |
-| 6     | 6d6+12   | +5           |                       |
-| 7     | 7d6+14   | +5           | +1 Any                |
-| 8     | 8d6+16   | +6           |                       |
-| 9     | 9d6+18   | +6           |                       |
-| 10    | 10d6+20  | +7           | +1 Any                |
+| 2     | 2d6+4    | +2           | +1 Any                          |
+| 3     | 3d6+6    | +2           |                                 |
+| 4     | 4d6+8    | +3           |                                 |
+| 5     | 5d6+10   | +4           | +1 Any                          |
+| 6     | 6d6+12   | +5           |                                 |
+| 7     | 7d6+14   | +5           | +1 Any                          |
+| 8     | 8d6+16   | +6           |                                 |
+| 9     | 9d6+18   | +6           |                                 |
+| 10    | 10d6+20  | +7           | +1 Any                          |
 
 ---
 
 ## Mage
 
-The Mage class is a general header under which all Delvers with fundamentally supernatural powers or spellcasting ability are placed. Choose a specific [Arcane Tradition](/arcane-traditions) to follow - High Mage, Vowed, Elementalist, etc.
+The Mage class is a general header under which all Delvers with fundamentally supernatural powers or spellcasting ability are placed. Choose a specific [Arcane Tradition](/arcane-traditions) to follow - [High Mage](/arcane-traditions#high-mage), [Healer](/arcane-traditions#healer), [Elementalist](/arcane-traditions#elementalist), etc.
 
 | Level | Hit Dice  | Attack Bonus | Feats       |
 |-------|-----------|--------------|-------------|
@@ -97,7 +97,7 @@ The Mage class is a general header under which all Delvers with fundamentally su
 
 ### Partial Mage
 
-A Partial Mage is treated as a Mage, and picks an Arcane Tradition for their powers. That tradition’s abilities will be more limited for Partial Mages, however, as described under each of the paths.
+A Partial Mage is treated as a Mage, and picks an [Arcane Tradition](/arcane-tradition) for their powers. That tradition’s abilities will be more limited for Partial Mages, however, as described under each of the paths.
 
 You may pick the Partial Mage class twice for two different magical traditions. In this case, use the following table instead of the one listed in the partial class.
 
@@ -165,21 +165,21 @@ Born to the blade, gifted with a superb capacity for physical violence.
 
 ### Class Ability: Killing Blow
 
-Whenever a Warrior inflicts damage with any attack, spell, or special ability they add half their character level, rounded up, to the damage done. This damage is also added to any Shock they inflict.
+Whenever a Warrior inflicts damage with any attack, spell, or special ability they add half their character level, rounded up, to the [damage](/rules#damage) done. This damage is also added to any [Shock](/rules#shock) they inflict.
 
-Combined with Feats meant to improve Shock attacks such as Armsmaster, Close Combatant, or Shocking Assault, this ability ensures that an experienced Warrior will almost always kill any ordinary human soldier or minor monster, regardless of their attack roll result.
+Combined with [Feats](/feats) meant to improve Shock attacks such as [Armsmaster](/feats#armsmaster-c), [Close Combatant](/feats#close-combatant-c), or [Shocking Assault](/feats#shocking-assault-c), this ability ensures that an experienced Warrior will almost always kill any ordinary human soldier or minor monster, regardless of their attack roll result.
 
-Partial Warriors **do not** get this ability.
+[Partial Warriors](#partial-warrior) **do not** get this ability.
 
 ### Class Ability: Veteran’s Luck
 
-Once per Turn, as an Instant action, the Warrior may convert a missed attack they have made into a hit. Alternately, they may convert a successful attack against them into a miss, also as an Instant action. This ability is particularly lethal when used with the Make a Snap Attack action against weaker monsters, ordinary human warriors, and spell casters.
+Once per [Turn](/rules#turn), as an [Instant action](/combat#instant-action), the Warrior may convert a missed attack they have made into a hit. Alternately, they may convert a successful attack against them into a miss, also as an Instant action. This ability is particularly lethal when used with the [Make a Snap Attack](/combat#make-a-snap-attack-instant-action) action against weaker monsters, ordinary human warriors, and spell casters.
 
-Partial Warriors **do not** get this ability.
+[Partial Warriors](#partial-warrior) **do not** get this ability.
 
 ### Partial Warrior
 
-A Partial Warrior gains certain of the benefits of a full Warrior, including the improved hit die and a somewhat improved attack bonus. They do not have the Veteran’s Luck special ability or the Killing Blow power, however, and must trust to their own talents to land blows and crush their enemies.
+A Partial Warrior gains certain of the benefits of a full Warrior, including the improved hit die and a somewhat improved attack bonus. They do not have the [Veteran’s Luck](#class-ability-veterans-luck) special ability or the [Killing Blow](#class-ability-killing-blow) power, however, and must trust to their own talents to land blows and crush their enemies.
 
 ### Partial Mage/Partial Warrior
 
