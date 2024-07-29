@@ -23,7 +23,7 @@ Sovereign is played with one GM and at most 8 players, playing as 4 to 8 Delvers
 
 1. The GM describes a situation to the players, making sure to not assume actions from the players, paying special attention to what they see, hear, and smell. Then, they ask "What do you do?"
 2. The players clarify or describe their actions and the *intent* behind their actions. When acting as a group (such as picking the next room to explore), elect one person to speak for the group to reduce chaos.
-3. The GM informs the players how likely their actions are to accomplish their intent (taking into account the situation, their attributes, and their skills), what happens if they fail, and how much it costs them to try. Actions that have no chance to fail, have no consequences for failure and no appreciable cost to attempt *just happen*. [Skill checks](#skill-checks) are a useful way come up with likelihood, but the GM is free to come up with probabilities directly, like 1-in-6 or 45%.
+3. The GM informs the players how likely their actions are to accomplish their intent (taking into account the situation, their [Attributes](#attributes), and their [Skills](#skills)), what happens if they fail, and how much it costs them to try. Actions that have no chance to fail, have no consequences for failure and no appreciable cost to attempt *just happen*. [Skill checks](#skill-checks) are a useful way come up with likelihood, but the GM is free to come up with probabilities directly, like 1-in-6 or 45%.
 4. If the players find the ruling to be reasonable, the dice are rolled and we honor the stakes. If they *don't*, they negotiate or come up with a better plan. Typical levers are higher chances of success for less impactful results, worse consequences for failure, or higher costs to attempt and vice versa.
 5. This creates a new situation. The GM [fast forwards](https://thealexandrian.net/wordpress/31509/roleplaying-games/the-art-of-pacing) to the next meaningful decision, narrating the transition and repeats the process.
 
@@ -43,23 +43,21 @@ Better is for the player to specify *what* and *how* they're searching. If their
 
 ## Attributes
 
-A Delver has five attributes ranging from 3 to 18, reflecting a range from
-the minimum viable capacity for a playable character to the maximum normal
-human level.
+A Delver has five attributes ranging from 3 to 18, reflecting a range from the minimum viable capacity for a playable character to the maximum normal human level.
 
 Three of these attributes are physical.
 
-**Strength**, reflecting physical prowess, melee combat, carrying gear, and brute force.
+**Strength**, reflecting physical prowess, melee combat, carrying gear, and brute force. Influences melee [attack rolls](/combat#combat-attack-rolls), melee [damage](/combat#damage), [encumbrance](/rules#encumbrance), and [Physical](/rules#physical) [Saving Throws](#saving-throws).
 
-**Dexterity**, reflecting speed, evasion, manual dexterity, reaction time, and combat initiative.
+**Dexterity**, reflecting speed, evasion, manual dexterity, reaction time, and combat initiative. Influences attack rolls with ranged weapons and some melee weapons, [AC](/equipment#armor-class), and [Evasion](#evasion) Saving Throws.
 
-**Constitution**, reflecting hardiness, enduring injury, and tolerating large amounts of magical healing.
+**Constitution**, reflecting hardiness, enduring injury, and tolerating large amounts of magical healing. Influences [HP](#hit-points) and Physical Saving Throws.
 
 Two are mental attributes.
 
-**Intelligence**, reflecting memory, reasoning, technical skills, and general education.
+**Intelligence**, reflecting memory, reasoning, technical skills, and general education. Influences Effort for most Arcane Traditions, Evasion and [Mental](#mental) Saving Throws, and the efficacy of some spells.
 
-**Wisdom**, reflecting noticing things, making judgments, reading situations, and intuition.
+**Wisdom**, reflecting noticing things, making judgments, reading situations, and intuition. Influences Mental Saving Throws.
 
 ### Attribute Modifiers
 

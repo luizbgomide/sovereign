@@ -49,6 +49,7 @@ Otherwise...
 - Remove last vestiges of Instinct.
 - Cleanup and hyperlink the [rules](/rules).
 - Hyperlink the [classes](/classes).
+- Explain which game mechanic each attribute touches.
 
 #### 2024-07-26
 - Add check penalties to chain and plate armor.

@@ -75,13 +75,12 @@ Some weapons have additional unique traits, perhaps being particularly slow to r
 | Mace           | 1d6       | 1/AC 18 | STR       | -          | LL         | 5g   | 1   |
 | Oil, Military  | 2d8       | 1/AC 18 | DEX       | 20/40      | T          | 2g   | 1   |
 | Shield         | 1d4       | None    | STR/DEX   | -          | LL         | 10g  | -   |
-| Spear, Heavy   | 1d10      | 2/AC 15 | STR       | -          | 2H         | 3g   | 2   |
-| Spear, Light   | 1d6       | 2/AC 13 | STR/DEX   | 30/60      | T          | 3g   | 1   |
+| Spear          | 1d6       | 2/AC 13 | STR/DEX   | 30/60      | T          | 3g   | 1   |
 | Throwing Blade | 1d4       | None    | DEX       | 30/60      | S, T, N    | 1g   | 1   |
 | Staff          | 1d6       | 1/AC 13 | STR/DEX   | -          | 2H, LL     | 1g   | 1   |
 | Stiletto       | 1d4       | 1/AC 18 | DEX       | -          | S, PM      | 3g   | 1   |
 | Sword, Great   | 1d12      | 2/AC 15 | STR       | -          | 2H         | 15g  | 2   |
-| Sword, Long    | 1d8       | 2/AC 13 | STR/DEX   | -          | -          | 10g  | 1   |
+| Sword          | 1d8       | 2/AC 13 | STR/DEX   | -          | -          | 10g  | 1   |
 | Sword, Short   | 1d6       | 2/AC 15 | STR/DEX   | -          | -          | 7g   | 1   |
 | Unarmed Attack | 1d2+Skill | None    | STR/DEX   | -          | LL         | -    | -   |
 
