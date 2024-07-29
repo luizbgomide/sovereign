@@ -13,11 +13,13 @@ Each individual piece of equipment should be recorded on its own small piece of 
 
 Purchases are made using coins. A copper piece (c) purchases a loaf of bread or three pints of cheap ale. 10c make a silver piece (s). 10s or 100c make a gold piece (g).
 
-Uncommon are electrum pieces (e) worth 5s, and platinum pieces (p) worth 5g.
+Uncommon coins are electrum pieces (e) worth 5s, and platinum pieces (p) worth 5g.
+
+To estimate the price of an unlisted item, $1 is about 1c in 2024 US Dollars. A night at a best western costs ~$70 and so night at a cheap Inn costs ~7s. Cheap bar food costs about $10 and a meal in an Inn costs about 1s. It won't be totally accurate, but it'll be close enough to not matter. Adventuring equipment is purposefully inflated to represent the large relative difference in demand.
 
 The monthly standard of living for various members of society are provided to get a better grasp on the value of gold:
 
-| Profession                                  | Monthly Income/Expenses |
+| <span id="wage">Profession<span>            | Monthly Income/Expenses |
 | ------------------------------------------- | ----------------------- |
 | Skilled labor                               | 3-12g                   |
 | Journeyman craftsmen, 1st level Delvers     | 12-40g                  |
@@ -47,22 +49,22 @@ Markets are not able to supply infinite amounts of goods. The monthly availabili
 
 If the entry contains a percentage, treat that as the chance that one such item exists.
 
-Goods that are meaningfully different from each other are counted separately. Thus, a 1500-population town can sell the party 3 Short Swords (7g each) *and* 3 Battle Axes (7g each) per month.
+Goods that are meaningfully different from each other are counted separately. Thus, a 1500-population town can sell the party 3 [Short Swords](#short-sword) (7g each) *and* 3 [War Axes](#war-axe) (10g each) per month.
 
 This chart represents the party's ability to both buy *and sell* in a market, so a party has a 5% monthly chance to be able to sell a 750g emerald in a village with a population of 400.
 
 ## Weapons
 
-Each of the weapons on the following chart has a listed damage it inflicts on a successful hit, an amount of [Shock](/rules#shock) inflicted on a miss to targets with an [AC](#armor-class) equal or less than that given, and a particular attribute relevant to the weapon’s use. That attribute’s [modifier](/rules#attribute-modifiers) is applied to all hit rolls, damage rolls, and Shock inflicted by the weapon. If more than one attribute is listed, the wielder uses whichever is better.
+Each of the weapons on the following chart has a listed damage it inflicts on a successful hit, an amount of [Shock](/combat#shock) inflicted on a miss to targets with an [AC](#armor-class) equal or less than that given, and a particular attribute relevant to the weapon’s use. That attribute’s [modifier](/rules#attribute-modifiers) is applied to all hit rolls, damage rolls, and Shock inflicted by the weapon. If more than one attribute is listed, the wielder uses whichever is better.
 
 Ranged weapons have both short and long ranges listed in feet. Attacking a target within short range is done at no penalty, while hitting a target at long range is done with a -2 penalty to the hit roll. Ranged weapons cannot be used while an enemy is locked in melee with the wielder.
 
 Some weapons have additional unique traits, perhaps being particularly slow to reload, or requiring two hands to wield correctly, or being easily hidden in common clothing. The GM might choose to apply these traits to improvised weapons snatched up by the PCs if any of them seem appropriate.
 
-| Weapon         | Dmg       | Shock   | Attribute | Range/Feet | Traits     | Cost | Enc |
+| Weapon         | Dmg       | Shock   | Attribute | Range/Feet | Traits     | Cost | enc |
 | -------------- | --------- | ------- | --------- | ---------- | ---------- | ---- | --- |
 | Axe, Hand      | 1d6       | 1/AC 15 | STR/DEX   | 10/30      | T          | 4g   | 1   |
-| Axe, War       | 1d10      | 3/AC 15 | STR       | -          | 2H         | 10g  | 2   |
+| <span id="war-axe">Axe, War</span>       | 1d10      | 3/AC 15 | STR       | -          | 2H         | 10g  | 2   |
 | Blackjack      | 1d4       | None    | STR/DEX   | -          | S, LL      | 1g   | 1   |
 | Bow, Large     | 1d8       | None    | DEX       | 100/600    | 2H, R, PM  | 7g   | 2   |
 | Bow, Small     | 1d6       | None    | DEX       | 50/300     | 2H, R, PM  | 3g   | 1   |
@@ -81,12 +83,10 @@ Some weapons have additional unique traits, perhaps being particularly slow to r
 | Stiletto       | 1d4       | 1/AC 18 | DEX       | -          | S, PM      | 3g   | 1   |
 | Sword, Great   | 1d12      | 2/AC 15 | STR       | -          | 2H         | 15g  | 2   |
 | Sword          | 1d8       | 2/AC 13 | STR/DEX   | -          | -          | 10g  | 1   |
-| Sword, Short   | 1d6       | 2/AC 15 | STR/DEX   | -          | -          | 7g   | 1   |
+| <span id="short-sword">Sword, Short</span>   | 1d6       | 2/AC 15 | STR/DEX   | -          | -          | 7g   | 1   |
 | Unarmed Attack | 1d2+Skill | None    | STR/DEX   | -          | LL         | -    | -   |
 
 - **2H**: Two Handed. The weapon requires two hands to use in combat. Ranged two-handed weapons cannot be fired effectively while an enemy is within melee range.
-- **AP**: Armor Piercing. This weapon ignores non-magical hides, armor and shields for purposes of its hit rolls.
-- **FX**: Fixed. The weapon is too heavy and clumsy to use without a fixed position and at least five minutes to entrench it.
 - **L**: Long. The weapon is unusually long, allowing melee attacks to be made at targets up to 10 feet distant, even if an ally is in the way. Even so, the wielder still needs to be within five feet of a foe to count as being in melee with them for purposes of forcing Fighting Withdrawals, disrupting large ranged weapons, or similar maneuvers.
 - **LL**: Less Lethal. Foes brought to zero HP by this weapon can always be left alive at the wielder’s discretion.
 - **N**: Numerous. Five of these count as only one Readied item.
@@ -98,13 +98,15 @@ Some weapons have additional unique traits, perhaps being particularly slow to r
 
 Military oil may be ignited and thrown with a DEX/Shoot attck, dealing 1d8 damage for 2 rounds to the target. If the attack fails, it lands in a random adjacent square and deals 1d3 damage to that square and all adjacent squares.
 
+Weapons requiring ammunition require a [Quiver](#quiver). Don't bother tracking ammo if you have one. Be adults - you don't *actually* have infinite ammo. You cannot build bridges out of your infinite arrow or use them to fill pits.
+
 ## Armor
 
 Armor provides an <strong id="armor-class">Armor Class</strong> (AC). Equipped armor must always occupy Readied slots.
 
 Chain applies a -2 penalty to Sneak checks. Plate applies a -3 penalty to Sneak and Exert checks.
 
-| Name    | AC  | Cost | Enc |
+| Name    | AC  | Cost | enc |
 | ------- | --- | ---- | --- |
 | None    | 10  | 0g   | 0   |
 | Leather | 12  | 20g  | 1   |
@@ -114,7 +116,9 @@ Chain applies a -2 penalty to Sneak checks. Plate applies a -3 penalty to Sneak 
 
 ## Adventuring Gear
 
-| Item                            | Cost | Enc |
+This list is **not** exhaustive.
+
+| Item                            | Cost | enc |
 | ------------------------------- | ---- | --- |
 | Blanket                         | 2g   | 2   |
 | Chest (holds 50 enc)            | 22g  | 25  |
@@ -137,7 +141,7 @@ Chain applies a -2 penalty to Sneak checks. Plate applies a -3 penalty to Sneak 
 | Oil, Common (1 pint)            | 3s   | 1   |
 | Oil, Military (1 pint)          | 2g   | 1   |
 | Pole, 10ft                      | 1cp  | 2   |
-| Quiver + ∞ Arrows               | 10g  | 1   |
+| <span id="quiver">Quiver + ∞ Arrows</span>               | 10g  | 1   |
 | Rations, Iron (one day)         | 2s   | 1   |
 | Rope, 50’                       | 1g   | 2   |
 | Spell Book (blank)              | 20g  | 1   |
@@ -148,9 +152,24 @@ Chain applies a -2 penalty to Sneak checks. Plate applies a -3 penalty to Sneak 
 | Waterskin                       | 6s   | 1   |
 | Whistle                         | 1g   | -   |
 
+Adventuring equipment tends to be useful [within the fiction](https://www.merriam-webster.com/dictionary/diegetic) rather than directly mechanically useful, especially as a part of plans in the [core gameplay loop](/rules#core-gameplay-loop). Some examples:
+
+- Ropes and spikes are great for climbing.
+- 10ft Poles for triggering traps and generally poking things.
+- Soap for lubricating things; less flammable than oil.
+- Parchment to make a map or write down strange markings.
+- Ball bears clog up traps, make enemies slip, make loud thunks, and roll on slopes.
+- Acid for throwing or pouring into locks.
+- Fishing rods for fishing (hah) or trying to fetch things out of reach.
+- Magnets for grabbing distant keys, especially tied to fishing rods.
+- Pickaxes, hammers, axes, crowbars, shovels, etc for dismanting what's in front of you, be it ground, wall, or ceiling.
+- Glass vials for storing strange liquids or bugs.
+- Glue for binding things that cannot be easily tied. Mirrors for peering around corners.
+- Flour for causing explosions and coating invisible targets.
+
 ## Services
 
-To pay a professional for a few hours of their time, divide their monthly wage by 40. For a day, divide their monthly wage by 20. For a month or more, pay for however many months you keep them on retainer.
+To pay a professional for a few hours of their time, divide their [monthly wage](#wage) by 40. For a day, divide their monthly wage by 20. For a month or more, pay for however many months you keep them on retainer.
 
 For example, paying a guard to watch your rooms for 7 days might cost `10g (monthly wage for skilled labor) / 20 (for a day) * 7 (days) = 4g`.
 
@@ -160,7 +179,7 @@ Curing Diseases costs 500g, lifting curses or undoing magic costs 1000g. These k
 
 ## Henchmen
 
-Henchmen are Delvers for hire, and are built just like a player's Delver. Henchmen demand a monthly wage based on their level (paid in advance; non-negotiable) and half a share (non-negotiable) of all treasure, and earn half share (non-negotiable) of the party's XP.
+Henchmen are Delvers for hire, and are built just like a player's Delver. Henchmen demand a [monthly wage](#wage) based on their level (paid in advance; non-negotiable) and half a share (non-negotiable) of all treasure, and earn half share (non-negotiable) of the party's XP.
 
 | Level | Wage | Level | Wage   |
 | ----- | ---- | ----- | ------ |
@@ -179,7 +198,7 @@ Henchmen, especially higher level ones, are subject to their own market availabi
 | 3           | 1d10  | 1d3  | 85%  | 33% | 15% | 5%   |
 | 4           | 1d6   | 1d2  | 45%  | 15% | 5%  | -    |
 
-Henchmen are ultimately NPCs and the GM has the final say on what they do. However, player who hired the Henchman generally controls them.
+Henchmen are ultimately NPCs and the GM has the final say on what they do. However, the player who hired the Henchman generally controls them.
 
 A Delver may each have one Henchman.
 
@@ -213,7 +232,7 @@ Then, consult the following chart to determine market value:
 | +3                           | 35,000                  |
 
 
-Each settlement has *some* sort of magic item market, however sparse, based on the population of the settlement. The following table lists how many of each type of item are available for purchase.
+Each settlement has *some* sort of magic item market, however sparse, based on the population of the settlement. The following table lists how many of each type of item are available for purchase. Regenerate monthly.
 
 | Item Type / Population | 100k+ | 25k+ | 10k+ | 3k+ | 1k+ | 999k- |
 | ---------------------- | ----- | ---- | ---- | --- | --- | ----- |

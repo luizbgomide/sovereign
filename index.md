@@ -50,6 +50,7 @@ Otherwise...
 - Cleanup and hyperlink the [rules](/rules).
 - Hyperlink the [classes](/classes).
 - Explain which game mechanic each attribute touches.
+- Hyperlink equipment and add color to the adventuring gear.
 
 #### 2024-07-26
 - Add check penalties to chain and plate armor.
