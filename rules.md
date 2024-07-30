@@ -479,7 +479,7 @@ Once a character has enough XP to level up **and** is in a settlement, they do.
 
 ### Advancement Benefits
 
-**More HP.** To determine their new maximum, they roll their hit die for each level they now possess, adding their CON to each die. No individual die can be reduced below 1 point, even with a negative CON. If the total roll is greater than their current maximum HP, they take the roll. Otherwise, their maximum HP increases by one.
+**More HP.** To determine their new maximum, they roll their <strong id="hit-die">Hit Die</strong> for each level they now possess, adding their CON to each die. No individual die can be reduced below 1 point, even with a negative CON. If the total roll is greater than their current maximum HP, they take the roll. Otherwise, their maximum HP increases by one.
 
 **Better Saves.** Their saving throw scores decrease by one, making it easier to succeed on saving throws by rolling equal or over it. As a first level character has saving throw scores of 15, reaching second level would lower them to 14, modified by their appropriate attributes.
 

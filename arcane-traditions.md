@@ -151,7 +151,7 @@ Elementalists gain the Elemental Resilience and Elemental Sparks arts as part of
 - **Stunning Shock:** Commit Effort for the day as a Main Action and target a visible creature within fifty feet per caster level. The target creature must be wearing or holding at least a pound worth of conductive metal or be considerably dampened. An electrical bolt leaps from the caster to stun the target, causing them to lose their next Main Action. A Physical saving throw can mitigate the effect, causing the target to lose their Move action instead of their Main. A creature can be targeted only once per Turn by this.
 - **Thermal Shield:** Commit Effort for the Turn as an Instant action to immediately negate one instance of fire or frost damage to any single visible ally or object. This defense lasts only long enough to nullify the single instance of damage.
 
-### Partial Elementalist Arts and Spells
+### Partial Elementalist Progression
 
 | Max Level | Spells Cast | Spells Prepared | Arts Gained                                   |
 |-----------|-------------|-----------------|----------------------------------------------|
@@ -222,7 +222,7 @@ High Mages can prepare and cast High Magic spells, and have a number of arts ded
 
 High Mages conduct extensive experimentation and study as part of their daily activities. Each time they advance a level, they pick two High Magic spells from the list in this book to add to their repertoire. These spells must be of a level they can cast.
 
-### High Mage Arts and Spells
+### High Mage Progression
 
 | Level | Max Level | Spells Cast | Spells Prepared | Arts Gained |
 |-------|-----------|-------------|-----------------|-------------|
@@ -237,7 +237,7 @@ High Mages conduct extensive experimentation and study as part of their daily ac
 | 9     | 5         | 5           | 10              |             |
 | 10    | 5         | 6           | 12              | Any One     |
 
-### Partial High Mage Arts and Spells
+### Partial High Mage Progression
 
 | Level | Max Level | Spells Cast | Spells Prepared | Arts Gained |
 |-------|-----------|-------------|-----------------|-------------|
@@ -282,7 +282,7 @@ Necromancers can prepare and cast High Magic spells in addition to the spells sp
 
 Each time a Necromancer advances a level, they pick a new High Magic spell or a Necromancer spell to add to their spellbook. They must be able to cast the spell to add it to their selection.
 
-### Necromancer Arts and Spells
+### Necromancer Progression
 
 | Level | Max Level | Spells Cast | Spells Prepared | Arts Gained |
 |-------|-----------|-------------|-----------------|-------------|
@@ -297,7 +297,7 @@ Each time a Necromancer advances a level, they pick a new High Magic spell or a 
 | 9     | 5         | 5           | 10              |             |
 | 10    | 5         | 6           | 12              | Any One     |
 
-### Partial Necromancer Arts and Spells
+### Partial Necromancer Progression
 
 | Level | Max Level | Spells Cast | Spells Prepared | Arts Gained |
 |-------|-----------|-------------|-----------------|-------------|
