@@ -59,7 +59,7 @@ A “visible” target is a target the mage can see or whose exact location is o
 
 ## High Magic Spells
 
-### Level 1
+### Level 1 - High Magic
 
 #### Arcane Spark
 A thaumic discharge is focused on a single visible creature within one hundred feet per caster level, wreathing them in a lethal mantle of crackling energy.
@@ -139,7 +139,7 @@ Stasis may be cast as a Free action and targets a single willing or helpless cre
 The spell ends when the mage releases it, or up to a maximum of one day per caster level. If cast on himself, the mage cannot end it before the full duration expires.
 
 
-### Level 2
+### Level 2 - High Magic
 
 #### Destroy Earth
 Stone, earth, sod, sand, or other largely mineral material is reduced to a faint spray of fine dust, though metal and enchanted objects are unaffected.
@@ -223,7 +223,7 @@ Enemies must inflict five damage per caster level to cut a man-sized hole in the
 
 If the vine wall is summoned from earth that could plausibly support plant life, it remains until dispelled or until it dies naturally. If called from bare stone or other infertile soils, it withers away to dust at the end of the Turn.
 
-### Level 3
+### Level 3 - High Magic
 
 #### Arctic Circle
 The caster invokes a gust of deepest winter on a point within one hundred feet per level, freezing everything in a radius up to ten feet per caster level.
@@ -302,7 +302,7 @@ For the rest of the Turn, those affected can move in such a way, remaining suspe
 
 Optionally, the caster can instead use this spell on one visible flying creature per caster level, which must make a Physical save at a penalty equal to the caster’s Magic skill or be forced to land as they had fallen half the distance they had descended. For the rest of the Turn, such creatures remain grounded and unable to fly.
 
-### Level 4
+### Level 4 - High Magic
 
 #### Control Wind
 Conjure a fierce gust of wind in a line a hundred feet long and thirty feet wide.
@@ -367,7 +367,7 @@ The first casting inscribes a palm-sized seal of ruddy brown radiance on the gro
 
 The caster may refrain from swapping certain targets as they wish. Only portable objects are swapped; any object too heavy for the caster to lift or secured in place remains unmoved. Unwilling targets get no saving throw if they have four or less hit dice; others can make a Mental save. Unused sigils dissipate in a day.
 
-### Level 5
+### Level 5 - High Magic
 
 #### Color Bomb
 A blinding fan of impossible colors cascades over all targets in front of the caster in an area equal to a cone a hundred feet long and a hundred feet wide at the end.
@@ -420,7 +420,7 @@ This spell cannot be cast indoors, and is extremely hazardous to the caster; the
 
 ## Elementalist Spells
 
-### Level 1
+### Level 1 - Elementalist
 
 #### Elemental Spy
 The elementalist enchants a stone, ounce of liquid, flame no smaller than a candleflame, or a particular plume of smoke or incense.
@@ -442,7 +442,7 @@ The elementalist makes a direct appeal to a non-magical mass of earth, stone, wa
 
 At the end of the round, the mass will move or reshape itself within that space as the elementalist requests, maintaining its new form until the end of the Turn. If its new shape is one that is stable without magical help, it can be told to remain in it after the spell is finished.
 
-### Level 2
+### Level 2 - Elementalist
 
 #### Continual Flame
 A sample of flame no larger than the caster is made effectively eternal.
@@ -475,7 +475,7 @@ The elementalist charges their physical shape with the qualities of a chosen ele
 
 In all cases, they need not breathe and become immune to poisons and diseases not already present in them. If stone, they automatically stabilize at zero HP and ignore the first three points of damage from any source of harm. If water, they can pass through any aperture a mouse could get through. If air, they can fly at their usual movement rate and gain a +4 AC bonus against ranged attacks. If fire, they inflict 1d6 damage to all creatures in melee range at the start of their turn each round and become immune to heat damage.
 
-### Level 3
+### Level 3 - Elementalist
 
 #### Elemental Wall
 Conjure a a wall of a chosen churning elemental force.
@@ -499,7 +499,7 @@ Only sources of harm that could conceivably disrupt a cloud of mist can harm the
 
 The spell lasts until the end of the Turn or until the target or the caster choose to end it.
 
-### Level 4
+### Level 4 - Elementalist
 
 #### Calcify
 A visible target within one hundred feet must make a Physical saving throw or be turned to stone.
@@ -519,7 +519,7 @@ Only one elemental guardian can be summoned at any one time, and if destroyed, a
 
 A guardian persists until destroyed or until the dawn after they have been summoned.
 
-### Level 5
+### Level 5 - Elementalist
 
 #### Earthquake
 The elementalist calls up a deep, rolling tremor from within the earth, centering it on a visible point and affecting all structures in a radius of up to five hundred feet.
@@ -537,7 +537,7 @@ The molten remnants of the spell remain after this duration, a hazard for whomev
 
 ## Necromancer Spells
 
-### Level 1
+### Level 1 - Necromantic
 
 #### Command the Dead
 The necromancer exerts their will over a number of hit dice worth of undead equal to twice their character level.
@@ -567,7 +567,7 @@ The corpse cannot have been dead for more than one day per caster level. Once so
 
 This spell may not be used twice on the same corpse.
 
-### Level 2
+### Level 2 - Necromantic
 
 #### Augment Vitality
 The necromancer refines and enhances the natural flow of vitality within a willing visible target.
@@ -595,7 +595,7 @@ Damage to a corpse can be repaired only by casting this spell on it again, which
 
 A necromancer cannot have more active subjects of this spell than their character level.
 
-### Level 3
+### Level 3 - Necromantic
 
 #### Dominate Flesh
 A visible living creature or physically-bodied undead within 100 feet is ensorceled by this spell, their flesh and bones becoming temporarily enthralled to the caster’s will.
@@ -625,7 +625,7 @@ These subjects must be close enough for the necromancer to touch; thereafter, fo
 
 The power ends at daybreak; if dispelled sooner, the remaining pool is split proportionately.
 
-### Level 4
+### Level 4 - Necromantic
 
 #### Boneshape
 The clay of flesh and bone run obediently to the will of the necromancer.
@@ -641,7 +641,7 @@ The result is much like that of the Raise Corpse spell, but this undead servitor
 
 One that has been reduced to zero HP is destroyed and can only be rebuilt with a month of painstaking repair and re-enchantment.
 
-### Level 5
+### Level 5 - Necromantic
 
 #### Call of the Tomb
 The necromancer invokes the inescapable urge for self-dissolution within the substance of all that exists, amplifying the weight of their own mortality.

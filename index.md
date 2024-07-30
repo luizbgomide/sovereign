@@ -37,6 +37,9 @@ Otherwise...
 
 ### Change Log
 
+#### 2024-07-30
+- Give the spell level headers unique names so the hyperlinks work
+
 #### 2024-07-28
 - Build a table of contents for the index and each section.
 - Reorganize the spell hierarchy
