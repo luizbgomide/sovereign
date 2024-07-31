@@ -7,3 +7,7 @@
   - [Services](/equipment#services)
   - [Henchmen](/equipment#henchmen)
   - [Magic Items](/equipment#magic-items)
+    - [Potions](/equipment#potions)
+    - [Scrolls](/equipment#scrolls)
+    - [Buying and Selling Magic Items](/equipment#buying-and-selling-magic-items)
+    - [Sentient Weapons](/equipment#sentient-weapons)
