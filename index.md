@@ -41,6 +41,7 @@ Otherwise...
 - Give the spell level headers unique names so the hyperlinks work.
 - Rename "arts and spells" to "progression" to be more clear.
 - Hyperlink and standardize Bonus Skills.
+- Clarify Screen an Ally
 
 #### 2024-07-28
 - Build a table of contents for the index and each section.

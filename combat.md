@@ -43,7 +43,7 @@ Many actions (like [Run](/combat#run-move-action) and [Stand Up](/combat#stand-u
 | [Reload a Weapon](/combat#reload-a-weapon-main-action)             | Main      | No                     |
 | [Ready or Stow an Item](/combat#ready-or-stow-an-item-main-action) | Main      | No                     |
 | [Disengage](/combat#disengage-main-action)                         | Main      | No                     |
-| [Screen an Ally](/combat#screen-an-ally-move-action)               | Move      | No                     |
+| [Screen an Ally](/combat#screen-an-ally-move-action)               | Move      | Sometimes              |
 | [Run](/combat#run-move-action)                                     | Move      | Yes                    |
 | [Pick up an Item](/combat#pick-up-an-item-move-action)             | Move      | Yes                    |
 | [Stand Up](/combat#stand-up-move-action)                           | Move      | Yes                    |
@@ -80,7 +80,15 @@ If you start your movement adjacent to an armed melee combatant, they get a free
 
 ### Screen an Ally (Move Action)
 
-Move up to your normal movement rate to get adjacent to an ally. You then physically block attacks against them until the start of your next turn, provided they remain within 5 ft of you. Enemies who attack your ward must make a successful opposed combat skill check against you using either STR or DEX and the most applicable combat skill. If the enemy succeeds, their attack targets your ward normally. If you succeed, their attack instead targets you. You can screen against a number of attackers each round equal to your highest combat skill; thus, you need at least level 1 in a combat skill to successfully screen. Multiple defenders can screen the same target, in which case the opposed skill check is compared to all defenders and targets the worst-rolling successful defender. You can only screen against attacks you could feasibly physically parry or body-block.
+Move up to your normal movement rate to get adjacent to an ally. You then physically block attacks against them until the start of your next turn, provided they remain within 5 ft of you. Enemies who attack your ward must make a successful opposed combat skill check against you using either STR or DEX and the most applicable combat skill.
+
+If the enemy succeeds, their attack targets your ward normally. If you succeed, their attack instead targets you. You can screen against a number of attackers each round equal to your highest combat skill; thus, you need at least level 1 in a combat skill to successfully screen.
+
+Multiple defenders can screen the same target, in which case the opposed skill check is compared to all defenders and targets the worst-rolling successful defender. You can only screen against attacks you could feasibly physically parry or body-block.
+
+If you moved and started your movement adjacent to an armed melee combatant, they get a free melee attack against. To avoid this, you must Disengage first.
+
+Screen an Ally may be used to protect ranged allies (especially spellcasters) from ranged attacks.
 
 ### Total Defense (Instant Action)
 
