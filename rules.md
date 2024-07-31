@@ -509,7 +509,7 @@ A Delver can also spend their Advancement Points to improve their Attribute scor
 
 **Gain a new Feat**. At levels 2, 5, 7, and 10 a Delver can add a level to an existing [Feat](/feats) or pick up the first level in a new Feat.
 
-If this is the first level they’ve taken in the Feat, they might be granted a bonus skill. During character creation, this bonus skill pick is treated like any other skill pick. Taken as part of advancement, however, it counts as three Advancement Points spent toward increasing the skill.
+If this is the first level they’ve taken in the Feat, they might be granted a <strong id="bonus-skill">Bonus Skill</strong>. During character creation, this is treated like any other skill [improvement](/delver-creation#improvement). Taken as part of advancement, however, it counts as three Advancement Points spent toward increasing the skill.
 
 This is enough to raise a level -1 skill to level 1, or boost a level 1 skill to level-2. They may do this even if they aren’t high-enough level to normally qualify for a skill level that high.
 

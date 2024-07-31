@@ -16,7 +16,7 @@ There will be both examples as well as *exercises*. It's easy enough to *think* 
 
 ## Delver Creation
 
-Have a read through the [delver creation](/delver-creation) document, top to bottom. When you're finished, grab a blank page of paper and *actually* create a character, writing your own labels for the data that you need to record.
+Have a read through the [delver creation](/delver-creation) document, top to bottom. When you're finished, grab a blank page of paper and *actually* create a character, writing your own labels for the data that you need to record. Follow [delver creation](/delver-creation), **not** the example, to build your character.
 
 ### Worked Example
 
@@ -44,9 +44,9 @@ I decide that want to be be a great healer, handy with a bow, and be knowledgabl
 
 **Choose Feats.** The "Feats" column for level 1 Partial Expert/Partial Mage says I get "1 Non-combat + 1 Any", which means I can select any feat that doesn't have the crossed swords icon, and then any feat I want.
 
-First, I'll pick up [Gifted Chirurgeon](/feats#gifted-chirurgeon) at rank 1 to be *even better* at healing. This gives me Heal as a bonus skill, and since I already have Heal at +1, I can make a free improvement. I'll improve my Shoot to +1.
+First, I'll pick up [Gifted Chirurgeon](/feats#gifted-chirurgeon) at rank 1 to be *even better* at healing. This gives me Heal as a [Bonus Skill](/rules#bonus-skill), and since I already have Heal at +1, I can make a free improvement. I'll improve my Shoot to +1.
 
-For my other feat, I'll pick up [Deadeye](/feats#deadeye-c) at rank 1 to do more damage with my bow. This gives me Shoot as a bonus skill, and since I already have Shoot at +1, I can make a free improvement. I'll improve my Know to 1.
+For my other feat, I'll pick up [Deadeye](/feats#deadeye-c) at rank 1 to do more damage with my bow. This gives me Shoot as a [Bonus Skill](/rules#bonus-skill), and since I already have Shoot at +1, I can make a free improvement. I'll improve my Know to 1.
 
 ![small](/assets/images/choose-feats.png)
 
@@ -117,7 +117,7 @@ That's a character!
   <p>They either need +1 DEX and Sneak-0, or +0 DEX and Sneak-1.</p>
   <p>Getting to +1 DEX would take 3 of their 4 improvements, and they could spend the last one on Sneak.</p>
   <p>Alternatively, getting to Sneak-1 just takes 2 improvements.</p>
-  <p>Finally, they could save themselves an improvement by choosing a Feat (or multiple feats) that grant Sneak as a bonus skill, like <a href="/feats#assassin-c">Assassin</a> or <a href="/feats#imposter">Imposter</a>.</p>
+  <p>Finally, they could save themselves an improvement by choosing a Feat (or multiple feats) that grant Sneak as a <a href="/rules#bonus-skill">Bonus Skill</a>, like <a href="/feats#assassin-c">Assassin</a> or <a href="/feats#imposter">Imposter</a>.</p>
   <p>Note the dynamics here. There are more skills than attributes, so skills apply more narrowly and attributes apply more broadly. Attributes, in turn, tend to be more expensive to meaningfully upgrade.</p>
 </details>
 
@@ -129,7 +129,7 @@ That's a character!
 
 <details>
   <summary><strong>Exercise</strong>: Why do we wait until after choosing a class and feats to determine attribute modifiers?</summary>
-  <p>Because Mages gain a bonus skill related to their arcane tradition, like how High Mages gain Magic. Similarly, some feats like <a href="/feats#poisoner">Poisoner</a> grant a bonus skill.</p>
+  <p>Because Mages gain a <a href="/rules#bonus-skill">Bonus Skill</a> related to their arcane tradition, like how High Mages gain Magic. Similarly, some feats like <a href="/feats#poisoner">Poisoner</a> grant a Bonus Skill.</p>
   <p>If the Delver already has that skill at rank 1, they instead get a free improvement which they may spend on improving an attribute. This, in turn, might change its modifier.</p>
 </details>
 
