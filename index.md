@@ -17,7 +17,13 @@ Otherwise...
 
 # Table Of Contents
 
-{% include toc.md %}
+<ul>
+  {% for item in site.data.toc %}
+    <li>
+      <a href="{{item.id}}">{{item.label}}</a>
+    </li>
+  {% endfor %}
+</ul>
 
 ### The Module Stack
 

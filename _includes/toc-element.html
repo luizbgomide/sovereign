@@ -1,0 +1,9 @@
+<li>
+    <a href="{{include.item.id}}">{{include.item.label}}</a>
+    {% unless include.item.children == empty %}
+        <ul>
+            {% for child in include.item.children %} {% include toc-element.html
+            item=child %} {% endfor %}
+        </ul>
+    {% endunless %}
+</li>

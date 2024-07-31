@@ -9,36 +9,18 @@
         <link rel="stylesheet" href="assets/css/custom.css" />
     </head>
     <body>
-        <header>
-            <nav class="container">
-                <ul>
-                    <li>
-                        <a href="/">Home</a>
-                    </li>
-                    <li>
-                        <a href="/rules">Rules</a>
-                    </li>
-                    <li>
-                        <a href="/classes">Classes</a>
-                    </li>
-                    <li>
-                        <a href="/equipment">Equipment</a>
-                    </li>
-                    <li>
-                        <a href="/spells">Spells</a>
-                    </li>
-                </ul>
-            </nav>
-        </header>
-        <main class="container">
-            {% include navigation.html %} {{ content }}
-            <footer>
-                <hr />
-                This is a living document with
-                <a href="https://github.com/beaurancourt/sovereign"
-                    >open source code</a
-                >.
-            </footer>
-        </main>
+        <div class="wrapper">
+            {% include toc.html %}
+            <main class="container">
+                {{ content }}
+                <footer>
+                    <hr />
+                    This is a living document with
+                    <a href="https://github.com/beaurancourt/sovereign"
+                        >open source code</a
+                    >.
+                </footer>
+            </main>
+        </div>
     </body>
 </html>

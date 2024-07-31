@@ -1,0 +1,7 @@
+<div class="sidebar">
+  <ul>
+    {% for item in site.data.toc %}
+        {% include toc-element.html item=item %}
+    {% endfor %}
+  </ul>
+</div>

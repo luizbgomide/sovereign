@@ -3,8 +3,6 @@ layout: default
 title: Home
 ---
 
-{% include toc-equipment.md %}
-
 # Equipment
 
 Each individual piece of equipment should be recorded on its own small piece of [card stock](https://www.amazon.com/Printworks-Cardstock-Certified-Projects-00540/dp/B07FX5LCXK), specifying it's encumbrance in the top right. This allows players to pass equipment around, leave it places, etc. Stowed items should be kept in a separate pile from Readied items.
