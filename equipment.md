@@ -206,6 +206,30 @@ A Delver may each have one Henchman.
 
 Magic Items are wonderous, expensive objects. Some magic items are unique, while provide flat numerical bonuses, or mimic spell effects.
 
+The most common type of magic item is a `+N` item, such as a "Dagger+1" or "Shield+2".
+
+For **weapons**, the number is added to both attack rolls and damage rolls, and the weapon is capable of dealing damage to enemies resistant to mundane damage, such as [shadows](https://oldschoolessentials.necroticgnome.com/srd/index.php/Shadow).
+
+For **armor** and **shields**, increase AC by the bonus. Do *not* decrease their encumbrance like in other games.
+
+### Potions
+
+A [Readied](/rules#readied) potion may be consumed as a [Move Action](/combat#move-action). Typically potions mimic the effects of spells, but some have unique effects. Effects with durations last `1d6+6` [Turns](/rules#turn).
+
+### Scrolls
+
+Spellcasting mages can read a scroll to activate its spell as a [Main Action](/combat#main-action).
+
+In order to safely cast a spell from a scroll, a Delver needs to have a Magic skill of at least one less than the spell's level. For example, to cast from a Scroll of [Haste](/spells#haste) (a level 2 spell), the Delver needs to have at least Magic-1.
+
+If a Delver doesn’t have a high enough Magic skill, they can attempt anyway. Roll a DC (8 + Spell Level) INT/Magic skill check. If it fails by one or two points, the spell fizzles and is wasted. If it fails by more than two points, it goes off, but at the wrong target or with the wrong effect at the GM’s discretion. If the check succeeds, the spell goes off as intended.
+
+For example, if a Delver with Magic-0 tries to use a Scroll of Haste, they would need to roll a DC 10 INT/Magic skill check. If their result is an 8 or 9, the spell harmlessly fizzles. If the result is a 7 or lower, they might accidentally Haste a foe!
+
+If the Spell in a scroll has an effect dependent on caster level (like [Arcane Spark](/spells#arcane-spark)), use twice the spell's level minus one. For example, a first level spell scroll would use a caster level of `2 * 1 - 1 = 1`, and a 4th level spell scroll would use a caster level of `2 * 4 - 1 = 7`. This corresponds to the lowest level a High Mage has access to the spell.
+
+### Buying and Selling Magic Items
+
 Magic Items can be sold, though they are subject [Market Availbility](#equipment-availability). In order to estimate their price, decide which [spell](/spells) effect the item is most similar to, and note the spell level. If no such spell exists, try to guage which spell level it would be.
 
 Then, consult the following chart to determine market value:
@@ -269,3 +293,9 @@ Each category corresponds to one of the [OSE Generators](https://oldschoolessent
 - Sword +1 [Light] (21500g)
 - Shield +3 (35000g)
 - Shield +1 (5000g)
+
+### Sentient Weapons
+
+Some weapons are intelligent, and a subset of those are able to communicate. Weielders who offend their sentient weapons make a DC (8 + magic bonus) INT/Stab or Shoot skill check to force its obedience for the day. If the check is failed, the weapon is treated as totally nonmagical for the rest of the day.
+
+Weapons able to speak aloud may speak at (in)opportune times, at GM discretion.

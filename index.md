@@ -39,6 +39,9 @@ Otherwise...
 
 ### Change Log
 
+#### 2024-07-31
+- Add rules for scrolls, potions, and sentient weapons.
+
 #### 2024-07-30
 - Give the spell level headers unique names so the hyperlinks work.
 - Rename "arts and spells" to "progression" to be more clear.
