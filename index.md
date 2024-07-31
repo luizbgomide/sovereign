@@ -25,6 +25,107 @@ Otherwise...
 - Anything Melan rates a `**** / *****` or higher. I don't know of a good way to filter here, but [here are all of the reviews](https://beyondfomalhaut.blogspot.com/search/label/review)
 - Anything prince rates a `*****` on [his review list](https://princeofnothingblogs.wordpress.com/reviews/)
 
+| Name                                                                                                                                                                | Starting Level | Ending Level |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------- | ------------ |
+| [The Great Mansion Heist](https://www.drivethrurpg.com/en/product/464648)                                                                                           | 1              | 2            |
+| [The Well of Frogs](https://www.drivethrurpg.com/en/product/456516)                                                                                                 | 1              | 2            |
+| [Secret of the Black Crag](https://www.drivethrurpg.com/product/425300)                                                                                             | 1              | 5            |
+| [Aberrant Reflections](https://www.drivethrurpg.com/product/419533)                                                                                                 | 1              | 4            |
+| [The Sinister Secret of Peacock Point](https://www.drivethrurpg.com/en/product/406938)                                                                              | 1              | 1            |
+| [Witches of Frostwyck](https://www.drivethrurpg.com/product/354011)                                                                                                 | 1              | 4            |
+| [The Vaults of Volokarnos](https://www.drivethrurpg.com/product/386056)                                                                                             | 1              | 1            |
+| [Tomb Robbers of the Crystal Frontier](https://www.drivethrurpg.com/product/357799)                                                                                 | 1              | 1            |
+| [The Hideous Halls of Mugdulblub](https://www.thearcanelibrary.com/collections/shadowdark-rpg/products/cursed-scroll-zine-vol-1-diablerie)                          | 1              | 1            |
+| [Barrow of the Elf King](https://natetreme.itch.io/botek)                                                                                                           | 1              | 1            |
+| [The Blackapple Brugh](https://basicfantasy.org/downloads.html#kh1)                                                                                                 | 1              | 3            |
+| [The Black Wyrm of Brandonsford](https://www.drivethrurpg.com/product/327744)                                                                                       | 1              | 3            |
+| [The Incandescent Grottos](https://www.drivethrurpg.com/product/348878)                                                                                             | 1              | 2            |
+| [The Bruja, The Beast and The Barrow](https://www.drivethrurpg.com/en/product/340873)                                                                               | 1              | 2            |
+| [Star Spire](https://www.drivethrurpg.com/product/340123)                                                                                                           | 1              | 2            |
+| [The Evils of Illmire](https://www.drivethrurpg.com/product/343439)                                                                                                 | 1              | 2            |
+| [The Seers Sanctum](https://www.drivethrurpg.com/product/338472)                                                                                                    | 1              | 4            |
+| [Kraken Corpse Delve](https://www.drivethrurpg.com/product/335464)                                                                                                  | 1              | 3            |
+| [The Obsidian Keep](https://www.drivethrurpg.com/product/316699)                                                                                                    | 1              | 3            |
+| [Castle Xyntillan](https://emdt.bigcartel.com/product/castle-xyntillan)                                                                                             | 1              | 6            |
+| [The Necropolis of Nuromen](https://www.drivethrurpg.com/product/110292)                                                                                            | 1              | 1            |
+| [The Hole in the Oak](https://www.drivethrurpg.com/product/284852)                                                                                                  | 1              | 2            |
+| [Beneath Dark Elms](https://www.drivethrurpg.com/product/270829)                                                                                                    | 1              | 3            |
+| [Winter’s Daughter](https://www.drivethrurpg.com/product/270795)                                                                                                    | 1              | 3            |
+| [The Sunken Fort](https://www.drivethrurpg.com/product/248347)                                                                                                      | 1              | 4            |
+| [The Vanilla Adventure](https://www.drivethrurpg.com/product/205032)                                                                                                | 1              | 1            |
+| [Statues](https://www.drivethrurpg.com/product/225559)                                                                                                              | 1              | 4            |
+| [The Dragon’s Heart](http://www.rpgnow.com/product/216364)                                                                                                          | 1              | 3            |
+| [Borshak's Lair](https://www.dropbox.com/scl/fi/z97jzboxex69jffg2rdsh/BORSHAKS_LAIR.pdf?rlkey=pyrzw48hdp7e4757ns6ng6mim&e=1&dl=0)                                   | 1              | 2            |
+| [Anomalous Subsurface Environment #1](https://www.lulu.com/shop/patrick-wetmore/ase1-anomalous-subsurface-environment-pdf/ebook/product-qk2dy9.html)                | 1              | 3            |
+| [The Temple of Polyphema](https://www.drivethrurpg.com/en/product/414336)                                                                                           | 2              | 4            |
+| [The Dragon’s Gullet](https://www.drivethrurpg.com/product/422992)                                                                                                  | 2              | 5            |
+| [Fabien's Atelier](https://www.drivethrurpg.com/en/product/406938)                                                                                                  | 2              | 4            |
+| [Ascent of the Leviathan](https://www.drivethrurpg.com/product/383740)                                                                                              | 2              | 4            |
+| [Beyond the Gates of Sorrow](https://www.drivethrurpg.com/product/386056)                                                                                           | 2              | 4            |
+| [The Pit in the Forest](https://www.drivethrurpg.com/product/342048)                                                                                                | 2              | 3            |
+| [Hideous Daylight](https://www.drivethrurpg.com/product/333639)                                                                                                     | 2              | 2            |
+| [Xanadu](https://www.drivethrurpg.com/product/332813)                                                                                                               | 2              | 3            |
+| [The Hecatomb of Morthevole](https://www.drivethrurpg.com/product/322655)                                                                                           | 2              | 4            |
+| [Bonepicker’s Tower](https://www.drivethrurpg.com/product/322457)                                                                                                   | 2              | 4            |
+| [The Tombs of the Whispering Worms](https://matthewlowes.com/2016/05/14/the-tombs-of-the-whispering-worms/)                                                         | 2              | 3            |
+| [The Withered Crag](https://www.drivethrurpg.com/product/277684)                                                                                                    | 2              | 3            |
+| [Mines, Claws & Princesses](https://www.drivethrurpg.com/product/240094)                                                                                            | 2              | 4            |
+| [The Singing Caverns](https://www.drivethrurpg.com/product/241136)                                                                                                  | 2              | 4            |
+| [The House under the Moondial](https://www.drivethrurpg.com/en/product/474868/)                                                                                     | 3              | 4            |
+| [Bastard King of Thraxford Castle](https://www.drivethrurpg.com/en/product/405442/)                                                                                 | 3              | ?            |
+| [Shrine of the Small God](https://princeofnothing.itch.io/no-artpunk-ii)                                                                                            | 3              | 5            |
+| [The Forest of Gornate](https://www.drivethrurpg.com/product/426926)                                                                                                | 3              | 5            |
+| [Gilded Dream of the Incandescent Queen](https://www.dragonsfoot.org/php4/archive.php?sectioninit=FT&fileid=503&watchfile=)                                         | 3              | 6            |
+| [The Creeping Terror](https://www.drivethrurpg.com/product/418780)                                                                                                  | 3              | ?            |
+| [The Singing Stones](https://www.drivethrurpg.com/en/product/406938)                                                                                                | 3              | 5            |
+| [Peril in Olden Wood](https://www.drivethrurpg.com/product/397008)                                                                                                  | 3              | 5            |
+| [Imperial Vault 19](https://www.drivethrurpg.com/product/407365)                                                                                                    | 3              | 3            |
+| [The Wavestone Monolith](The-Wavestone-Monolith-1Download)                                                                                                          | 3              | 3            |
+| [The Frost Spire](https://drive.google.com/file/d/1T-jq1C5__G3OVG54jrFy4WzX0dWGMwTz/view?usp=sharing)                                                               | 3              | 3            |
+| [The Cauldron](https://www.drivethrurpg.com/product/383741)                                                                                                         | 3              | 7            |
+| [Bottomless Pit of Zorth](https://www.drivethrurpg.com/product/378555)                                                                                              | 3              | 5            |
+| [Temple of 1000 Swords](https://www.drivethrurpg.com/product/360211)                                                                                                | 3              | 3            |
+| [Orbital Vampire Tower](https://www.drivethrurpg.com/product/358520)                                                                                                | 3              | 3            |
+| [Halls of the Blood King](https://www.drivethrurpg.com/product/348880)                                                                                              | 3              | 5            |
+| [The Waking of Willowby Hall](https://www.drivethrurpg.com/product/348439)                                                                                          | 3              | 3            |
+| [The Palace of Unquiet Repose](https://www.drivethrurpg.com/product/341381)                                                                                         | 3              | 5            |
+| [The Temple of the Blood Moth](https://www.drivethrurpg.com/product/282346)                                                                                         | 3              | 5            |
+| [The Castle that Fell From The Sky](https://www.drivethrurpg.com/en/product/258161)                                                                                 | 3              | 5            |
+| [Kellerin’s Rumble](https://www.drivethrurpg.com/product/250834)                                                                                                    | 3              | 5            |
+| [The Red Prophet Rises](https://www.drivethrurpg.com/product/235540)                                                                                                | 3              | 5            |
+| [The Hyqueous Vaults](http://www.lulu.com/shop/guy-fullerton-and-rebecca-dettmann-and-allan-grohe-and-jimm-johnson/the-hyqueous-vaults/ebook/product-23455816.html) | 3              | 3            |
+| [Grave of the Heartless](https://www.drivethrurpg.com/product/227738)                                                                                               | 3              | 4            |
+| [Vault of the Mad Baron](https://www.drivethrurpg.com/en/product/414418)                                                                                            | 3              | 5            |
+| [Sision Tower](https://www.drivethrurpg.com/en/product/270477)                                                                                                      | 3              | 5            |
+| [Standoff at Sandfell Sea Fort](https://www.drivethrurpg.com/en/product/252951)                                                                                     | 4              | 7            |
+| [Cloister of the Frog-God](https://emdt.bigcartel.com/product/cloister-of-the-frog-god)                                                                             | 4              | 6            |
+| [Webs of Past and Present](https://emdt.bigcartel.com/product/the-webs-of-past-and-present)                                                                         | 4              | 5            |
+| [City Of Bats](https://www.drivethrurpg.com/product/379533)                                                                                                         | 4              | 6            |
+| [Date of Expiration](https://www.drivethrurpg.com/product/370864)                                                                                                   | 4              | 7            |
+| [The Tomb of Ali Shulwar](https://www.drivethrurpg.com/product/322655)                                                                                              | 4              | 6            |
+| [Trollback Keep](https://www.drivethrurpg.com/product/264501)                                                                                                       | 4              | 7            |
+| [The Barbarian King](https://www.drivethrurpg.com/product/247440)                                                                                                   | 4              | 6            |
+| [The Dreaming Caldera](https://www.drivethrurpg.com/en/product/406938)                                                                                              | 5              | 6            |
+| [The Temple of Hypnos](https://www.drivethrurpg.com/product/375980)                                                                                                 | 5              | 5            |
+| [The Sepulchre of Seven](https://www.drivethrurpg.com/product/366868)                                                                                               | 5              | 7            |
+| [From Beneath The Glacier](https://www.drivethrurpg.com/product/322655)                                                                                             | 5              | 7            |
+| [A Shadow Over the Greatwood](https://www.drivethrurpg.com/product/318409)                                                                                          | 5              | 7            |
+| [Darkness at Nekemte](https://www.drivethrurpg.com/product/317631)                                                                                                  | 5              | 6            |
+| [The Chalice of Blood](https://www.drivethrurpg.com/product/302576)                                                                                                 | 5              | 6            |
+| [The Mud King of Stoney Creek](https://www.drivethrurpg.com/product/290849)                                                                                         | 5              | 7            |
+| [The Dragons Secret](https://www.drivethrurpg.com/product/247579)                                                                                                   | 5              | 7            |
+| [Skalbak Sneer: The Stronghold of Snow](https://princeofnothing.itch.io/no-artpunk-ii)                                                                              | 5              | 7            |
+| [Fractious Mayhem at Melonath Falls](https://princeofnothing.itch.io/no-artpunk-ii)                                                                                 | 5              | 8            |
+| [Secrets of the Wyrwoode](https://www.drivethrurpg.com/en/product/200708/Secrets-of-the-Wyrwoode)                                                                   | 5              | 7            |
+| [Battle for Carrion Vale](https://www.drivethrurpg.com/product/393396)                                                                                              | 6              | 7            |
+| [The Lost Treasure of Atlantis](https://www.drivethrurpg.com/product/296269)                                                                                        | 6              | 8            |
+| [Eyrie of the Dread Eye](https://www.drivethrurpg.com/product/268206)                                                                                               | 6              | 8            |
+| [Scorchfire](https://www.drivethrurpg.com/en/product/252309)                                                                                                        | 7              | 9            |
+| [Surgerock Vault](https://www.drivethrurpg.com/product/390976)                                                                                                      | 7              | 9            |
+| [Tomb of the Twice-Crowned King](https://www.drivethrurpg.com/product/442331)                                                                                       | 8              | 10           |
+| [The Keep of the Broken Saint](https://www.drivethrurpg.com/product/256798)                                                                                         | 8              | 10           |
+
+
 ### Under Construction
 
 - Actually playtest the classes. I know it uses WWN which has its own playtesting, but there's probably still jank somewhere.
@@ -41,6 +142,7 @@ Otherwise...
 
 #### 2024-07-31
 - Add rules for scrolls, potions, and sentient weapons.
+- Add the list of modules, sourced from [tenfootpole](https://tenfootpole.org/ironspike) and [beyondformalhaut](https://beyondfomalhaut.blogspot.com/).
 
 #### 2024-07-30
 - Give the spell level headers unique names so the hyperlinks work.
