@@ -7,6 +7,47 @@ title: Home
 
 # Combat
 
+## The Grid
+
+Combat takes place on a 1" = 5' grid. I recommend making [icons](https://youtu.be/LBZPi4oKlCQ?si=uC8io8mRS8oR57S7) (I use [these WoW class icons](https://dribbble.com/shots/6175355-World-of-Warcraft-Vector-Class-Icons)) for the Delvers and numbered [meeples](https://www.amazon.com/dp/B07BZ36NYJ) for enemies, choosing a different color for each enemy type.
+
+The grid helps us disambiguate a few situations:
+
+- Allies can move through each other so long as they do not end their movement in an unoccupied square.
+- A character can not move through a standing enemy. [Shove](#shoving) (or kill) them to get by. Creatures 8x bigger (in any dimension) than their enemies instead treat enemies as [difficult terrain](#difficult-terrain).
+- A two squares are considered adjacent if they share an edge or corner (diagonals are adjacent).
+- Movement is done in 5' adjacent increments. This allows characters to move a greater distance diagonally than in a cardinal direction (in a [cartesian sense](https://en.wikipedia.org/wiki/Cartesian_coordinate_system)), but the decreased book-keeping is worth the loss of realism.
+- Abilities that have a radius create a square on the grid where each side of the square has a length of twice the radius. For example, [Magic Bomb](/spells#magic-bomb) creates 20' radius explosion. On the grid, this is an 8x8 square.
+- Some squares are <strong id="difficult-terrain">Difficult Terrain</strong>, requiring 10' of movement to enter. Others (like where walls are) are impassible.
+
+### Line of Sight and Cover
+
+Alice has <strong id="line-of-sight">Line of Sight</strong> to Bob if a line can be drawn from any point in Alice's 5' *cube* to any point in Bob's cube without passing through a solid object (like a wall, not another character).
+
+Alice <strong id="half-cover">half cover</strong> from Bob if Bob has line of sight, but does not have line of sight to *all* of the corners of Alice's cube.
+
+<figure>
+    <img src="/assets/images/bob-horizontal-no-cover.png" alt="tiny" />
+    <figcaption>Bob has no cover from Alice</figcaption>
+</figure>
+
+<figure>
+    <img src="/assets/images/alice-horizontal-half-cover.png" alt="tiny" />
+    <figcaption>Alice has half cover from Bob</figcaption>
+</figure>
+
+<figure>
+    <img src="/assets/images/bob-vertical-no-cover.png" alt="tiny" />
+    <figcaption>Vertical. Bob has no cover from Alice.</figcaption>
+</figure>
+
+<figure>
+    <img src="/assets/images/alice-vertical-half-cover.png" alt="tiny" />
+    <figcaption>Vertical. Alice has half cover from Bob.</figcaption>
+</figure>
+
+Alice has <strong id="full cover">full cover</strong> from Bob if Bob has line of sight, but does not have line of sight to *any* of the corners of Alice's cube. This is usually the case when shooting through windows or [arrow slits](https://en.wikipedia.org/wiki/Arrowslit).
+
 ## Combat Sequence
 
 Each participating side rolls 1d8, with the player's side adding the highest DEX from among their Delvers. Starting with the side with the highest roll, each member of that side takes all of their actions in whatever order they'd like. Once every member of a side has acted, the next highest side repeats the process. This repeats until all sides have acted, and then begins from the top in the same order. Initiative is not re-rolled.
@@ -25,11 +66,11 @@ Attacks, movement, spellcasting, and other combat activities all require one of 
 
 <strong id="move-action">Move actions</strong> involve moving the character’s normal movement rate of 30 feet or performing some other relatively brief bodily action, such as getting up from prone. A combatant gets one Move action per round, but can spend their main action to get a second.
 
-<strong id="free-action">Free</strong> actions are brief, simple acts that require only a moment’s concentration. Activating certain abilities or speaking a few words might constitute a Free action. A character can take as many Free actions on their round as the GM finds plausible.
+<strong id="free-action">Free</strong> actions are brief, simple acts that require only a moment’s concentration. Activating certain abilities or speaking a few words might constitute a Free action. A combatant can take as many Free actions on their round as the GM finds plausible.
 
-<strong id="instant-action">Instant actions</strong> are special, most being provided only by certain powers or certain special actions. Instant actions can be performed even when it’s not your turn in the round, even after the dice have already been rolled. The Veteran’s Luck class ability provides one such Instant action, allowing the Delver to treat a missed attack roll as an automatic hit. A Delver can use as many Instant actions in a round as the GM finds plausible. Instant actions performed at the same time are resolved simultaneously, with the GM adjudicating any ambiguities.
+<strong id="instant-action">Instant actions</strong> are special, most being provided only by certain powers or certain special actions. Instant actions can be performed even when it’s not your turn in the round, even after the dice have already been rolled. The Veteran’s Luck class ability provides one such Instant action, allowing the Delver to treat a missed attack roll as an automatic hit. A combatant can use as many Instant actions in a round as the GM finds plausible. Instant actions performed at the same time are resolved simultaneously, with the GM adjudicating any ambiguities.
 
-Many actions (like [Run](/combat#run-move-action) and [Stand Up](/combat#stand-up-move-action)) allow any adjacent foes armed with a melee weapon to make a free Attack of Opportunity. To avoid this, either do not be in melee range or use the [Disengage](/combat#disengage-main-action) action first.
+Many actions (like [Run](/combat#run-move-action) and [Stand Up](/combat#stand-up-move-action)) allow any adjacent foes armed with a melee weapon to make a free <strong id="attack-of-opportunity">Attack of Opportunity</strong>. To avoid this, either do not be in melee range or use the [Disengage](/combat#disengage-main-action) action first.
 
 ## Combat Actions
 
@@ -154,8 +195,8 @@ Some common situations modify an attack roll, granting a bonus or penalty. GMs m
 | Attacking an adjacent prone foe                                            | +2  |
 | Melee attacking while prone                                                | -4  |
 | Your target is past your bow or thrown weapon’s normal range, up to its maximum long range. | -2  |
-| The target is at least half behind cover                                   | -2  |
-| The target is almost completely in cover                                   | -4  |
+| The target has [half cover](#half-cover)                                   | -2  |
+| The target has [full cover](#full-cover)                                   | -4  |
 | Making a thrown attack while in melee                                      | -4  |
 | Throwing a weapon while in melee                                           | -4  |
 | Shooting a bow or crossbow while in melee                                  | N/A |
