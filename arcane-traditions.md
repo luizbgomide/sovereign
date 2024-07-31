@@ -69,7 +69,7 @@ Duelists gain Stab as a [Bonus Skill](/rules#bonus-skill). No Duelist worth the 
 
 While duelists are excellent one-on-one combatants, they spend much less time at raw physical conditioning than Warriors. The techniques they use are swift and lethal, but they aren’t as generally applicable to enduring harm as the standard training methods.
 
-As such, Partial Warriors/Partial Duelists use 1d6 for their hit dice, rather than the Partial Warrior’s usual 1d6+2. Other partial class mixes are unaffected by this flaw.
+As such, Partial Warriors/Partial Duelists use 1d6 for their [HP Progression](/rules#hp-progression), rather than the Partial Warrior’s usual 1d6+2. Other partial class mixes are unaffected by this flaw.
 
 ### Duelist Arts
 
@@ -104,7 +104,7 @@ Duelist arts do not apply to thrown weapons.
 - **Piercing Strike:** Commit Effort for the Turn as a Free action and choose a visible target. For the rest of the Turn, their AC is treated as 10 for purposes of resisting the Shock of your favored weapon.
 - **Spiritual Weapon:** You are able to translate examples of your favored weapon into a spiritual template that you may manifest as you wish. Any favored weapon can be turned into such a template, including a magical weapon, but the process destroys the object’s physical form. To manifest a template, Commit Effort as an Instant action; a ghostly copy of the weapon appears Readied in hand for you until you release the Effort or stop touching the weapon. Dual-wielders can summon the same weapon into both hands with one use of this art.
 - **Unbindable:** Commit Effort for the day as a Free action whenever you wish to escape chains, grapples, shackles, ropes, or even a magical spell of physical binding. You automatically wriggle free from mundane restraints and gain an Evasion saving throw to instantly end a physical magical binding of some sort. You can use this art only once per round.
-- **Unworthy Rabble:** Commit Effort for the day as a Free action. For the rest of the Turn, when using your favored weapon, reroll any failed hit roll against foes with one hit die. At eighth level, this applies to foes with two hit dice.
+- **Unworthy Rabble:** Commit Effort for the day as a Free action. For the rest of the Turn, when using your favored weapon, reroll any failed hit roll against foes with one HD. At eighth level, this applies to foes with two HD.
 - **Whirling Evasion:** Your AC becomes equal to 13 plus half your level, rounded up. This AC is modified by small shields and your DEX, but not by armor or large shields.
 
 ---
@@ -119,18 +119,20 @@ Elementalists can prepare and cast High Magic spells in addition to Elemental Ma
 
 Each time Elementalists advance a level, they pick a new High Magic spell or an Elementalist spell to add to their spellbook. They must be able to cast the spell to add it to their selection.
 
-| Level | Hit Dice | Attack Bonus | Feats       | Max Level | Spells Cast | Spells Prepared | Arts Gained                                         |
-| ----- | -------- | ------------ | ----------- | --------- | ----------- | --------------- | --------------------------------------------------- |
-| 1     | 1d6-1    | +0           | 1 Any       | 1         | 1           | 3               | Elemental Resilience, Elemental Sparks, and Any One |
-| 2     | 2d6-2    | +0           | +1 Any      | 1         | 1           | 3               | Any One                                             |
-| 3     | 3d6-3    | +0           |             | 2         | 2           | 4               |                                                     |
-| 4     | 4d6-4    | +0           |             | 2         | 2           | 5               | Any One                                             |
-| 5     | 5d6-5    | +1           | +1 Any      | 3         | 3           | 6               |                                                     |
-| 6     | 6d6-6    | +1           |             | 3         | 3           | 7               | Any One                                             |
-| 7     | 7d6-7    | +1           | +1 Any      | 4         | 4           | 8               |                                                     |
-| 8     | 8d6-8    | +1           |             | 4         | 4           | 9               | Any One                                             |
-| 9     | 9d6-9    | +1           |             | 5         | 5           | 10              |                                                     |
-| 10    | 10d6-10  | +2           | +1 Any      | 5         | 6           | 12              | Any One                                             |
+Elementalists roll `1d6-1` for [HP Progression](/rules#hp-progression).
+
+| Level | Attack Bonus | Feats  | Max Level | Spells Cast | Spells Prepared | Arts Gained                                         |
+| ----- | ------------ | ------ | --------- | ----------- | --------------- | --------------------------------------------------- |
+| 1     | +0           | 1 Any  | 1         | 1           | 3               | Elemental Resilience, Elemental Sparks, and Any One |
+| 2     | +0           | +1 Any | 1         | 1           | 3               | Any One                                             |
+| 3     | +0           |        | 2         | 2           | 4               |                                                     |
+| 4     | +0           |        | 2         | 2           | 5               | Any One                                             |
+| 5     | +1           | +1 Any | 3         | 3           | 6               |                                                     |
+| 6     | +1           |        | 3         | 3           | 7               | Any One                                             |
+| 7     | +1           | +1 Any | 4         | 4           | 8               |                                                     |
+| 8     | +1           |        | 4         | 4           | 9               | Any One                                             |
+| 9     | +1           |        | 5         | 5           | 10              |                                                     |
+| 10    | +2           | +1 Any | 5         | 6           | 12              | Any One                                             |
 
 ### Elementalist Arts
 
@@ -323,8 +325,8 @@ Necromancer Effort is equal to one plus their Magic skill level plus INT, to a m
 - **Gravesight**: Commit Effort as a Free action; while it remains Committed, you can see the life energies of living creatures around you as various glowing patterns, regardless of the mundane illumination available. You can perceive sicknesses, poisons, and other physical qualities on sight. As a side effect of this ability, you can see normally even in perfect blackness.
 - **Keeper of the Gate**: At your discretion, creatures within twenty feet of you per character level that are Mortally Wounded will die instantly and cannot be revived by magic or medicine. Conversely, you can Commit Effort for the day to automatically stabilize any or all within that range, increasing their System Strain by 1 point. This benefit cannot aid creatures that have been dismembered, shredded, or otherwise suffered unsurvivable injuries.
 - **Life Bridge**: You can transfer life force between willing or helpless participants. Commit Effort for the day; for the rest of the Turn, you can shift HP from one willing or helpless target no smaller than a dog to another as a Main Action, provided you are touching both. You can shift enough HP to Mortally Injure a donor, but you can’t give more to the recipient than would refresh their maximum allowed HP.
-- **Master of Bones**: Undead must roll twice to save versus your abilities or spells and take the worse roll. You may Commit Effort for the Turn as an Instant action to negate any single attack, magical power or spell an undead uses against you. Undead with more than twice as many hit dice as you have levels cannot be foiled this way.
-- **Red Harvest**: You are empowered by death. As an Instant action, whenever an intelligent living creature with at least one hit die perishes within fifty feet of you, Commit Effort for the day to either heal 1d6 plus your level in lost HP or gain a +4 bonus on your next hit roll this Turn. This art cannot be stacked, and it can be used only once per round.
+- **Master of Bones**: Undead must roll twice to save versus your abilities or spells and take the worse roll. You may Commit Effort for the Turn as an Instant action to negate any single attack, magical power or spell an undead uses against you. Undead with more than twice as many HD as you have levels cannot be foiled this way.
+- **Red Harvest**: You are empowered by death. As an Instant action, whenever an intelligent living creature with at least 1 HD perishes within fifty feet of you, Commit Effort for the day to either heal 1d6 plus your level in lost HP or gain a +4 bonus on your next hit roll this Turn. This art cannot be stacked, and it can be used only once per round.
 - **Unaging**: You no longer naturally age, and will remain perfectly hale and vigorous up to your species’ natural maximum age plus 20% per character level, after which you will collapse into dust and decay. Immortality beyond this point is possible, but generally requires consistent supplies of life energy, occult materials, or other difficult-to-acquire or morally questionable materials. You also become immune to poisons and diseases.
 - **Uncanny Ichor**: Your blood is not like the blood of normal beings. Predators find it nauseating and will not bite you unless provoked. Unintelligent predators will not consider you edible. This ichor is reluctant to leave your body, and stabbing or puncture injuries can Mortally Wound you but cannot result in your death unless you are entirely pincushioned by your foes or suffer catastrophic physical damage.
 - **Unliving Persistence**: Commit Effort for the day as a Free action to automatically stabilize when Mortally Wounded. You may use this ability to benefit others if you are able to touch them. This ability cannot save a subject that has experienced dismemberment or other extremely final deaths.

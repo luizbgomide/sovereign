@@ -144,7 +144,7 @@ When an assailant makes an attack, they roll 1d20 and add their attack bonus, th
 
 Every weapon listed in the equipment section is listed as using one or more attributes, such as either STR or DEX for a dagger. The attacker may choose either attribute for modifying the weapon’s attack and damage rolls.
 
-NPCs usually do not have attribute modifiers or skill levels. Instead, the attack bonus of a trained NPC combatant is usually equal to their hit dice, often with an additional bonus to reflect particularly good training or talent.
+NPCs usually do not have attribute modifiers or skill levels. Instead, the attack bonus of a trained NPC combatant is usually equal to their HD, often with an additional bonus to reflect particularly good training or talent.
 
 Some common situations modify an attack roll, granting a bonus or penalty. GMs may add others depending on the situation.
 

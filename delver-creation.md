@@ -19,7 +19,7 @@ Adventuring is a profession, and all Delvers have undergone extensive training t
 
 6. **Record Attribute Modifiers**. Each [Attribute](/rules#attributes) has a [Modifier](/rules#attribute-modifiers), usually ranging from -2 to +2 based on its score. This modifier is added to skill checks, attack rolls, damage rolls, Shock damage, and the relevant saving throw targets.
 
-7. **Generate Maximum Hit Points**. Each class gets different amount of [Hit Points](/rules#hit-points) (HP) at first level, detailed in the "Hit Dice" column. Roll based on your class, add your CON, and +2 if you chose the [Die Hard](/feats#die-hard-c) Feat.
+7. **Generate Maximum Hit Points**. Each class gets different amount of [Hit Points](/rules#hit-points) (HP) at first level according to their [HP Progression](/rules#hp-progression). Roll based on your class, add your CON, and +2 if you chose the [Die Hard](/feats#die-hard-c) Feat.
 
 8. **Record Attack Bonus**. Your character has a certain degree of basic combat competence based on their class. This bonus increases as you advance in character levels and is added to your attack roll. A new character’s attack bonus is usually +0, though full Warriors start with a +1 attack bonus.
 

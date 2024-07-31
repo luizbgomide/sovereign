@@ -64,7 +64,7 @@ A “visible” target is a target the mage can see or whose exact location is o
 #### Arcane Spark
 A thaumic discharge is focused on a single visible creature within one hundred feet per caster level, wreathing them in a lethal mantle of crackling energy.
 
-The target suffers 1d8 damage per caster level, with a Physical save for half. NPC targets with only 1 hit die will inevitably be slain regardless of the damage done.
+NPC targets with only 1 HD are slain. Otherwise, the target suffers 1d8 damage per caster level, with a Physical save for half.
 
 #### Blunt Contact
 This spell may be cast in two different forms.
@@ -104,7 +104,7 @@ The mage targets a visible living creature within 100 feet. The subject must imm
 
 The caster cannot order the creature to answer questions or perform acts that require independent judgment, nor to use non-physical abilities or spells, but it will fight for the caster or to defend its own life. Enchanted victims appear torpid and dazed, and will act only to defend themselves or satisfy their needs.
 
-The spell lasts until dispelled, or until the caster dies or releases them. Every time this spell is cast, however, all prior subjects get an immediate unmodified Mental saving throw to throw it off. If the creature has more hit dice than the caster, it gets an unmodified saving throw to end the effect the first time each day it’s ordered to do something it finds strongly objectionable.
+The spell lasts until dispelled, or until the caster dies or releases them. Every time this spell is cast, however, all prior subjects get an immediate unmodified Mental saving throw to throw it off. If the creature has more HP than the caster has levels, it gets an unmodified saving throw to end the effect the first time each day it’s ordered to do something it finds strongly objectionable.
 
 #### Dominate Sense
 The caster targets a visible creature within two hundred feet. The target gets a Mental saving throw to resist; on a failure, one sense of the caster’s choice is entirely under the caster’s control for the rest of the Turn, while a success leaves them bound only for the next round.
@@ -122,7 +122,7 @@ The mage opens up their mind to the presence of occult energies. For one Turn pe
 They may identify magical items and get a one-sentence description of their purpose or most significant powers, and get more sophisticated answers with successful WIS/Magic skill checks at difficulties of 8 or more depending on the subtlety of the enchantment. Mages with prepared spells are visible to the caster, though which spells the subject might have prepared is not knowable. As a side effect of this spell, the ambient thaumic currents cast enough quasi-light to allow the caster to see normally even in perfect darkness.
 
 #### Sleep
-The mage designates a visible point within two hundred feet. A silent, invisible burst of soporific influence erupts from that point, targeting all living creatures within a twenty-foot radius. All such targets with 4 or fewer hit dice within that area fall unconscious instantly, and are roused only by damage or by a Main Action used to kick them awake.
+The mage designates a visible point within two hundred feet. A silent, invisible burst of soporific influence erupts from that point, targeting all living creatures within a twenty-foot radius. All such targets with 4 or fewer HD within that area fall unconscious instantly, and are roused only by damage or by a Main Action used to kick them awake.
 
 If not roused, they revive at the end of the Turn. Entities that do not sleep are immune to this spell.
 
@@ -154,7 +154,7 @@ Unattended objects can be teleported by the spell, but they can be no larger tha
 #### Dispel Magic
 The caster sweeps away all unwanted magical effects and enchantments within a twenty-foot radius, centered on any visible point within one hundred feet per level.
 
-If the magical effect was cast by a creature with equal or fewer hit dice, the effect is negated automatically. Otherwise, make an opposed INT/Magic skill check, with higher-leveled caster gaining a +2 bonus and the dispeller getting a +1 bonus.
+If the magical effect was cast by a creature with equal or fewer HD, the effect is negated automatically. Otherwise, make an opposed INT/Magic skill check, with higher-leveled caster gaining a +2 bonus and the dispeller getting a +1 bonus.
 
 This spell is not strong enough to permanently suppress standing magical effects, and requires the aforementioned contested roll to temporarily suppressing them. If successful, the effect is negated for 1d6 rounds. If cast on a very large enchantment, only the portion within the spell’s zone of effect is suppressed.
 
@@ -185,7 +185,7 @@ A pool of water, mirror, open flame, polished crystal, or other luminous or refl
 
 The caster perceives the location as if he were standing at the targeted point within it, seeing and hearing events there as if he were present. This spell cannot scry locations that have been magically warded, and scrying the same location repeatedly is hindered by the resonance created by the spell.
 
-The spell cannot perceive the same area twice within the same week, or position its target point so as to overlap a prior area with its perceptions within that time. If a target present in the area has more hit dice than the caster has levels, they get a Mental saving throw to get an uncanny sense of being watched, something that will alert those cognizant of this spell.
+The spell cannot perceive the same area twice within the same week, or position its target point so as to overlap a prior area with its perceptions within that time. If a target present in the area has more HD than the caster has levels, they get a Mental saving throw to get an uncanny sense of being watched, something that will alert those cognizant of this spell.
 
 This spell lasts until the caster performs some action other than focusing on the scrying.
 
@@ -244,7 +244,7 @@ A single visible living creature is smote with a hideous curse of torment. Boils
 
 If they perform any vigorous physical action save movement they incur two points of damage per caster level from the effects of the curse, damage which can be suffered no more than once per round by a target.
 
-A creature may spend its Main Action to attempt a Physical save to throw off the curse, but on a failure, the curse remains for the rest of the Turn. If the creature has fewer hit dice than the caster has levels, a single failed save means the curse lasts indefinitely, until dispelled or until the caster releases them.
+A creature may spend its Main Action to attempt a Physical save to throw off the curse, but on a failure, the curse remains for the rest of the Turn. If the creature has fewer HD than the caster has levels, a single failed save means the curse lasts indefinitely, until dispelled or until the caster releases them.
 
 #### Fear
 A wave of numbing terror sweeps over all enemies of the caster within forty feet.
@@ -328,7 +328,7 @@ This spell can only be applied to a helpless or restrained living victim, who ge
 
 On a failure, the target becomes hopelessly subject to the caster via a series of psychic fetters, obediently carrying out their will. The target must be able to understand the caster’s wishes, but will obey them to the best of its intelligence, capability, and initiative. They must make a Mental saving throw to resist performing even suicidal acts.
 
-The spell lasts until it is dispelled or the caster releases the target. A caster can have no more creatures under this spell than twice their level or hit dice; if this number is exceeded, the earliest thrall is freed first.
+The spell lasts until it is dispelled or the caster releases the target. A caster can have no more creatures under this spell than twice their level or HD; if this number is exceeded, the earliest thrall is freed first.
 
 Creatures under the effect of Greater Dominate Person display numerous small tics and magically-compelled quirks of behavior that may provoke puzzlement in casual observers and will give away the mental influence entirely to an onlooker with at least Magic-0 skill who can observe them for at least an hour.
 
@@ -337,7 +337,7 @@ The contents of single visible target are extracted and placed in the caster’s
 
 If used on a cabinet, backpack, pocket, or other such container it can be no larger than an armoire, and the caster can choose whether or not to receive any particular object from inside it, being instantly appraised of its contents when the spell is cast.
 
-If used on a creature, it attempts to tear out the subject’s innards; if the subject has equal or fewer hit dice than the caster, it must make a Physical save or die instantly. Whether or not it perishes, it suffers 1d10 damage per caster level, with a Physical save for half.
+If used on a creature, it attempts to tear out the subject’s innards; if the subject has equal or fewer HD than the caster, it must make a Physical save or die instantly. Whether or not it perishes, it suffers 1d10 damage per caster level, with a Physical save for half.
 
 #### Rewind
 The caster may invoke this spell as an Instant action on any single creature within one hundred feet. Time is rolled back slightly, allowing them to replay their current round of action as if it never occurred, though all involved retain a memory of what originally happened.
@@ -354,7 +354,7 @@ The portal remains open for up to one round per caster level, but can be shut as
 #### Summon Creature
 The caster conjures up a semi-real phantasmal creature in any shape or appearance they desire, provided it is no larger than an ox.
 
-The servitor is as intelligent as a human and will obey the caster with fearless and suicidal devotion, having 4 effective hit dice, 20 HP, AC 15, a movement rate of 30’ per action, a +1 skill modifier, saves of 13+, and a +6/1d8 damage melee attack with 2/AC 15 Shock. As the creature is partly phantasmal, the damage it inflicts cannot kill a subject, but only knock them unconscious for an hour before they awaken with 1 HP.
+The servitor is as intelligent as a human and will obey the caster with fearless and suicidal devotion, having 4 HD, 20 HP, AC 15, a movement rate of 30’ per action, a +1 skill modifier, saves of 13+, and a +6/1d8 damage melee attack with 2/AC 15 Shock. As the creature is partly phantasmal, the damage it inflicts cannot kill a subject, but only knock them unconscious for an hour before they awaken with 1 HP.
 
 The caster may pick one special quality for the creature when it is summoned: the ability to fly at a rate of 30’/ move, the perfect duplication of a particular person they’ve seen, the ability to form a telepathic speech connection with the caster, or the ability to effectively use normal weaponry and armor.
 
@@ -365,7 +365,7 @@ This spell is cast in two parts, each of which must be cast separately within a 
 
 The first casting inscribes a palm-sized seal of ruddy brown radiance on the ground beneath the caster. The second casting will immediately switch the caster and all creatures and objects within ten feet with all creatures and objects within ten feet of the sigil.
 
-The caster may refrain from swapping certain targets as they wish. Only portable objects are swapped; any object too heavy for the caster to lift or secured in place remains unmoved. Unwilling targets get no saving throw if they have four or less hit dice; others can make a Mental save. Unused sigils dissipate in a day.
+The caster may refrain from swapping certain targets as they wish. Only portable objects are swapped; any object too heavy for the caster to lift or secured in place remains unmoved. Unwilling targets get no saving throw if they have four or less HD; others can make a Mental save. Unused sigils dissipate in a day.
 
 ### Level 5 - High Magic
 
@@ -393,7 +393,7 @@ The spell lasts until the caster departs from the bubble.
 #### Maze
 Aimed at a visible point within three hundred feet, the spell affects all creatures except the caster within a ten-foot radius of the target, translating them into a lightless extradimensional maze of endlessly tall obsidian walls.
 
-The maze is infinite, featureless, and empty. Transported creatures get a Mental saving throw to end the spell, re-appearing one round after it was cast. Those who fail their save get to make an additional attempt once an hour afterwards. Creatures with five or fewer hit dice cannot attempt these saving throws and are trapped forever unless the mage is killed or ends the spell.
+The maze is infinite, featureless, and empty. Transported creatures get a Mental saving throw to end the spell, re-appearing one round after it was cast. Those who fail their save get to make an additional attempt once an hour afterwards. Creatures with five or fewer HD cannot attempt these saving throws and are trapped forever unless the mage is killed or ends the spell.
 
 Time passes normally while trapped, and creatures snared within may rest, fight, or starve. Dead or escaped creatures appear in the nearest clear space to their original departure.
 
@@ -412,7 +412,7 @@ These subjects can take 1d4+1 free rounds of actions, but they cannot physically
 #### Typhoon
 The caster unleashes a consuming destruction on a visible point within three thousand feet.
 
-A torrent of eldritch ruin rains down from the heavens on everything within up to a two hundred foot radius per caster level, inflicting 1d8 damage per caster level with a Physical save for half damage, and automatically killing all targets with 4 or fewer hit dice.
+A torrent of eldritch ruin rains down from the heavens on everything within up to a two hundred foot radius per caster level, inflicting 1d8 damage per caster level with a Physical save for half damage, and automatically killing all targets with 4 or fewer HD.
 
 This damage is sufficient to destroy any wooden or lightly-built stone structure and will seriously damage even fortifications. The caster can tighten the radius down to a minimum of 20 feet, but cannot be selective about targets within that area.
 
@@ -511,7 +511,7 @@ If the Physical saving throw is made successfully by a creature, the target is t
 #### Elemental Guardian
 The elementalist imbues a human-sized mass of earth, water, fire, or air with a crude awareness and an eagerness to defend them.
 
-Whatever the substance used, it now has 4 HD, AC 15, a Move of 40’/action, a +1 skill bonus, saves of 13+, and a melee attack of +6/1d10 with no Shock. If called from earth, it has 6 hit dice, albeit its other stats don’t change. If called from fire, it does 5/- Shock damage.
+Whatever the substance used, it now has 4 HD, AC 15, a Move of 40’/action, a +1 skill bonus, saves of 13+, and a melee attack of +6/1d10 with no Shock. If called from earth, it has 6 HD, albeit its other stats don’t change. If called from fire, it does 5/- Shock damage.
 
 If summoned from water, it has an AC of 18, and if called from air, it can fly at its usual movement rate. It has a human degree of intelligence, can communicate with others and manipulate objects, and serves with suicidal devotion.
 
@@ -540,11 +540,11 @@ The molten remnants of the spell remain after this duration, a hazard for whomev
 ### Level 1 - Necromantic
 
 #### Command the Dead
-The necromancer exerts their will over a number of hit dice worth of undead equal to twice their character level.
+The necromancer exerts their will over a number of HD worth of undead equal to twice their character level.
 
-These undead must be visible and within one hundred feet of the caster. Undead get a Mental saving throw to resist this binding, at a penalty equal to the caster’s Magic skill. Creatures only partially-bewitched by the spell due to their excess hit dice merely stand dazed for a round. Those fully within the hit die cap who are affected become suicidally loyal to the necromancer until they are released by the caster.
+These undead must be visible and within one hundred feet of the caster. Undead get a Mental saving throw to resist this binding, at a penalty equal to the caster’s Magic skill. Creatures only partially-bewitched by the spell due to their excess HD merely stand dazed for a round. Those fully within the HD cap who are affected become suicidally loyal to the necromancer until they are released by the caster.
 
-Regardless of how often the caster uses this spell, they may have no more than twice their level worth of hit dice bound at any one time, with the oldest-enchanted being first released.
+Regardless of how often the caster uses this spell, they may have no more than twice their level worth of HD bound at any one time, with the oldest-enchanted being first released.
 
 #### Disguise Death
 A necromancer gives an undead creature the semblance of a healthy, normal living being with this spell.
@@ -556,7 +556,7 @@ A necromancer can maintain only one such disguise per level, and it does not wor
 #### Smite the Dead
 The necromancer conjures a blast of dispelling force at a point within one hundred feet per caster level, affecting an area up to 20 feet in radius.
 
-All hostile undead within that area immediately suffer 1d10 damage per caster level. Undead with hit dice equal or less than the caster’s level must make a Physical save or be destroyed outright.
+All hostile undead within that area immediately suffer 1d10 damage per caster level. Undead with HD equal or less than the caster’s level must make a Physical save or be destroyed outright.
 
 The necromancer may Commit Effort for the day immediately before casting this spell; if so, its casting does not count against the Necromancer’s available spell slots for the day.
 
@@ -609,7 +609,7 @@ The qualities of a corpse are forced upon a visible living target.
 
 The subject begins to rot, fester, and decay in whatever ways the necromancer thinks appropriate. Food tastes like ashes, water does not quench thirst, and their body is numb to all physical pleasures. They suffer a -2 penalty to all social skill checks due to their repugnance. This transformation does not inflict physical injury, but it makes the target’s life an utterly joyless misery until it is dispelled or the necromancer lifts the curse.
 
-Creatures with more hit dice than the necromancer has levels can make a Physical save to resist the curse.
+Creatures with more HD than the necromancer has levels can make a Physical save to resist the curse.
 
 #### Forgetting the Grave
 Temporarily suspend the mortality of a willing target within sight.
@@ -635,7 +635,7 @@ Whether living or undead, a willing or helpless victim under the effects of this
 This spell lasts until the necromancer lifts it or it is dispelled.
 
 #### Raise Grave Knight
-The corpse used for this spell must be of a relatively powerful creature with at least four hit dice or levels.
+The corpse used for this spell must be of a relatively powerful creature with at least 4 HD or levels.
 
 The result is much like that of the Raise Corpse spell, but this undead servitor is much stronger, with 4 HD, AC 15, a Move of 40’/action, a +1 skill bonus, saves of 13+, and a melee attack of +6/1d10, assuming it doesn’t use a normal weapon. It is fully intelligent and self-willed, albeit utterly devoted to its creator, and it remembers a significant amount about its prior life. A grave knight regains all lost HP at dusk each day, assuming it’s not destroyed. A caster may have only one grave knight active at a time.
 

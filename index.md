@@ -34,6 +34,8 @@ Otherwise...
 - The bestiary
 - Magic items
 - Most of the tutorial. I don't plan on covering every paragraph, but it would be useful to go over skill checks, combat, arts, and spells.
+- Use HD for npcs
+- Use HP Progression for Delvers
 
 ### Change Log
 

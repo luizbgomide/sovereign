@@ -9,7 +9,7 @@ title: Home
 
 Delving is done in a party of specialists. A class represents the particular skills, abilities, or talents that make the Delver valuable to the party.
 
-The three base classes are [Expert](#expert), [Mage](#mage), and [Warrior](#warrior). Each of these base classes has its own hit die, attack progression, and [Feat](#feat) advancement.
+The three base classes are [Expert](#expert), [Mage](#mage), and [Warrior](#warrior). Each of these base classes has its own [HP Progression](/rules#hp-progression), attack progression, and [Feat](#feat) advancement.
 
 There are two kinds of classes: full classes and Partial classes. You may choose a single class, committing completely to that class’ profession. Alternatively, you may pick two Partial classes, mixing their abilities.
 
@@ -17,18 +17,20 @@ There are two kinds of classes: full classes and Partial classes. You may choose
 
 Experts gain the widest variety of non-combat skills and are the quickest to learn more of them.
 
-| Level | Hit Dice | Attack Bonus | Feats                 |
-|-------|----------|--------------|-----------------------|
-| 1     | 1d6      | +0           | 1 Non-Combat + 1 Any  |
-| 2     | 2d6      | +1           | +1 Any                |
-| 3     | 3d6      | +1           |                       |
-| 4     | 4d6      | +2           |                       |
-| 5     | 5d6      | +2           | +1 Any                |
-| 6     | 6d6      | +3           |                       |
-| 7     | 7d6      | +3           | +1 Any                |
-| 8     | 8d6      | +4           |                       |
-| 9     | 9d6      | +4           |                       |
-| 10    | 10d6     | +5           | +1 Any                |
+Experts roll `1d6` for [HP Progression](/rules#hp-progression).
+
+| Level | Attack Bonus | Feats                |
+| ----- | ------------ | -------------------- |
+| 1     | +0           | 1 Non-Combat + 1 Any |
+| 2     | +1           | +1 Any               |
+| 3     | +1           |                      |
+| 4     | +2           |                      |
+| 5     | +2           | +1 Any               |
+| 6     | +3           |                      |
+| 7     | +3           | +1 Any               |
+| 8     | +4           |                      |
+| 9     | +4           |                      |
+| 10    | +5           | +1 Any               |
 
 ### Class Ability: Masterful Expertise
 
@@ -48,33 +50,37 @@ A Partial Expert is treated just as a full Expert, including gaining the benefit
 
 ### Partial Mage/Partial Expert
 
-| Level | Hit Dice | Attack Bonus | Feats                 |
-|-------|----------|--------------|-----------------------|
-| 1     | 1d6      | +0           | 1 Non-Combat + 1 Any  |
-| 2     | 2d6      | +1           | +1 Any                |
-| 3     | 3d6      | +1           |                       |
-| 4     | 4d6      | +2           |                       |
-| 5     | 5d6      | +2           | +1 Any                |
-| 6     | 6d6      | +3           |                       |
-| 7     | 7d6      | +3           | +1 Any                |
-| 8     | 8d6      | +4           |                       |
-| 9     | 9d6      | +4           |                       |
-| 10    | 10d6     | +5           | +1 Any                |
+Partial Mage/Partial Experts roll `1d6` for [HP Progression](/rules#hp-progression).
+
+| Level | Attack Bonus | Feats                |
+| ----- | ------------ | -------------------- |
+| 1     | +0           | 1 Non-Combat + 1 Any |
+| 2     | +1           | +1 Any               |
+| 3     | +1           |                      |
+| 4     | +2           |                      |
+| 5     | +2           | +1 Any               |
+| 6     | +3           |                      |
+| 7     | +3           | +1 Any               |
+| 8     | +4           |                      |
+| 9     | +4           |                      |
+| 10    | +5           | +1 Any               |
 
 ### Partial Warrior/Partial Expert
 
-| Level | Hit Dice | Attack Bonus | Feats                           |
-| ----- | -------- | ------------ | ------------------------------- |
-| 1     | 1d6+2    | +1           | 1 Combat + 1 Non-Combat + 1 Any |
-| 2     | 2d6+4    | +2           | +1 Any                          |
-| 3     | 3d6+6    | +2           |                                 |
-| 4     | 4d6+8    | +3           |                                 |
-| 5     | 5d6+10   | +4           | +1 Any                          |
-| 6     | 6d6+12   | +5           |                                 |
-| 7     | 7d6+14   | +5           | +1 Any                          |
-| 8     | 8d6+16   | +6           |                                 |
-| 9     | 9d6+18   | +6           |                                 |
-| 10    | 10d6+20  | +7           | +1 Any                          |
+Partial Warrior/Partial Experts roll `1d6+2` for [HP Progression](/rules#hp-progression).
+
+| Level | Attack Bonus | Feats                           |
+| ----- | ------------ | ------------------------------- |
+| 1     | +1           | 1 Combat + 1 Non-Combat + 1 Any |
+| 2     | +2           | +1 Any                          |
+| 3     | +2           |                                 |
+| 4     | +3           |                                 |
+| 5     | +4           | +1 Any                          |
+| 6     | +5           |                                 |
+| 7     | +5           | +1 Any                          |
+| 8     | +6           |                                 |
+| 9     | +6           |                                 |
+| 10    | +7           | +1 Any                          |
 
 ---
 
@@ -82,18 +88,20 @@ A Partial Expert is treated just as a full Expert, including gaining the benefit
 
 The Mage class is a general header under which all Delvers with fundamentally supernatural powers or spellcasting ability are placed. Choose a specific [Arcane Tradition](/arcane-traditions) to follow - [High Mage](/arcane-traditions#high-mage), [Healer](/arcane-traditions#healer), [Elementalist](/arcane-traditions#elementalist), etc.
 
-| Level | Hit Dice  | Attack Bonus | Feats       |
-|-------|-----------|--------------|-------------|
-| 1     | 1d6-1     | +0           | 1 Any       |
-| 2     | 2d6-2     | +0           | +1 Any      |
-| 3     | 3d6-3     | +0           |             |
-| 4     | 4d6-4     | +0           |             |
-| 5     | 5d6-5     | +1           | +1 Any      |
-| 6     | 6d6-6     | +1           |             |
-| 7     | 7d6-7     | +1           | +1 Any      |
-| 8     | 8d6-8     | +1           |             |
-| 9     | 9d6-9     | +1           |             |
-| 10    | 10d6-10   | +2           | +1 Any      |
+Mages roll `1d6-1` for [HP Progression](/rules#hp-progression).
+
+| Level | Attack Bonus | Feats  |
+| ----- | ------------ | ------ |
+| 1     | +0           | 1 Any  |
+| 2     | +0           | +1 Any |
+| 3     | +0           |        |
+| 4     | +0           |        |
+| 5     | +1           | +1 Any |
+| 6     | +1           |        |
+| 7     | +1           | +1 Any |
+| 8     | +1           |        |
+| 9     | +1           |        |
+| 10    | +2           | +1 Any |
 
 ### Partial Mage
 
@@ -101,48 +109,54 @@ A Partial Mage is treated as a Mage, and picks an [Arcane Tradition](/arcane-tra
 
 You may pick the Partial Mage class twice for two different magical traditions. In this case, use the following table instead of the one listed in the partial class.
 
-| Level | Hit Dice | Attack Bonus | Feats       | Max Level | Spells Cast | Spells Prepared |
-| ----- | -------- | ------------ | ----------- | --------- | ----------- | --------------- |
-| 1     | 1d6-1    | +0           | 1 Any       | 1         | 1           | 3               |
-| 2     | 2d6-2    | +0           | +1 Any      | 1         | 1           | 4               |
-| 3     | 3d6-3    | +0           |             | 1         | 2           | 5               |
-| 4     | 4d6-4    | +0           |             | 2         | 2           | 6               |
-| 5     | 5d6-5    | +1           | +1 Any      | 2         | 2           | 8               |
-| 6     | 6d6-6    | +1           |             | 2         | 3           | 9               |
-| 7     | 7d6-7    | +1           | +1 Any      | 3         | 3           | 10              |
-| 8     | 8d6-8    | +1           |             | 3         | 4           | 12              |
-| 9     | 9d6-9    | +1           |             | 3         | 4           | 13              |
-| 10    | 10d6-10  | +2           | +1 Any      | 4         | 5           | 15              |
+A Partial Mage/Partial Mage rolls `1d6-1` for [HP Progression](/rules#hp-progression).
+
+| Level | Attack Bonus | Feats  | Max Level | Spells Cast | Spells Prepared |
+| ----- | ------------ | ------ | --------- | ----------- | --------------- |
+| 1     | +0           | 1 Any  | 1         | 1           | 3               |
+| 2     | +0           | +1 Any | 1         | 1           | 4               |
+| 3     | +0           |        | 1         | 2           | 5               |
+| 4     | +0           |        | 2         | 2           | 6               |
+| 5     | +1           | +1 Any | 2         | 2           | 8               |
+| 6     | +1           |        | 2         | 3           | 9               |
+| 7     | +1           | +1 Any | 3         | 3           | 10              |
+| 8     | +1           |        | 3         | 4           | 12              |
+| 9     | +1           |        | 3         | 4           | 13              |
+| 10    | +2           | +1 Any | 4         | 5           | 15              |
 
 ### Partial Expert/Partial Mage
 
-| Level | Hit Dice | Attack Bonus | Feats                 |
-|-------|----------|--------------|-----------------------|
-| 1     | 1d6      | +0           | 1 Non-Combat + 1 Any  |
-| 2     | 2d6      | +1           | +1 Any                |
-| 3     | 3d6      | +1           |                       |
-| 4     | 4d6      | +2           |                       |
-| 5     | 5d6      | +2           | +1 Any                |
-| 6     | 6d6      | +3           |                       |
-| 7     | 7d6      | +3           | +1 Any                |
-| 8     | 8d6      | +4           |                       |
-| 9     | 9d6      | +4           |                       |
-| 10    | 10d6     | +5           | +1 Any                |
+A Partial Expert/Partial Mage rolls `1d6` for [HP Progression](/rules#hp-progression).
+
+| Level | Attack Bonus | Feats                |
+| ----- | ------------ | -------------------- |
+| 1     | +0           | 1 Non-Combat + 1 Any |
+| 2     | +1           | +1 Any               |
+| 3     | +1           |                      |
+| 4     | +2           |                      |
+| 5     | +2           | +1 Any               |
+| 6     | +3           |                      |
+| 7     | +3           | +1 Any               |
+| 8     | +4           |                      |
+| 9     | +4           |                      |
+| 10    | +5           | +1 Any               |
 
 ### Partial Warrior/Partial Mage
 
-| Level | Hit Dice | Attack Bonus | Feats                 |
-|-------|----------|--------------|-----------------------|
-| 1     | 1d6+2    | +1           | 1 Any + 1 Combat      |
-| 2     | 2d6+4    | +2           | +1 Any                |
-| 3     | 3d6+6    | +2           |                       |
-| 4     | 4d6+8    | +3           |                       |
-| 5     | 5d6+10   | +4           | +1 Any                |
-| 6     | 6d6+12   | +5           |                       |
-| 7     | 7d6+14   | +5           | +1 Any                |
-| 8     | 8d6+16   | +6           |                       |
-| 9     | 9d6+18   | +6           |                       |
-| 10    | 10d6+20  | +7           | +1 Any                |
+A Partial Warrior/Partial Mage rolls `1d6+2` for [HP Progression](/rules#hp-progression).
+
+| Level | Attack Bonus | Feats            |
+| ----- | ------------ | ---------------- |
+| 1     | +1           | 1 Any + 1 Combat |
+| 2     | +2           | +1 Any           |
+| 3     | +2           |                  |
+| 4     | +3           |                  |
+| 5     | +4           | +1 Any           |
+| 6     | +5           |                  |
+| 7     | +5           | +1 Any           |
+| 8     | +6           |                  |
+| 9     | +6           |                  |
+| 10    | +7           | +1 Any           |
 
 ---
 
@@ -150,18 +164,20 @@ You may pick the Partial Mage class twice for two different magical traditions. 
 
 Born to the blade, gifted with a superb capacity for physical violence.
 
-| Level | Hit Dice | Attack Bonus | Feats                 |
-|-------|----------|--------------|-----------------------|
-| 1     | 1d6+2    | +1           | 1 Any + 1 Combat      |
-| 2     | 2d6+4    | +2           | +1 Any                |
-| 3     | 3d6+6    | +3           |                       |
-| 4     | 4d6+8    | +4           |                       |
-| 5     | 5d6+10   | +5           | +1 Any                |
-| 6     | 6d6+12   | +6           |                       |
-| 7     | 7d6+14   | +7           | +1 Any                |
-| 8     | 8d6+16   | +8           |                       |
-| 9     | 9d6+18   | +9           |                       |
-| 10    | 10d6+20  | +10          | +1 Any                |
+A Warrior rolls `1d6+2` for [HP Progression](/rules#hp-progression).
+
+| Level | Attack Bonus | Feats            |
+| ----- | ------------ | ---------------- |
+| 1     | +1           | 1 Any + 1 Combat |
+| 2     | +2           | +1 Any           |
+| 3     | +3           |                  |
+| 4     | +4           |                  |
+| 5     | +5           | +1 Any           |
+| 6     | +6           |                  |
+| 7     | +7           | +1 Any           |
+| 8     | +8           |                  |
+| 9     | +9           |                  |
+| 10    | +10          | +1 Any           |
 
 ### Class Ability: Killing Blow
 
@@ -179,34 +195,38 @@ Once per [Turn](/rules#turn), as an [Instant action](/combat#instant-action), th
 
 ### Partial Warrior
 
-A Partial Warrior gains certain of the benefits of a full Warrior, including the improved hit die and a somewhat improved attack bonus. They do not have the [Veteran’s Luck](#class-ability-veterans-luck) special ability or the [Killing Blow](#class-ability-killing-blow) power, however, and must trust to their own talents to land blows and crush their enemies.
+A Partial Warrior gains certain of the benefits of a full Warrior, including the improved [HP Progression](/rules#hp-progression) and a somewhat improved attack bonus. They do not have the [Veteran’s Luck](#class-ability-veterans-luck) special ability or the [Killing Blow](#class-ability-killing-blow) power, however, and must trust to their own talents to land blows and crush their enemies.
 
 ### Partial Mage/Partial Warrior
 
-| Level | Hit Dice | Attack Bonus | Feats                 |
-|-------|----------|--------------|-----------------------|
-| 1     | 1d6+2    | +1           | 1 Any + 1 Combat      |
-| 2     | 2d6+4    | +2           | +1 Any                |
-| 3     | 3d6+6    | +2           |                       |
-| 4     | 4d6+8    | +3           |                       |
-| 5     | 5d6+10   | +4           | +1 Any                |
-| 6     | 6d6+12   | +5           |                       |
-| 7     | 7d6+14   | +5           | +1 Any                |
-| 8     | 8d6+16   | +6           |                       |
-| 9     | 9d6+18   | +6           |                       |
-| 10    | 10d6+20  | +7           | +1 Any                |
+A Partial Mage/Partial Warrior rolls `1d6+2` for [HP Progression](/rules#hp-progression).
+
+| Level | Attack Bonus | Feats            |
+| ----- | ------------ | ---------------- |
+| 1     | +1           | 1 Any + 1 Combat |
+| 2     | +2           | +1 Any           |
+| 3     | +2           |                  |
+| 4     | +3           |                  |
+| 5     | +4           | +1 Any           |
+| 6     | +5           |                  |
+| 7     | +5           | +1 Any           |
+| 8     | +6           |                  |
+| 9     | +6           |                  |
+| 10    | +7           | +1 Any           |
 
 ### Partial Expert/Partial Warrior
 
-| Level | Hit Dice | Attack Bonus |                                 |
-|-------|----------|--------------|---------------------------------|
-| 1     | 1d6+2    | +1           | 1 Combat + 1 Non-Combat + 1 Any    |
-| 2     | 2d6+4    | +2           | +1 Any                          |
-| 3     | 3d6+6    | +2           |                                 |
-| 4     | 4d6+8    | +3           |                                 |
-| 5     | 5d6+10   | +4           | +1 Any                          |
-| 6     | 6d6+12   | +5           |                                 |
-| 7     | 7d6+14   | +5           | +1 Any                          |
-| 8     | 8d6+16   | +6           |                                 |
-| 9     | 9d6+18   | +6           |                                 |
-| 10    | 10d6+20  | +7           | +1 Any                          |
+A Partial Expert/Partial Warrior rolls `1d6+2` for [HP Progression](/rules#hp-progression).
+
+| Level | Attack Bonus |                                 |
+| ----- | ------------ | ------------------------------- |
+| 1     | +1           | 1 Combat + 1 Non-Combat + 1 Any |
+| 2     | +2           | +1 Any                          |
+| 3     | +2           |                                 |
+| 4     | +3           |                                 |
+| 5     | +4           | +1 Any                          |
+| 6     | +5           |                                 |
+| 7     | +5           | +1 Any                          |
+| 8     | +6           |                                 |
+| 9     | +6           |                                 |
+| 10    | +7           | +1 Any                          |

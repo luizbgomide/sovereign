@@ -79,7 +79,7 @@ If an injury, character advancements, or magic item alters an attribute, immedia
 
 A character’s hit points (HP) measure their distance from death. If a character is reduced to zero HP, they are [dying](#mortal-injury-and-stabalization). Taking <strong id="damage">damage</strong> reduces a character's HP. For instance, when a character with 11 HP takes 5 damage, they would have 6 HP remaining.
 
-A new character rolls the hit die for their [Class](/classes) for the maximum HP, adding their Con. If they have chosen the [Die Hard](/feats#die-hard-c) Feat they add +2 to the roll. The final value for a given die cannot be less than 1 HP.
+A new character rolls the [HP Progression](/rules#hp-progression) for their [Class](/classes) for the maximum HP, adding their Con. If they have chosen the [Die Hard](/feats#die-hard-c) Feat they add +2 to the roll. The final value for a given die cannot be less than 1 HP.
 
 A character gains maximum HP as they advance in character level, re-rolling their prior levels and taking the new score if it’s higher, as explained in [advancement](#advancement-benefits).
 
@@ -97,7 +97,7 @@ There are three types of saving throws. Usually it will be obvious which type is
 
 <strong id="mental">Mental</strong> saves apply when resisting mental attacks, insubstantial magic spells, psychological trauma, and other mental hazards. A Delver’s Mental saving throw target is equal to 16 minus their character level and the highest of their INT or WIS.
 
-NPCs have a single saving throw target equal to 15 minus half their rounded-down hit dice. Thus, an NPC with 3 HD would have a saving throw target of 14+ for any particular hazard.
+NPCs have a single saving throw target equal to 15 minus half their rounded-down HD. Thus, an NPC with 3 HD would have a saving throw target of 14+ for any particular hazard.
 
 ## Skills
 
@@ -193,7 +193,7 @@ Frail characters without this level of medical care must make a [Physical](#phys
 
 ### Natural Healing
 
-A wounded creature recovers HP by getting a good night’s rest and adequate food. Provided they are warm, fed, and comfortable, they regain HP each morning equal to their experience level, or equal to their hit dice if they are NPCs.
+A wounded creature recovers HP by getting a good night’s rest and adequate food. Provided they are warm, fed, and comfortable, they regain HP each morning equal to their experience level, or equal to their HD if they are NPCs.
 
 Delvers are *not* confortable while sleeping in tents, outdoors, etc. It has to be a honest *bed*.
 
@@ -479,7 +479,7 @@ Once a character has enough XP to level up **and** is in a settlement, they do.
 
 ### Advancement Benefits
 
-**More HP.** To determine their new maximum, they roll their <strong id="hit-die">Hit Die</strong> for each level they now possess, adding their CON to each die. No individual die can be reduced below 1 point, even with a negative CON. If the total roll is greater than their current maximum HP, they take the roll. Otherwise, their maximum HP increases by one.
+**More HP.** To determine their new maximum, they roll their <strong id="hp-progression">HP Progression</strong> for each level they now possess, adding their CON to each die. No individual die can be reduced below 1 point, even with a negative CON. If the total roll is greater than their current maximum HP, they take the roll. Otherwise, their maximum HP increases by one.
 
 **Better Saves.** Their saving throw scores decrease by one, making it easier to succeed on saving throws by rolling equal or over it. As a first level character has saving throw scores of 15, reaching second level would lower them to 14, modified by their appropriate attributes.
 
