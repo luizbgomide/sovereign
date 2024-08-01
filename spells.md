@@ -25,7 +25,7 @@ Every tradition has its own body of arts, and only members of that tradition can
 
 High Mages automatically learn two new spells automatically each time they advance a level. Elementalists and Necromancers learn one new spell automatically each time they advance a level.
 
-Additing additional spells to a Mage's spellbook (from a tutor or a scroll, or another mage's spellbook) requires one week per spell level, less one week per level of the learner’s Magic skill, down to a minimum of one day. They must possess to their spellbook to prepare the spell later.
+Additing additional spells to a Mage's spellbook (from a tutor or a scroll, or another mage's spellbook) requires one week per spell level, less one week per level of the learner’s [Magic](/rules#magic) skill, down to a minimum of one day. They must possess to their spellbook to prepare the spell later.
 
 If this spellbook is lost, the mage can re-create it, but it takes as much time to re-scribe each spell as it would to learn it in the first place. No special costs are required in silver or materials.
 
@@ -100,7 +100,7 @@ The mage focuses on a visible living creature within 100 feet per caster level. 
 The caster may ask one question of the target’s memories per caster level, but doing so risks breaking the spell; the target can make a Mental save before answering each question and the spell ends if the save is successful. These questions can only query memories, not compel any exercise of judgment. This spell is very subtle in its casting, and requires no gestures or audible incantations.
 
 #### Dominate Person
-The mage targets a visible living creature within 100 feet. The subject must immediately make a Mental saving throw at a penalty equal to the caster’s Magic skill or become enthralled to the caster’s will. Such victims will obey any physical commands issued by the caster, barring ones that seem suicidal or patently meant to result in their death.
+The mage targets a visible living creature within 100 feet. The subject must immediately make a Mental saving throw at a penalty equal to the caster’s [Magic](/rules#magic) skill or become enthralled to the caster’s will. Such victims will obey any physical commands issued by the caster, barring ones that seem suicidal or patently meant to result in their death.
 
 The caster cannot order the creature to answer questions or perform acts that require independent judgment, nor to use non-physical abilities or spells, but it will fight for the caster or to defend its own life. Enchanted victims appear torpid and dazed, and will act only to defend themselves or satisfy their needs.
 
@@ -119,7 +119,7 @@ Missile attacks against invisible foes are largely impossible, and melee attacks
 #### See Magic
 The mage opens up their mind to the presence of occult energies. For one Turn per character level, they are capable of seeing active magical effects, curses, or other enchantments as colored auras or patterns of light.
 
-They may identify magical items and get a one-sentence description of their purpose or most significant powers, and get more sophisticated answers with successful WIS/Magic skill checks at difficulties of 8 or more depending on the subtlety of the enchantment. Mages with prepared spells are visible to the caster, though which spells the subject might have prepared is not knowable. As a side effect of this spell, the ambient thaumic currents cast enough quasi-light to allow the caster to see normally even in perfect darkness.
+They may identify magical items and get a one-sentence description of their purpose or most significant powers, and get more sophisticated answers with successful WIS/[Magic](/rules#magic) skill checks at difficulties of 8 or more depending on the subtlety of the enchantment. Mages with prepared spells are visible to the caster, though which spells the subject might have prepared is not knowable. As a side effect of this spell, the ambient thaumic currents cast enough quasi-light to allow the caster to see normally even in perfect darkness.
 
 #### Sleep
 The mage designates a visible point within two hundred feet. A silent, invisible burst of soporific influence erupts from that point, targeting all living creatures within a twenty-foot radius. All such targets with 4 or fewer HD within that area fall unconscious instantly, and are roused only by damage or by a [Main Action](/combat#main-action) used to kick them awake.
@@ -154,7 +154,7 @@ Unattended objects can be teleported by the spell, but they can be no larger tha
 #### Dispel Magic
 The caster sweeps away all unwanted magical effects and enchantments within a twenty-foot radius, centered on any visible point within one hundred feet per level.
 
-If the magical effect was cast by a creature with equal or fewer HD, the effect is negated automatically. Otherwise, make an opposed INT/Magic skill check, with higher-leveled caster gaining a +2 bonus and the dispeller getting a +1 bonus.
+If the magical effect was cast by a creature with equal or fewer HD, the effect is negated automatically. Otherwise, make an opposed INT/[Magic](/rules#magic) skill check, with higher-leveled caster gaining a +2 bonus and the dispeller getting a +1 bonus.
 
 This spell is not strong enough to permanently suppress standing magical effects, and requires the aforementioned contested roll to temporarily suppressing them. If successful, the effect is negated for 1d6 rounds. If cast on a very large enchantment, only the portion within the spell’s zone of effect is suppressed.
 
@@ -300,7 +300,7 @@ The caster and up to one visible ally per caster level are briefly granted the a
 
 For the rest of the Turn, those affected can move in such a way, remaining suspended in the air after their movement for the round. When the spell ends, either naturally or upon being dispelled, all affected targets float gently to the ground.
 
-Optionally, the caster can instead use this spell on one visible flying creature per caster level, which must make a Physical save at a penalty equal to the caster’s Magic skill or be forced to land as they had fallen half the distance they had descended. For the rest of the Turn, such creatures remain grounded and unable to fly.
+Optionally, the caster can instead use this spell on one visible flying creature per caster level, which must make a Physical save at a penalty equal to the caster’s [Magic](/rules#magic) skill or be forced to land as they had fallen half the distance they had descended. For the rest of the Turn, such creatures remain grounded and unable to fly.
 
 ### Level 4 - High Magic
 
@@ -542,7 +542,7 @@ The molten remnants of the spell remain after this duration, a hazard for whomev
 #### Command the Dead
 The necromancer exerts their will over a number of HD worth of undead equal to twice their character level.
 
-These undead must be visible and within one hundred feet of the caster. Undead get a Mental saving throw to resist this binding, at a penalty equal to the caster’s Magic skill. Creatures only partially-bewitched by the spell due to their excess HD merely stand dazed for a round. Those fully within the HD cap who are affected become suicidally loyal to the necromancer until they are released by the caster.
+These undead must be visible and within one hundred feet of the caster. Undead get a Mental saving throw to resist this binding, at a penalty equal to the caster’s [Magic](/rules#magic) skill. Creatures only partially-bewitched by the spell due to their excess HD merely stand dazed for a round. Those fully within the HD cap who are affected become suicidally loyal to the necromancer until they are released by the caster.
 
 Regardless of how often the caster uses this spell, they may have no more than twice their level worth of HD bound at any one time, with the oldest-enchanted being first released.
 
@@ -572,7 +572,7 @@ This spell may not be used twice on the same corpse.
 #### Augment Vitality
 The necromancer refines and enhances the natural flow of vitality within a willing visible target.
 
-For the rest of the Turn, all Physical saving throws they make gain a bonus equal to the necromancer’s Magic skill and they automatically stabilize when Mortally Wounded. Once during the Turn, as an [Instant Action](/combat#instant-actin)o, they immediately heal from all damage inflicted by an injury that did not Mortally Wound them.
+For the rest of the Turn, all Physical saving throws they make gain a bonus equal to the necromancer’s [Magic](/rules#magic) skill and they automatically stabilize when Mortally Wounded. Once during the Turn, as an [Instant Action](/combat#instant-actin)o, they immediately heal from all damage inflicted by an injury that did not Mortally Wound them.
 
 The recipient of this spell gains one [System Strain](/rules#system-strain).
 
@@ -630,7 +630,7 @@ The power ends at daybreak; if dispelled sooner, the remaining pool is split pro
 #### Boneshape
 The clay of flesh and bone run obediently to the will of the necromancer.
 
-Whether living or undead, a willing or helpless victim under the effects of this spell can be reshaped into any roughly-equivalent form with an hour’s work. Limbs can be added or removed and existing tissue can be recolored, re-textured, or rearranged to the necromancer’s wishes. Perfect imitation of a particular creature requires a DEX/Magic skill check against difficulty 10. This spell is limited in the physical changes it can effect; a bonus of +1 can be added to a physical attribute at the cost of a -1 penalty to a different physical attribute, to a maximum of +2 or -2.
+Whether living or undead, a willing or helpless victim under the effects of this spell can be reshaped into any roughly-equivalent form with an hour’s work. Limbs can be added or removed and existing tissue can be recolored, re-textured, or rearranged to the necromancer’s wishes. Perfect imitation of a particular creature requires a DEX/[Magic](/rules#magic) skill check against difficulty 10. This spell is limited in the physical changes it can effect; a bonus of +1 can be added to a physical attribute at the cost of a -1 penalty to a different physical attribute, to a maximum of +2 or -2.
 
 This spell lasts until the necromancer lifts it or it is dispelled.
 

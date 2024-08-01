@@ -29,13 +29,13 @@ Activating a power only ever requires Committing a single point of Effort unless
 
 The Accursed are [Partial Mages](/classes#partial-mage) that have made pacts with otherworldly beings, intentionally or otherwise, and gained powers from that bond.
 
-All Accursed gain Magic as a [Bonus Skill](/rules#bonus-skill). Even those who are not spellcasters must understand the ways of eldritch beings and the subtleties of sorcery.
+All Accursed gain [Magic](/rules#magic) as a [Bonus Skill](/rules#bonus-skill). Even those who are not spellcasters must understand the ways of eldritch beings and the subtleties of sorcery.
 
-While the arts of Accursed Blade and Accursed Bolt use Magic as their combat skill, [Feats](/feats) that normally apply to mundane weapons such as [Armsmaster](/feats#armsmaster-c) or [Deadeye](/feats#deadeye-c) also benefit their relevant melee or ranged attacks. For these Feats, use “Magic” in place of “Shoot” or “Stab” when gaining their benefits, including the granted skill and the stacking damage bonus that the first level of the Feat may grant.
+While the arts of Accursed Blade and Accursed Bolt use [Magic](/rules#magic) as their combat skill, [Feats](/feats) that normally apply to mundane weapons such as [Armsmaster](/feats#armsmaster-c) or [Deadeye](/feats#deadeye-c) also benefit their relevant melee or ranged attacks. For these Feats, use “Magic” in place of “Shoot” or “Stab” when gaining their benefits, including the granted skill and the stacking damage bonus that the first level of the Feat may grant.
 
 ### Accursed Arts
 
-Accursed have Effort equal to their Magic skill level plus their INT, to a minimum of one point. Every Accursed gains either Accursed Bolt or Accursed Blade as a starting art, plus one more of their choice. Accursed arts may be used in or out of armor. Additional arts are learned as the Accursed advances in experience.
+Accursed have Effort equal to their [Magic](/rules#magic) skill level plus their INT, to a minimum of one point. Every Accursed gains either Accursed Bolt or Accursed Blade as a starting art, plus one more of their choice. Accursed arts may be used in or out of armor. Additional arts are learned as the Accursed advances in experience.
 
 | Level | Arts Gained                                         |
 | ----- | --------------------------------------------------- |
@@ -50,12 +50,12 @@ Accursed have Effort equal to their Magic skill level plus their INT, to a minim
 | 9     |                                                     |
 | 10    | Any One                                             |
 
-- **Accursed Blade:** As a [Free action](/combat#free-action), manifest an occult melee weapon as a one-handed 1d8 weapon or a two-handed 2d6 weapon. Both add your Magic skill to the damage roll, have a [Shock](/combat#shock) rating of 2/15, use Magic as the attack skill and the best of STR, DEX, or INT as its modifying attribute.
-- **Accursed Bolt:** Launch blasts of occult force using Magic as your attack skill and the best of STR, DEX, or INT as its modifying attribute. Their damage is 1d8 plus your Magic skill, their range is 200’, and the bolts can be thrown in melee at a -4 penalty to hit. These bolts need both hands free to hurl them.
+- **Accursed Blade:** As a [Free action](/combat#free-action), manifest an occult melee weapon as a one-handed 1d8 weapon or a two-handed 2d6 weapon. Both add your [Magic](/rules#magic) skill to the damage roll, have a [Shock](/combat#shock) rating of 2/15, use [Magic](/rules#magic) as the attack skill and the best of STR, DEX, or INT as its modifying attribute.
+- **Accursed Bolt:** Launch blasts of occult force using [Magic](/rules#magic) as your attack skill and the best of STR, DEX, or INT as its modifying attribute. Their damage is 1d8 plus your [Magic](/rules#magic) skill, their range is 200’, and the bolts can be thrown in melee at a -4 penalty to hit. These bolts need both hands free to hurl them.
 - **Bewitching Distraction:** Commit Effort for the day as a [[Main Action](/combat#main-action)](/combat#main-action) when talking to an intelligent target when not in combat. They must make a [Mental](/rules#mental) save or become dazed, oblivious to their surroundings and forgetting you and all else that happened in that [Turn](/rules#turn). Danger ends the daze but not the forgetting.
 - **Compelling Shriek:** Once per Turn, Commit Effort for the day as a [Main Action](/combat#main-action) and shout a command of no more than seven words. Chosen targets who hear and understand must make a Mental save or perform that action for one round, provided it is not totally contrary to their character.
 - **Devil’s Bargain:** As a [Main Action](/combat#main-action), consecrate a deal you’ve made with an uncoerced person. If they violate the deal or its spirit, you know instantly and may inflict 1d6 damage per level on them if desired.
-- **Dire Pact:** Foes suffer a penalty equal to your Magic skill on all saves versus your Accursed arts. If they succeed, however, you gain one [System Strain](/rules#system-strain).
+- **Dire Pact:** Foes suffer a penalty equal to your [Magic](/rules#magic) skill on all saves versus your Accursed arts. If they succeed, however, you gain one [System Strain](/rules#system-strain).
 - **Lying Face:** Commit Effort as a [Main Action](/combat#main-action); while it remains Committed, you can disguise yourself as any humanoid of the same general size, including clothing, scent, and voice.
 - **Night-Black Eyes:** You can see clearly in perfect darkness. As a [Main Action](/combat#main-action), focus on a particular visible object, person, or location; you can tell if it is enchanted, though no details about the magic are seen.
 - **Pacted Protection:** Choose a type of harmful energy: fire, frost, acid, electricity, or the like. You become immune to natural degrees of this energy and take half damage from magical attacks involving it.
@@ -76,7 +76,7 @@ Accursed have Effort equal to their Magic skill level plus their INT, to a minim
 
 The Duelist is a [Partial Mage](/classes#partial-mage) that uses arcane forces to enhance their speed and agility.
 
-Duelists gain Stab as a [Bonus Skill](/rules#bonus-skill). No Duelist worth the name is entirely incapable of effective use of melee weapons, though the style lends itself heavily to specialization.
+Duelists gain [Stab](/rules#stab) as a [Bonus Skill](/rules#bonus-skill). No Duelist worth the name is entirely incapable of effective use of melee weapons, though the style lends itself heavily to specialization.
 
 ### The Flaw of Fragility
 
@@ -86,7 +86,7 @@ As such, [Partial Warriors](/classes#partial-warrior)/Partial Duelists use 1d6 f
 
 ### Duelist Arts
 
-Duelist Effort is equal to their Stab skill plus the highest of their DEX or INT, to a minimum of 1. All Duelists begin with the Favored Weapon art and one more of their choice. Additional arts are learned as the Duelist advances in experience.
+Duelist Effort is equal to their [Stab](/rules#stab) skill plus the highest of their DEX or INT, to a minimum of 1. All Duelists begin with the Favored Weapon art and one more of their choice. Additional arts are learned as the Duelist advances in experience.
 
 The arts of the Duelist require agility and free motion. The Duelist cannot benefit from any art of this class while wearing Chain or Plate armor or while weilding a shield.
 
@@ -126,7 +126,7 @@ Duelist arts do not apply to thrown weapons.
 
 Elementalists are spellcasting Mages who focus on the manipulation of the material world around them. While they are capable of using High Magic, their specialist spells focus chiefly on wielding the classical elements of fire, air, water, and earth.
 
-All Elementalists gain Magic as a [Bonus Skill](/rules#bonus-skill).
+All Elementalists gain [Magic](/rules#magic) as a [Bonus Skill](/rules#bonus-skill).
 
 Elementalists can prepare and cast High Magic spells in addition to Elemental Magic. Elementalists can’t cast spells or use arts while armored or holding a shield.
 
@@ -149,7 +149,7 @@ Elementalists roll `1d6-1` for [HP Progression](/rules#hp-progression).
 
 ### Elementalist Arts
 
-Elementalist Effort is equal to one plus their Magic skill level plus INT to a minimum of one point. Partial Elementalists have one less Effort, to a minimum of one.
+Elementalist Effort is equal to one plus their [Magic](/rules#magic) skill level plus INT to a minimum of one point. Partial Elementalists have one less Effort, to a minimum of one.
 
 Elementalists gain the Elemental Resilience and Elemental Sparks arts as part of their basic training, and may pick one additional art from the list below. Further arts are learned as they advance in character level, as given in the tables below.
 
@@ -157,7 +157,7 @@ Elementalists gain the Elemental Resilience and Elemental Sparks arts as part of
 - **Elemental Sparks:** You can conjure petty amounts of flame, water, ice, stone, or wind, sufficient to do small tricks, chill drinks, light candles, or do other minor things. Conjured substances last no longer than a Turn, and conjured water cannot lastingly quench thirst. This art cannot actually be useful in solving a problem or overcoming a challenge more than once per game session.
 - **Beckoned Deluge:** Commit Effort for the Turn as a [Main Action](/combat#main-action) to conjure a considerable amount of water at a visible point within fifty feet per caster level. This water is sufficient to drench 10 cubic feet per character level, making non-magical bowstrings useless, extinguishing flames, and inflicting 1d6 damage per caster level on fiery supernatural creatures. This water persists indefinitely after its conjuration and is sufficient to hydrate ten people per caster level.
 - **Earthsight:** Commit Effort for the Turn as a [Free Action](/combat#free-action). For the rest of the Turn, you can see the outlines of solid objects even in perfect darkness, and can peer through a number of feet of earth or stone equal to your character level.
-- **Elemental Blast:** Commit Effort for the Turn as a [Main Action](/combat#main-action) to hurl a blast of some elemental force at a visible target within fifty feet per character level. The attack is made with Magic as the combat skill, INT or DEX as the attribute, and a bonus to attack rolls equal to your character level. It is not hindered by melee foes. On a hit, the attack does 1d6 damage plus your character level and attribute mod. The blast has collateral effects on objects in the case of hurled fire or a torrent of pressurized water, but any conjured matter vanishes at the end of the round.
+- **Elemental Blast:** Commit Effort for the Turn as a [Main Action](/combat#main-action) to hurl a blast of some elemental force at a visible target within fifty feet per character level. The attack is made with [Magic](/rules#magic) as the combat skill, INT or DEX as the attribute, and a bonus to attack rolls equal to your character level. It is not hindered by melee foes. On a hit, the attack does 1d6 damage plus your character level and attribute mod. The blast has collateral effects on objects in the case of hurled fire or a torrent of pressurized water, but any conjured matter vanishes at the end of the round.
 - **Flamesight:** Commit Effort as a [Free Action](/combat#free-action). While the Effort remains Committed, you can see thermal gradients sufficient to distinguish surfaces and living creatures, even in perfect darkness. Optionally, you may cause your own eyes to cast a light sufficient to illuminate your surroundings clearly out to a range of 30 feet.
 - **Pavis of Elements:** Commit Effort as a [Free Action](/combat#free-action) to conjure an elemental barrier around yourself. The barrier improves your AC by 4 and remains as long as the Effort remains Committed. This bonus stacks with other effects, but cannot increase AC above 18, regardless of the combinations.
 - **Petrifying Stare:** Commit Effort for the day as a [Main Action](/combat#main-action) and target a visible creature. The creature must make a Physical save or become partially petrified, losing its [Move Action](/combat#move-action) for a number of rounds equal to half your caster level, rounded up. Flying creatures are forced to land by this art and swimming creatures will inevitably sink to the bottom.
@@ -187,7 +187,7 @@ Elementalists gain the Elemental Resilience and Elemental Sparks arts as part of
 
 The Healer is a partial Mage that does not use spells. Instead, they gain specific arts that allow them to mend wounds, cure illnesses, and otherwise sustain their allies.
 
-Healers gain Heal as a [Bonus Skill](/rules#bonus-skill). A basic grounding in mundane healing techniques is necessary in order to learn their more sophisticated magical arts.
+Healers gain [Heal](/rules#heal) as a [Bonus Skill](/rules#bonus-skill). A basic grounding in mundane healing techniques is necessary in order to learn their more sophisticated magical arts.
 
 Healers do not learn how to cast spells. Instead, they focus on their special arcane healing arts. Wielding these arts usually requires nothing more than touching the target and concentrating on the desired effect, and the process is direct and simple enough to perform even when burdened by armor or carrying a shield. These arts are usually quite subtle, and don’t produce visible or audible indications of their use.
 
@@ -195,7 +195,7 @@ At first level, a Healer gains the Healing Touch art and can pick one more of th
 
 ### Healer Arts
 
-Healer Effort is equal to one plus their Heal skill level plus INT, to a minimum of one point.
+Healer Effort is equal to one plus their [Heal](/rules#heal) skill level plus INT, to a minimum of one point.
 
 All Healers are trained in the Healing Touch art, but develop other techniques with time.
 
@@ -212,14 +212,14 @@ All Healers are trained in the Healing Touch art, but develop other techniques w
 | 9     |                              |
 | 10    | Any One                      |
 
-- <strong id="healing-touch">Healing Touch:</strong> Commit Effort for the Turn as an [Instant Action](/combat#instant-action); for the rest of the Turn, you may heal 2d6 damage plus your Heal skill to a touched ally as a [Main Action](/combat#main-action). This healing adds 1 System Strain to the target each time it is applied.
+- <strong id="healing-touch">Healing Touch:</strong> Commit Effort for the Turn as an [Instant Action](/combat#instant-action); for the rest of the Turn, you may heal 2d6 damage plus your [Heal](/rules#heal) skill to a touched ally as a [Main Action](/combat#main-action). This healing adds 1 System Strain to the target each time it is applied.
 - **Empowered Healer:** Your Healing Touch becomes more powerful, adding your level to any healing.
 - **Facile Healer:** Your Healing Touch ability is improved, and you no longer need to Commit Effort to activate it.
 - <strong id="far-healer">Far Healer:</strong> Your Healing Touch ability is improved, and may be used on a visible target within ten feet per character level.
-- **Final Repose:** Target a visible living creature and Commit Effort for the day as an [Instant Action](/combat#instant-action). For the rest of the Turn, they take a Physical saving throw penalty equal to your Heal skill. If they are reduced to zero HP before the end of the Turn, they die with no chance for stabilization or revival.
+- **Final Repose:** Target a visible living creature and Commit Effort for the day as an [Instant Action](/combat#instant-action). For the rest of the Turn, they take a Physical saving throw penalty equal to your [Heal](/rules#heal) skill. If they are reduced to zero HP before the end of the Turn, they die with no chance for stabilization or revival.
 - **Healer’s Eye:** Commit Effort as a [Free Action](/combat#free-action); while the Effort remains committed, you can use a [Main Action](/combat#main-action) to visually detect diseases and poisons, diagnose creatures flawlessly, perceive their physiology, and learn their current HP. As a side effect, you can detect living creatures by sight regardless of available light or obscuring mists.
 - **Limb Restoration:** Only expert healers can master this art, which cannot be learned earlier than 8th level. You must Commit all remaining Effort for the day, a minimum of one point, to regenerate a missing limb or organ for a target you are touching, or efface some dramatic scar or other physical debility. The target’s System Strain is automatically maximized.
-- **Purge Ailment**: Commit Effort for the day as a [Main Action](/combat#main-action). An ally you are touching is cured of one poison or disease. Creatures killed by poison can be revived by this art if it is used within six minutes of death. Magical poisons and diseases require a WIS/Heal skill check against a difficulty of 8 or more. At seventh level, you need only Commit Effort for the Turn to use this ability. Refined Restoration: You and up to a dozen allies you tend before they sleep will all lose 2 System Strain from a good night’s rest instead of 1.
+- **Purge Ailment**: Commit Effort for the day as a [Main Action](/combat#main-action). An ally you are touching is cured of one poison or disease. Creatures killed by poison can be revived by this art if it is used within six minutes of death. Magical poisons and diseases require a WIS/[Heal](/rules#heal) skill check against a difficulty of 8 or more. At seventh level, you need only Commit Effort for the Turn to use this ability. Refined Restoration: You and up to a dozen allies you tend before they sleep will all lose 2 System Strain from a good night’s rest instead of 1.
 - **Revive the Fallen**: Only expert healers are capable of mastering this art, which cannot be learned earlier than 8th level. Commit Effort for the day as a [Main Action](/combat#main-action) to revive a recently-slain living creature that you are touching. This ability must be used on a target within one minute per caster level of their death, and will not work on a corpse that has been dismembered, incinerated, or otherwise disjected. The target’s System Strain is automatically maximized and they’ll be unconscious for twenty-four hours after their restoration before awakening with 1 HP.
 - **Swift Healer**: Your Healing Touch ability is improved, and may be used as a [Free Action](/combat#free-action) once per day per character level, though not more than once per round on any given target.
 - **Tireless Vigor**: Commit Effort; while it remains Committed your need to eat, drink, breathe, or sleep does not grow further. You may exert yourself tirelessly and regenerate 1 lost HP per hour.
@@ -231,7 +231,7 @@ All Healers are trained in the Healing Touch art, but develop other techniques w
 
 High Mages represent the default spellcaster in most campaigns. Their spells tend to be generalist in nature rather than focusing on particular specific themes, but their arts make them extremely skilled at manipulating and augmenting the magics they use.
 
-High Mages gain Magic as a [Bonus Skill](/rules#bonus-skill). Every High Mage is well-educated in the principles of magic as understood by the sorcerers of this world.
+High Mages gain [Magic](/rules#magic) as a [Bonus Skill](/rules#bonus-skill). Every High Mage is well-educated in the principles of magic as understood by the sorcerers of this world.
 
 High Mages can prepare and cast High Magic spells, and have a number of arts dedicated to improving their use of these incantations. They cannot wear bulky clothing or armor while casting or using arts, nor use shields.
 
@@ -269,10 +269,10 @@ High Mages conduct extensive experimentation and study as part of their daily ac
 
 ### High Mage Arts
 
-High Mage Effort is equal to one plus their Magic skill level plus INT, to a minimum of one point. Partial High Mages have one less Effort, to a minimum of one.
+High Mage Effort is equal to one plus their [Magic](/rules#magic) skill level plus INT, to a minimum of one point. Partial High Mages have one less Effort, to a minimum of one.
 
 - **Arcane Lexicon:** Commit Effort for the Turn. For the rest of the Turn, you can read any script that was not intentionally obfuscated or encoded by its writer. Extremely esoteric or nonhuman scripts may not be comprehensible this way; the “plain meaning” of the text might be utterly foreign to human logic.
-- **Counter Magic:** Commit Effort for the day as an [Instant Action](/combat#instant-action) when a visible enemy mage casts a spell. Make an opposed INT/Magic skill check; if you win, their spell fizzles and is wasted. This art only works on actual spellcasters and not creatures that merely activate magical powers. You can use this art no more than once per round.
+- **Counter Magic:** Commit Effort for the day as an [Instant Action](/combat#instant-action) when a visible enemy mage casts a spell. Make an opposed INT/[Magic](/rules#magic) skill check; if you win, their spell fizzles and is wasted. This art only works on actual spellcasters and not creatures that merely activate magical powers. You can use this art no more than once per round.
 - **Empowered Sorcery:** Commit Effort for the day as an [Instant Action](/combat#instant-action) to re-roll any variable die roll associated with a spell’s effects, such as a damage roll; take the roll you prefer.
 - **Hang Sorcery:** Commit Effort for the Turn as an [Instant Action](/combat#instant-action) when casting a spell. The spell does not go off, but remains “hung” and waiting to be triggered as a [Free Action](/combat#free-action), with details of targeting and effect determined at that time. Damage does not disrupt a hung spell, but no additional spells can be cast until the hung spell is released or allowed to dissipate.
 - **Inexorable Effect:** Commit Effort for the day as an [Instant Action](/combat#instant-action) to force an enemy to re-roll a successful saving throw and take the worse result. You may use this art only once per Turn.
@@ -291,7 +291,7 @@ High Mage Effort is equal to one plus their Magic skill level plus INT, to a min
 
 Necromancers are spellcasting Mages who deal with the energies of life and death.
 
-Necromancers gain Magic as a [Bonus Skill](/rules#bonus-skill).
+Necromancers gain [Magic](/rules#magic) as a [Bonus Skill](/rules#bonus-skill).
 
 Necromancers can prepare and cast High Magic spells in addition to the spells specific to Necromatic Magic. Necromancers can’t cast spells or use arts while armored or holding a shield.
 
@@ -329,11 +329,11 @@ Each time a Necromancer advances a level, they pick a new High Magic spell or a 
 
 ### Necromancer Arts
 
-Necromancer Effort is equal to one plus their Magic skill level plus INT, to a minimum of one point. Partial Necromancers have one less Effort, to a minimum of one.
+Necromancer Effort is equal to one plus their [Magic](/rules#magic) skill level plus INT, to a minimum of one point. Partial Necromancers have one less Effort, to a minimum of one.
 
 - **Bonetalker:** You can see and communicate with any undead creature, regardless of a shared language or the creature’s natural state of invisibility. By Committing Effort for the Turn you can sense the surface thoughts of any visible undead, including an impression of any commands or behavior it has been ordered to carry out. Unintelligent undead will not attack you or your companions unless specifically compelled to do so by a command or a master. Even intelligent undead will generally pause at least for an initial parley before attacking.
 - **Cold Flesh:** You no longer require sleep and feel pain only in an abstract sense. You suffer no more than 2 points of damage from any given instance of Shock and you have a natural AC equal to 12 plus half your level, rounded down.
-- **Consume Life Energy:** By making a Brawl attack or using a melee weapon you have spent at least an hour properly consecrating, you absorb a portion of the damage you inflict on others as healing to yourself. For each successful attack you make with such implements, you heal 1d6 damage, up to a maximum of the damage done by the attack. You cannot drain more life than the target has remaining HP.
+- **Consume Life Energy:** By making a [Brawl](/rules#brawl) attack or using a melee weapon you have spent at least an hour properly consecrating, you absorb a portion of the damage you inflict on others as healing to yourself. For each successful attack you make with such implements, you heal 1d6 damage, up to a maximum of the damage done by the attack. You cannot drain more life than the target has remaining HP.
 - **False Death:** Commit Effort as an [Instant Action](/combat#instant-action); while it remains Committed you appear dead to all mundane examination. You lose your [Main Action](/combat#main-action)s while “dead”, but can move and perceive normally and do not need to eat, drink, breathe, or perform other bodily functions. Poisons and diseases do not progress in you while you are “dead”. You can maintain this state of death for up to one day per level before needing at least an hour to recover.
 - **Gravesight**: Commit Effort as a [Free Action](/combat#free-action); while it remains Committed, you can see the life energies of living creatures around you as various glowing patterns, regardless of the mundane illumination available. You can perceive sicknesses, poisons, and other physical qualities on sight. As a side effect of this ability, you can see normally even in perfect blackness.
 - **Keeper of the Gate**: At your discretion, creatures within twenty feet of you per character level that are Mortally Wounded will die instantly and cannot be revived by magic or medicine. Conversely, you can Commit Effort for the day to automatically stabilize any or all within that range, increasing their System Strain by 1 point. This benefit cannot aid creatures that have been dismembered, shredded, or otherwise suffered unsurvivable injuries.

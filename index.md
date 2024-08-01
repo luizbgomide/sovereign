@@ -135,8 +135,6 @@ Otherwise...
 - The bestiary
 - Magic items
 - Most of the tutorial. I don't plan on covering every paragraph, but it would be useful to go over skill checks, combat, arts, and spells.
-- Use HD for npcs
-- Use HP Progression for Delvers
 
 ### Change Log
 
@@ -149,12 +147,17 @@ Otherwise...
 - Magic weapons add their bonus to Shock.
 - Standardize text around actions.
 - Somehow the metric system slipped it. It has been removed.
+- Use HD for npcs
+- Use HP Progression for Delvers
+- hyperlink all of the skills.
 
 #### 2024-07-30
 - Give the spell level headers unique names so the hyperlinks work.
 - Rename "arts and spells" to "progression" to be more clear.
 - Hyperlink and standardize Bonus Skills.
 - Clarify Screen an Ally
+- Use HD for npcs
+- Use HP Progression for Delvers
 
 #### 2024-07-28
 - Build a table of contents for the index and each section.

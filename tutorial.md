@@ -34,7 +34,7 @@ After reading through delver creation, following the various links and having a 
 
 Then I get to make 4 improvements. My Strength and Dexterity are already 14, which is the threshold for +1, and the rest of my Attributes are at +0 and quite far away from 14 so I'll stick to improving my skills for now.
 
-I decide that want to be be a great healer, handy with a bow, and be knowledgable, so I improve Heal twice (to +1), Shoot once (to +0), and Know once (to +0).
+I decide that want to be be a great healer, handy with a bow, and be knowledgable, so I improve [Heal](/rules#heal) twice (to +1), [Shoot](/rules#shoot) once (to +0), and [Know](/rules#know) once (to +0).
 
 ![small](/assets/images/improved-skills.png)
 
@@ -44,9 +44,9 @@ I decide that want to be be a great healer, handy with a bow, and be knowledgabl
 
 **Choose Feats.** The "Feats" column for level 1 Partial Expert/Partial Mage says I get "1 Non-combat + 1 Any", which means I can select any feat that doesn't have the crossed swords icon, and then any feat I want.
 
-First, I'll pick up [Gifted Chirurgeon](/feats#gifted-chirurgeon) at rank 1 to be *even better* at healing. This gives me Heal as a [Bonus Skill](/rules#bonus-skill), and since I already have Heal at +1, I can make a free improvement. I'll improve my Shoot to +1.
+First, I'll pick up [Gifted Chirurgeon](/feats#gifted-chirurgeon) at rank 1 to be *even better* at healing. This gives me [Heal](/rules#heal) as a [Bonus Skill](/rules#bonus-skill), and since I already have [Heal](/rules#heal) at +1, I can make a free improvement. I'll improve my [Shoot](/rules#shoot) to +1.
 
-For my other feat, I'll pick up [Deadeye](/feats#deadeye-c) at rank 1 to do more damage with my bow. This gives me Shoot as a [Bonus Skill](/rules#bonus-skill), and since I already have Shoot at +1, I can make a free improvement. I'll improve my Know to 1.
+For my other feat, I'll pick up [Deadeye](/feats#deadeye-c) at rank 1 to do more damage with my bow. This gives me [Shoot](/rules#shoot) as a [Bonus Skill](/rules#bonus-skill), and since I already have [Shoot](/rules#shoot) at +1, I can make a free improvement. I'll improve my [Know](/rules#know) to 1.
 
 ![small](/assets/images/choose-feats.png)
 
@@ -113,11 +113,11 @@ That's a character!
 </details>
 
 <details>
-  <summary><strong>Exercise</strong>: Say a Delver wants to roll a Dex/Sneak check with a +1 bonus. They have 11 Dexterity and no Sneak skill. How might they do this?</summary>
-  <p>They either need +1 DEX and Sneak-0, or +0 DEX and Sneak-1.</p>
-  <p>Getting to +1 DEX would take 3 of their 4 improvements, and they could spend the last one on Sneak.</p>
-  <p>Alternatively, getting to Sneak-1 just takes 2 improvements.</p>
-  <p>Finally, they could save themselves an improvement by choosing a Feat (or multiple feats) that grant Sneak as a <a href="/rules#bonus-skill">Bonus Skill</a>, like <a href="/feats#assassin-c">Assassin</a> or <a href="/feats#imposter">Imposter</a>.</p>
+  <summary><strong>Exercise</strong>: Say a Delver wants to roll a Dex/[Sneak](/rules#sneak) check with a +1 bonus. They have 11 Dexterity and no [Sneak](/rules#sneak) skill. How might they do this?</summary>
+  <p>They either need +1 DEX and [Sneak](/rules#sneak-0, or +0 DEX and [Sneak](/rules#sneak-1.</p>
+  <p>Getting to +1 DEX would take 3 of their 4 improvements, and they could spend the last one on [Sneak](/rules#sneak.</p>
+  <p>Alternatively, getting to [Sneak](/rules#sneak-1 just takes 2 improvements.</p>
+  <p>Finally, they could save themselves an improvement by choosing a Feat (or multiple feats) that grant [Sneak](/rules#sneak) as a <a href="/rules#bonus-skill">Bonus Skill</a>, like <a href="/feats#assassin-c">Assassin</a> or <a href="/feats#imposter">Imposter</a>.</p>
   <p>Note the dynamics here. There are more skills than attributes, so skills apply more narrowly and attributes apply more broadly. Attributes, in turn, tend to be more expensive to meaningfully upgrade.</p>
 </details>
 
@@ -129,7 +129,7 @@ That's a character!
 
 <details>
   <summary><strong>Exercise</strong>: Why do we wait until after choosing a class and feats to determine attribute modifiers?</summary>
-  <p>Because Mages gain a <a href="/rules#bonus-skill">Bonus Skill</a> related to their arcane tradition, like how High Mages gain Magic. Similarly, some feats like <a href="/feats#poisoner">Poisoner</a> grant a Bonus Skill.</p>
+  <p>Because Mages gain a <a href="/rules#bonus-skill">Bonus Skill</a> related to their arcane tradition, like how High Mages gain [Magic](/rules#magic). Similarly, some feats like <a href="/feats#poisoner">Poisoner</a> grant a Bonus Skill.</p>
   <p>If the Delver already has that skill at rank 1, they instead get a free improvement which they may spend on improving an attribute. This, in turn, might change its modifier.</p>
 </details>
 
@@ -178,7 +178,7 @@ The Core Gameplay Loop has a lot of hidden complexity in it. For instance, take 
 
 These are the levers for negotiation. If the players are unhappy with their chances, they can negotiate with less desirable intents or more grevious consequences and so on. Similarly, this is the GM's space to port in more complex subsystems where they think they're needed, to handwave it all with a roll, or to say it *just happens*.
 
-Finally, this is what allows for [tactical infinity](https://rolltop-indigo.blogspot.com/2018/05/the-invisible-rulebooks.html). Notice how the phrase is "players describe their actions and the intent behind their actions" and **not** "players pick an action or skill to use". The players can try *anything*, and it's the GM's job to figure out what happens. *Sometimes* that results in a dice roll (which is *sometimes* a skill check), but usually what they want to do just happens.
+Finally, this is what allows for [tactical infinity](https://rolltop-indigo.blogspot.com/2018/05/the-invisible-rulebooks.html). [Notice](/rules#notice) how the phrase is "players describe their actions and the intent behind their actions" and **not** "players pick an action or skill to use". The players can try *anything*, and it's the GM's job to figure out what happens. *Sometimes* that results in a dice roll (which is *sometimes* a skill check), but usually what they want to do just happens.
 
 This isn't to say that players don't need to learn the rules; *they do*. If a game is about making [informed, impactful choices](https://www.bastionland.com/2018/09/the-ici-doctrine-information-choice.html) then the rules themselves are doing a lot of the heavy lifting of making the choices *informed*. A player who has read the rules is much more informed about how "I want to distract the Bear with my staff to give Huxley an opening" will *actually work* if they know how [Swarm Attack](/combat#make-a-swarm-attack-main-action) works and so on. Playing Sovereign without knowing how the rules work would be a *lot* like playing chess without knowing the rules. You *can do it*, but it'll be much less interesting and can potentially feel unfair.
 
@@ -200,7 +200,7 @@ Say that we're playing [Winter's Daughter](https://www.drivethrurpg.com/en/produ
 
 **Player**: What if everyone helps shove? *(come up with a better plan)*
 
-**GM**: Sure - how about a [DC 8 group STR/Exert check](/rules#group-checks)? And if it fails, everyone takes a point of System Strain as you have to give it your all? *(inform the players about their chances)*
+**GM**: Sure - how about a [DC 8 group STR/[Exert](/rules#exert) check](/rules#group-checks)? And if it fails, everyone takes a point of System Strain as you have to give it your all? *(inform the players about their chances)*
 
 **Player**: Yuck, that's a lot of strain. We're pretty flush - do you think some of the burly townsfolk would be willing to help us out for coin? *(come up with a better plan)*
 
@@ -250,7 +250,7 @@ Say we are playing through [Stonehell](https://www.lulu.com/shop/michael-curtis/
 
 > 21. Landing Pad: Fearsome faces carved in walls; bloodstains; broken weapons & equipment. Victims of the pit trap on Level 1B arrive here, taking 1d6 points of damage from the slide and tumble. The chute may be climbed by a thief with a Climb Walls check or by any other character aided by ropes & spikes and making a STR check.
 
-If the Delver wants to rejoin the party, we might rule getting up by yourself as a DEX/Exert 10 check, each attempt taking a turn, and on failure they fall and suffer 1d3 damage (since they're prepared and falling less distance). If they get a rope lowered down, I'd have this be a DC 6 group STR/Exert check (or just let them back up).
+If the Delver wants to rejoin the party, we might rule getting up by yourself as a DEX/[Exert](/rules#exert) 10 check, each attempt taking a turn, and on failure they fall and suffer 1d3 damage (since they're prepared and falling less distance). If they get a rope lowered down, I'd have this be a DC 6 group STR/[Exert](/rules#exert) check (or just let them back up).
 
 ## Injury, Healing, and System Strain
 

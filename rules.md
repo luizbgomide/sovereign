@@ -33,7 +33,7 @@ That's the *whole* game. All other rules exist to either faciliate interesting d
 
 Much of the intresting part (and what separates skilled players from novice players) of exploring is coming up with a plan that *avoids* rolling. A plan that triggers a skill check or roll is *workable*, but also *risky*. A lot of the fun in this play style is coming up with plans that *can't fail*.
 
-Consider being faced with a deep, 15-foot wide spiked pit. Dangerous. If a player wants to leap to the other side, the GM might rule that as a DC 8 STR/Exert [check](#skill-checks) with failure resulting in taking 3d6 [damage](#damage) from the fall and spikes as well as being stuck at the bottom.
+Consider being faced with a deep, 15-foot wide spiked pit. Dangerous. If a player wants to leap to the other side, the GM might rule that as a DC 8 STR/[Exert](#exert) [check](#skill-checks) with failure resulting in taking 3d6 [damage](#damage) from the fall and spikes as well as being stuck at the bottom.
 
 A clever player might think to *fill up the pit*. Perhaps they spend some time dragging coffins, furniture, etc into the pit so that they can lower themselves down, walk across, and climb up the other side without rolling.
 
@@ -107,7 +107,7 @@ A Delver’s skills reprsent their training. A newly-created Delver starts with 
 
 Skills are rated on a scale from -1 to 4. Level -1 represents an absence of training. Level 0 represents basic competence. Level 1 represents professional-level skill. Level 2 in a skill likely makes a character the best in a village or city block. Level 3 represents mastery, and likely makes the character one of the best in a city. Level 4 represents world-class skill.
 
-This text refers to to skills and their level compactly like {Skill}-{Level}. For instance Exert-1 or Heal-2.
+This text refers to to skills and their level compactly like {Skill}-{Level}. For instance [Exert](#exert)-1 or Heal-2.
 
 All skills start at level -1.
 
@@ -115,23 +115,25 @@ All skills start at level -1.
 
 Skills may overlap in their application; the character may use either skill at their discretion.
 
-- **Exert**: Run, swim, climb, jump, labor for long periods, throw things, or otherwise exert your physical strength, stamina, and coordination. Even a Delver with poor physical attributes might have a good Exert skill reflecting athletic training and expertise in making the most of their available talents.
-- **Heal**: Treat wounds, cure diseases, neutralize poisons, diagnose psychological health issues, and otherwise tend to the wounds of body and mind.
-- **Know**: Know matters of history, geography, natural science, zoology, and other academic fields appropriate to a sage or scholar. While some sages might specialize in particular fields, most learned folks have a broad range of understanding, and will rarely be unable to even attempt to answer a question relevant to this skill.
-- **Magic**: Cast or analyze magic and know things about famous mages or notable magical events. Classes that can’t cast spells obtain only intellectual and scholarly benefits from this skill.
-- **Notice**: Notice small details, impending ambushes, hidden features, or concealed objects. Detect subtle smells, sounds, or other sensory input.
-- **Brawl**: Fight unarmed or with natural body weaponry. Punch, kick, grapple, or otherwise brawl without the benefit of man-made tools. This mode of fighting is inefficient at best without a Feat to improve it, but it’s reliably non-lethal.
-- **Shoot**: Fire a bow or crossbow or throw a hurled weapon. Maintain ranged weaponry and fletch arrows.
-- **Sneak**: Move silently, hide in shadows, avoid notice, pick pockets, disguise yourself, pick locks, disable traps, etc.
-- **Stab**: Fight with melee weapons or throw a hurled weapon. Maintain and identify weaponry.
+- <strong id="exert">Exert</strong>: Run, swim, climb, jump, labor for long periods, throw things, or otherwise exert your physical strength, stamina, and coordination. Even a Delver with poor physical attributes might have a good Exert skill reflecting athletic training and expertise in making the most of their available talents.
+- <strong id="heal">Heal</strong>: Treat wounds, cure diseases, neutralize poisons, diagnose psychological health issues, and otherwise tend to the wounds of body and mind.
+- <strong id="know">Know</strong>: Know matters of history, geography, natural science, zoology, and other academic fields appropriate to a sage or scholar. While some sages might specialize in particular fields, most learned folks have a broad range of understanding, and will rarely be unable to even attempt to answer a question relevant to this skill.
+- <strong id="magic">Magic</strong>: Cast or analyze magic and know things about famous mages or notable magical events. Classes that can’t cast spells obtain only intellectual and scholarly benefits from this skill.
+- <strong id="notice">Notice</strong>: Notice small details, impending ambushes, hidden features, or concealed objects. Detect subtle smells, sounds, or other sensory input.
+- <strong id="sneak">Sneak</strong>: Move silently, hide in shadows, avoid notice, pick pockets, disguise yourself, pick locks, disable traps, etc.
+
+
+- <strong id="brawl">Brawl</strong>: Fight unarmed or with natural body weaponry. Punch, kick, grapple, or otherwise brawl without the benefit of man-made tools. This mode of fighting is inefficient at best without a Feat to improve it, but it’s reliably non-lethal.
+- <strong id="shoot">Shoot</strong>: Fire a bow or crossbow or throw a hurled weapon. Maintain ranged weaponry and fletch arrows.
+- <strong id="stab">Stab</strong>: Fight with melee weapons or throw a hurled weapon. Maintain and identify weaponry.
 
 ### Skill Checks
 
 Most Delvers are skilled, competent folks who are perfectly capable of carrying out the ordinary duties of their role. Sometimes, however, they are faced with a situation or challenge beyond the usual scope of their role and the GM calls for a skill check.
 
-To make a skill check, roll 2d6 and add the most relevant skill level and [attribute modifier](#attribute-modifiers) (denoted as {Attribute Modifier}/{Skill}, like STR/Exert or INT/Magic). If the total is equal or higher than the check’s <strong id="difficulty-class">Difficulty Class</strong> (DC), the check is a success. On a failure, the Delver either can’t accomplish the feat at all, bad luck cheats them, or they achieve it at the cost of some further complication. The GM determines the specific consequence of a failure.
+To make a skill check, roll 2d6 and add the most relevant skill level and [attribute modifier](#attribute-modifiers) (denoted as {Attribute Modifier}/{Skill}, like STR/[Exert](#exert) or INT/Magic). If the total is equal or higher than the check’s <strong id="difficulty-class">Difficulty Class</strong> (DC), the check is a success. On a failure, the Delver either can’t accomplish the feat at all, bad luck cheats them, or they achieve it at the cost of some further complication. The GM determines the specific consequence of a failure.
 
-To express to this compactly, we write DC {Difficulty Class} {Attribute Modifier/Skill}. For example, DC 8 INT/Know or DC 12 DEX/Heal.
+To express to this compactly, we write DC {Difficulty Class} {Attribute Modifier/Skill}. For example, DC 8 INT/[Know](#know) or DC 12 DEX/[Heal](#heal).
 
 The GM is always the one who calls for a skill check, and they do so at their discretion. The player simply describes what their Delver is attempting to do, and the GM will tell them what skill and attribute combination to roll. If multiple skills or attributes might plausibly fit the action, the player picks.
 
@@ -155,7 +157,7 @@ This represents forcing open a heavy door together, everyone trying to stealth p
 
 ### Opposed Skill Checks
 
-When skills oppose each other, the side attempting to change the situation rolls a skill check vs a [DC](#difficulty-class) of 8 plus the other side's modifier. For example, a Delver trying to sneak past a guard might roll 2d6 plus their DEX/Sneak against a DC of 8 + the guard’s skill modifier. If the guard is significant enough to have attributes and skill levels, it might be a 2d6+DEX/Sneak against a DC of 8+WIS/Notice. We write this compactly as DEX/Sneak vs WIS/Notice.
+When skills oppose each other, the side attempting to change the situation rolls a skill check vs a [DC](#difficulty-class) of 8 plus the other side's modifier. For example, a Delver trying to sneak past a guard might roll 2d6 plus their DEX/[Sneak](/rules#sneak) against a DC of 8 + the guard’s skill modifier. If the guard is significant enough to have attributes and skill levels, it might be a 2d6+DEX/[Sneak](/rules#sneak) against a DC of 8+WIS/[Notice](#notice). We write this compactly as DEX/[Sneak](/rules#sneak) vs WIS/[Notice](#notice).
 
 ## Keeping Track of Time
 
@@ -175,7 +177,7 @@ Injury is almost inevitable in an adventurer’s career. Some forms of it are lo
 
 When a Delver is reduced to zero HP from taking [damage](#damage), they are Mortally Injured. They will die at the end of the sixth [Round](#round) after their incapacitation unless stabilized by an ally or some special ability. A Mortally Injured character is helpless, takes no actions, and does nothing useful.
 
-Stabilizing an ally is a [Main Action](/combat#main-action) that requires a DEX/Heal or INT/Heal [skill check](#skill-checks) with a DC of 8 plus the number of full [Rounds](#round) since the target fell. If the medic lacks a [healer’s kit](/equipment#healers-kit), this difficulty is increased by 2. Only one ally can try to stabilize a victim per round, though others can attempt to aid their check (via a [group check](#group-checks)). Attempts may be retried each round for as long as hope lasts.
+Stabilizing an ally is a [Main Action](/combat#main-action) that requires a DEX/[Heal](#heal) or INT/[Heal](#heal) [skill check](#skill-checks) with a DC of 8 plus the number of full [Rounds](#round) since the target fell. If the medic lacks a [healer’s kit](/equipment#healers-kit), this difficulty is increased by 2. Only one ally can try to stabilize a victim per round, though others can attempt to aid their check (via a [group check](#group-checks)). Attempts may be retried each round for as long as hope lasts.
 
 Once stabilized, the victim remains incapacitated for one [Turn](#turn) before recovering with 1 HP and the [Frail](#frail) condition.
 
@@ -187,7 +189,7 @@ Creatures who reach 0 HP and then recover are Frail.
 
 A Frail character acts normally, but if reduced to 0 HP again, they die instantly. Frail characters do not recover HP through [Natural Healing](#natural-healing).
 
-Frailty is removed with a week of bed rest and medical attention by someone with a [healer’s kit](/equipment#healers-kit) and at least Heal-0 skill. In addition, someone with at least Heal-1 can make one attempt to remove Frailty with a healer's kit, an hour of labor, and a successful DC 10 DEX/Heal or INT/Heal check.
+Frailty is removed with a week of bed rest and medical attention by someone with a [healer’s kit](/equipment#healers-kit) and at least Heal-0 skill. In addition, someone with at least Heal-1 can make one attempt to remove Frailty with a healer's kit, an hour of labor, and a successful DC 10 DEX/[Heal](#heal) or INT/[Heal](#heal) check.
 
 Frail characters without this level of medical care must make a [Physical](#physical) save after a week; on a failure they die 1d6 days later, while success means they lose their Frailty after another month’s rest.
 
@@ -201,7 +203,7 @@ Delvers are *not* confortable while sleeping in tents, outdoors, etc. It has to 
 
 ### First Aid
 
-Healers can patch up victims in a hurry at a cost to their physical resilience. By spending one minute patching up an ally with a [healer’s kit](/equipment#healers-kit), heal 1d6+Heal points of damage. Each such application adds one [System Strain](#system-strain) to the target. First aid restores HP to a [Frail](#frail) target, but it cannot remove their Frailty.
+Healers can patch up victims in a hurry at a cost to their physical resilience. By spending one minute patching up an ally with a [healer’s kit](/equipment#healers-kit), heal 1d6+[Heal](#heal) points of damage. Each such application adds one [System Strain](#system-strain) to the target. First aid restores HP to a [Frail](#frail) target, but it cannot remove their Frailty.
 
 One [Turn](#turn) is enough time for a healer to apply as much first aid as is wanted to the rest of their party.
 
@@ -223,7 +225,7 @@ Most toxins force a victim to make a [Physical](#physical) saving throw to resis
 
 If the save is failed, the poison or disease takes hold. Most poisons act quickly, inflicting damage, adding [System Strain](#system-strain) to the target, or applying long-lasting penalties. Diseases have a slower onset but often apply the same sort of harms.
 
-A medic can treats a poisoned person within a minute of the poisoning with a [healer’s kit](/equipment#healers-kit) to give them a better chance to resist. They add twice their Heal skill level to the victim’s saving throw roll, or +1 if they have only Heal-0 skill. Once the poison takes hold, the victim has 1d4 Turns to live. The medic can counteract the toxin with an INT/Heal [skill check](#skill-checks) at a DC of 10 for most poisons.
+A medic can treats a poisoned person within a minute of the poisoning with a [healer’s kit](/equipment#healers-kit) to give them a better chance to resist. They add twice their [Heal](#heal) skill level to the victim’s saving throw roll, or +1 if they have only Heal-0 skill. Once the poison takes hold, the victim has 1d4 Turns to live. The medic can counteract the toxin with an INT/[Heal](#heal) [skill check](#skill-checks) at a DC of 10 for most poisons.
 
 ## Chases and Pursuit
 
@@ -231,7 +233,7 @@ Delvers have a habit of chasing others and being chased.
 
 If one group is faster than the other group, that group succeeds.
 
-Otherwise, the pursuing group makes an [opposed](#opposed-skill-checks) [group](#group-checks) DEX/Exert or Con/Exert [skill check](#skill-checks) vs the fleeing group's DEX/Exert or Con/Exert subject to the following modifiers:
+Otherwise, the pursuing group makes an [opposed](#opposed-skill-checks) [group](#group-checks) DEX/[Exert](/rules#exert) or Con/[Exert](#exert) [skill check](#skill-checks) vs the fleeing group's DEX/[Exert](#exert) or CON/[Exert](#exert) subject to the following modifiers:
 
 | Situation                                        | Mod |
 | ------------------------------------------------ | --- |
@@ -283,7 +285,7 @@ To haul more equipment and loot than the Delvers can carry, they need pack anima
 ## Falling and Other Hazards
 Some perils occur with some regularity for adventurers. A few of the most common are detailed here.
 
-**Falling**: Most creatures will take 1d6 [damage](#damage) per 10 full feet they fall, up to 20d6 maximum. Spikes or other hazardous terrain at the bottom will add at least 1d6 to the total. A creature that intentionally leaps or skids down in a controlled way makes a DEX or STR/Exert [skill check](#skill-checks) at a difficulty of 7 + 1 for every 10 full feet; on a success, the effective distance fallen is halved.
+**Falling**: Most creatures will take 1d6 [damage](#damage) per 10 full feet they fall, up to 20d6 maximum. Spikes or other hazardous terrain at the bottom will add at least 1d6 to the total. A creature that intentionally leaps or skids down in a controlled way makes a DEX or STR/[Exert](#exert) [skill check](#skill-checks) at a difficulty of 7 + 1 for every 10 full feet; on a success, the effective distance fallen is halved.
 
 **Suffocation**: Creatures fight or act normally without air for one [Round](#round) per point of Constitution, or 10 Rounds for most NPCs. If they don’t move, they quadruple this time. Once they run out of air, they must make a [Physical](#physical) save each Round or take 1 HP per HD or level they have.
 
@@ -328,13 +330,13 @@ The point of tracking Turns is to have a rough measure of how much activity they
 
 Out of all the obstacles the party will face, doors will be *by far* the most common. Doors mark the beginning of most new areas, and so how to handle doors will come up *over and over*.
 
-Doors can be **locked**, in which case a character with [Thieves Tools](/equipment#thieves-tools) can try pick it, usually with a DC 10 DEX/Sneak [check](#skill-checks). If they fail, they can not try again until they gain a level of experience.
+Doors can be **locked**, in which case a character with [Thieves Tools](/equipment#thieves-tools) can try pick it, usually with a DC 10 DEX/[Sneak](/rules#sneak) [check](#skill-checks). If they fail, they can not try again until they gain a level of experience.
 
-Locked doors can be **battered down**. 6 turns less STR and Exert for wooden doors, and triple that for metal-reinforced doors. Metal or stone doors can not be battered down with mundane means. Roll an extra [Wandering Encounter](#wandering-encounters) every [Turn](#turn).
+Locked doors can be **battered down**. 6 turns less STR and [Exert](#exert) for wooden doors, and triple that for metal-reinforced doors. Metal or stone doors can not be battered down with mundane means. Roll an extra [Wandering Encounter](#wandering-encounters) every [Turn](#turn).
 
-Doors can be **stuck**, in which case a character can try to force them open in a [Round](#round) with a DC 10 STR/Exert check. If they fail, it takes 1d3 Turns to open the door.
+Doors can be **stuck**, in which case a character can try to force them open in a [Round](#round) with a DC 10 STR/[Exert](#exert) check. If they fail, it takes 1d3 Turns to open the door.
 
-Doors can be **listened at** for a Round (but only once per Turn), revealing noises as loud as talking without a roll. The presence of anything quieter with requires a DC 10 WIS/Notice check.
+Doors can be **listened at** for a Round (but only once per Turn), revealing noises as loud as talking without a roll. The presence of anything quieter with requires a DC 10 WIS/[Notice](#notice) check.
 
 To pass through a door, choose to make either a **hard** or **soft** entry. If not specififed, a soft entry is assumed.
 
@@ -354,7 +356,7 @@ When the Delvers encounter a group of NPCs in a dungeon, either from a [Wanderin
 
 Delvers are sufficiently alert when exploring a site to avoid any chance of surprise, barring a set ambush. If they burst in on the denizens suddenly, however, the locals might be too stunned to act for a round.
 
-If the GM thinks this is possible, use an [opposed](#opposed-skill-checks) roll. Represent bursting into a room as [group](#group-checks) STR/Exert vs WIS/Notice check. Represent sneaking up on a group as group DEX/Sneak vs WIS/Notice.
+If the GM thinks this is possible, use an [opposed](#opposed-skill-checks) roll. Represent bursting into a room as [group](#group-checks) STR/[Exert](#exert) vs WIS/[Notice](#notice) check. Represent sneaking up on a group as group DEX/[Sneak](/rules#sneak) vs WIS/[Notice](#notice).
 
 ### Wandering Encounters
 

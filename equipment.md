@@ -96,7 +96,7 @@ Some weapons have additional unique traits, perhaps being particularly slow to r
 - **SR**: Slow Reload. It takes a [Main Action](/combat#main-action) to reload this weapon. SS: Single Shot. This weapon takes ten rounds to reload, and the reloading effort is spoiled if an enemy melees the wielder.
 - **T**: Throwable. While the weapon can be used in melee, it may be thrown out to the listed range as well, albeit it does no Shock in that case. Throwing a weapon while in melee applies a -4 penalty to the attack roll.
 
-Military oil may be ignited and thrown with a DEX/Shoot attck, dealing 1d8 damage for 2 rounds to the target. If the attack fails, it lands in a random adjacent square and deals 1d3 damage to that square and all adjacent squares.
+Military oil may be ignited and thrown with a DEX/[Shoot](/rules#shoot) attck, dealing 1d8 damage for 2 rounds to the target. If the attack fails, it lands in a random adjacent square and deals 1d3 damage to that square and all adjacent squares.
 
 Weapons requiring ammunition require a [Quiver](#quiver). Don't bother tracking ammo if you have one. Be adults - you don't *actually* have infinite ammo. You cannot build bridges out of your infinite arrow or use them to fill pits.
 
@@ -104,7 +104,7 @@ Weapons requiring ammunition require a [Quiver](#quiver). Don't bother tracking 
 
 Armor provides an <strong id="armor-class">Armor Class</strong> (AC). Equipped armor must always occupy Readied slots.
 
-Chain applies a -2 penalty to Sneak checks. Plate applies a -3 penalty to Sneak and Exert checks.
+Chain applies a -2 penalty to [Sneak](/rules#sneak) checks. Plate applies a -3 penalty to [Sneak](/rules#sneak) and [Exert](/rules#exert) checks.
 
 | Name    | AC  | Cost | enc |
 | ------- | --- | ---- | --- |
@@ -222,7 +222,7 @@ Spellcasting mages can read a scroll to activate its spell as a [Main Action](/c
 
 In order to safely cast a spell from a scroll, a Delver needs to have a Magic skill of at least one less than the spell's level. For example, to cast from a Scroll of [Haste](/spells#haste) (a level 2 spell), the Delver needs to have at least Magic-1.
 
-If a Delver doesn’t have a high enough Magic skill, they can attempt anyway. Roll a DC (8 + Spell Level) INT/Magic skill check. If it fails by one or two points, the spell fizzles and is wasted. If it fails by more than two points, it goes off, but at the wrong target or with the wrong effect at the GM’s discretion. If the check succeeds, the spell goes off as intended.
+If a Delver doesn’t have a high enough [Magic](/rules#magic) skill, they can attempt anyway. Roll a DC (8 + Spell Level) INT/Magic skill check. If it fails by one or two points, the spell fizzles and is wasted. If it fails by more than two points, it goes off, but at the wrong target or with the wrong effect at the GM’s discretion. If the check succeeds, the spell goes off as intended.
 
 For example, if a Delver with Magic-0 tries to use a Scroll of Haste, they would need to roll a DC 10 INT/Magic skill check. If their result is an 8 or 9, the spell harmlessly fizzles. If the result is a 7 or lower, they might accidentally Haste a foe!
 
@@ -296,6 +296,6 @@ Each category corresponds to one of the [OSE Generators](https://oldschoolessent
 
 ### Sentient Weapons
 
-Some weapons are intelligent, and a subset of those are able to communicate. Weielders who offend their sentient weapons make a DC (8 + magic bonus) INT/Stab or Shoot skill check to force its obedience for the day. If the check is failed, the weapon is treated as totally nonmagical for the rest of the day.
+Some weapons are intelligent, and a subset of those are able to communicate. Weielders who offend their sentient weapons make a DC (8 + magic bonus) INT/[Stab](/rules#stab) or [Shoot](/rules#shoot) skill check to force its obedience for the day. If the check is failed, the weapon is treated as totally nonmagical for the rest of the day.
 
 Weapons able to speak aloud may speak at (in)opportune times, at GM discretion.

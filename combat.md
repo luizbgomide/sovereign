@@ -54,7 +54,7 @@ Each participating side rolls 1d8, with the player's side adding the highest DEX
 
 ## Surprise
 
-If a group is caught entirely unawares they may suffer surprise, granting their enemies a full free round of action before initiative is rolled. The GM decides when surprise applies, possibly calling for an opposed DEX/Sneak (for a stealthy approach) skill check or STR/Exert (to kick a door in) versus the target’s WIS/Notice.
+If a group is caught entirely unawares they may suffer surprise, granting their enemies a full free round of action before initiative is rolled. The GM decides when surprise applies, possibly calling for an opposed DEX/[Sneak](/rules#sneak) (for a stealthy approach) skill check or STR/[Exert](/rules#exert) (to kick a door in) versus the target’s WIS/[Notice](/rules#notice).
 
 Groups cannot be surprised if they are actively anticipating the possibility of combat. Delvers moving carefully through a dungeon are not surprised unless the enemy is specifically Hidden.
 
@@ -97,11 +97,11 @@ This list is not exhaustive! If you want to do something else, or a variant of a
 
 ### Make a Melee Attack (Main)
 
-Attack a target in melee range with an unarmed attack or melee weapon. Such weapons use either the Brawl or the Stab skill, depending on the type of attack.
+Attack a target in melee range with an unarmed attack or melee weapon. Such weapons use either the [Brawl](/rules#brawl) or the [Stab](/rules#stab) skill, depending on the type of attack.
 
 ### Make a Ranged Attack (Main)
 
-Attack a target with a bow or thrown weapon. The Shoot skill is used for these attacks, though Stab or Exert can optionally be used for thrown weapons. If there is an enemy attacker in melee range, one-handed ranged weapons and thrown weapons suffer a -4 penalty to hit, while bows and other two-handed ranged weapons cannot be fired at all.
+Attack a target with a bow or thrown weapon. The [Shoot](/rules#shoot) skill is used for these attacks, though [Stab](/rules#stab) or [Exert](/rules#exert) can optionally be used for thrown weapons. If there is an enemy attacker in melee range, one-handed ranged weapons and thrown weapons suffer a -4 penalty to hit, while bows and other two-handed ranged weapons cannot be fired at all.
 
 ### Make a Snap Attack (Instant)
 
@@ -205,9 +205,9 @@ Some common situations modify an attack roll, granting a bonus or penalty. GMs m
 
 ## Damage
 
-If an attack hits, it inflicts HP damage equal to the weapon’s damage die plus the weapon’s relevant attribute modifier. Class Abilities (like [Killing Blow](/classes#class-ability-killing-blow)), Feats (like [Armsmaster](/feats#armsmaster-c)), and Magic weapon enchantments increase this damage.
+If an attack hits, it inflicts HP damage equal to the weapon’s damage die plus the weapon’s relevant attribute modifier. Class Abilities (like [Killing Blow](/classes#class-ability-killing-blow)), Feats (like [Armsmaster](/feats#armsmaster-c)), and magic weapon enchantments increase this damage.
 
-If you are making a purely unarmed attack add your Brawl skill to the damage.
+If you are making a purely unarmed attack add your [Brawl](/rules#brawl) skill to the damage.
 
 If the result is less than your Shock damage, inflict that much instead.
 
@@ -227,15 +227,15 @@ An attack that hits never does less damage than the Shock that would have been i
 
 ### Shoving
 
-To knock a target down or force them into an adjacent square, the attacker needs a successful attack roll. Then, in lieu of damage, roll an opposed STR/Brawl or STR/Exert skill check. If the attacker succeeds, the target is forced into an adjacent square or knocked prone.
+To knock a target down or force them into an adjacent square, the attacker needs a successful attack roll. Then, in lieu of damage, roll an opposed STR/[Brawl](/rules#brawl) or STR/[Exert](/rules#exert) skill check. If the attacker succeeds, the target is forced into an adjacent square or knocked prone.
 
 ### Grappling
 
-To grapple a foe, the attacker must first hit with an unarmed attack. In lieu of damage, make opposed STR/Brawl skill checks. If the attacker wins, the defender is grappled and remains that way until released or until they spend a [Main Action](#main-action) and succeed in a new opposed check. An attacker can grapple only one target at a time, though multiple attackers can cling to the same luckless defender. In such cases, the defender’s single skill check is compared against all of their foes.
+To grapple a foe, the attacker must first hit with an unarmed attack. In lieu of damage, make opposed STR/[Brawl](/rules#brawl) skill checks. If the attacker wins, the defender is grappled and remains that way until released or until they spend a [Main Action](#main-action) and succeed in a new opposed check. An attacker can grapple only one target at a time, though multiple attackers can cling to the same luckless defender. In such cases, the defender’s single skill check is compared against all of their foes.
 
 While grappling, neither attackers or defenders can move from their current location, nor can they fight with anything but unarmed attacks. At the end of each round in which a defender remains grappled, they suffer damage from each attacker as if hit with an unarmed attack from each foe grappling them.
 
-If the attacker wishes to move the target, they must spend a [Main Action](#main-action) and succeed in an opposed STR/Brawl skill check. If they win, the target is either moved ten feet along with them, or thrown five feet and knocked prone. If they lose, the defender breaks free.
+If the attacker wishes to move the target, they must spend a [Main Action](#main-action) and succeed in an opposed STR/[Brawl](/rules#brawl) skill check. If they win, the target is either moved ten feet along with them, or thrown five feet and knocked prone. If they lose, the defender breaks free.
 
 These rules assume both targets are man-sized. Grappling or shoving significantly larger but still humanoid targets is done at a -2 penalty on all skill checks by the attacker. Doing so to creatures only barely plausible for such manhandling is done at a -4 skill check penalty.
 
@@ -251,7 +251,7 @@ Managing two weapons at once is difficult, and applies a -1 penalty to all attac
 
 A target that is entirely unsuspecting of danger is subject to execution attacks. A subject that is expecting danger or alert to potential harm cannot be targeted by an execution attack.
 
-A ranged execution attack requires one full minute of aiming, waiting, and adjusting. Any disturbance during this time will spoil the shot. After spending this time, the assassin may make a DEX/Shoot skill check. The DC is 6 for an attack within 10', 8 for an attack within the weapon’s normal range, or 10 for one at the weapon’s long range. On a success, the attack hits; the victim’s AC is ignored.
+A ranged execution attack requires one full minute of aiming, waiting, and adjusting. Any disturbance during this time will spoil the shot. After spending this time, the assassin may make a DEX/[Shoot](/rules#shoot) skill check. The DC is 6 for an attack within 10', 8 for an attack within the weapon’s normal range, or 10 for one at the weapon’s long range. On a success, the attack hits; the victim’s AC is ignored.
 
 A melee execution attack requires one full minute of near proximity to the target, watching for just the right opening and getting to within melee range of the victim. If this time is granted, the assassin may make a melee attack, automatically hitting.
 
