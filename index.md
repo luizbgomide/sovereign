@@ -147,6 +147,7 @@ Otherwise...
 - Change hit roll to attack roll.
 - Oops. Accursed get arts as they level now.
 - Magic weapons add their bonus to Shock.
+- Standardize text around actions.
 
 #### 2024-07-30
 - Give the spell level headers unique names so the hyperlinks work.

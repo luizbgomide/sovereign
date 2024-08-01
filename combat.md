@@ -62,13 +62,13 @@ Groups cannot be surprised if they are actively anticipating the possibility of 
 
 Attacks, movement, spellcasting, and other combat activities all require one of the following four types of actions.
 
-<strong id="main-action">Main actions</strong> are a character’s primary action during a combat round, such as attacking an enemy, applying first aid to a downed ally, casting a spell, frantically evading incoming spears, or something else that takes less than ten seconds to do. A combatant gets one Main action per round.
+<strong id="main-action">Main Actions</strong> are a character’s primary action during a combat round, such as attacking an enemy, applying first aid to a downed ally, casting a spell, frantically evading incoming spears, or something else that takes less than ten seconds to do. A combatant gets one Main action per round.
 
-<strong id="move-action">Move actions</strong> involve moving the character’s normal movement rate of 30 feet or performing some other relatively brief bodily action, such as getting up from prone. A combatant gets one Move action per round, but can spend their main action to get a second.
+<strong id="move-action">Move Actions</strong> involve moving the character’s normal movement rate of 30 feet or performing some other relatively brief bodily action, such as getting up from prone. A combatant gets one Move Action per round, but can spend their main action to get a second.
 
-<strong id="free-action">Free</strong> actions are brief, simple acts that require only a moment’s concentration. Activating certain abilities or speaking a few words might constitute a Free action. A combatant can take as many Free actions on their round as the GM finds plausible.
+<strong id="free-action">Free Actions</strong> are brief, simple acts that require only a moment’s concentration. Activating certain abilities or speaking a few words might constitute a [Free Action](#free-action). A combatant can take as many [Free Action](#free-action)s on their round as the GM finds plausible.
 
-<strong id="instant-action">Instant actions</strong> are special, most being provided only by certain powers or certain special actions. Instant actions can be performed even when it’s not your turn in the round, even after the dice have already been rolled. The Veteran’s Luck class ability provides one such Instant action, allowing the Delver to treat a missed attack roll as an automatic hit. A combatant can use as many Instant actions in a round as the GM finds plausible. Instant actions performed at the same time are resolved simultaneously, with the GM adjudicating any ambiguities.
+<strong id="instant-action">Instant Actions</strong> are special, most being provided only by certain powers or certain special actions. Instant Actions can be performed even when it’s not your turn in the round, even after the dice have already been rolled. The Veteran’s Luck class ability provides one such Instant Action, allowing the Delver to treat a missed attack roll as an automatic hit. A combatant can use as many Instant Actions in a round as the GM finds plausible. Instant Actions performed at the same time are resolved simultaneously, with the GM adjudicating any ambiguities.
 
 Many actions (like [Run](/combat#run-move-action) and [Stand Up](/combat#stand-up-move-action)) allow any adjacent foes armed with a melee weapon to make a free <strong id="attack-of-opportunity">Attack of Opportunity</strong>. To avoid this, either do not be in melee range or use the [Disengage](/combat#disengage-main-action) action first.
 
@@ -95,31 +95,31 @@ Many actions (like [Run](/combat#run-move-action) and [Stand Up](/combat#stand-u
 
 This list is not exhaustive! If you want to do something else, or a variant of any of these actions, describe what you're doing and what you are hoping to have happen, and the GM will figure out the specifics - see [the core gameplay loop](/rules#core-gameplay-loop). Normally, this involves figuring out which sort of action it takes (main, move, free, etc), whether or not it provokes an attack of opportunity, etc.
 
-### Make a Melee Attack (Main Action)
+### Make a Melee Attack (Main)
 
 Attack a target in melee range with an unarmed attack or melee weapon. Such weapons use either the Brawl or the Stab skill, depending on the type of attack.
 
-### Make a Ranged Attack (Main Action)
+### Make a Ranged Attack (Main)
 
 Attack a target with a bow or thrown weapon. The Shoot skill is used for these attacks, though Stab or Exert can optionally be used for thrown weapons. If there is an enemy attacker in melee range, one-handed ranged weapons and thrown weapons suffer a -4 penalty to hit, while bows and other two-handed ranged weapons cannot be fired at all.
 
-### Make a Snap Attack (Instant Action)
+### Make a Snap Attack (Instant)
 
-As an Instant action, give up your Main Action and either Make a Melee Attack or Make a Ranged Attack at a -4 penalty to hit. As an Instant action, you can Make a Snap Attack even when it’s not your turn, but you must not have taken your Main Action this round yet. Only well-trained and disciplined NPCs have enough focus to Make a Snap Attack.
+As an [Instant Action](#instant-action), give up your [Main Action](#main-action) and either Make a Melee Attack or Make a Ranged Attack at a -4 penalty to hit. As an [Instant Action](#instant-action), you can Make a Snap Attack even when it’s not your turn, but you must not have taken your [Main Action](#main-action) this round yet. Only well-trained and disciplined NPCs have enough focus to Make a Snap Attack.
 
-Since Snap Attack is an Instant action, you can use it to interrupt a spell, or kill a foe *after* they have hit but *before* damage has been rolled in order to prevent that damage.
+Since Snap Attack is an [Instant Action](#instant-action), you can use it to interrupt a spell, or kill a foe *after* they have hit but *before* damage has been rolled in order to prevent that damage.
 
-### Make a Swarm Attack (Main Action)
+### Make a Swarm Attack (Main)
 
 Target an enemy within range of your weapon and take this action until up to four allies have Made a Swarm Attack on that target this round. At that point or any point beforehand, one of these assailants can Make a Melee Attack or Make a Ranged Attack on the target with a +2 bonus to hit and +1 bonus to damage for every other assailant, up to a maximum bonus of +6 to hit and +3 damage. This bonus damage does not add to the attack’s Shock and cannot make it do more than its usual maximum damage. Any Shock inflicted by this attack is always applicable, however, even if the target’s AC is too high, they’re using a shield, or have some power that makes them immune to Shock; the damage a Swarm Attack does isn’t really Shock, but a reflection of the inevitable hazards of being swarmed by numerous armed foes.
 
-### Charge (Special Action)
+### Charge (Special)
 
-Spend both your Main Action and your Move action to move up to twice your normal movement rate in a straight line, making a melee or thrown ranged attack at the end of it with a +2 bonus to hit. You must be able to charge at least 3 meters to build up sufficient momentum and you suffer a -2 penalty to your AC until the end of the round.
+Spend both your [Main Action](#main-action) and your [Move Action](#move-action) to move up to twice your normal movement rate in a straight line, making a melee or thrown ranged attack at the end of it with a +2 bonus to hit. You must be able to charge at least 3 meters to build up sufficient momentum and you suffer a -2 penalty to your AC until the end of the round.
 
 If you start your movement adjacent to an armed melee combatant, they get a free melee attack against you as you flee. To avoid this, you must Disengage first.
 
-### Screen an Ally (Move Action)
+### Screen an Ally (Move)
 
 Move up to your normal movement rate to get adjacent to an ally. You then physically block attacks against them until the start of your next turn, provided they remain within 5 ft of you. Enemies who attack your ward must make a successful opposed combat skill check against you using either STR or DEX and the most applicable combat skill.
 
@@ -131,53 +131,53 @@ If you moved and started your movement adjacent to an armed melee combatant, the
 
 Screen an Ally may be used to protect ranged allies (especially spellcasters) from ranged attacks.
 
-### Total Defense (Instant Action)
+### Total Defense (Instant)
 
-Give up your Main Action to focus entirely on dodging and evading incoming perils. Your AC increases by 2 and you become immune to Shock until the start of your next turn, including the otherwise-unavoidable damage from a Swarm Attack. You cannot take this action if you have already spent your Main Action for the round.
+Give up your [Main Action](#main-action) to focus entirely on dodging and evading incoming perils. Your AC increases by 2 and you become immune to Shock until the start of your next turn, including the otherwise-unavoidable damage from a Swarm Attack. You cannot take this action if you have already spent your [Main Action](#main-action) for the round.
 
-Since Total Defense is an Instant Action, you may use it *after* you see the result of an attack roll against you.
+Since Total Defense is an [Instant Action](#instant-action), you may use it *after* you see the result of an attack roll against you.
 
-### Run (Move Action)
+### Run (Move)
 
 Move your normal movement rate in combat, which is 30 feet for an ordinary human. If you start your movement adjacent to an armed melee combatant, they get a free melee attack against you as you flee. To avoid this, you must Disengage first.
 
-### Disengage (Main Action)
+### Disengage (Main)
 
-Disengage from an adjacent melee attacker, allowing you to move away from them without incurring a free attack as you retreat. You do not actually leave melee range with this action alone, and your enemy can simply re-engage you next round if you don’t actually take a move action to retreat.
+Disengage from an adjacent melee attacker, allowing you to move away from them without incurring a free attack as you retreat. You do not actually leave melee range with this action alone, and your enemy can simply re-engage you next round if you don’t move away.
 
-### Use a Skill (Main Action)
+### Use a Skill (Main)
 
 Perform first aid on a downed comrade, cry out an appeal for parley, or otherwise use a skill that wouldn’t normally take more than six seconds.
 
 If you attempt to use a skill while adjacent to an armed melee combatant, they get a free melee attack against you.
 
-### Ready or Stow an Item (Main Action)
+### Ready or Stow an Item (Main)
 
 A character can Ready an item for use from their pack or stowage or Stow it, as per the encumbrance rules. Sheathing or holstering a Readied weapon without actually Stowing it does not require this action, though the GM may disallow rapid weapon swaps if they start to become implausible.
 
-### Reload a Weapon (Main Action)
+### Reload a Weapon (Main)
 
-Reload a crossbow from a Readied case of quarrels. Bows and crossbows may be reloaded as a Free action if the shooter has at least Shoot-1 skill; otherwise it’s a Move action to nock a new arrow in a bow.
+Reload a crossbow from a Readied case of quarrels. Bows and crossbows may be reloaded as a [Free Action](#free-action) if the shooter has at least Shoot-1 skill; otherwise it’s a [Move Action](#move-action) to nock a new arrow in a bow.
 
-### Pick up an Item (Move Action)
+### Pick up an Item (Move)
 
 Scoop up a dropped item within melee range, leaving it Readied in your hand.
 
 If you attempt to pick up an item while adjacent to an armed melee combatant, they get a free melee attack against you. To avoid this, you must Disengage first.
 
-### Stand Up (Move Action)
+### Stand Up (Move)
 
 Rise from a prone position, picking up any dropped items as you do so.
 
 If you stand up adjacent to an armed melee combatant, they get a free melee attack against you. To avoid this, you must Disengage first.
 
-### Go Prone (Free Action)
+### Go Prone (Free)
 
 Fall prone, applying a -2 penalty to ranged attacks against you and a +2 bonus to melee-range attacks against you. Your normal movement rate is halved while you remain prone.
 
-### Hold An Action (Move Action)
+### Hold An Action (Move)
 
-Spend your Move action to delay acting on your side’s turn. You may trigger the rest of your turn’s actions as an Instant action at any point until the end of the round, after which they are lost. If your held action is taken in response to someone else’s action, yours resolves first.
+Spend your [Move Action](#move-action) to delay acting on your side’s turn. You may trigger the rest of your turn’s actions as an [Instant Action](#instant-action) at any point until the end of the round, after which they are lost. If your held action is taken in response to someone else’s action, yours resolves first.
 
 ## Combat Attack Rolls
 
@@ -231,11 +231,11 @@ To knock a target down or force them into an adjacent square, the attacker needs
 
 ### Grappling
 
-To grapple a foe, the attacker must first hit with an unarmed attack. In lieu of damage, make opposed STR/Brawl skill checks. If the attacker wins, the defender is grappled and remains that way until released or until they spend a Main Action and succeed in a new opposed check. An attacker can grapple only one target at a time, though multiple attackers can cling to the same luckless defender. In such cases, the defender’s single skill check is compared against all of their foes.
+To grapple a foe, the attacker must first hit with an unarmed attack. In lieu of damage, make opposed STR/Brawl skill checks. If the attacker wins, the defender is grappled and remains that way until released or until they spend a [Main Action](#main-action) and succeed in a new opposed check. An attacker can grapple only one target at a time, though multiple attackers can cling to the same luckless defender. In such cases, the defender’s single skill check is compared against all of their foes.
 
 While grappling, neither attackers or defenders can move from their current location, nor can they fight with anything but unarmed attacks. At the end of each round in which a defender remains grappled, they suffer damage from each attacker as if hit with an unarmed attack from each foe grappling them.
 
-If the attacker wishes to move the target, they must spend a Main Action and succeed in an opposed STR/Brawl skill check. If they win, the target is either moved ten feet along with them, or thrown five feet and knocked prone. If they lose, the defender breaks free.
+If the attacker wishes to move the target, they must spend a [Main Action](#main-action) and succeed in an opposed STR/Brawl skill check. If they win, the target is either moved ten feet along with them, or thrown five feet and knocked prone. If they lose, the defender breaks free.
 
 These rules assume both targets are man-sized. Grappling or shoving significantly larger but still humanoid targets is done at a -2 penalty on all skill checks by the attacker. Doing so to creatures only barely plausible for such manhandling is done at a -4 skill check penalty.
 
