@@ -1,4 +1,6 @@
 - [Combat](/combat#combat)
+  - [The Grid](/combat#the-grid)
+    - [Line of Sight and Cover](/combat#line-of-sight-and-cover)
   - [Combat Sequence](/combat#combat-sequence)
   - [Surprise](/combat#surprise)
   - [Combat Action Types](/combat#combat-action-types)
