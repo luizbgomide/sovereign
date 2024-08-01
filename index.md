@@ -148,6 +148,7 @@ Otherwise...
 - Oops. Accursed get arts as they level now.
 - Magic weapons add their bonus to Shock.
 - Standardize text around actions.
+- Somehow the metric system slipped it. It has been removed.
 
 #### 2024-07-30
 - Give the spell level headers unique names so the hyperlinks work.
