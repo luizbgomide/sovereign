@@ -144,6 +144,9 @@ Otherwise...
 
 ### Change Log
 
+#### 2024-08-01
+- Get the nav bar for the toc to be responsive.
+
 #### 2024-07-31
 - Add rules for scrolls, potions, and sentient weapons.
 - Add the list of modules, sourced from [tenfootpole](https://tenfootpole.org/ironspike) and [beyondformalhaut](https://beyondfomalhaut.blogspot.com/).

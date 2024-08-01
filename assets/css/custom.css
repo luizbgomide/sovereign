@@ -62,12 +62,29 @@ body {
     z-index: 1030;
 }
 
+#nav-header.headroom {
+    will-change: transform;
+    transition: transform 200ms linear;
+}
+
+#nav-header.headroom--pinned {
+    transform: translateY(0%);
+}
+
+#nav-header.headroom--unpinned {
+    transform: translateY(-100%);
+}
+
+header#nav-header.headroom--frozen {
+    transform: translateY(0%);
+}
+
 main {
-    margin-top: 50px;
+    margin-top: 59.5px;
     overflow-x: scroll;
 }
 
 html,
 body {
-    scroll-padding-top: 60px;
+    scroll-padding-top: 65px;
 }
