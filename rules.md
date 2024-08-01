@@ -223,7 +223,11 @@ Most toxins force a victim to make a [Physical](#physical) saving throw to resis
 
 If the save is failed, the poison or disease takes hold. Most poisons act quickly, inflicting damage, adding [System Strain](#system-strain) to the target, or applying long-lasting penalties. Diseases have a slower onset but often apply the same sort of harms.
 
-A medic can treats a poisoned person within a minute of the poisoning with a [healer’s kit](/equipment#healers-kit) to give them a better chance to resist. They add twice their [Heal](#heal) skill level to the victim’s saving throw roll, or +1 if they have only [Heal](#heal)-0 skill. Once the poison takes hold, the victim has 1d4 Turns to live. The medic can counteract the toxin with an INT/[Heal](#heal) [skill check](#skill-checks) at a DC of 10 for most poisons.
+A medic can treats a poisoned person within a minute of the poisoning with a [healer’s kit](/equipment#healers-kit) to give them a better chance to resist. They add twice their [Heal](#heal) skill level to the victim’s saving throw roll, or +1 if they have only [Heal](#heal)-0 skill.
+
+Some poisons, like that of a [pit viper](https://basicfantasy.org/srd/monstersAll.html#snake-pit-viper), are save or die. Once the poison takes hold, the victim has 1d4 Turns to live unless specified otherwise.
+
+Other poisons can have other effects. A [giant centepede](https://oldschoolessentials.necroticgnome.com/srd/index.php/Centipede,_Giant) causes lethargy. A [Tarentella](https://oldschoolessentials.necroticgnome.com/srd/index.php/Spider,_Tarantella) causes `2d6` turns of painful jerking spasms.
 
 ## Chases and Pursuit
 
