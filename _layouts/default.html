@@ -7,9 +7,15 @@
         <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
         <link rel="stylesheet" href="assets/css/pico.min.css" />
         <link rel="stylesheet" href="assets/css/custom.css" />
+        <script src="assets/js/sidebar.js"></script>
     </head>
     <body>
         <div class="wrapper">
+            <header id="nav_header">
+                <div class="toggle-btn container" onclick="toggleSidebar()">
+                    <img src="assets/icons/bars-solid.svg" alt="Menu" class="hamburger"/>
+                  </div>
+            </header>
             {% include toc.html %}
             <main class="container">
                 {{ content }}

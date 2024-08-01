@@ -1,5 +1,13 @@
-<div class="sidebar">
-  <ul>
+<div id="sidebar">
+  <div class="sidebar_top">
+    <div class="top_wrapper">
+      <div class="top_sticky">
+        <span class="sidebar_title">Table of Contents</span>
+        <img src="assets/icons/x-solid.svg" alt="Close" class="toggle_close" onclick="toggleSidebar()" />
+      </div>
+    </div>
+  </div>
+  <ul id="toc_list">
     {% for item in site.data.toc %}
         {% include toc-element.html item=item %}
     {% endfor %}
