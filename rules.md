@@ -105,7 +105,7 @@ A Delver’s skills reprsent their training. A newly-created Delver starts with 
 
 Skills are rated on a scale from -1 to 4. Level -1 represents an absence of training. Level 0 represents basic competence. Level 1 represents professional-level skill. Level 2 in a skill likely makes a character the best in a village or city block. Level 3 represents mastery, and likely makes the character one of the best in a city. Level 4 represents world-class skill.
 
-This text refers to to skills and their level compactly like {Skill}-{Level}. For instance [Exert](#exert)-1 or Heal-2.
+This text refers to to skills and their level compactly like {Skill}-{Level}. For instance [Exert](#exert)-1 or [Heal](#heal)-2.
 
 All skills start at level -1.
 
@@ -187,7 +187,7 @@ Creatures who reach 0 HP and then recover are Frail.
 
 A Frail character acts normally, but if reduced to 0 HP again, they die instantly. Frail characters do not recover HP through [Natural Healing](#natural-healing).
 
-Frailty is removed with a week of bed rest and medical attention by someone with a [healer’s kit](/equipment#healers-kit) and at least Heal-0 skill. In addition, someone with at least Heal-1 can make one attempt to remove Frailty with a healer's kit, an hour of labor, and a successful DC 10 DEX/[Heal](#heal) or INT/[Heal](#heal) check.
+Frailty is removed with a week of bed rest and medical attention by someone with a [healer’s kit](/equipment#healers-kit) and at least [Heal](#heal)-0 skill. In addition, someone with at least [Heal](#heal)-1 can make one attempt to remove Frailty with a healer's kit, an hour of labor, and a successful DC 10 DEX/[Heal](#heal) or INT/[Heal](#heal) check.
 
 Frail characters without this level of medical care must make a [Physical](#physical) save after a week; on a failure they die 1d6 days later, while success means they lose their Frailty after another month’s rest.
 
@@ -223,7 +223,7 @@ Most toxins force a victim to make a [Physical](#physical) saving throw to resis
 
 If the save is failed, the poison or disease takes hold. Most poisons act quickly, inflicting damage, adding [System Strain](#system-strain) to the target, or applying long-lasting penalties. Diseases have a slower onset but often apply the same sort of harms.
 
-A medic can treats a poisoned person within a minute of the poisoning with a [healer’s kit](/equipment#healers-kit) to give them a better chance to resist. They add twice their [Heal](#heal) skill level to the victim’s saving throw roll, or +1 if they have only Heal-0 skill. Once the poison takes hold, the victim has 1d4 Turns to live. The medic can counteract the toxin with an INT/[Heal](#heal) [skill check](#skill-checks) at a DC of 10 for most poisons.
+A medic can treats a poisoned person within a minute of the poisoning with a [healer’s kit](/equipment#healers-kit) to give them a better chance to resist. They add twice their [Heal](#heal) skill level to the victim’s saving throw roll, or +1 if they have only [Heal](#heal)-0 skill. Once the poison takes hold, the victim has 1d4 Turns to live. The medic can counteract the toxin with an INT/[Heal](#heal) [skill check](#skill-checks) at a DC of 10 for most poisons.
 
 ## Chases and Pursuit
 
