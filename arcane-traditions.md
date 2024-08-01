@@ -35,9 +35,20 @@ While the arts of Accursed Blade and Accursed Bolt use Magic as their combat ski
 
 ### Accursed Arts
 
-Accursed have Effort equal to their Magic skill level plus their INT, to a minimum of one point. Every Accursed gains either Accursed Bolt or Accursed Blade as a starting art, plus one more of their choice. Accursed arts may be used in or out of armor.
+Accursed have Effort equal to their Magic skill level plus their INT, to a minimum of one point. Every Accursed gains either Accursed Bolt or Accursed Blade as a starting art, plus one more of their choice. Accursed arts may be used in or out of armor. Additional arts are learned as the Accursed advances in experience.
 
-- **Accursed Blade:** As a Free action, manifest an occult melee weapon as a one-handed 1d8 weapon or a two-handed 2d6 weapon. Both add your Magic skill to the damage roll, have a Shock rating of 2/15, use Magic as the attack skill and the best of STR, DEX, or INT as its modifying attribute.
+| Level | Arts Gained                                         |
+| ----- | --------------------------------------------------- |
+| 1     | Either Accursed Blade or Accursed Bolt plus Any One |
+| 2     | Any One                                             |
+| 3     |                                                     |
+| 4     | Any One                                             |
+| 5     | Any One                                             |
+| 6     | Any One                                             |
+| 7     |                                                     |
+| 8     | Any One                                             |
+| 9     |                                                     |
+| 10    | Any One                                             |
 
 - **Accursed Blade:** As a [Free action](/combat#free-action), manifest an occult melee weapon as a one-handed 1d8 weapon or a two-handed 2d6 weapon. Both add your Magic skill to the damage roll, have a [Shock](/combat#shock) rating of 2/15, use Magic as the attack skill and the best of STR, DEX, or INT as its modifying attribute.
 - **Accursed Bolt:** Launch blasts of occult force using Magic as your attack skill and the best of STR, DEX, or INT as its modifying attribute. Their damage is 1d8 plus your Magic skill, their range is 200’, and the bolts can be thrown in melee at a -4 penalty to hit. These bolts need both hands free to hurl them.

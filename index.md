@@ -145,6 +145,7 @@ Otherwise...
 - Add the list of modules, sourced from [tenfootpole](https://tenfootpole.org/ironspike) and [beyondformalhaut](https://beyondfomalhaut.blogspot.com/).
 - Add an explanation of the grid for combat.
 - Change hit roll to attack roll.
+- Oops. Accursed get arts as they level now.
 
 #### 2024-07-30
 - Give the spell level headers unique names so the hyperlinks work.
