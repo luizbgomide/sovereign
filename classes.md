@@ -187,7 +187,7 @@ Combined with [Feats](/feats) meant to improve Shock attacks such as [Armsmaster
 
 ### Class Ability: Veteran’s Luck
 
-Once per [Turn](/rules#turn), as an [[Instant Action](/combat#instant-action)](/combat#instant-action), the Warrior may convert a missed attack they have made into a hit. Alternately, they may convert a successful attack against them into a miss, also as an [Instant Action](/combat#instant-action). This ability is particularly lethal when used with the [Make a Snap Attack](/combat#make-a-snap-attack-instant-action) action against weaker monsters, ordinary human warriors, and spell casters.
+Once per [Turn](/rules#turn), as an [[Instant Action](/combat#instant-action)](/combat#instant-action), the Warrior may convert a missed attack they have made into a hit. Alternately, they may convert a successful attack against them into a miss, also as an [Instant Action](/combat#instant-action). This ability is particularly lethal when used with the [Make a Snap Attack](/combat#make-a-snap-attack-instant) action against weaker monsters, ordinary human warriors, and spell casters.
 
 [Partial Warriors](#partial-warrior) **do not** get this ability.
 

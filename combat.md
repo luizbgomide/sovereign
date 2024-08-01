@@ -68,28 +68,28 @@ Attacks, movement, spellcasting, and other combat activities all require one of 
 
 <strong id="instant-action">Instant Actions</strong> are special, most being provided only by certain powers or certain special actions. Instant Actions can be performed even when it’s not your turn in the round, even after the dice have already been rolled. The Veteran’s Luck class ability provides one such Instant Action, allowing the Delver to treat a missed attack roll as an automatic hit. A combatant can use as many Instant Actions in a round as the GM finds plausible. Instant Actions performed at the same time are resolved simultaneously, with the GM adjudicating any ambiguities.
 
-Many actions (like [Run](/combat#run-move-action) and [Stand Up](/combat#stand-up-move-action)) allow any adjacent foes armed with a melee weapon to make a free <strong id="attack-of-opportunity">Attack of Opportunity</strong>. To avoid this, either do not be in melee range or use the [Disengage](/combat#disengage-main-action) action first.
+Many actions (like [Run](/combat#run-move) and [Stand Up](/combat#stand-up-move)) allow any adjacent foes armed with a melee weapon to make a free <strong id="attack-of-opportunity">Attack of Opportunity</strong>. To avoid this, either do not be in melee range or use the [Disengage](/combat#disengage-main) action first.
 
 ## Combat Actions
 
 | Action                                                             | Type      | Attack of Opportunity? |
 | ------------------------------------------------------------------ | --------- | ---------------------- |
-| [Make a Melee Attack](/combat#make-a-melee-attack-main-action)     | Main      | No                     |
-| [Make a Ranged Attack](/combat#make-a-ranged-attack-main-action)   | Main      | No                     |
-| [Make a Swarm Attack](/combat#make-a-swarm-attack-main-action)     | Main      | No                     |
-| [Charge](/combat#charge-special-action)                            | Move+Main | Yes                    |
-| [Use a Skill](/combat#use-a-skill-main-action)                     | Main      | Yes                    |
-| [Reload a Weapon](/combat#reload-a-weapon-main-action)             | Main      | No                     |
-| [Ready or Stow an Item](/combat#ready-or-stow-an-item-main-action) | Main      | No                     |
-| [Disengage](/combat#disengage-main-action)                         | Main      | No                     |
-| [Screen an Ally](/combat#screen-an-ally-move-action)               | Move      | Sometimes              |
-| [Run](/combat#run-move-action)                                     | Move      | Yes                    |
-| [Pick up an Item](/combat#pick-up-an-item-move-action)             | Move      | Yes                    |
-| [Stand Up](/combat#stand-up-move-action)                           | Move      | Yes                    |
-| [Hold An Action](/combat#hold-an-action-move-action)               | Move      | No                     |
-| [Go Prone](/combat#go-prone-free-action)                           | Free      | No                     |
-| [Total Defense](/combat#total-defense-instant-action)              | Instant   | No                     |
-| [Make a Snap Attack](/combat#make-a-snap-attack-instant-action)    | Instant   | No                     |
+| [Make a Melee Attack](/combat#make-a-melee-attack-main)     | Main      | No                     |
+| [Make a Ranged Attack](/combat#make-a-ranged-attack-main)   | Main      | No                     |
+| [Make a Swarm Attack](/combat#make-a-swarm-attack-main)     | Main      | No                     |
+| [Charge](/combat#charge-special)                            | Move+Main | Yes                    |
+| [Use a Skill](/combat#use-a-skill-main)                     | Main      | Yes                    |
+| [Reload a Weapon](/combat#reload-a-weapon-main)             | Main      | No                     |
+| [Ready or Stow an Item](/combat#ready-or-stow-an-item-main) | Main      | No                     |
+| [Disengage](/combat#disengage-main)                         | Main      | No                     |
+| [Screen an Ally](/combat#screen-an-ally-move)               | Move      | Sometimes              |
+| [Run](/combat#run-move)                                     | Move      | Yes                    |
+| [Pick up an Item](/combat#pick-up-an-item-move)             | Move      | Yes                    |
+| [Stand Up](/combat#stand-up-move)                           | Move      | Yes                    |
+| [Hold An Action](/combat#hold-an-action-move)               | Move      | No                     |
+| [Go Prone](/combat#go-prone-free)                           | Free      | No                     |
+| [Total Defense](/combat#total-defense-instant)              | Instant   | No                     |
+| [Make a Snap Attack](/combat#make-a-snap-attack-instant)    | Instant   | No                     |
 
 This list is not exhaustive! If you want to do something else, or a variant of any of these actions, describe what you're doing and what you are hoping to have happen, and the GM will figure out the specifics - see [the core gameplay loop](/rules#core-gameplay-loop). Normally, this involves figuring out which sort of action it takes (main, move, free, etc), whether or not it provokes an attack of opportunity, etc.
 
