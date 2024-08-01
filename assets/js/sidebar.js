@@ -260,4 +260,12 @@ function toggleSidebar() {
 window.onload = () => {
   const headroom = new Headroom(document.querySelector("#nav-header"));
   headroom.init();
+
+  document.querySelector("#sidebar").addEventListener("click", (e) => {
+    if (e.target?.localName !== "a") {
+      return;
+    }
+
+    toggleSidebar();
+  });
 };
