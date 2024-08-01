@@ -2,6 +2,10 @@ img[alt="small"] {
     width: 800px;
 }
 
+img[alt="tiny"] {
+    width: 200px;
+}
+
 ul {
     margin-bottom: 0px;
     padding-inline-start: 1.25rem;

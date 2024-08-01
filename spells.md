@@ -23,7 +23,7 @@ Every tradition has its own body of arts, and only members of that tradition can
 
 High Mages automatically learn two new spells automatically each time they advance a level. Elementalists and Necromancers learn one new spell automatically each time they advance a level.
 
-Additing additional spells to a Mage's spellbook (from a tutor or a scroll, or another mage's spellbook) requires one week per spell level, less one week per level of the learner’s Magic skill, down to a minimum of one day. They must possess to their spellbook to prepare the spell later.
+Additing additional spells to a Mage's spellbook (from a tutor or a scroll, or another mage's spellbook) requires one week per spell level, less one week per level of the learner’s [Magic](/rules#magic) skill, down to a minimum of one day. They must possess to their spellbook to prepare the spell later.
 
 If this spellbook is lost, the mage can re-create it, but it takes as much time to re-scribe each spell as it would to learn it in the first place. No special costs are required in silver or materials.
 
@@ -37,7 +37,7 @@ Preparing a new set of spells takes an hour, and can only be done after a good n
 
 ## Casting Prepared Spells
 
-Once a set of spells is prepared, the mage may cast them at their leisure. Casting a spell usually requires a Main Action, a free hand, and vocalizations as loud as normal conversation. The process is obviously occult to any onlookers, but it's impossible to tell which spell a mage is casting by meerly looking.
+Once a set of spells is prepared, the mage may cast them at their leisure. Casting a spell usually requires a [Main Action](/combat#main-action), a free hand, and vocalizations as loud as normal conversation. The process is obviously occult to any onlookers, but it's impossible to tell which spell a mage is casting by meerly looking.
 
 Casting a spell requires focus and undisturbed concentration. If a mage has taken damage or has been severely jostled in a round, they cannot cast magic that round. Thus, a mage who acts late in a round runs the risk of being hurt and having their concentration spoiled, forcing them to do something other than cast a spell when their turn comes around.
 
@@ -76,14 +76,14 @@ The spell may only affect a given target or weapon once per Turn and natural bod
 #### Control Animal
 The mage targets a visible, normal, non-magical animal or insect, obtaining temporary control of the beast and the ability to share its senses. The animal gains a telepathic bond with the caster, obeying any non-suicidal command and allowing the mage to perceive everything it perceives. The beast will not fight for the caster, but can perform complex actions entirely out of character for it while under the mage’s control.
 
-The mage must focus to share the beast’s senses, requiring a Main Action and leaving the mage unable to act physically while so focused. The spell lasts until the mage releases the beast, it is dispelled, or it is cast again.
+The mage must focus to share the beast’s senses, requiring a [Main Action](/combat#main-action) and leaving the mage unable to act physically while so focused. The spell lasts until the mage releases the beast, it is dispelled, or it is cast again.
 
 #### Create Illusion
 The mage creates a illusion at a visible location within 100 feet per caster level. The illusion can occupy a number of 10-foot cubes equal to the caster’s level and can fool sight, hearing, smell, and even touch.
 
 If onlookers have no reason to believe the illusion is false, they will unconsciously conform to its apparent physical qualities, halting before walls, reeling from imagined blows, and seeing their clothing burnt by illusory flames. The illusion will behave and act on its own in accordance with the caster’s intentions for it, but it cannot go more than a hundred feet from where it was conjured.
 
-Illusory monsters fight with the caster’s hit bonus, do 1d8 damage, have AC 10, and vanish if struck. There can be no more than one active illusionary attacker per two caster levels. Foes brought to zero HP fall unconscious and wake up ten minutes later with 1 HP.
+Illusory monsters fight with the caster’s attack bonus, do 1d8 damage, have AC 10, and vanish if struck. There can be no more than one active illusionary attacker per two caster levels. Foes brought to zero HP fall unconscious and wake up ten minutes later with 1 HP.
 
 Creatures convinced the illusion is false can make a Mental saving throw each round to reject its psychic influences, becoming immune to its effects. The illusion lasts until dispelled, the caster drops it, or this spell is cast again.
 
@@ -98,7 +98,7 @@ The mage focuses on a visible living creature within 100 feet per caster level. 
 The caster may ask one question of the target’s memories per caster level, but doing so risks breaking the spell; the target can make a Mental save before answering each question and the spell ends if the save is successful. These questions can only query memories, not compel any exercise of judgment. This spell is very subtle in its casting, and requires no gestures or audible incantations.
 
 #### Dominate Person
-The mage targets a visible living creature within 100 feet. The subject must immediately make a Mental saving throw at a penalty equal to the caster’s Magic skill or become enthralled to the caster’s will. Such victims will obey any physical commands issued by the caster, barring ones that seem suicidal or patently meant to result in their death.
+The mage targets a visible living creature within 100 feet. The subject must immediately make a Mental saving throw at a penalty equal to the caster’s [Magic](/rules#magic) skill or become enthralled to the caster’s will. Such victims will obey any physical commands issued by the caster, barring ones that seem suicidal or patently meant to result in their death.
 
 The caster cannot order the creature to answer questions or perform acts that require independent judgment, nor to use non-physical abilities or spells, but it will fight for the caster or to defend its own life. Enchanted victims appear torpid and dazed, and will act only to defend themselves or satisfy their needs.
 
@@ -107,32 +107,32 @@ The spell lasts until dispelled, or until the caster dies or releases them. Ever
 #### Dominate Sense
 The caster targets a visible creature within two hundred feet. The target gets a Mental saving throw to resist; on a failure, one sense of the caster’s choice is entirely under the caster’s control for the rest of the Turn, while a success leaves them bound only for the next round.
 
-Any false impression may be given, or any true one concealed, and a creature may be left effectively blinded or deafened. Distracting tactile sensations can force the victim to make a Physical saving throw in order to act each round. Blinded creatures can’t make ranged attacks and roll all melee hit rolls twice, taking the worst result. If a creature thinks itself in mortal peril its excitement allows it to make a Mental save to throw off the spell at the end of each round.
+Any false impression may be given, or any true one concealed, and a creature may be left effectively blinded or deafened. Distracting tactile sensations can force the victim to make a Physical saving throw in order to act each round. Blinded creatures can’t make ranged attacks and roll all melee attack rolls twice, taking the worst result. If a creature thinks itself in mortal peril its excitement allows it to make a Mental save to throw off the spell at the end of each round.
 
 #### Invisibility
 The mage chooses up to one visible willing target per caster level provided they are within 100 feet. The targets and all they wear or carry become perfectly transparent.
 
-Missile attacks against invisible foes are largely impossible, and melee attacks against them usually suffer a -4 penalty to hit rolls. The spell lasts for up to an hour per caster level, but it breaks if a subject performs some violent motion, such as running, attacking, or casting a spell. Once broken for one subject, it breaks for all.
+Missile attacks against invisible foes are largely impossible, and melee attacks against them usually suffer a -4 penalty to attack rolls. The spell lasts for up to an hour per caster level, but it breaks if a subject performs some violent motion, such as running, attacking, or casting a spell. Once broken for one subject, it breaks for all.
 
 #### See Magic
 The mage opens up their mind to the presence of occult energies. For one Turn per character level, they are capable of seeing active magical effects, curses, or other enchantments as colored auras or patterns of light.
 
-They may identify magical items and get a one-sentence description of their purpose or most significant powers, and get more sophisticated answers with successful WIS/Magic skill checks at difficulties of 8 or more depending on the subtlety of the enchantment. Mages with prepared spells are visible to the caster, though which spells the subject might have prepared is not knowable. As a side effect of this spell, the ambient thaumic currents cast enough quasi-light to allow the caster to see normally even in perfect darkness.
+They may identify magical items and get a one-sentence description of their purpose or most significant powers, and get more sophisticated answers with successful WIS/[Magic](/rules#magic) skill checks at difficulties of 8 or more depending on the subtlety of the enchantment. Mages with prepared spells are visible to the caster, though which spells the subject might have prepared is not knowable. As a side effect of this spell, the ambient thaumic currents cast enough quasi-light to allow the caster to see normally even in perfect darkness.
 
 #### Sleep
-The mage designates a visible point within two hundred feet. A silent, invisible burst of soporific influence erupts from that point, targeting all living creatures within a twenty-foot radius. All such targets with 4 or fewer HD within that area fall unconscious instantly, and are roused only by damage or by a Main Action used to kick them awake.
+The mage designates a visible point within two hundred feet. A silent, invisible burst of soporific influence erupts from that point, targeting all living creatures within a twenty-foot radius. All such targets with 4 or fewer HD within that area fall unconscious instantly, and are roused only by damage or by a [Main Action](/combat#main-action) used to kick them awake.
 
 If not roused, they revive at the end of the Turn. Entities that do not sleep are immune to this spell.
 
 #### Speed
-Unlike most spells, Speed may be cast as a Free action, targeting up to one visible willing creature per caster level within one hundred feet.
+Unlike most spells, Speed may be cast as a [Free Action](/combat#free-action), targeting up to one visible willing creature per caster level within one hundred feet.
 
 Enchanted creatures become incredibly fleet of foot, doubling their usual ground movement rate and becoming capable of running up walls and across ceilings without falling, provided they end their round upright on a navigable surface.
 
 They may also move away from melee opponents without needing to make a Fighting Withdrawal to avoid a parting attack, and may pass through and around armed foes who do not completely physically block their path. The spell lasts for the remainder of the Turn and adds 1 [System Strain](/rules#system-strain) to those who take advantage of it.
 
 #### Stasis
-Stasis may be cast as a Free action and targets a single willing or helpless creature the caster is touching. The subject is shifted out of the flow of conventional time, freezing and being limned in a pale sepia light. They and all their carried possessions are rendered impervious to all non-magical harm and are frozen in temporal stasis until the spell ends or is dispelled. Enchanted creatures are quite light, counting as only four items of Encumbrance due to their unwieldiness.
+Stasis may be cast as a [Free Action](/combat#free-action) and targets a single willing or helpless creature the caster is touching. The subject is shifted out of the flow of conventional time, freezing and being limned in a pale sepia light. They and all their carried possessions are rendered impervious to all non-magical harm and are frozen in temporal stasis until the spell ends or is dispelled. Enchanted creatures are quite light, counting as only four items of Encumbrance due to their unwieldiness.
 
 The spell ends when the mage releases it, or up to a maximum of one day per caster level. If cast on himself, the mage cannot end it before the full duration expires.
 
@@ -152,7 +152,7 @@ Unattended objects can be teleported by the spell, but they can be no larger tha
 #### Dispel Magic
 The caster sweeps away all unwanted magical effects and enchantments within a twenty-foot radius, centered on any visible point within one hundred feet per level.
 
-If the magical effect was cast by a creature with equal or fewer HD, the effect is negated automatically. Otherwise, make an opposed INT/Magic skill check, with higher-leveled caster gaining a +2 bonus and the dispeller getting a +1 bonus.
+If the magical effect was cast by a creature with equal or fewer HD, the effect is negated automatically. Otherwise, make an opposed INT/[Magic](/rules#magic) skill check, with higher-leveled caster gaining a +2 bonus and the dispeller getting a +1 bonus.
 
 This spell is not strong enough to permanently suppress standing magical effects, and requires the aforementioned contested roll to temporarily suppressing them. If successful, the effect is negated for 1d6 rounds. If cast on a very large enchantment, only the portion within the spell’s zone of effect is suppressed.
 
@@ -160,7 +160,7 @@ This spell is not strong enough to permanently suppress standing magical effects
 The caster and up to three visible allies per caster level are shielded from hostile elemental energies, becoming immune to mundane extremes of heat, cold, natural acids, and electrical discharges. Against magical harm of this nature, they automatically take only half the damage they normally would, or none if they make a successful Physical saving throw. This spell lasts for one hour per caster level.
 
 #### Fake Death
-Fake Death may be cast as an Instant action and targets either the caster or a willing visible target. It can only be used in immediate response to an injury that reduces the target to zero HP.
+Fake Death may be cast as an [Instant Action](/combat#instant-action) and targets either the caster or a willing visible target. It can only be used in immediate response to an injury that reduces the target to zero HP.
 
 The target suffers dramatic and ostentatiously obvious death, with mortal blows cleaving them asunder or gorily butchering them. They are dead to all mundane or magical examination. Up to two hours later however, at the target’s discretion, the various remains of the target flow back together and restore their body with two HP per caster level and two additional [System Strain](/rules#system-strain) points gained.
 
@@ -176,7 +176,7 @@ It lasts until dusk, dawn, or until the statue of the god is struck or insulted,
 #### Haste
 The caster imbues one visible ally per caster level with a burst of tremendous speed as their localized time begins to flow more rapidly.
 
-For 1d4+1 rounds, all subjects get an extra Main Action. This Main Action may not be used to cast spells or use arts. This spell severely taxes those who take advantage of it, adding 1 [System Strain](/rules#system-strain) for each round in which the recipient takes the bonus action.
+For 1d4+1 rounds, all subjects get an extra [Main Action](/combat#main-action). This [Main Action](/combat#main-action) may not be used to cast spells or use arts. This spell severely taxes those who take advantage of it, adding 1 [System Strain](/rules#system-strain) for each round in which the recipient takes the bonus action.
 
 #### Scry
 A pool of water, mirror, open flame, polished crystal, or other luminous or reflective surface is used to peer at a distant location. The location must either be within one hundred feet per caster level or be a location the caster has physically occupied before.
@@ -192,7 +192,7 @@ A visible willing creature within thirty feet is surrounded by a whirl of razor-
 
 Anyone who attempt to touch the target or make a melee attack against them must make an Evasion saving throw or suffer 1d6 damage plus the caster’s level before resolving their attack. The field of blades is indiscriminate and will affect even allies trying to touch the target.
 
-The blades remain as long as the target gives up a Move Action each round in order to avoid disrupting them from within, up to a maximum of one Turn.
+The blades remain as long as the target gives up a [Move Action](/combat#move-action) each Round in order to avoid disrupting them from within, up to a maximum of one Turn.
 
 #### Suggestion
 The caster makes a single one-sentence statement as part of casting this spell, a process which is subtle enough to appear as no more than ordinary conversation.
@@ -226,7 +226,7 @@ If the vine wall is summoned from earth that could plausibly support plant life,
 #### Arctic Circle
 The caster invokes a gust of deepest winter on a point within one hundred feet per level, freezing everything in a radius up to ten feet per caster level.
 
-All liquids freeze solid down to a depth of two feet and all living creatures not impervious to arctic cold must suffer 1d6 damage per two levels of the caster, with a Physical save for half damage. Those who fail their Physical saves are numbed by the cold and lose their Move action each round for the next 1d4 rounds.
+All liquids freeze solid down to a depth of two feet and all living creatures not impervious to arctic cold must suffer 1d6 damage per two levels of the caster, with a Physical save for half damage. Those who fail their Physical saves are numbed by the cold and lose their [Move Action](/combat#move-action) each round for the next 1d4 rounds.
 
 The frozen area warms again at the usual rate for the surrounding environment.
 
@@ -242,7 +242,7 @@ A single visible living creature is smote with a hideous curse of torment. Boils
 
 If they perform any vigorous physical action save movement they incur two points of damage per caster level from the effects of the curse, damage which can be suffered no more than once per round by a target.
 
-A creature may spend its Main Action to attempt a Physical save to throw off the curse, but on a failure, the curse remains for the rest of the Turn. If the creature has fewer HD than the caster has levels, a single failed save means the curse lasts indefinitely, until dispelled or until the caster releases them.
+A creature may spend its [Main Action](/combat#main-action) to attempt a Physical save to throw off the curse, but on a failure, the curse remains for the rest of the Turn. If the creature has fewer HD than the caster has levels, a single failed save means the curse lasts indefinitely, until dispelled or until the caster releases them.
 
 #### Fear
 A wave of numbing terror sweeps over all enemies of the caster within forty feet.
@@ -257,7 +257,7 @@ A flattened disc of tremendous heat, sound, and shock is triggered at a visible 
 Everything within the area suffers 1d8 damage from flame, concussion, and sonic shock per caster level, with an Evasion save for half. If used in a space less than 40 feet in width, the explosion is channeled through adjacent spaces and passages for an additional 1d6 x 10 feet.
 
 #### Magic Wall
-The caster must form some sort of line as part of this spell’s invocation, either with dropped powders or a trace drawn in the dirt or a more permanent inlay into a floor. The caster can make such a line as part of a Move action, tracing it out or scattering powder as they go. The line itself may be no longer than twenty feet per caster level, and may be straight or curved as the caster wishes.
+The caster must form some sort of line as part of this spell’s invocation, either with dropped powders or a trace drawn in the dirt or a more permanent inlay into a floor. The caster can make such a line as part of a [Move Action](/combat#move-action, tracing it out or scattering powder as they go. The line itself may be no longer than twenty feet per caster level, and may be straight or curved as the caster wishes.
 
 Once it has been drawn, Magic Wall empowers the line with the ability to ward off a particular target and prevent them or their powers from crossing or being made to cross the line, as if it were a physical wall. The caster can nominate any kind of target to be warded that could be distinguished without need for knowing their thoughts, such as “humans” or “non-humans” or “men wearing the livery of the baron”.
 
@@ -266,7 +266,7 @@ The barrier extends a hundred feet upward and ten feet downward and blocks any a
 #### Message
 This spell calls forth a floating set of colored glass chimes. The caster alone may strike them, producing sounds of great subtlety and clarity. The caster may allow anyone within ten miles per level to hear the music, or may make it inaudible to anyone save specific targets within range.
 
-Such is the expressiveness of the chimes that those who hear them instantly understands the caster’s desired message, however abstract. If the caster strikes the chimes violently as a Main Action, they shatter them, causing a deafening clamor that does 3d6 damage to all non-deaf targets within forty feet except for the caster.
+Such is the expressiveness of the chimes that those who hear them instantly understands the caster’s desired message, however abstract. If the caster strikes the chimes violently as a [Main Action](/combat#main-action), they shatter them, causing a deafening clamor that does 3d6 damage to all non-deaf targets within forty feet except for the caster.
 
 The chimes persist until shattered or the Turn ends.
 
@@ -298,26 +298,26 @@ The caster and up to one visible ally per caster level are briefly granted the a
 
 For the rest of the Turn, those affected can move in such a way, remaining suspended in the air after their movement for the round. When the spell ends, either naturally or upon being dispelled, all affected targets float gently to the ground.
 
-Optionally, the caster can instead use this spell on one visible flying creature per caster level, which must make a Physical save at a penalty equal to the caster’s Magic skill or be forced to land as they had fallen half the distance they had descended. For the rest of the Turn, such creatures remain grounded and unable to fly.
+Optionally, the caster can instead use this spell on one visible flying creature per caster level, which must make a Physical save at a penalty equal to the caster’s [Magic](/rules#magic) skill or be forced to land as they had fallen half the distance they had descended. For the rest of the Turn, such creatures remain grounded and unable to fly.
 
 ### Level 4 - High Magic
 
 #### Control Wind
 Conjure a fierce gust of wind in a line a hundred feet long and thirty feet wide.
 
-All creatures of man-size or smaller must make Physical saves or be bowled over and blown back thirty feet, losing their next round’s Main Action and suffering 1d6 damage. Light wooden constructions or similar structures are flattened by the wind.
+All creatures of man-size or smaller must make Physical saves or be bowled over and blown back thirty feet, losing their next round’s [Main Action](/combat#main-action) and suffering 1d6 damage. Light wooden constructions or similar structures are flattened by the wind.
 
 If used outdoors, the spell can instead control the local weather, transforming the quarter-mile around the caster into any climate found normally at that location at any point during the year. The spell cannot summon a tornado or other extreme weather, but it can call rain and conventional storms sufficient to cause flooding in areas prone to it. The gust of wind is instantaneous, but the weather change lasts for one hour per caster level before reverting to its natural state.
 
 #### Delayed Dispel Magic
-The caster sets up a triggered resonance of dispelling magic which may later be invoked as an Instant action. Until the next dawn, the mage may negate magic as if with a [Dispel Magic](#dispel-magic---level-4) spell as an Instant action. Once this negation is triggered, the spell ends.
+The caster sets up a triggered resonance of dispelling magic which may later be invoked as an [Instant Action](/combat#instant-action). Until the next dawn, the mage may negate magic as if with a [Dispel Magic](#dispel-magic---level-4) spell as an [Instant Action](/combat#instant-action). Once this negation is triggered, the spell ends.
 
 #### Geas
 A single visible living creature is struck with a grim geas, forcing it to comply with a particular command or else suffer a progressively-worse affliction.
 
 The caster lays one single-sentence command on the target that is neither suicidal, indefinitely imprecise, nor likely physically impossible for them to comply with. Thus, the caster could geas a man to kill his son or never seek to harm his lord, but he could not reasonably command a peasant to become king or bind someone to forever after comply with a master’s arbitrary commands.
 
-If the target then defies that geas or unreasonably delays its execution, they suffer an agonizing progressive wasting disease that will inevitably kill them in 1d6 weeks, applying -2 to their hit rolls and -1 to skill checks for each week that passes and halving their maximum HP. If they again begin complying with the geas afterwards or if the curse is lifted, the disease halts and reverses itself at the same rate it progressed.
+If the target then defies that geas or unreasonably delays its execution, they suffer an agonizing progressive wasting disease that will inevitably kill them in 1d6 weeks, applying -2 to their attack rolls and -1 to skill checks for each week that passes and halving their maximum HP. If they again begin complying with the geas afterwards or if the curse is lifted, the disease halts and reverses itself at the same rate it progressed.
 
 An active target can make a Mental save to resist this spell, but they cannot if they are restrained, unconscious, or otherwise subdued. The curse lasts until dispelled or the caster lifts it.
 
@@ -338,7 +338,7 @@ If used on a cabinet, backpack, pocket, or other such container it can be no lar
 If used on a creature, it attempts to tear out the subject’s innards; if the subject has equal or fewer HD than the caster, it must make a Physical save or die instantly. Whether or not it perishes, it suffers 1d10 damage per caster level, with a Physical save for half.
 
 #### Rewind
-The caster may invoke this spell as an Instant action on any single creature within one hundred feet. Time is rolled back slightly, allowing them to replay their current round of action as if it never occurred, though all involved retain a memory of what originally happened.
+The caster may invoke this spell as an [Instant Action](/combat#instant-action) on any single creature within one hundred feet. Time is rolled back slightly, allowing them to replay their current round of action as if it never occurred, though all involved retain a memory of what originally happened.
 
 This spell is only useful on targets that are currently taking their round’s actions; once they’ve finished for the round and another creature has started acting, it is too late to benefit from this spell. If the target is unwilling to roll back their action, they make a Mental saving throw to resist the spell.
 
@@ -347,7 +347,7 @@ The caster opens a short-ranged spatial rift between two points within one hundr
 
 The rift forms a gateway that connects the two points, large enough to drive a cart through, and allows subjects on either side to see through and pass through the gate. Ambient environmental qualities such as liquids or atmospheres will not pass through the portal; only intentionally-directed creatures and objects will transfer.
 
-The portal remains open for up to one round per caster level, but can be shut as an Instant action by the caster. Creatures partially in a rift when it closes are spat out on the far side.
+The portal remains open for up to one round per caster level, but can be shut as an [Instant Action](/combat#instant-action) by the caster. Creatures partially in a rift when it closes are spat out on the far side.
 
 #### Summon Creature
 The caster conjures up a semi-real phantasmal creature in any shape or appearance they desire, provided it is no larger than an ox.
@@ -382,7 +382,7 @@ Only living creatures and the vehicles they drive and objects they carry may pas
 #### Impenatrable Dome
 The caster hurls up a magical shield that is impervious to almost all hostile powers.
 
-Unlike most sorceries, this spell can be cast as an Instant action, and immediately creates a transparent bubble of force around the caster with up to a twenty-foot radius.
+Unlike most sorceries, this spell can be cast as an [Instant Action](/combat#instant-action), and immediately creates a transparent bubble of force around the caster with up to a twenty-foot radius.
 
 Entities and forces outside the bubble cannot penetrate it, and the interior remains a warm, breathable, safe environment regardless of the exterior. Those within the bubble can pass out of it, but they cannot then return within. The bubble can be dispelled by appropriate magics, but other enchantments and attacks cannot harm it, nor can magical effects or material objects pass through it from either direction.
 
@@ -423,7 +423,7 @@ This spell cannot be cast indoors, and is extremely hazardous to the caster; the
 #### Elemental Spy
 The elementalist enchants a stone, ounce of liquid, flame no smaller than a candleflame, or a particular plume of smoke or incense.
 
-For one day per level, so long as the charmed object is not destroyed, dispersed, or consumed, they can as a Main Action see and listen to anything around the object as if they were standing there.
+For one day per level, so long as the charmed object is not destroyed, dispersed, or consumed, they can as a [Main Action](/combat#main-action) see and listen to anything around the object as if they were standing there.
 
 #### Flame Scrying
 The elementalist becomes aware of the approximate locations of all open flames within thirty feet per caster level.
@@ -504,7 +504,7 @@ A visible target within one hundred feet must make a Physical saving throw or be
 
 Any size of living creature may be so transmuted, though inanimate objects larger than a cart cannot. Objects being held or worn by someone else get a Physical saving throw made by their user. The calcification remains until dispelled or the caster undoes the magic, but if the object or creature is damaged in the meanwhile, it may end up being harmed or killed on its restoration.
 
-If the Physical saving throw is made successfully by a creature, the target is temporarily slowed, losing its Move action for the next 1d6 rounds.
+If the Physical saving throw is made successfully by a creature, the target is temporarily slowed, losing its [Move Action](/combat#move-action) for the next 1d6 rounds.
 
 #### Elemental Guardian
 The elementalist imbues a human-sized mass of earth, water, fire, or air with a crude awareness and an eagerness to defend them.
@@ -540,7 +540,7 @@ The molten remnants of the spell remain after this duration, a hazard for whomev
 #### Command the Dead
 The necromancer exerts their will over a number of HD worth of undead equal to twice their character level.
 
-These undead must be visible and within one hundred feet of the caster. Undead get a Mental saving throw to resist this binding, at a penalty equal to the caster’s Magic skill. Creatures only partially-bewitched by the spell due to their excess HD merely stand dazed for a round. Those fully within the HD cap who are affected become suicidally loyal to the necromancer until they are released by the caster.
+These undead must be visible and within one hundred feet of the caster. Undead get a Mental saving throw to resist this binding, at a penalty equal to the caster’s [Magic](/rules#magic) skill. Creatures only partially-bewitched by the spell due to their excess HD merely stand dazed for a round. Those fully within the HD cap who are affected become suicidally loyal to the necromancer until they are released by the caster.
 
 Regardless of how often the caster uses this spell, they may have no more than twice their level worth of HD bound at any one time, with the oldest-enchanted being first released.
 
@@ -570,7 +570,7 @@ This spell may not be used twice on the same corpse.
 #### Augment Vitality
 The necromancer refines and enhances the natural flow of vitality within a willing visible target.
 
-For the rest of the Turn, all Physical saving throws they make gain a bonus equal to the necromancer’s Magic skill and they automatically stabilize when Mortally Wounded. Once during the Turn, as an Instant action, they immediately heal from all damage inflicted by an injury that did not Mortally Wound them.
+For the rest of the Turn, all Physical saving throws they make gain a bonus equal to the necromancer’s [Magic](/rules#magic) skill and they automatically stabilize when Mortally Wounded. Once during the Turn, as an [Instant Action](/combat#instant-actin)o, they immediately heal from all damage inflicted by an injury that did not Mortally Wound them.
 
 The recipient of this spell gains one [System Strain](/rules#system-strain).
 
@@ -598,7 +598,7 @@ A necromancer cannot have more active subjects of this spell than their characte
 #### Dominate Flesh
 A visible living creature or physically-bodied undead within 100 feet is ensorceled by this spell, their flesh and bones becoming temporarily enthralled to the caster’s will.
 
-The target becomes paralyzed unless commanded by the caster as a Free action; once given a command, their body will dutifully carry it out on their next Turn. The user’s mind is not affected by this spell, so they cannot be made to cast spells, answer questions, or perform other intellectual tasks, but they will fight, move, and perform other non-suicidal physical acts as normal. The target may make a Physical saving throw at the start of each of their Turns to throw off the effect, but they will inevitably suffer one point of damage per caster level with each attempt as their flesh writhes and tears.
+The target becomes paralyzed unless commanded by the caster as a [Free Action](/combat#free-action); once given a command, their body will dutifully carry it out on their next Turn. The user’s mind is not affected by this spell, so they cannot be made to cast spells, answer questions, or perform other intellectual tasks, but they will fight, move, and perform other non-suicidal physical acts as normal. The target may make a Physical saving throw at the start of each of their Turns to throw off the effect, but they will inevitably suffer one point of damage per caster level with each attempt as their flesh writhes and tears.
 
 If not thrown off earlier, the spell lasts until the end of the Turn.
 
@@ -612,7 +612,7 @@ Creatures with more HD than the necromancer has levels can make a Physical save 
 #### Forgetting the Grave
 Temporarily suspend the mortality of a willing target within sight.
 
-For one round per Necromancer level, the creature simply cannot die, no matter how drastic their injuries. Those reduced to zero HP lose their Move action each Round but can continue to act otherwise; if such a target is damaged yet again, they must make a Physical saving throw each time or become incapable of movement until healed.
+For one round per Necromancer level, the creature simply cannot die, no matter how drastic their injuries. Those reduced to zero HP lose their [Move Action](/combat#move-action) each Round but can continue to act otherwise; if such a target is damaged yet again, they must make a Physical saving throw each time or become incapable of movement until healed.
 
 At the spell’s end targets reduced to zero HP are Mortally Injured; those that have been dismembered or otherwise slaughtered beyond the hope of survival die instantly.
 
@@ -628,7 +628,7 @@ The power ends at daybreak; if dispelled sooner, the remaining pool is split pro
 #### Boneshape
 The clay of flesh and bone run obediently to the will of the necromancer.
 
-Whether living or undead, a willing or helpless victim under the effects of this spell can be reshaped into any roughly-equivalent form with an hour’s work. Limbs can be added or removed and existing tissue can be recolored, re-textured, or rearranged to the necromancer’s wishes. Perfect imitation of a particular creature requires a DEX/Magic skill check against difficulty 10. This spell is limited in the physical changes it can effect; a bonus of +1 can be added to a physical attribute at the cost of a -1 penalty to a different physical attribute, to a maximum of +2 or -2.
+Whether living or undead, a willing or helpless victim under the effects of this spell can be reshaped into any roughly-equivalent form with an hour’s work. Limbs can be added or removed and existing tissue can be recolored, re-textured, or rearranged to the necromancer’s wishes. Perfect imitation of a particular creature requires a DEX/[Magic](/rules#magic) skill check against difficulty 10. This spell is limited in the physical changes it can effect; a bonus of +1 can be added to a physical attribute at the cost of a -1 penalty to a different physical attribute, to a maximum of +2 or -2.
 
 This spell lasts until the necromancer lifts it or it is dispelled.
 
@@ -647,7 +647,7 @@ The necromancer invokes the inescapable urge for self-dissolution within the sub
 All enemy creatures within forty feet are affected. Targets make a Physical saving throw to resist, in which case the effects last only one round, otherwise lasting for one round per caster level. During this time all attacks made against the victims automatically hit and all damage dice they suffer are maximized. Any special defenses they may have against mundane weapons or certain types of injury are negated while the spell is on them.
 
 #### Everlasting
-The spell may be triggered as an Instant action by the caster, imparting a burst of unquenchable life force to all allied creatures within 50 feet.
+The spell may be triggered as an [Instant Action](/combat#instant-action) by the caster, imparting a burst of unquenchable life force to all allied creatures within 50 feet.
 
 For the next five rounds, no affected ally can be reduced below 1 HP, regardless of the damage inflicted upon them. At the end of the spell’s effect, the caster’s own life energy is exhausted, leaving them with only 1 HP.
 
