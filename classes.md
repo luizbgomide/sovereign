@@ -105,7 +105,7 @@ Mages roll `1d6-1` for [HP Progression](/rules#hp-progression).
 
 ### Partial Mage
 
-A Partial Mage is treated as a Mage, and picks an [Arcane Tradition](/arcane-tradition) for their powers. That tradition’s abilities will be more limited for Partial Mages, however, as described under each of the paths.
+A Partial Mage is treated as a Mage, and picks an [Arcane Tradition](/arcane-traditions) for their powers. That tradition’s abilities will be more limited for Partial Mages, however, as described under each of the paths.
 
 You may pick the Partial Mage class twice for two different magical traditions. In this case, use the following table instead of the one listed in the partial class.
 

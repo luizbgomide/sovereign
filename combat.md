@@ -227,11 +227,11 @@ An attack that hits never does less damage than the Shock that would have been i
 
 ### Shoving
 
-To knock a target down or force them elsewhere, the attacker must first hit the target normally for no damage and then succeed in an opposed STR/Brawl or STR/Exert skill check. If the attacker succeeds in the skill check, the target is forced into an adjacent square or knocked prone.
+To knock a target down or force them into an adjacent square, the attacker needs a successful attack roll. Then, in lieu of damage, roll an opposed STR/Brawl or STR/Exert skill check. If the attacker succeeds, the target is forced into an adjacent square or knocked prone.
 
 ### Grappling
 
-To grapple a foe, the attacker must first hit with an unarmed attack, doing no damage, and then both must make opposed STR/Brawl skill checks. If the attacker wins, the defender is grappled and remains that way until released or until they spend a Main Action and succeed in a new opposed check. An attacker can grapple only one target at a time, though multiple attackers can cling to the same luckless defender. In such cases, the defender’s single skill check is compared against all of their foes.
+To grapple a foe, the attacker must first hit with an unarmed attack. In lieu of damage, make opposed STR/Brawl skill checks. If the attacker wins, the defender is grappled and remains that way until released or until they spend a Main Action and succeed in a new opposed check. An attacker can grapple only one target at a time, though multiple attackers can cling to the same luckless defender. In such cases, the defender’s single skill check is compared against all of their foes.
 
 While grappling, neither attackers or defenders can move from their current location, nor can they fight with anything but unarmed attacks. At the end of each round in which a defender remains grappled, they suffer damage from each attacker as if hit with an unarmed attack from each foe grappling them.
 
@@ -245,7 +245,7 @@ Some attackers prefer to use two weapons at once. Delvers who wish to do so must
 
 When making an attack while dual-wielding, the attacker chooses which weapon they wish to use, rolling the attack roll accordingly. On a hit, the weapon does +2 damage so long as the target is within range of both wielded weapons. This bonus does not add to Shock.
 
-Managing two weapons at once is difficult, and applies a -1 penalty to all hit rolls.
+Managing two weapons at once is difficult, and applies a -1 penalty to all attack rolls.
 
 ### Execution Attacks
 

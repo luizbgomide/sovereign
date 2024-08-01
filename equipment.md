@@ -55,9 +55,9 @@ This chart represents the party's ability to both buy *and sell* in a market, so
 
 ## Weapons
 
-Each of the weapons on the following chart has a listed damage it inflicts on a successful hit, an amount of [Shock](/combat#shock) inflicted on a miss to targets with an [AC](#armor-class) equal or less than that given, and a particular attribute relevant to the weapon’s use. That attribute’s [modifier](/rules#attribute-modifiers) is applied to all hit rolls, damage rolls, and Shock inflicted by the weapon. If more than one attribute is listed, the wielder uses whichever is better.
+Each of the weapons on the following chart has a listed damage it inflicts on a successful hit, an amount of [Shock](/combat#shock) inflicted on a miss to targets with an [AC](#armor-class) equal or less than that given, and a particular attribute relevant to the weapon’s use. That attribute’s [modifier](/rules#attribute-modifiers) is applied to all attack rolls, damage rolls, and Shock inflicted by the weapon. If more than one attribute is listed, the wielder uses whichever is better.
 
-Ranged weapons have both short and long ranges listed in feet. Attacking a target within short range is done at no penalty, while hitting a target at long range is done with a -2 penalty to the hit roll. Ranged weapons cannot be used while an enemy is locked in melee with the wielder.
+Ranged weapons have both short and long ranges listed in feet. Attacking a target within short range is done at no penalty, while hitting a target at long range is done with a -2 penalty to the attack roll. Ranged weapons cannot be used while an enemy is locked in melee with the wielder.
 
 Some weapons have additional unique traits, perhaps being particularly slow to reload, or requiring two hands to wield correctly, or being easily hidden in common clothing. The GM might choose to apply these traits to improvised weapons snatched up by the PCs if any of them seem appropriate.
 
@@ -94,7 +94,7 @@ Some weapons have additional unique traits, perhaps being particularly slow to r
 - **R**: Reload. The weapon takes a Move action to reload. If the user has at least Shoot-1 skill, they can reload as a Free action instead.
 - **S**: Subtle. Easily hidden in clothing or jewelry.
 - **SR**: Slow Reload. It takes a Main Action to reload this weapon. SS: Single Shot. This weapon takes ten rounds to reload, and the reloading effort is spoiled if an enemy melees the wielder.
-- **T**: Throwable. While the weapon can be used in melee, it may be thrown out to the listed range as well, albeit it does no Shock in that case. Throwing a weapon while in melee applies a -4 penalty to the hit roll.
+- **T**: Throwable. While the weapon can be used in melee, it may be thrown out to the listed range as well, albeit it does no Shock in that case. Throwing a weapon while in melee applies a -4 penalty to the attack roll.
 
 Military oil may be ignited and thrown with a DEX/Shoot attck, dealing 1d8 damage for 2 rounds to the target. If the attack fails, it lands in a random adjacent square and deals 1d3 damage to that square and all adjacent squares.
 

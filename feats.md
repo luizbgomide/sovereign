@@ -124,7 +124,7 @@ You have a minor spirit, devil, construct, magical beast, or other creature as a
 - **Level 1**: Choose a form for your familiar no smaller than a cat nor larger than a human. It has the traits and abilities of an entity created by [Summon Familiar](/spells#summon-familiar) but may be summoned or dismissed as a Main Action, appearing within melee range of its owner. It cannot carry objects with it during its vanishment aside from the clothing natural to its shape. It has no need for food, water, or sleep. If killed, it vanishes and cannot be re-summoned for 24 hours. Once per day, it can refresh one point of Committed Effort for you.
 - **Level 2**: Pick two benefits from the list below for your familiar. This level may be taken more than once, adding two additional options each time.
   - It has HP equal to three times your level
-  - It gains the ability to attack with a hit bonus equal to half your level, rounded up, doing 1d8 damage on a hit with no Shock
+  - It gains the ability to attack with a attack bonus equal to half your level, rounded up, doing 1d8 damage on a hit with no Shock
   - It gains a +1 skill check bonus and can apply it to a range of situations equivalent to one normal human profession
   - It gains another shape of your choice which it can adopt or discard as a Free action
   - It can hover or fly at its usual movement rate

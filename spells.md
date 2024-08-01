@@ -85,7 +85,7 @@ The mage creates a illusion at a visible location within 100 feet per caster lev
 
 If onlookers have no reason to believe the illusion is false, they will unconsciously conform to its apparent physical qualities, halting before walls, reeling from imagined blows, and seeing their clothing burnt by illusory flames. The illusion will behave and act on its own in accordance with the caster’s intentions for it, but it cannot go more than a hundred feet from where it was conjured.
 
-Illusory monsters fight with the caster’s hit bonus, do 1d8 damage, have AC 10, and vanish if struck. There can be no more than one active illusionary attacker per two caster levels. Foes brought to zero HP fall unconscious and wake up ten minutes later with 1 HP.
+Illusory monsters fight with the caster’s attack bonus, do 1d8 damage, have AC 10, and vanish if struck. There can be no more than one active illusionary attacker per two caster levels. Foes brought to zero HP fall unconscious and wake up ten minutes later with 1 HP.
 
 Creatures convinced the illusion is false can make a Mental saving throw each round to reject its psychic influences, becoming immune to its effects. The illusion lasts until dispelled, the caster drops it, or this spell is cast again.
 
@@ -109,12 +109,12 @@ The spell lasts until dispelled, or until the caster dies or releases them. Ever
 #### Dominate Sense
 The caster targets a visible creature within two hundred feet. The target gets a Mental saving throw to resist; on a failure, one sense of the caster’s choice is entirely under the caster’s control for the rest of the Turn, while a success leaves them bound only for the next round.
 
-Any false impression may be given, or any true one concealed, and a creature may be left effectively blinded or deafened. Distracting tactile sensations can force the victim to make a Physical saving throw in order to act each round. Blinded creatures can’t make ranged attacks and roll all melee hit rolls twice, taking the worst result. If a creature thinks itself in mortal peril its excitement allows it to make a Mental save to throw off the spell at the end of each round.
+Any false impression may be given, or any true one concealed, and a creature may be left effectively blinded or deafened. Distracting tactile sensations can force the victim to make a Physical saving throw in order to act each round. Blinded creatures can’t make ranged attacks and roll all melee attack rolls twice, taking the worst result. If a creature thinks itself in mortal peril its excitement allows it to make a Mental save to throw off the spell at the end of each round.
 
 #### Invisibility
 The mage chooses up to one visible willing target per caster level provided they are within 100 feet. The targets and all they wear or carry become perfectly transparent.
 
-Missile attacks against invisible foes are largely impossible, and melee attacks against them usually suffer a -4 penalty to hit rolls. The spell lasts for up to an hour per caster level, but it breaks if a subject performs some violent motion, such as running, attacking, or casting a spell. Once broken for one subject, it breaks for all.
+Missile attacks against invisible foes are largely impossible, and melee attacks against them usually suffer a -4 penalty to attack rolls. The spell lasts for up to an hour per caster level, but it breaks if a subject performs some violent motion, such as running, attacking, or casting a spell. Once broken for one subject, it breaks for all.
 
 #### See Magic
 The mage opens up their mind to the presence of occult energies. For one Turn per character level, they are capable of seeing active magical effects, curses, or other enchantments as colored auras or patterns of light.
@@ -319,7 +319,7 @@ A single visible living creature is struck with a grim geas, forcing it to compl
 
 The caster lays one single-sentence command on the target that is neither suicidal, indefinitely imprecise, nor likely physically impossible for them to comply with. Thus, the caster could geas a man to kill his son or never seek to harm his lord, but he could not reasonably command a peasant to become king or bind someone to forever after comply with a master’s arbitrary commands.
 
-If the target then defies that geas or unreasonably delays its execution, they suffer an agonizing progressive wasting disease that will inevitably kill them in 1d6 weeks, applying -2 to their hit rolls and -1 to skill checks for each week that passes and halving their maximum HP. If they again begin complying with the geas afterwards or if the curse is lifted, the disease halts and reverses itself at the same rate it progressed.
+If the target then defies that geas or unreasonably delays its execution, they suffer an agonizing progressive wasting disease that will inevitably kill them in 1d6 weeks, applying -2 to their attack rolls and -1 to skill checks for each week that passes and halving their maximum HP. If they again begin complying with the geas afterwards or if the curse is lifted, the disease halts and reverses itself at the same rate it progressed.
 
 An active target can make a Mental save to resist this spell, but they cannot if they are restrained, unconscious, or otherwise subdued. The curse lasts until dispelled or the caster lifts it.
 
