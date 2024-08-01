@@ -208,7 +208,7 @@ Magic Items are wonderous, expensive objects. Some magic items are unique, while
 
 The most common type of magic item is a `+N` item, such as a "Dagger+1" or "Shield+2".
 
-For **weapons**, the number is added to both attack rolls and damage rolls, and the weapon is capable of dealing damage to enemies resistant to mundane damage, such as [shadows](https://oldschoolessentials.necroticgnome.com/srd/index.php/Shadow).
+For **weapons**, the number is added to attack rolls and damage rolls and [Shock](/combat#shock). Further, the weapon deals damage to enemies resistant to mundane damage, such as [shadows](https://oldschoolessentials.necroticgnome.com/srd/index.php/Shadow).
 
 For **armor** and **shields**, increase AC by the bonus. Do *not* decrease their encumbrance like in other games.
 
