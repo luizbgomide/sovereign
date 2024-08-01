@@ -14,26 +14,21 @@
         <script src="assets/js/sidebar.js"></script>
     </head>
     <body>
-        <div class="wrapper">
-            <header id="nav-header" class="container">
-                <div
-                    class="material-symbols-outlined"
-                    onclick="toggleSidebar()"
-                >
-                    menu
-                </div>
-            </header>
-            {% include toc.html %}
-            <main class="container">
-                {{ content }}
-                <footer>
-                    <hr />
-                    This is a living document with
-                    <a href="https://github.com/beaurancourt/sovereign"
-                        >open source code</a
-                    >.
-                </footer>
-            </main>
-        </div>
+        <header id="nav-header" class="container">
+            <div class="material-symbols-outlined" onclick="toggleSidebar()">
+                menu
+            </div>
+        </header>
+        {% include toc.html %}
+        <main class="container">
+            {{ content }}
+            <footer>
+                <hr />
+                This is a living document with
+                <a href="https://github.com/beaurancourt/sovereign"
+                    >open source code</a
+                >.
+            </footer>
+        </main>
     </body>
 </html>

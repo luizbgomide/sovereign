@@ -26,7 +26,8 @@ body {
 }
 
 #nav-header {
-    margin-top: 10px;
+    padding-bottom: 10px;
+    background-color: var(--pico-background-color);
 }
 
 #sidebar {
@@ -51,4 +52,16 @@ body {
 
 .content {
     padding: 1.5rem;
+}
+
+#nav-header {
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+    z-index: 1030;
+}
+
+main {
+    margin-top: 50px;
 }
