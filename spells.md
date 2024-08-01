@@ -3,8 +3,6 @@ layout: default
 title: Home
 ---
 
-{% include toc-spells.md %}
-
 # Spells
 
 High Mages, Necromancers, and Elementalists are capable of casting spells. NPC wizards may also have access to spellcasting, though NPCs seldom have classes.
@@ -31,13 +29,13 @@ If this spellbook is lost, the mage can re-create it, but it takes as much time 
 
 A mage must be able to cast the spell in order to learn it. A novice mage can cast only first level spells, so they can learn only first level spells.
 
-#### Preparing a Spell
+## Preparing a Spell
 
 Once a spell is learned, the mage must prepare the spell for casting. The number of spells a mage can prepare at once varies with their experience level, from as few as two or three at first level to as many as twelve when at tenth level. The mage may prepare any spell they have in their spellbook; there’s no obligation to prepare a certain number of low-level spells should the mage wish to fill all their available “slots” with their most powerful magics and run the risk of lacking some lesser, yet more useful spell.
 
 Preparing a new set of spells takes an hour, and can only be done after a good night’s rest, when the mage’s mind is most fresh and malleable. Once spells have been prepared they remain so indefinitely until replaced with a different set of magics.
 
-#### Casting Prepared Spells
+## Casting Prepared Spells
 
 Once a set of spells is prepared, the mage may cast them at their leisure. Casting a spell usually requires a [Main Action](/combat#main-action), a free hand, and vocalizations as loud as normal conversation. The process is obviously occult to any onlookers, but it's impossible to tell which spell a mage is casting by meerly looking.
 
@@ -49,7 +47,7 @@ A mage can cast only so many spells each day before needing a full night’s res
 
 Partial Mages are more limited than more focused specialists. They are able to cast fewer spells each day and the maximum level of spell they can cast is also significantly lower as compared to an equivalent full Mage. The total spells they can prepare for the day are also fewer than that of a full Mage. When they cast the spells, however, any level-based effects also use their full level, so a third-level Partial Necromancer’s Arcane Spark does 3d8 damage, just as a full Necromancer would.
 
-#### Creatures, Targets, and Visibility
+### Creatures, Targets, and Visibility
 
 Many spells or powers specify particular targets or creatures, or require that a target be visible. For purposes of these spells, “creature” means any animate entity, whether living, undead, or synthetic. Plants do not qualify as creatures unless they’re some sort of plant monster.
 

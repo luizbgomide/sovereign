@@ -3,8 +3,6 @@ layout: default
 title: Home
 ---
 
-{% include toc-classes.md %}
-
 # Classes
 
 Delving is done in a party of specialists. A class represents the particular skills, abilities, or talents that make the Delver valuable to the party.

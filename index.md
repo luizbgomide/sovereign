@@ -17,7 +17,13 @@ Otherwise...
 
 # Table Of Contents
 
-{% include toc.md %}
+<ul>
+  {% for item in site.data.toc %}
+    <li>
+      <a href="{{item.id}}">{{item.label}}</a>
+    </li>
+  {% endfor %}
+</ul>
 
 ### The Module Stack
 
@@ -150,6 +156,7 @@ Otherwise...
 - Use HD for npcs
 - Use HP Progression for Delvers
 - hyperlink all of the skills.
+- Get an actual table of contents going. Thanks Lina!
 
 #### 2024-07-30
 - Give the spell level headers unique names so the hyperlinks work.

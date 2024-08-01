@@ -3,8 +3,6 @@ layout: default
 title: Home
 ---
 
-{% include toc-arcane-traditions.md %}
-
 # Arcane Traditions
 
 ## Effort

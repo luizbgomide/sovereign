@@ -7,38 +7,26 @@
         <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
         <link rel="stylesheet" href="assets/css/pico.min.css" />
         <link rel="stylesheet" href="assets/css/custom.css" />
+        <script src="assets/js/sidebar.js"></script>
     </head>
     <body>
-        <header>
-            <nav class="container">
-                <ul>
-                    <li>
-                        <a href="/">Home</a>
-                    </li>
-                    <li>
-                        <a href="/rules">Rules</a>
-                    </li>
-                    <li>
-                        <a href="/classes">Classes</a>
-                    </li>
-                    <li>
-                        <a href="/equipment">Equipment</a>
-                    </li>
-                    <li>
-                        <a href="/spells">Spells</a>
-                    </li>
-                </ul>
-            </nav>
-        </header>
-        <main class="container">
-            {% include navigation.html %} {{ content }}
-            <footer>
-                <hr />
-                This is a living document with
-                <a href="https://github.com/beaurancourt/sovereign"
-                    >open source code</a
-                >.
-            </footer>
-        </main>
+        <div class="wrapper">
+            <header id="nav_header">
+                <div class="toggle-btn container" onclick="toggleSidebar()">
+                    <img src="assets/icons/bars-solid.svg" alt="Menu" class="hamburger"/>
+                  </div>
+            </header>
+            {% include toc.html %}
+            <main class="container">
+                {{ content }}
+                <footer>
+                    <hr />
+                    This is a living document with
+                    <a href="https://github.com/beaurancourt/sovereign"
+                        >open source code</a
+                    >.
+                </footer>
+            </main>
+        </div>
     </body>
 </html>

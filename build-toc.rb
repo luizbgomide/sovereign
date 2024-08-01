@@ -1,21 +1,32 @@
 require 'redcarpet'
+require 'json'
 
+$toc = []
+$current_stack = [$toc]
+$chapter = ""
 class ToC < Redcarpet::Render::Base
   def header(text, header_level)
-    if text.include? "title:"
-      return nil
-    end
-    indent = Array.new((header_level - 1)*2, " ").join("")
+    return nil if text.include? "title:"
+
     id = text.gsub(" ", "-").gsub(/[^\s\w-]/, "").downcase
-    "#{indent}- [#{text}](/REPLACE_ME##{id})\n"
+    entry = { label: text, id: "/#{$chapter}##{id}", children: [] }
+
+    if header_level == 1
+      $current_stack[0] << entry
+      $current_stack = [$toc, entry[:children]]
+    else
+      parent = $current_stack[header_level - 2]
+      parent.last[:children] << entry if parent && parent.any?
+      $current_stack[header_level - 1] = parent.last[:children]
+    end
+    return nil
   end
 end
 
 def create_chapter_toc(chapter)
   content = File.read("#{chapter}.md")
   markdown = Redcarpet::Markdown.new(ToC)
-  toc = markdown.render(content).gsub("REPLACE_ME", chapter)
-  File.open("_includes/toc-#{chapter}.md", 'w') { |file| file.write(toc) }
+  markdown.render(content)
 end
 
 chapters = [
@@ -29,11 +40,9 @@ chapters = [
   "spells"
 ]
 
-master_toc = []
-
 chapters.each do |chapter|
+  $chapter = chapter
   create_chapter_toc(chapter)
-  master_toc.push("{% include toc-#{chapter}.md %}")
 end
 
-File.open("_includes/toc.md", 'w') { |file| file.write(master_toc.join("\n")) }
+File.open("_data/toc.json", 'w') { |file| file.write($toc.to_json) }

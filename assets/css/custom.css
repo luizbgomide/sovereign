@@ -8,4 +8,77 @@ img[alt="tiny"] {
 
 ul {
     margin-bottom: 0px;
+    padding-inline-start: 1.25rem;
+}
+
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+#nav_header {
+    padding-top: 1rem;
+    margin-bottom: 2rem;
+}
+
+.toggle_close {
+    width: 1rem
+}
+
+.hamburger {
+    width: 1.5rem;
+    cursor: pointer;
+}
+
+.sidebar_top {
+    position: relative; 
+}
+
+.top_wrapper {
+    position: fixed;   
+    padding: 1.5rem;
+    width: 19rem;
+    top: 0;
+    background: var(--pico-background-color);
+}
+
+.top_sticky {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: var(--pico-text-color);
+}
+
+.sidebar_title {
+    font-size: 1.25rem;
+    font-weight: 600;
+}
+
+#sidebar {
+    position: fixed;
+    width: 20rem;
+    height: 100%;
+    background: var(--pico-background-color);
+    left: -20rem;
+    transition: all 250ms linear;
+    overflow-y: auto;
+}
+
+#sidebar.active {
+    top: 0;
+    left: 0;
+}
+
+#sidebar ul li {
+    color: rgba(230, 230, 230, 0.9);
+    list-style: none;
+    padding: 0.25rem;
+}
+
+#toc_list {
+    margin-top: 6rem;
+}
+
+.content {
+    padding: 1.5rem;
 }

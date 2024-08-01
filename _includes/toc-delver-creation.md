@@ -1,1 +1,0 @@
-- [Delver Creation](/delver-creation#delver-creation)

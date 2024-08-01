@@ -3,8 +3,6 @@ layout: default
 title: Home
 ---
 
-{% include toc-feats.md %}
-
 # Feats
 
 Feats are special talents that a Delver can possess.

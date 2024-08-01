@@ -3,8 +3,6 @@ layout: default
 title: Home
 ---
 
-{% include toc-rules.md %}
-
 # Rules
 
 ## The Big Picture
