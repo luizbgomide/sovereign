@@ -1,9 +1,9 @@
-<li class="toc_listitem">
+<li class="toc-listitem">
     <a href="{{include.item.id}}">{{include.item.label}}</a>
     {% unless include.item.children == empty %}
-        <ul class="toc_innerchild">
-            {% for child in include.item.children %} {% include toc-element.html
-            item=child %} {% endfor %}
-        </ul>
+    <ul class="toc-innerchild">
+        {% for child in include.item.children %} {% include toc-element.html
+        item=child %} {% endfor %}
+    </ul>
     {% endunless %}
 </li>
