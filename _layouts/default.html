@@ -7,14 +7,18 @@
         <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
         <link rel="stylesheet" href="assets/css/pico.min.css" />
         <link rel="stylesheet" href="assets/css/custom.css" />
+        <link
+            rel="stylesheet"
+            href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0"
+        />
         <script src="assets/js/sidebar.js"></script>
     </head>
     <body>
         <div class="wrapper">
             <header id="nav_header">
                 <div class="toggle-btn container" onclick="toggleSidebar()">
-                    <img src="assets/icons/bars-solid.svg" alt="Menu" class="hamburger"/>
-                  </div>
+                    <span class="material-symbols-outlined"> menu </span>
+                </div>
             </header>
             {% include toc.html %}
             <main class="container">

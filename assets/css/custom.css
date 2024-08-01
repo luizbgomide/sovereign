@@ -22,7 +22,7 @@ body {
 }
 
 .toggle_close {
-    width: 1rem
+    width: 1rem;
 }
 
 .hamburger {
@@ -31,11 +31,11 @@ body {
 }
 
 .sidebar_top {
-    position: relative; 
+    position: relative;
 }
 
 .top_wrapper {
-    position: fixed;   
+    position: fixed;
     padding: 1.5rem;
     width: 19rem;
     top: 0;
