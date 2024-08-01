@@ -31,7 +31,7 @@ That's the *whole* game. All other rules exist to either faciliate interesting d
 
 Much of the intresting part (and what separates skilled players from novice players) of exploring is coming up with a plan that *avoids* rolling. A plan that triggers a skill check or roll is *workable*, but also *risky*. A lot of the fun in this play style is coming up with plans that *can't fail*.
 
-Consider being faced with a deep, 15-foot wide spiked pit. Dangerous. If a player wants to leap to the other side, the GM might rule that as a DC 8 STR/[Exert](#exert) [check](#skill-checks) with failure resulting in taking 3d6 [damage](#damage) from the fall and spikes as well as being stuck at the bottom.
+Consider being faced with a deep, 15-foot wide spiked pit. Dangerous. If a player wants to leap to the other side, the GM might rule that as a DC 8 STR/[Exert](#exert) [check](#skill-checks) with failure resulting in taking `3d6` [damage](#damage) from the fall and spikes as well as being stuck at the bottom.
 
 A clever player might think to *fill up the pit*. Perhaps they spend some time dragging coffins, furniture, etc into the pit so that they can lower themselves down, walk across, and climb up the other side without rolling.
 
@@ -85,7 +85,7 @@ NPCs roll a number of d8's for thier HP equal to their Hit Dice (HD).
 
 ## Saving Throws
 
-Saving throws are rolled to resist some unusual danger or chance hazard. To make a saving throw, a person rolls 1d20 and tries to get equal or higher than their saving throw target. Sometimes a save might have bonuses or penalties applied to the roll, but a natural roll of 1 on the die always fails the save, and a natural roll of 20 is always a success.
+Saving throws are rolled to resist some unusual danger or chance hazard. To make a saving throw, a person rolls `1d20` and tries to get equal or higher than their saving throw target. Sometimes a save might have bonuses or penalties applied to the roll, but a natural roll of 1 on the die always fails the save, and a natural roll of 20 is always a success.
 
 There are three types of saving throws. Usually it will be obvious which type is most appropriate for a threat, but the GM makes the call.
 
@@ -129,7 +129,7 @@ Skills may overlap in their application; the character may use either skill at t
 
 Most Delvers are skilled, competent folks who are perfectly capable of carrying out the ordinary duties of their role. Sometimes, however, they are faced with a situation or challenge beyond the usual scope of their role and the GM calls for a skill check.
 
-To make a skill check, roll 2d6 and add the most relevant skill level and [attribute modifier](#attribute-modifiers) (denoted as {Attribute Modifier}/{Skill}, like STR/[Exert](#exert) or INT/Magic). If the total is equal or higher than the check’s <strong id="difficulty-class">Difficulty Class</strong> (DC), the check is a success. On a failure, the Delver either can’t accomplish the feat at all, bad luck cheats them, or they achieve it at the cost of some further complication. The GM determines the specific consequence of a failure.
+To make a skill check, roll `2d and add the most relevant skill level and [attribute modifier](#attribute-modifiers) (denoted as {Attribute Modifier}/{Skill}, like STR/[Exert](#exert) or INT/Magic). If the total is equal or higher than the check’s <strong id="difficulty-class">Difficulty Class</strong> (DC), the check is a success. On a failure, the Delver either can’t accomplish the feat at all, bad luck cheats them, or they achieve it at the cost of some further complication. The GM determines the specific consequence of a failure.
 
 To express to this compactly, we write DC {Difficulty Class} {Attribute Modifier/Skill}. For example, DC 8 INT/[Know](#know) or DC 12 DEX/[Heal](#heal).
 
@@ -145,7 +145,7 @@ The GM is always the one who calls for a skill check, and they do so at their di
 
 ### NPC Skill Checks
 
-When an NPC needs to make a skill check, they roll 2d6 and add their listed skill modifier if their action is something they ought reasonably to be good at. If it isn’t, they roll at +0, or even at -1 if it seems like something they’d be particularly bad at doing. If the NPC is special enough to have actual attribute scores and skill levels, they use those instead.
+When an NPC needs to make a skill check, they roll `2d and add their listed skill modifier if their action is something they ought reasonably to be good at. If it isn’t, they roll at +0, or even at -1 if it seems like something they’d be particularly bad at doing. If the NPC is special enough to have actual attribute scores and skill levels, they use those instead.
 
 ### Group Checks
 
@@ -155,7 +155,7 @@ This represents forcing open a heavy door together, everyone trying to stealth p
 
 ### Opposed Skill Checks
 
-When skills oppose each other, the side attempting to change the situation rolls a skill check vs a [DC](#difficulty-class) of 8 plus the other side's modifier. For example, a Delver trying to sneak past a guard might roll 2d6 plus their DEX/[Sneak](/rules#sneak) against a DC of 8 + the guard’s skill modifier. If the guard is significant enough to have attributes and skill levels, it might be a 2d6+DEX/[Sneak](/rules#sneak) against a DC of 8+WIS/[Notice](#notice). We write this compactly as DEX/[Sneak](/rules#sneak) vs WIS/[Notice](#notice).
+When skills oppose each other, the side attempting to change the situation rolls a skill check vs a [DC](#difficulty-class) of 8 plus the other side's modifier. For example, a Delver trying to sneak past a guard might roll `2d plus their DEX/[Sneak](/rules#sneak) against a DC of 8 + the guard’s skill modifier. If the guard is significant enough to have attributes and skill levels, it might be a `2d+DEX/[Sneak](/rules#sneak) against a DC of 8+WIS/[Notice](#notice). We write this compactly as DEX/[Sneak](/rules#sneak) vs WIS/[Notice](#notice).
 
 ## Keeping Track of Time
 
@@ -189,7 +189,7 @@ A Frail character acts normally, but if reduced to 0 HP again, they die instantl
 
 Frailty is removed with a week of bed rest and medical attention by someone with a [healer’s kit](/equipment#healers-kit) and at least [Heal](#heal)-0 skill. In addition, someone with at least [Heal](#heal)-1 can make one attempt to remove Frailty with a healer's kit, an hour of labor, and a successful DC 10 DEX/[Heal](#heal) or INT/[Heal](#heal) check.
 
-Frail characters without this level of medical care must make a [Physical](#physical) save after a week; on a failure they die 1d6 days later, while success means they lose their Frailty after another month’s rest.
+Frail characters without this level of medical care must make a [Physical](#physical) save after a week; on a failure they die `1d6` days later, while success means they lose their Frailty after another month’s rest.
 
 ### Natural Healing
 
@@ -201,7 +201,7 @@ Delvers are *not* confortable while sleeping in tents, outdoors, etc. It has to 
 
 ### First Aid
 
-Healers can patch up victims in a hurry at a cost to their physical resilience. By spending one minute patching up an ally with a [healer’s kit](/equipment#healers-kit), heal 1d6+[Heal](#heal) points of damage. Each such application adds one [System Strain](#system-strain) to the target. First aid restores HP to a [Frail](#frail) target, but it cannot remove their Frailty.
+Healers can patch up victims in a hurry at a cost to their physical resilience. By spending one minute patching up an ally with a [healer’s kit](/equipment#healers-kit), heal `1d6`+[Heal](#heal) points of damage. Each such application adds one [System Strain](#system-strain) to the target. First aid restores HP to a [Frail](#frail) target, but it cannot remove their Frailty.
 
 One [Turn](#turn) is enough time for a healer to apply as much first aid as is wanted to the rest of their party.
 
@@ -225,7 +225,7 @@ If the save is failed, the poison or disease takes hold. Most poisons act quickl
 
 A medic can treats a poisoned person within a minute of the poisoning with a [healer’s kit](/equipment#healers-kit) to give them a better chance to resist. They add twice their [Heal](#heal) skill level to the victim’s saving throw roll, or +1 if they have only [Heal](#heal)-0 skill.
 
-Some poisons, like that of a [pit viper](https://basicfantasy.org/srd/monstersAll.html#snake-pit-viper), are save or die. Once the poison takes hold, the victim has 1d4 Turns to live unless specified otherwise.
+Some poisons, like that of a [pit viper](https://basicfantasy.org/srd/monstersAll.html#snake-pit-viper), are save or die. Once the poison takes hold, the victim has `1d4` Turns to live unless specified otherwise.
 
 Other poisons can have other effects. A [giant centepede](https://oldschoolessentials.necroticgnome.com/srd/index.php/Centipede,_Giant) causes lethargy. A [Tarentella](https://oldschoolessentials.necroticgnome.com/srd/index.php/Spider,_Tarantella) causes `2d6` turns of painful jerking spasms.
 
@@ -287,7 +287,7 @@ To haul more equipment and loot than the Delvers can carry, they need pack anima
 ## Falling and Other Hazards
 Some perils occur with some regularity for adventurers. A few of the most common are detailed here.
 
-**Falling**: Most creatures will take 1d6 [damage](#damage) per 10 full feet they fall, up to 20d6 maximum. Spikes or other hazardous terrain at the bottom will add at least 1d6 to the total. A creature that intentionally leaps or skids down in a controlled way makes a DEX or STR/[Exert](#exert) [skill check](#skill-checks) at a difficulty of 7 + 1 for every 10 full feet; on a success, the effective distance fallen is halved.
+**Falling**: Most creatures will take `1d6` [damage](#damage) per 10 full feet they fall, up to `20d6` maximum. Spikes or other hazardous terrain at the bottom will add at least `1d6` to the total. A creature that intentionally leaps or skids down in a controlled way makes a DEX or STR/[Exert](#exert) [skill check](#skill-checks) at a difficulty of 7 + 1 for every 10 full feet; on a success, the effective distance fallen is halved.
 
 **Suffocation**: Creatures fight or act normally without air for one [Round](#round) per point of Constitution, or 10 Rounds for most NPCs. If they don’t move, they quadruple this time. Once they run out of air, they must make a [Physical](#physical) save each Round or take 1 HP per HD or level they have.
 
@@ -336,7 +336,7 @@ Doors can be **locked**, in which case a character with [Thieves Tools](/equipme
 
 Locked doors can be **battered down**. 6 turns less STR and [Exert](#exert) for wooden doors, and triple that for metal-reinforced doors. Metal or stone doors can not be battered down with mundane means. Roll an extra [Wandering Encounter](#wandering-encounters) every [Turn](#turn).
 
-Doors can be **stuck**, in which case a character can try to force them open in a [Round](#round) with a DC 10 STR/[Exert](#exert) check. If they fail, it takes 1d3 Turns to open the door.
+Doors can be **stuck**, in which case a character can try to force them open in a [Round](#round) with a DC 10 STR/[Exert](#exert) check. If they fail, it takes `1d3` Turns to open the door.
 
 Doors can be **listened at** for a Round (but only once per Turn), revealing noises as loud as talking without a roll. The presence of anything quieter with requires a DC 10 WIS/[Notice](#notice) check.
 
@@ -362,7 +362,7 @@ If the GM thinks this is possible, use an [opposed](#opposed-skill-checks) roll.
 
 ### Wandering Encounters
 
-Every so many Turns, a GM should roll 1d6 to check for a Wandering Encounter. On a 1, the Delvers will run into one at some point during the Turn. The frequency of the check will depend on how alert and organized the site’s inhabitants are.
+Every so many Turns, a GM should roll `1d6` to check for a Wandering Encounter. On a 1, the Delvers will run into one at some point during the Turn. The frequency of the check will depend on how alert and organized the site’s inhabitants are.
 
 The actual contents of the encounter are decided when the GM puts together the site. Not all encounters involve running into creatures. Some are mere events or situations that fit the site. In the same vein, not all encounters are necessarily hostile, either. [Reaction rolls](#reaction-rolls) should be made for all groups of creatures.
 
@@ -390,7 +390,7 @@ When the party enocunters other creatures, the GM describes what they sense and 
 
 If how the other creatures respond is uncertain, the GM rolls their reaction, comparing the result against the Delver's action:
 
-| 2d6 / Action | Fight  | Talk                          | Run    | Wait                          |
+| `2d / Action | Fight  | Talk                          | Run    | Wait                          |
 | ------------ | ------ | ----------------------------- | ------ | ----------------------------- |
 | 2            | Combat | Combat                        | Chase  | Fight                         |
 | 3-5          | Combat | Combat if could win, run otw. | Chase  | Combat if could win, run otw. |

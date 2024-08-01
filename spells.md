@@ -45,7 +45,7 @@ Spells and Arts cannot be cast while wearing armor, restrictive clothing, or wie
 
 A mage can cast only so many spells each day before needing a full night’s rest to recover. Novices can cast only one spell, while masters can manage six. The spell to be cast may be selected from any prepared by the mage; the same power can be used to invoke a mighty fifth-level spell or a relatively modest first-level incantation. The same spell may be cast more than once, if the mage has multiple castings left for the day.
 
-Partial Mages are more limited than more focused specialists. They are able to cast fewer spells each day and the maximum level of spell they can cast is also significantly lower as compared to an equivalent full Mage. The total spells they can prepare for the day are also fewer than that of a full Mage. When they cast the spells, however, any level-based effects also use their full level, so a third-level Partial Necromancer’s Arcane Spark does 3d8 damage, just as a full Necromancer would.
+Partial Mages are more limited than more focused specialists. They are able to cast fewer spells each day and the maximum level of spell they can cast is also significantly lower as compared to an equivalent full Mage. The total spells they can prepare for the day are also fewer than that of a full Mage. When they cast the spells, however, any level-based effects also use their full level, so a third-level Partial Necromancer’s Arcane Spark does `3d8` damage, just as a full Necromancer would.
 
 ### Creatures, Targets, and Visibility
 
@@ -62,7 +62,7 @@ A “visible” target is a target the mage can see or whose exact location is o
 #### Arcane Spark
 A thaumic discharge is focused on a single visible creature within one hundred feet per caster level, wreathing them in a lethal mantle of crackling energy.
 
-NPC targets with only 1 HD are slain. Otherwise, the target suffers 1d8 damage per caster level, with a Physical save for half.
+NPC targets with only 1 HD are slain. Otherwise, the target suffers `1d8` damage per caster level, with a Physical save for half.
 
 #### Blunt Contact
 This spell may be cast in two different forms.
@@ -83,14 +83,14 @@ The mage creates a illusion at a visible location within 100 feet per caster lev
 
 If onlookers have no reason to believe the illusion is false, they will unconsciously conform to its apparent physical qualities, halting before walls, reeling from imagined blows, and seeing their clothing burnt by illusory flames. The illusion will behave and act on its own in accordance with the caster’s intentions for it, but it cannot go more than a hundred feet from where it was conjured.
 
-Illusory monsters fight with the caster’s attack bonus, do 1d8 damage, have AC 10, and vanish if struck. There can be no more than one active illusionary attacker per two caster levels. Foes brought to zero HP fall unconscious and wake up ten minutes later with 1 HP.
+Illusory monsters fight with the caster’s attack bonus, do `1d8` damage, have AC 10, and vanish if struck. There can be no more than one active illusionary attacker per two caster levels. Foes brought to zero HP fall unconscious and wake up ten minutes later with 1 HP.
 
 Creatures convinced the illusion is false can make a Mental saving throw each round to reject its psychic influences, becoming immune to its effects. The illusion lasts until dispelled, the caster drops it, or this spell is cast again.
 
 #### Destroy Plants
 Wood, linen, cotton, rope, and other plant or fungus-derived matter is annihilated by a wave of entropic force that washes through an area near the caster.
 
-The mage targets a point within one hundred feet per caster level and designates a number of contiguous 10-foot cubes within that area equal to or less than their caster level. All non-magical plant matter within that area immediately erodes away to dust. Enchanted objects of plant matter cannot be affected, but ordinary plant-based clothing, bows, or wooden-hafted weapons will be destroyed. If used against plant-based monsters, the spell does 1d10 damage per caster level, with a Physical save for half.
+The mage targets a point within one hundred feet per caster level and designates a number of contiguous 10-foot cubes within that area equal to or less than their caster level. All non-magical plant matter within that area immediately erodes away to dust. Enchanted objects of plant matter cannot be affected, but ordinary plant-based clothing, bows, or wooden-hafted weapons will be destroyed. If used against plant-based monsters, the spell does `1d10` damage per caster level, with a Physical save for half.
 
 #### Detect Thoughts
 The mage focuses on a visible living creature within 100 feet per caster level. For the rest of the Turn, they immediately receive an impression of the target’s surface thoughts and interests, understanding them regardless of any lack of a shared language.
@@ -142,7 +142,7 @@ The spell ends when the mage releases it, or up to a maximum of one day per cast
 #### Destroy Earth
 Stone, earth, sod, sand, or other largely mineral material is reduced to a faint spray of fine dust, though metal and enchanted objects are unaffected.
 
-The caster chooses up to one contiguous 10-foot cube per caster level in a visible area within one hundred feet per caster level, causing all such stone or mineral material within the cubes to disappear. Such rapid destruction may cause larger structures to collapse. If used against rock-based monsters, the spell does 1d10 damage per caster level, with a Physical save for half.
+The caster chooses up to one contiguous 10-foot cube per caster level in a visible area within one hundred feet per caster level, causing all such stone or mineral material within the cubes to disappear. Such rapid destruction may cause larger structures to collapse. If used against rock-based monsters, the spell does `1d10` damage per caster level, with a Physical save for half.
 
 #### Dimension Door
 A visible target within a hundred feet is immediately teleported to any visible, solid resting point within a half-mile, provided the target point has enough room to accept them.
@@ -154,7 +154,7 @@ The caster sweeps away all unwanted magical effects and enchantments within a tw
 
 If the magical effect was cast by a creature with equal or fewer HD, the effect is negated automatically. Otherwise, make an opposed INT/[Magic](/rules#magic) skill check, with higher-leveled caster gaining a +2 bonus and the dispeller getting a +1 bonus.
 
-This spell is not strong enough to permanently suppress standing magical effects, and requires the aforementioned contested roll to temporarily suppressing them. If successful, the effect is negated for 1d6 rounds. If cast on a very large enchantment, only the portion within the spell’s zone of effect is suppressed.
+This spell is not strong enough to permanently suppress standing magical effects, and requires the aforementioned contested roll to temporarily suppressing them. If successful, the effect is negated for `1d6` rounds. If cast on a very large enchantment, only the portion within the spell’s zone of effect is suppressed.
 
 #### Elemental Shield
 The caster and up to three visible allies per caster level are shielded from hostile elemental energies, becoming immune to mundane extremes of heat, cold, natural acids, and electrical discharges. Against magical harm of this nature, they automatically take only half the damage they normally would, or none if they make a successful Physical saving throw. This spell lasts for one hour per caster level.
@@ -176,7 +176,7 @@ It lasts until dusk, dawn, or until the statue of the god is struck or insulted,
 #### Haste
 The caster imbues one visible ally per caster level with a burst of tremendous speed as their localized time begins to flow more rapidly.
 
-For 1d4+1 rounds, all subjects get an extra [Main Action](/combat#main-action). This [Main Action](/combat#main-action) may not be used to cast spells or use arts. This spell severely taxes those who take advantage of it, adding 1 [System Strain](/rules#system-strain) for each round in which the recipient takes the bonus action.
+For `1d4+1` rounds, all subjects get an extra [Main Action](/combat#main-action). This [Main Action](/combat#main-action) may not be used to cast spells or use arts. This spell severely taxes those who take advantage of it, adding 1 [System Strain](/rules#system-strain) for each round in which the recipient takes the bonus action.
 
 #### Scry
 A pool of water, mirror, open flame, polished crystal, or other luminous or reflective surface is used to peer at a distant location. The location must either be within one hundred feet per caster level or be a location the caster has physically occupied before.
@@ -190,7 +190,7 @@ This spell lasts until the caster performs some action other than focusing on th
 #### Shield of Daggers
 A visible willing creature within thirty feet is surrounded by a whirl of razor-sharp energy shards.
 
-Anyone who attempt to touch the target or make a melee attack against them must make an Evasion saving throw or suffer 1d6 damage plus the caster’s level before resolving their attack. The field of blades is indiscriminate and will affect even allies trying to touch the target.
+Anyone who attempt to touch the target or make a melee attack against them must make an Evasion saving throw or suffer `1d6` damage plus the caster’s level before resolving their attack. The field of blades is indiscriminate and will affect even allies trying to touch the target.
 
 The blades remain as long as the target gives up a [Move Action](/combat#move-action) each Round in order to avoid disrupting them from within, up to a maximum of one Turn.
 
@@ -217,7 +217,7 @@ A vast wall of thick, heavy vines and other plant life blooms from a visible poi
 
 The wall is up to twenty feet high and three feet thick and runs for as much as twenty feet in width per caster level. The vine wall can be shaped as the caster wishes within the spell’s area of effect, so long as it’s contiguous, and may be laid horizontally if a bridge or roof is desired.
 
-Enemies must inflict five damage per caster level to cut a man-sized hole in the vines, and they must be using weapons or means that could actually cut through a wooden wall to do any meaningful harm. The vines may be covered in long, vicious thorns to discourage climbing, inflicting 2d6 damage on any creature who tries to climb over it.
+Enemies must inflict five damage per caster level to cut a man-sized hole in the vines, and they must be using weapons or means that could actually cut through a wooden wall to do any meaningful harm. The vines may be covered in long, vicious thorns to discourage climbing, inflicting `2d6` damage on any creature who tries to climb over it.
 
 If the vine wall is summoned from earth that could plausibly support plant life, it remains until dispelled or until it dies naturally. If called from bare stone or other infertile soils, it withers away to dust at the end of the Turn.
 
@@ -226,7 +226,7 @@ If the vine wall is summoned from earth that could plausibly support plant life,
 #### Arctic Circle
 The caster invokes a gust of deepest winter on a point within one hundred feet per level, freezing everything in a radius up to ten feet per caster level.
 
-All liquids freeze solid down to a depth of two feet and all living creatures not impervious to arctic cold must suffer 1d6 damage per two levels of the caster, with a Physical save for half damage. Those who fail their Physical saves are numbed by the cold and lose their [Move Action](/combat#move-action) each round for the next 1d4 rounds.
+All liquids freeze solid down to a depth of two feet and all living creatures not impervious to arctic cold must suffer `1d6` damage per two levels of the caster, with a Physical save for half damage. Those who fail their Physical saves are numbed by the cold and lose their [Move Action](/combat#move-action) each round for the next `1d4` rounds.
 
 The frozen area warms again at the usual rate for the surrounding environment.
 
@@ -254,7 +254,7 @@ This spell has no effect on creatures that feel no fear.
 #### Magic Bomb
 A flattened disc of tremendous heat, sound, and shock is triggered at a visible point within fifty feet per caster level, erupting in a twenty-foot radius eight feet in height.
 
-Everything within the area suffers 1d8 damage from flame, concussion, and sonic shock per caster level, with an Evasion save for half. If used in a space less than 40 feet in width, the explosion is channeled through adjacent spaces and passages for an additional 1d6 x 10 feet.
+Everything within the area suffers `1d8` damage from flame, concussion, and sonic shock per caster level, with an Evasion save for half. If used in a space less than 40 feet in width, the explosion is channeled through adjacent spaces and passages for an additional `1d6` x 10 feet.
 
 #### Magic Wall
 The caster must form some sort of line as part of this spell’s invocation, either with dropped powders or a trace drawn in the dirt or a more permanent inlay into a floor. The caster can make such a line as part of a [Move Action](/combat#move-action, tracing it out or scattering powder as they go. The line itself may be no longer than twenty feet per caster level, and may be straight or curved as the caster wishes.
@@ -266,14 +266,14 @@ The barrier extends a hundred feet upward and ten feet downward and blocks any a
 #### Message
 This spell calls forth a floating set of colored glass chimes. The caster alone may strike them, producing sounds of great subtlety and clarity. The caster may allow anyone within ten miles per level to hear the music, or may make it inaudible to anyone save specific targets within range.
 
-Such is the expressiveness of the chimes that those who hear them instantly understands the caster’s desired message, however abstract. If the caster strikes the chimes violently as a [Main Action](/combat#main-action), they shatter them, causing a deafening clamor that does 3d6 damage to all non-deaf targets within forty feet except for the caster.
+Such is the expressiveness of the chimes that those who hear them instantly understands the caster’s desired message, however abstract. If the caster strikes the chimes violently as a [Main Action](/combat#main-action), they shatter them, causing a deafening clamor that does `3d6` damage to all non-deaf targets within forty feet except for the caster.
 
 The chimes persist until shattered or the Turn ends.
 
 #### Passwall
 The caster touches a solid non-magical barrier when casting this spell. A 10 foot cube of the barrier then becomes perfectly transparent on the caster’s side, allowing them to see and hear whatever lies on the other side as if it were well-lit and visible.
 
-Optionally, the caster may make the barrier insubstantial for one round per caster level, allowing anyone to pass or shoot through it from either side. The barrier always appears solid and opaque from the other side, even while the caster is peering through. If someone is caught within the barrier when it becomes solid again, they’re spat out on the nearest clear side and suffer 2d10 damage.
+Optionally, the caster may make the barrier insubstantial for one round per caster level, allowing anyone to pass or shoot through it from either side. The barrier always appears solid and opaque from the other side, even while the caster is peering through. If someone is caught within the barrier when it becomes solid again, they’re spat out on the nearest clear side and suffer `2d10` damage.
 
 The spell ends when the caster ceases to touch the barrier or immediately after it stops being insubstantial.
 
@@ -305,7 +305,7 @@ Optionally, the caster can instead use this spell on one visible flying creature
 #### Control Wind
 Conjure a fierce gust of wind in a line a hundred feet long and thirty feet wide.
 
-All creatures of man-size or smaller must make Physical saves or be bowled over and blown back thirty feet, losing their next round’s [Main Action](/combat#main-action) and suffering 1d6 damage. Light wooden constructions or similar structures are flattened by the wind.
+All creatures of man-size or smaller must make Physical saves or be bowled over and blown back thirty feet, losing their next round’s [Main Action](/combat#main-action) and suffering `1d6` damage. Light wooden constructions or similar structures are flattened by the wind.
 
 If used outdoors, the spell can instead control the local weather, transforming the quarter-mile around the caster into any climate found normally at that location at any point during the year. The spell cannot summon a tornado or other extreme weather, but it can call rain and conventional storms sufficient to cause flooding in areas prone to it. The gust of wind is instantaneous, but the weather change lasts for one hour per caster level before reverting to its natural state.
 
@@ -317,7 +317,7 @@ A single visible living creature is struck with a grim geas, forcing it to compl
 
 The caster lays one single-sentence command on the target that is neither suicidal, indefinitely imprecise, nor likely physically impossible for them to comply with. Thus, the caster could geas a man to kill his son or never seek to harm his lord, but he could not reasonably command a peasant to become king or bind someone to forever after comply with a master’s arbitrary commands.
 
-If the target then defies that geas or unreasonably delays its execution, they suffer an agonizing progressive wasting disease that will inevitably kill them in 1d6 weeks, applying -2 to their attack rolls and -1 to skill checks for each week that passes and halving their maximum HP. If they again begin complying with the geas afterwards or if the curse is lifted, the disease halts and reverses itself at the same rate it progressed.
+If the target then defies that geas or unreasonably delays its execution, they suffer an agonizing progressive wasting disease that will inevitably kill them in `1d6` weeks, applying -2 to their attack rolls and -1 to skill checks for each week that passes and halving their maximum HP. If they again begin complying with the geas afterwards or if the curse is lifted, the disease halts and reverses itself at the same rate it progressed.
 
 An active target can make a Mental save to resist this spell, but they cannot if they are restrained, unconscious, or otherwise subdued. The curse lasts until dispelled or the caster lifts it.
 
@@ -335,7 +335,7 @@ The contents of single visible target are extracted and placed in the caster’s
 
 If used on a cabinet, backpack, pocket, or other such container it can be no larger than an armoire, and the caster can choose whether or not to receive any particular object from inside it, being instantly appraised of its contents when the spell is cast.
 
-If used on a creature, it attempts to tear out the subject’s innards; if the subject has equal or fewer HD than the caster, it must make a Physical save or die instantly. Whether or not it perishes, it suffers 1d10 damage per caster level, with a Physical save for half.
+If used on a creature, it attempts to tear out the subject’s innards; if the subject has equal or fewer HD than the caster, it must make a Physical save or die instantly. Whether or not it perishes, it suffers `1d10` damage per caster level, with a Physical save for half.
 
 #### Rewind
 The caster may invoke this spell as an [Instant Action](/combat#instant-action) on any single creature within one hundred feet. Time is rolled back slightly, allowing them to replay their current round of action as if it never occurred, though all involved retain a memory of what originally happened.
@@ -352,7 +352,7 @@ The portal remains open for up to one round per caster level, but can be shut as
 #### Summon Creature
 The caster conjures up a semi-real phantasmal creature in any shape or appearance they desire, provided it is no larger than an ox.
 
-The servitor is as intelligent as a human and will obey the caster with fearless and suicidal devotion, having 4 HD, 20 HP, AC 15, a movement rate of 30’ per action, a +1 skill modifier, saves of 13+, and a +6/1d8 damage melee attack with 2/AC 15 Shock. As the creature is partly phantasmal, the damage it inflicts cannot kill a subject, but only knock them unconscious for an hour before they awaken with 1 HP.
+The servitor is as intelligent as a human and will obey the caster with fearless and suicidal devotion, having 4 HD, 20 HP, AC 15, a movement rate of 30’ per action, a +1 skill modifier, saves of 13+, and a +6/`1d8` damage melee attack with 2/AC 15 Shock. As the creature is partly phantasmal, the damage it inflicts cannot kill a subject, but only knock them unconscious for an hour before they awaken with 1 HP.
 
 The caster may pick one special quality for the creature when it is summoned: the ability to fly at a rate of 30’/ move, the perfect duplication of a particular person they’ve seen, the ability to form a telepathic speech connection with the caster, or the ability to effectively use normal weaponry and armor.
 
@@ -370,14 +370,14 @@ The caster may refrain from swapping certain targets as they wish. Only portable
 #### Color Bomb
 A blinding fan of impossible colors cascades over all targets in front of the caster in an area equal to a cone a hundred feet long and a hundred feet wide at the end.
 
-Each creature within that area must make a Physical saving throw; those who fail roll 1d6. On a 1, they are unharmed, on a 2 they collapse into a handful of dust, on a 3 they fall unconscious for an hour, on a 4 they go violently insane for the next hour and attack all around them, on a 5 they turn to stone, and on a 6 they become utterly enthralled to the caster’s commands for the next hour, as if under the effect of an Ineluctable Shackles of Volition spell.
+Each creature within that area must make a Physical saving throw; those who fail roll `1d6`. On a 1, they are unharmed, on a 2 they collapse into a handful of dust, on a 3 they fall unconscious for an hour, on a 4 they go violently insane for the next hour and attack all around them, on a 5 they turn to stone, and on a 6 they become utterly enthralled to the caster’s commands for the next hour, as if under the effect of an Ineluctable Shackles of Volition spell.
 
 #### Gate
 The caster carves open a metadimensional gate between their present location and a preset target point.
 
 Attuning the target point requires an hour of effort, after which this spell will open an opaque portal to it from a distance of up to one hundred miles per caster level. The portal is large enough to admit a cart and wagon and will remain open for up to one minute per caster level, ending when they pass through it. The gate is one-way only, from caster to target.
 
-Only living creatures and the vehicles they drive and objects they carry may pass through; atmosphere and other environments remain on the far side of the gate. Only one target point may be prepared for this spell at a time, and there is a 1-in-10 chance for every casting that the real destination is 1d100 miles in a random direction, discovered only after the portal is used.
+Only living creatures and the vehicles they drive and objects they carry may pass through; atmosphere and other environments remain on the far side of the gate. Only one target point may be prepared for this spell at a time, and there is a 1-in-10 chance for every casting that the real destination is `1d100` miles in a random direction, discovered only after the portal is used.
 
 #### Impenatrable Dome
 The caster hurls up a magical shield that is impervious to almost all hostile powers.
@@ -405,12 +405,12 @@ Simple buildings and walls may be created out of bedrock or available stone, and
 #### Time Stop
 The caster and up to one visible ally per caster level briefly step outside of the conventional flow of time, the rest of the world freezing around them.
 
-These subjects can take 1d4+1 free rounds of actions, but they cannot physically affect the world or move any object they were not carrying at the time they cast the spell. Any spells the caster or other allies cast can affect only their own group, and not those entities still in the normal flow of time.
+These subjects can take `1d4+1` free rounds of actions, but they cannot physically affect the world or move any object they were not carrying at the time they cast the spell. Any spells the caster or other allies cast can affect only their own group, and not those entities still in the normal flow of time.
 
 #### Typhoon
 The caster unleashes a consuming destruction on a visible point within three thousand feet.
 
-A torrent of eldritch ruin rains down from the heavens on everything within up to a two hundred foot radius per caster level, inflicting 1d8 damage per caster level with a Physical save for half damage, and automatically killing all targets with 4 or fewer HD.
+A torrent of eldritch ruin rains down from the heavens on everything within up to a two hundred foot radius per caster level, inflicting `1d8` damage per caster level with a Physical save for half damage, and automatically killing all targets with 4 or fewer HD.
 
 This damage is sufficient to destroy any wooden or lightly-built stone structure and will seriously damage even fortifications. The caster can tighten the radius down to a minimum of 20 feet, but cannot be selective about targets within that area.
 
@@ -471,7 +471,7 @@ This spell can function against worked stone, but the length of the tunnel is mu
 #### Become Element
 The elementalist charges their physical shape with the qualities of a chosen element for the rest of the Turn.
 
-In all cases, they need not breathe and become immune to poisons and diseases not already present in them. If stone, they automatically stabilize at zero HP and ignore the first three points of damage from any source of harm. If water, they can pass through any aperture a mouse could get through. If air, they can fly at their usual movement rate and gain a +4 AC bonus against ranged attacks. If fire, they inflict 1d6 damage to all creatures in melee range at the start of their turn each round and become immune to heat damage.
+In all cases, they need not breathe and become immune to poisons and diseases not already present in them. If stone, they automatically stabilize at zero HP and ignore the first three points of damage from any source of harm. If water, they can pass through any aperture a mouse could get through. If air, they can fly at their usual movement rate and gain a +4 AC bonus against ranged attacks. If fire, they inflict `1d6` damage to all creatures in melee range at the start of their turn each round and become immune to heat damage.
 
 ### Level 3 - Elementalist
 
@@ -482,11 +482,11 @@ The barrier is ten feet long per character level, with a height of ten feet and 
 
 Earthen walls are impervious to anything but mining-appropriate tools or rock-shattering strength, taking 20 HP of damage to knock a man-sized hole in them.
 
-Fire walls inflict 3d6 damage plus the elementalist’s level on anyone who passes through them.
+Fire walls inflict `3d6` damage plus the elementalist’s level on anyone who passes through them.
 
-Water walls spin and hurl creatures of ox-size or less who pass through them, ejecting them at a random point on the far side of the wall and doing 2d6 damage from the buffeting.
+Water walls spin and hurl creatures of ox-size or less who pass through them, ejecting them at a random point on the far side of the wall and doing `2d6` damage from the buffeting.
 
-Air walls are invisible, inaudible, and twenty feet in height; those who cross them suffer 1d6 plus the elementalist’s level in electrical damage.
+Air walls are invisible, inaudible, and twenty feet in height; those who cross them suffer `1d6` plus the elementalist’s level in electrical damage.
 
 The walls vanish at the end of the Turn.
 
@@ -504,12 +504,12 @@ A visible target within one hundred feet must make a Physical saving throw or be
 
 Any size of living creature may be so transmuted, though inanimate objects larger than a cart cannot. Objects being held or worn by someone else get a Physical saving throw made by their user. The calcification remains until dispelled or the caster undoes the magic, but if the object or creature is damaged in the meanwhile, it may end up being harmed or killed on its restoration.
 
-If the Physical saving throw is made successfully by a creature, the target is temporarily slowed, losing its [Move Action](/combat#move-action) for the next 1d6 rounds.
+If the Physical saving throw is made successfully by a creature, the target is temporarily slowed, losing its [Move Action](/combat#move-action) for the next `1d6` rounds.
 
 #### Elemental Guardian
 The elementalist imbues a human-sized mass of earth, water, fire, or air with a crude awareness and an eagerness to defend them.
 
-Whatever the substance used, it now has 4 HD, AC 15, a Move of 40’/action, a +1 skill bonus, saves of 13+, and a melee attack of +6/1d10 with no Shock. If called from earth, it has 6 HD, albeit its other stats don’t change. If called from fire, it does 5/- Shock damage.
+Whatever the substance used, it now has 4 HD, AC 15, a Move of 40’/action, a +1 skill bonus, saves of 13+, and a melee attack of +6/`1d10` with no Shock. If called from earth, it has 6 HD, albeit its other stats don’t change. If called from fire, it does 5/- Shock damage.
 
 If summoned from water, it has an AC of 18, and if called from air, it can fly at its usual movement rate. It has a human degree of intelligence, can communicate with others and manipulate objects, and serves with suicidal devotion.
 
@@ -529,7 +529,7 @@ The effects are negated if the spell is dispelled within a minute after it was c
 #### Fury of the Elements
 A combination of molten rock, searing pyroclastic winds, and super-heated steam erupts forth to ravage a chosen target point within two hundred feet per caster level.
 
-The cataclysmic ruin smites everything within thirty feet of the target point for 10d6 damage, destroying all conventional structures. The zone of devastation then moves 1d6x10 feet in a random direction at the start of the next round, blasting everything in its path. The zone will continue to wander in this fashion for 1d6 rounds in total before dying out.
+The cataclysmic ruin smites everything within thirty feet of the target point for `10d6` damage, destroying all conventional structures. The zone of devastation then moves `1d6x10` feet in a random direction at the start of the next round, blasting everything in its path. The zone will continue to wander in this fashion for `1d6` rounds in total before dying out.
 
 The molten remnants of the spell remain after this duration, a hazard for whomever enters the area for the rest of the day.
 
@@ -554,7 +554,7 @@ A necromancer can maintain only one such disguise per level, and it does not wor
 #### Smite the Dead
 The necromancer conjures a blast of dispelling force at a point within one hundred feet per caster level, affecting an area up to 20 feet in radius.
 
-All hostile undead within that area immediately suffer 1d10 damage per caster level. Undead with HD equal or less than the caster’s level must make a Physical save or be destroyed outright.
+All hostile undead within that area immediately suffer `1d10` damage per caster level. Undead with HD equal or less than the caster’s level must make a Physical save or be destroyed outright.
 
 The necromancer may Commit Effort for the day immediately before casting this spell; if so, its casting does not count against the Necromancer’s available spell slots for the day.
 
@@ -587,7 +587,7 @@ For the rest of the Turn, these targets cannot recover or gain HP and will die i
 #### Raise Corpse
 The necromancer targets a mostly-intact skeleton or corpse, imbuing it with a semblance of life.
 
-Whatever the creature’s attributes were in life, it now has 1 HD, an AC of 13, a Move of 30’/round, a +0 skill bonus, saves of 15+, and a +1/1d6 unarmed melee attack. Such corpses may be equipped with weapons or armor. Its decay or dissolution immediately ceases, and it becomes suicidally loyal to its creator. The corpse has no natural volition, but will obey commands with a human degree of intelligence. It has only vague memories of its prior life, and while it retains human tics or habits it had in life it can answer only the simplest and most self-evident questions.
+Whatever the creature’s attributes were in life, it now has 1 HD, an AC of 13, a Move of 30’/round, a +0 skill bonus, saves of 15+, and a +1/`1d6` unarmed melee attack. Such corpses may be equipped with weapons or armor. Its decay or dissolution immediately ceases, and it becomes suicidally loyal to its creator. The corpse has no natural volition, but will obey commands with a human degree of intelligence. It has only vague memories of its prior life, and while it retains human tics or habits it had in life it can answer only the simplest and most self-evident questions.
 
 Damage to a corpse can be repaired only by casting this spell on it again, which restores it to its original “health”. The corpse continues to exist until it is reduced to zero HP or its creator releases it.
 
@@ -635,7 +635,7 @@ This spell lasts until the necromancer lifts it or it is dispelled.
 #### Raise Grave Knight
 The corpse used for this spell must be of a relatively powerful creature with at least 4 HD or levels.
 
-The result is much like that of the Raise Corpse spell, but this undead servitor is much stronger, with 4 HD, AC 15, a Move of 40’/action, a +1 skill bonus, saves of 13+, and a melee attack of +6/1d10, assuming it doesn’t use a normal weapon. It is fully intelligent and self-willed, albeit utterly devoted to its creator, and it remembers a significant amount about its prior life. A grave knight regains all lost HP at dusk each day, assuming it’s not destroyed. A caster may have only one grave knight active at a time.
+The result is much like that of the Raise Corpse spell, but this undead servitor is much stronger, with 4 HD, AC 15, a Move of 40’/action, a +1 skill bonus, saves of 13+, and a melee attack of +6/`1d10`, assuming it doesn’t use a normal weapon. It is fully intelligent and self-willed, albeit utterly devoted to its creator, and it remembers a significant amount about its prior life. A grave knight regains all lost HP at dusk each day, assuming it’s not destroyed. A caster may have only one grave knight active at a time.
 
 One that has been reduced to zero HP is destroyed and can only be rebuilt with a month of painstaking repair and re-enchantment.
 

@@ -24,7 +24,7 @@ After reading through delver creation, following the various links and having a 
 
 **Choose a character concept.** One friend wants going to play a big two-handed conan the barbarian type, my partner is obsessed with necromancy ever since watching the mummy as a child, and the other buddy really wants to be a bilbo baggins. I figure the best way I could round out the team would be to play someone that can keep the team alive. I'm thinking it would be really cool to play some sort of support archer, throwing out heals from range if needed, but being a decent shot with a bow otherwise.
 
-**Generate Attributes.** I roll [3d6](https://anydice.com/program/1) 5 times in order and get Strength 14, Dexterity 7, Constitution 11, Intelligence 8, Wisdom 10. Since I want to be a good shot, I raise my Dexterity to 14. I write them all down.
+**Generate Attributes.** I roll [`3d6`](https://anydice.com/program/1) 5 times in order and get Strength 14, Dexterity 7, Constitution 11, Intelligence 8, Wisdom 10. Since I want to be a good shot, I raise my Dexterity to 14. I write them all down.
 
 ![small](/assets/images/generate-attributes.png)
 
@@ -54,7 +54,7 @@ For my other feat, I'll pick up [Deadeye](/feats#deadeye-c) at rank 1 to do more
 
 ![small](/assets/images/attribute-mods.png)
 
-**Generate Maximum Hit Points.** My class of [Expert/Mage(Healer)](/classes#partial-expertpartial-mage) tells me that I start with 1d6 HP (plus my 0 CON). I roll a 3. Mildly unlucky, but we'll take what we can get.
+**Generate Maximum Hit Points.** My class of [Expert/Mage(Healer)](/classes#partial-expertpartial-mage) tells me that I start with `1d6` HP (plus my 0 CON). I roll a 3. Mildly unlucky, but we'll take what we can get.
 
 ![small](/assets/images/generate-hp.png)
 
@@ -66,7 +66,7 @@ For my other feat, I'll pick up [Deadeye](/feats#deadeye-c) at rank 1 to do more
 
 ![small](/assets/images/saving-throws.png)
 
-**Choose Starting Gear**. I roll 3d6•10 and get 130g starting gold; lucky! I can carry 7 Stowed enc and 14 Readied enc.
+**Choose Starting Gear**. I roll `3d6•10` and get 130g starting gold; lucky! I can carry 7 Stowed enc and 14 Readied enc.
 
 I'll grab Plate armor (60g, 3 enc), a Large Bow (7g, 2 enc), a Quiver (10g, 1 enc, comes with infinite arrows), and a Healer's Kit (10g, 1 enc) for my Readied items.
 
@@ -74,9 +74,9 @@ I'll save my other 43g to add to the party slush fund and wait to buy the rest o
 
 ![small](/assets/images/inventory.png)
 
-**Record Weapon Statistics.** I can shoot my bow at 100 ft for close range, 600 for long range. I add +2 to hit (+1 from DEX, +1 from Shoot), and I do 1d8+1 damage on a hit (+1 from Deadeye). I haven't picked up a melee weapon yet, but I figure with Deadeye I probably won't need one.
+**Record Weapon Statistics.** I can shoot my bow at 100 ft for close range, 600 for long range. I add +2 to hit (+1 from DEX, +1 from Shoot), and I do `1d8+1` damage on a hit (+1 from Deadeye). I haven't picked up a melee weapon yet, but I figure with Deadeye I probably won't need one.
 
-I write `• Bow(100/600): +2 -> 1d8+1` in my preferred short hand for weapon stats for basically any d20 game.
+I write `• Bow(100/600): +2 -> `1d8+1` in my preferred short hand for weapon stats for basically any d20 game.
 
 ![small](/assets/images/weapon-stats.png)
 
@@ -123,7 +123,7 @@ That's a character!
 
 <details>
   <summary><strong>Exercise</strong>: What are the benefits to being a partial Warrior?</summary>
-  <p>There are three: they gain an extra Combat feat at level 1, they get the Warrior's superior HP progression (1d6+2 each level), and they get the Warrior's superior attack bonus progression (+1 each level)</p>
+  <p>There are three: they gain an extra Combat feat at level 1, they get the Warrior's superior HP progression (`1d6`+2 each level), and they get the Warrior's superior attack bonus progression (+1 each level)</p>
   <p>The downside is that they <strong>do not</strong> get the Warrior's <a href="class-ability-veterans-luck">Veteran’s Luck</a> or <a href="class-ability-killing-blow">Killing Blow</a> abilities</p> As a result, they'll be less accurate (because they can't turn misses into hits), less hardy (because they can't turn hits on them into misses), and less damaging (because they don't add their level to their shock or damage).
 </details>
 
@@ -238,7 +238,7 @@ Of the three factors, the DC is supposed to represent how hard *in general* the 
 
 When in doubt, use DC 10 as a default; it's low enough that success is still reasonable, but high enough to encourage players to work together, negotiate for softer intents, higher stakes, or higher costs, or come up with other plans.
 
-This graph gives the distribution of rolling at least a number on 2d6:
+This graph gives the distribution of rolling at least a number on `2d6`:
 
 ![small](/assets/images/skill-check-stats.png)
 
@@ -248,9 +248,9 @@ A DC 10 check has only a 17% chance of success. If they have +1 in the relevant 
 
 Say we are playing through [Stonehell](https://www.lulu.com/shop/michael-curtis/stonehell-dungeon-down-night-haunted-halls/paperback/product-1v8vy2zz.html)). Alice's Delver has just fallen down the pit trap in area 1B, arriving at 2B21. Here's the original text:
 
-> 21. Landing Pad: Fearsome faces carved in walls; bloodstains; broken weapons & equipment. Victims of the pit trap on Level 1B arrive here, taking 1d6 points of damage from the slide and tumble. The chute may be climbed by a thief with a Climb Walls check or by any other character aided by ropes & spikes and making a STR check.
+> 21. Landing Pad: Fearsome faces carved in walls; bloodstains; broken weapons & equipment. Victims of the pit trap on Level 1B arrive here, taking `1d6` points of damage from the slide and tumble. The chute may be climbed by a thief with a Climb Walls check or by any other character aided by ropes & spikes and making a STR check.
 
-If the Delver wants to rejoin the party, we might rule getting up by yourself as a DEX/[Exert](/rules#exert) 10 check, each attempt taking a turn, and on failure they fall and suffer 1d3 damage (since they're prepared and falling less distance). If they get a rope lowered down, I'd have this be a DC 6 group STR/[Exert](/rules#exert) check (or just let them back up).
+If the Delver wants to rejoin the party, we might rule getting up by yourself as a DEX/[Exert](/rules#exert) 10 check, each attempt taking a turn, and on failure they fall and suffer `1d3` damage (since they're prepared and falling less distance). If they get a rope lowered down, I'd have this be a DC 6 group STR/[Exert](/rules#exert) check (or just let them back up).
 
 ## Injury, Healing, and System Strain
 

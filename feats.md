@@ -63,8 +63,8 @@ You have a gift with ranged weapons. While this talent most commonly applies to 
 
 You have an unusual gift for saving Mortally Wounded allies and quickening the natural recovery of the wounded in your care.
 
-- **Level 1**: Gain [Heal](/rules#heal) as a [Bonus Skill](/rules#bonus-skill). You may attempt to stabilize one Mortally Wounded adjacent person per round as a [Free Action](/combat#free-action). When rolling [Heal](/rules#heal) skill checks, roll 3d6 and drop the lowest die. You heal twice as many HP as usual when applying first aid after a battle.
-- **Level 2**: Your curative gifts count as magical healing. You can heal 1d6+[Heal](/rules#heal) skill in damage to an adjacent wounded ally as a [Main Action](/combat#main-action), potentially reviving them without any lingering Frailty. Each such application of healing adds 1 System Strain to the target, and the gift cannot be used on targets already at their maximum System Strain.
+- **Level 1**: Gain [Heal](/rules#heal) as a [Bonus Skill](/rules#bonus-skill). You may attempt to stabilize one Mortally Wounded adjacent person per round as a [Free Action](/combat#free-action). When rolling [Heal](/rules#heal) skill checks, roll `3d6` and drop the lowest die. You heal twice as many HP as usual when applying first aid after a battle.
+- **Level 2**: Your curative gifts count as magical healing. You can heal `1d6`+[Heal](/rules#heal) skill in damage to an adjacent wounded ally as a [Main Action](/combat#main-action), potentially reviving them without any lingering Frailty. Each such application of healing adds 1 System Strain to the target, and the gift cannot be used on targets already at their maximum System Strain.
 
 ## Impervious Defense (C)
 
@@ -91,8 +91,8 @@ Something about your hero interferes with easy use of magic on them. It may be a
 
 You are a skilled poisoner, capable of compounding toxins out of readily-available flora and minerals. It takes an hour to brew a poison, and you can keep as many doses fresh as you have levels. Blade venoms take a [Main Action](/combat#main-action) to apply and last for ten minutes or until a hit or Shock is inflicted, whichever comes first. Detecting poisoned food is a WIS/[Notice](/rules#notice) skill check against 10, or 12 if the diner’s not a noble or otherwise normally wary of poison. One dose can poison up to a half-dozen diners.
 
-- **Level 1**: Gain [Heal](/rules#heal) as a [Bonus Skill](/rules#bonus-skill). Gain a reroll on any failed saving throw versus poison. Your toxins inflict 2d6 damage plus your level on a hit or Shock, with a Physical save for half. Your incapacitating or hallucinogenic toxins do the same, but those reduced to zero HP are simply incapacitated for an hour.
-- **Level 2**: You are immune to poison and can apply a universal antidote to any poisoned ally as a [Main Action](/combat#main-action). Any attempt to detect or save against your poisons takes a penalty equal to your [Heal](/rules#heal) skill. Your ingested poisons count as an Execution Attack against unsuspecting targets, with [Heal](/rules#heal) used for the Physical saving throw penalty and 1d6 damage per level done on a success. Such poisons are non-lethal at your discretion.
+- **Level 1**: Gain [Heal](/rules#heal) as a [Bonus Skill](/rules#bonus-skill). Gain a reroll on any failed saving throw versus poison. Your toxins inflict `2d6` damage plus your level on a hit or Shock, with a Physical save for half. Your incapacitating or hallucinogenic toxins do the same, but those reduced to zero HP are simply incapacitated for an hour.
+- **Level 2**: You are immune to poison and can apply a universal antidote to any poisoned ally as a [Main Action](/combat#main-action). Any attempt to detect or save against your poisons takes a penalty equal to your [Heal](/rules#heal) skill. Your ingested poisons count as an Execution Attack against unsuspecting targets, with [Heal](/rules#heal) used for the Physical saving throw penalty and `1d6` damage per level done on a success. Such poisons are non-lethal at your discretion.
 
 ## Shocking Assault (C)
 
@@ -105,15 +105,15 @@ You’re extremely dangerous to enemies around you. The ferocity of your melee a
 
 You are an expert at placing a thrown knife or arrow on an unsuspecting target. These special benefits only apply when making an Execution Attack with a bow, hurlant, or thrown weapon.
 
-- **Level 1**: Gain [Shoot](/rules#shoot) as a [Bonus Skill](/rules#bonus-skill). When making a skill check for a ranged Execution Attack or target shooting, roll 3d6 and drop the lowest die.
+- **Level 1**: Gain [Shoot](/rules#shoot) as a [Bonus Skill](/rules#bonus-skill). When making a skill check for a ranged Execution Attack or target shooting, roll `3d6` and drop the lowest die.
 - **Level 2**: You don’t miss ranged Execution Attacks. A target hit by one takes a -4 penalty on the Physical saving throw to avoid immediate mortal injury. Even if the save is successful, the target takes double the normal damage inflicted by the attack.
 
 ## Specialist
 
 You are remarkably talented at a particular skill. Whether a marvelous cat burglar, a famed athlete, a brilliant scholar, or some other savant, your expertise is extremely reliable. You may take this Feat more than once for different skills.
 
-- **Level 1**: Gain any skill as a bonus, except for Magic, Stab, Shoot, or [Brawl](/rules#brawl). Roll 3d6 and drop the lowest die for all skill checks in this skill.
-- **Level 2**: Roll 4d6 and drop the two lowest dice for all skill checks in this skill.
+- **Level 1**: Gain any skill as a bonus, except for Magic, Stab, Shoot, or [Brawl](/rules#brawl). Roll `3d6` and drop the lowest die for all skill checks in this skill.
+- **Level 2**: Roll `4d6` and drop the two lowest dice for all skill checks in this skill.
 
 ## Spirit Familiar
 
@@ -122,7 +122,7 @@ You have a minor spirit, devil, construct, magical beast, or other creature as a
 - **Level 1**: Choose a form for your familiar no smaller than a cat nor larger than a human. It has the traits and abilities of an entity created by [Summon Familiar](/spells#summon-familiar) but may be summoned or dismissed as a [Main Action](/combat#main-action), appearing within melee range of its owner. It cannot carry objects with it during its vanishment aside from the clothing natural to its shape. It has no need for food, water, or sleep. If killed, it vanishes and cannot be re-summoned for 24 hours. Once per day, it can refresh one point of Committed Effort for you.
 - **Level 2**: Pick two benefits from the list below for your familiar. This level may be taken more than once, adding two additional options each time.
   - It has HP equal to three times your level
-  - It gains the ability to attack with a attack bonus equal to half your level, rounded up, doing 1d8 damage on a hit with no Shock
+  - It gains the ability to attack with a attack bonus equal to half your level, rounded up, doing `1d8` damage on a hit with no Shock
   - It gains a +1 skill check bonus and can apply it to a range of situations equivalent to one normal human profession
   - It gains another shape of your choice which it can adopt or discard as a [Free Action](/combat#free-action)
   - It can hover or fly at its usual movement rate
@@ -132,15 +132,15 @@ You have a minor spirit, devil, construct, magical beast, or other creature as a
 
 You have uncommon expertise in handling traps and snares, both mundane ones and the magical perils sometimes found in dungeons or the lairs of sorcerers. You know how to improvise traps with materials you easily carry.
 
-- **Level 1**: Gain [Notice](/rules#notice) as a [Bonus Skill](/rules#bonus-skill). Once per Turn, reroll any failed saving throw or skill check related to traps or snares. Given five minutes of work you can trap a portal, container, passageway, or other relatively narrow space with foot snares, caltrops, toxic needles, or other hazards. Non-lethal traps cause the first victim to trigger it to lose a round of actions while dangerous ones inflict 1d6 damage plus twice the character’s level, with an appropriate saving throw for half. Only one such improvised trap can be maintained at a time. More fearsome traps may be laid with congenial circumstances and the GM’s permission.
+- **Level 1**: Gain [Notice](/rules#notice) as a [Bonus Skill](/rules#bonus-skill). Once per Turn, reroll any failed saving throw or skill check related to traps or snares. Given five minutes of work you can trap a portal, container, passageway, or other relatively narrow space with foot snares, caltrops, toxic needles, or other hazards. Non-lethal traps cause the first victim to trigger it to lose a round of actions while dangerous ones inflict `1d6` damage plus twice the character’s level, with an appropriate saving throw for half. Only one such improvised trap can be maintained at a time. More fearsome traps may be laid with congenial circumstances and the GM’s permission.
 - **Level 2**: You know secrets for unraveling even magical traps or arcane hazards that would normally require a wizard to dispel them. Once per Turn, your efforts count as an Extirpate Arcana spell against the trap or hazard, cast as if a Mage of twice your level, with any relevant skill check being INT/[Notice](/rules#notice) or DEX/[Notice](/rules#notice). This ability can be used against any stationary magical effect that’s susceptible to being dispelled by Extirpate Arcana.
 
 ## Unarmed Combatant (C)
 
 Your empty hands are more dangerous than swords in the grip of the less gifted. Your unarmed attacks are counted as melee weapons when it comes to binding up opponents wielding bows and similar ranged long arms, though you need at least one hand free to do so.
 
-- **Level 1**: Gain [Brawl](/rules#brawl) as a [Bonus Skill](/rules#bonus-skill). Your unarmed attacks become more dangerous as your [Brawl](/rules#brawl) skill increases. At level 0, they do 1d6 damage. At level 1, they do 1d8 damage. At level 2 they do 1d10, level 3 does 1d12, and level 4 does 1d12+1. At [Brawl](/rules#brawl-1 or better, they have the Shock quality equal to your [Brawl](/rules#brawl) skill against AC 15 or less.
-- **Level 2**: Even on a miss with a [Brawl](/rules#brawl) attack, you do an unmodified 1d6 damage, plus any Shock that the blow might inflict on the target.
+- **Level 1**: Gain [Brawl](/rules#brawl) as a [Bonus Skill](/rules#bonus-skill). Your unarmed attacks become more dangerous as your [Brawl](/rules#brawl) skill increases. At level 0, they do `1d6` damage. At level 1, they do `1d8` damage. At level 2 they do `1d10`, level 3 does `1d12`, and level 4 does `1d12+1`. At [Brawl](/rules#brawl-1 or better, they have the Shock quality equal to your [Brawl](/rules#brawl) skill against AC 15 or less.
+- **Level 2**: Even on a miss with a [Brawl](/rules#brawl) attack, you do an unmodified `1d6` damage, plus any Shock that the blow might inflict on the target.
 
 ## Valiant Defender (C)
 
