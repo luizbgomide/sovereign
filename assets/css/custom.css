@@ -64,4 +64,10 @@ body {
 
 main {
     margin-top: 50px;
+    overflow-x: scroll;
+}
+
+html,
+body {
+    scroll-padding-top: 60px;
 }
