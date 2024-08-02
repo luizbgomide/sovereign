@@ -5,13 +5,13 @@ title: Home
 
 Welcome to Sovereign!
 
-This game endeavors to provide a ruleset that allows players to play through modules compatible with [1980s D&D](https://en.wikipedia.org/wiki/Dungeons_%26_Dragons_Basic_Set). Little conversion should be necessary. The game hopes to be written more clearly, be more searchable, better hyperlinked, have more depth, and boast a better in-game economy.
+This game endeavors to provide a ruleset that allows players to play through adventures compatible with [1980s D&D](https://en.wikipedia.org/wiki/Dungeons_%26_Dragons_Basic_Set). Little conversion should be necessary. The game hopes to be written more clearly, be more searchable, better hyperlinked, have more depth, and boast a better in-game economy.
 
 This document is split in several sections.
 
 If you prefer to learn by example and with exercises, the [Tutorial](/tutorial) (work in progress) has you covered.
 
-A Bestiary, Magic Item repository, and extensive GM section are in progress. In the mean time, check out [those outside the walls](https://www.drivethrurpg.com/en/product/422653/Those-Outside-the-Walls--A-450-Monster-Bestiary) and [basic fantasy](https://basicfantasy.org/srd/monstersAll.html) for monsters, and [OSE](https://oldschoolessentials.necroticgnome.com/srd/index.php/Magic_Items_(General)) for magic items.
+A list of monsters, list of magic items magic item, and extensive game master section are in progress. In the mean time, check out [Those Outside The Walls](https://www.drivethrurpg.com/en/product/422653/Those-Outside-the-Walls--A-450-Monster-Bestiary) and [Basic Fantasy](https://basicfantasy.org/srd/monstersAll.html) for monsters, and [Old School Essentials](https://oldschoolessentials.necroticgnome.com/srd/index.php/Magic_Items_(General)) for magic items.
 
 Otherwise...
 
@@ -25,11 +25,11 @@ Otherwise...
   {% endfor %}
 </ul>
 
-### The Module Stack
+### Recommended Adventures
 
-- Anything rated ["Best" at tenfootpole](https://tenfootpole.org/ironspike/?cat=7).
-- Anything Melan rates a `**** / *****` or higher. I don't know of a good way to filter here, but [here are all of the reviews](https://beyondfomalhaut.blogspot.com/search/label/review)
-- Anything prince rates a `*****` on [his review list](https://princeofnothingblogs.wordpress.com/reviews/)
+- Anything rated ["Best" at tenfootpole](https://tenfootpole.org/ironspike/?cat=7) by Bryce.
+- Anything Gabor rates a `**** / *****` or higher. I don't know of a good way to filter here, but [here are all of the reviews](https://beyondfomalhaut.blogspot.com/search/label/review).
+- Anything Prince rates a `*****` on [his review list](https://princeofnothingblogs.wordpress.com/reviews/).
 
 | Name                                                                                                                                                                | Starting Level | Ending Level |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------- | ------------ |
@@ -144,12 +144,15 @@ Otherwise...
 
 ### Change Log
 
+#### 2024-08-02
+- De-jargon a bit. "Module" is an esoteric term, "adventure" is not.
+
 #### 2024-08-01
 - Get the nav bar for the toc to be responsive.
 
 #### 2024-07-31
 - Add rules for scrolls, potions, and sentient weapons.
-- Add the list of modules, sourced from [tenfootpole](https://tenfootpole.org/ironspike) and [beyondformalhaut](https://beyondfomalhaut.blogspot.com/).
+- Add the list of adventures, sourced from [tenfootpole](https://tenfootpole.org/ironspike) and [beyondformalhaut](https://beyondfomalhaut.blogspot.com/).
 - Add an explanation of the grid for combat.
 - Change hit roll to attack roll.
 - Oops. Accursed get arts as they level now.
@@ -236,7 +239,7 @@ Otherwise...
 - Simplify chases.
 - Replace WWN's XP system with a slightly-more-generous version of BX's.
 - Rip out all of the downtime stuff; it's out of scope. No crafting, no modifying.
-- Remove all of the wilderness exploration stuff. It's [not worth it](https://rancourt.substack.com/i/146342934/conclusions-and-suggestions). We want to spend time in dungeons playing modules.
+- Remove all of the wilderness exploration stuff. It's [not worth it](https://rancourt.substack.com/i/146342934/conclusions-and-suggestions). We want to spend time in dungeons playing adventures.
 - Simplify WWN's armor list down to just leather/chain/plate.
 
 ### Attributions

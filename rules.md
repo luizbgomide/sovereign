@@ -7,11 +7,11 @@ title: Home
 
 ## The Big Picture
 
-1. The Game Master (GM) creates a loosely defined fantasy setting where most modules that they would want to run fits in somewhere.
-2. The GM proposes a few modules (describing them in vague strokes) to the players between sessions, the players pick the one they want to run next, and the GM prepares that module, using [hard framing](https://thealexandrian.net/wordpress/31509/roleplaying-games/the-art-of-pacing) to place the Delvers right on the adventure's doorstep with a strong hook.
-3. After a module is completed, the process repeats from step 2, usually with the same Delvers. Weeks or months pass in-game between adventures as appropriate.
+1. The Game Master (GM) creates a loosely defined fantasy setting where most adventures that they would want to run fits in somewhere.
+2. The GM proposes a few adventures (describing them in vague strokes) to the players between sessions, the players pick the one they want to run next, and the GM prepares that adventure, using [hard framing](https://thealexandrian.net/wordpress/31509/roleplaying-games/the-art-of-pacing) to place the Delvers right on the adventure's doorstep with a strong hook.
+3. After an adventure is completed, the process repeats from step 2, usually with the same Delvers. Weeks or months pass in-game between adventures as appropriate.
 
-This is *very much* a game about playing all of the wonderful [modules](/#the-module-stack) that the [OSR](https://campaignwiki.org/osr/) has to offer. To that end, Sovereign attempts to strip out and de-emphasize anything that might entice the players *away* from the pre-written content in modules. Domain play, crafting, etc have all be deliberately removed.
+This is *very much* a game about playing all of the wonderful [adventures](/#recommended-adventures) that the [community](https://campaignwiki.org/osr/) has to offer. To that end, Sovereign attempts to strip out and de-emphasize anything that might entice the players *away* from the pre-written content in adventures. Domain play, crafting, etc have all be deliberately removed.
 
 Finally, the episodic natures of the adventures facilitates players joining and leaving the table, and allows for players to easily introduce new Delvers as their old ones die, retire, or recover. We want everyone playing as smoothly as possible!
 
