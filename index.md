@@ -63,6 +63,10 @@ Otherwise...
 | [The Dragon’s Heart](http://www.rpgnow.com/product/216364)                                                                                                          | 1              | 3            |
 | [Borshak's Lair](https://www.dropbox.com/scl/fi/z97jzboxex69jffg2rdsh/BORSHAKS_LAIR.pdf?rlkey=pyrzw48hdp7e4757ns6ng6mim&e=1&dl=0)                                   | 1              | 2            |
 | [Anomalous Subsurface Environment #1](https://www.lulu.com/shop/patrick-wetmore/ase1-anomalous-subsurface-environment-pdf/ebook/product-qk2dy9.html)                | 1              | 3            |
+| [B2 - Keep on the Borderlands](https://www.drivethrurpg.com/en/product/17158)                                                                                       | 1              | 3            |
+| [B5 - Horror on the Hill](https://www.drivethrurpg.com/en/product/17097)                                                                                            | 1              | 3            |
+| [T1 - The Village of Hommlet](https://www.drivethrurpg.com/en/product/17067)                                                                                        | 1              | 3            |
+| [Stonehell](https://www.lulu.com/shop/michael-curtis/stonehell-dungeon-down-night-haunted-halls/paperback/product-1v8vy2zz.html)                                    | 1              | 7            |
 | [The Temple of Polyphema](https://www.drivethrurpg.com/en/product/414336)                                                                                           | 2              | 4            |
 | [The Dragon’s Gullet](https://www.drivethrurpg.com/product/422992)                                                                                                  | 2              | 5            |
 | [Fabien's Atelier](https://www.drivethrurpg.com/en/product/406938)                                                                                                  | 2              | 4            |
@@ -77,6 +81,7 @@ Otherwise...
 | [The Withered Crag](https://www.drivethrurpg.com/product/277684)                                                                                                    | 2              | 3            |
 | [Mines, Claws & Princesses](https://www.drivethrurpg.com/product/240094)                                                                                            | 2              | 4            |
 | [The Singing Caverns](https://www.drivethrurpg.com/product/241136)                                                                                                  | 2              | 4            |
+| [B10 - Night's Dark Terror](https://www.drivethrurpg.com/en/product/17119)                                                                                          | 2              | 4            |
 | [The House under the Moondial](https://www.drivethrurpg.com/en/product/474868/)                                                                                     | 3              | 4            |
 | [Bastard King of Thraxford Castle](https://www.drivethrurpg.com/en/product/405442/)                                                                                 | 3              | ?            |
 | [Shrine of the Small God](https://princeofnothing.itch.io/no-artpunk-ii)                                                                                            | 3              | 5            |
@@ -103,6 +108,8 @@ Otherwise...
 | [Grave of the Heartless](https://www.drivethrurpg.com/product/227738)                                                                                               | 3              | 4            |
 | [Vault of the Mad Baron](https://www.drivethrurpg.com/en/product/414418)                                                                                            | 3              | 5            |
 | [Sision Tower](https://www.drivethrurpg.com/en/product/270477)                                                                                                      | 3              | 5            |
+| [C1 - The Hidden Shrine of Tamoachan](https://www.drivethrurpg.com/en/product/17031)                                                                                | 3              | 7            |
+| [Many Gates of the Gann](https://www.drivethrurpg.com/en/product/105975)                                                                                            | 3              | 5            |
 | [Standoff at Sandfell Sea Fort](https://www.drivethrurpg.com/en/product/252951)                                                                                     | 4              | 7            |
 | [Cloister of the Frog-God](https://emdt.bigcartel.com/product/cloister-of-the-frog-god)                                                                             | 4              | 6            |
 | [Webs of Past and Present](https://emdt.bigcartel.com/product/the-webs-of-past-and-present)                                                                         | 4              | 5            |
@@ -123,6 +130,7 @@ Otherwise...
 | [Skalbak Sneer: The Stronghold of Snow](https://princeofnothing.itch.io/no-artpunk-ii)                                                                              | 5              | 7            |
 | [Fractious Mayhem at Melonath Falls](https://princeofnothing.itch.io/no-artpunk-ii)                                                                                 | 5              | 8            |
 | [Secrets of the Wyrwoode](https://www.drivethrurpg.com/en/product/200708/Secrets-of-the-Wyrwoode)                                                                   | 5              | 7            |
+| [WG4 - The Forgotten Temple of Tharizdun](https://www.drivethrurpg.com/en/product/17080)                                                                            | 5              | 10           |
 | [Battle for Carrion Vale](https://www.drivethrurpg.com/product/393396)                                                                                              | 6              | 7            |
 | [The Lost Treasure of Atlantis](https://www.drivethrurpg.com/product/296269)                                                                                        | 6              | 8            |
 | [Eyrie of the Dread Eye](https://www.drivethrurpg.com/product/268206)                                                                                               | 6              | 8            |
@@ -130,6 +138,10 @@ Otherwise...
 | [Surgerock Vault](https://www.drivethrurpg.com/product/390976)                                                                                                      | 7              | 9            |
 | [Tomb of the Twice-Crowned King](https://www.drivethrurpg.com/product/442331)                                                                                       | 8              | 10           |
 | [The Keep of the Broken Saint](https://www.drivethrurpg.com/product/256798)                                                                                         | 8              | 10           |
+| [S3 - Expedition to the Barrier Peaks](https://www.drivethrurpg.com/en/product/17065)                                                                               | 8              | 10           |
+| [G1-3 - Against The Giants](https://www.drivethrurpg.com/en/product/17037)                                                                                          | 9              | 10           |
+| [D1-3 - Descent into the Depths of the Earth (Drow)](https://www.drivethrurpg.com/en/product/17041)                                                                 | 9              | 10           |
+| [S1 - Tomb of Horrors](https://www.drivethrurpg.com/en/product/176871)                                                                                              | 10             | 10           |
 
 
 ### Under Construction
