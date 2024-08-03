@@ -115,7 +115,7 @@ Target an enemy within range of your weapon and take this action until up to fou
 
 Spend both your [Main Action](#main-action) and your [Move Action](#move-action) to move up to twice your normal movement rate in a straight line, making a melee or thrown ranged attack at the end of it with a +2 bonus to hit. You must be able to charge at least 5' to build up sufficient momentum and you suffer a -2 penalty to your AC until the end of the round.
 
-If you start your movement adjacent to an armed melee combatant, they get a free melee attack against you as you flee. To avoid this, you must Disengage first.
+If you start your movement adjacent to an armed melee combatant, they get a free melee attack against you as you flee. To avoid this, you must [Disengage](/combat#disengage-main) first.
 
 ### Screen an Ally (Move)
 
@@ -125,7 +125,7 @@ If the enemy succeeds, their attack targets your ward normally. If you succeed, 
 
 Multiple defenders can screen the same target, in which case the opposed skill check is compared to all defenders and targets the worst-rolling successful defender. You can only screen against attacks you could feasibly physically parry or body-block.
 
-If you moved and started your movement adjacent to an armed melee combatant, they get a free melee attack against. To avoid this, you must Disengage first.
+If you moved and started your movement adjacent to an armed melee combatant, they get a free melee attack against. To avoid this, you must [Disengage](/combat#disengage-main) first.
 
 Screen an Ally may be used to protect ranged allies (especially spellcasters) from ranged attacks.
 
@@ -137,7 +137,7 @@ Since Total Defense is an [Instant Action](#instant-action), you may use it *aft
 
 ### Run (Move)
 
-Move your normal movement rate in combat, which is 30 feet for an ordinary human. If you start your movement adjacent to an armed melee combatant, they get a free melee attack against you as you flee. To avoid this, you must Disengage first.
+Move your normal movement rate in combat, which is 30 feet for an ordinary human. If you start your movement adjacent to an armed melee combatant, they get a free melee attack against you as you flee. To avoid this, you must [Disengage](/combat#disengage-main) first.
 
 ### Disengage (Main)
 
@@ -161,13 +161,13 @@ Reload a crossbow from a Readied case of quarrels. Bows and crossbows may be rel
 
 Scoop up a dropped item within melee range, leaving it Readied in your hand.
 
-If you attempt to pick up an item while adjacent to an armed melee combatant, they get a free melee attack against you. To avoid this, you must Disengage first.
+If you attempt to pick up an item while adjacent to an armed melee combatant, they get a free melee attack against you. To avoid this, you must [Disengage](/combat#disengage-main) first.
 
 ### Stand Up (Move)
 
 Rise from a prone position, picking up any dropped items as you do so.
 
-If you stand up adjacent to an armed melee combatant, they get a free melee attack against you. To avoid this, you must Disengage first.
+If you stand up adjacent to an armed melee combatant, they get a free melee attack against you. To avoid this, you must [Disengage](/combat#disengage-main) first.
 
 ### Go Prone (Free)
 
