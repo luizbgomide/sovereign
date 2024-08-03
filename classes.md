@@ -32,7 +32,7 @@ Experts roll `1d6` for [HP Progression](/rules#hp-progression).
 
 ### Class Ability: Masterful Expertise
 
-Once per Turn, a Expert may reroll any non-combat [skill check](#skill-checks) as an [Instant](/combat#instant-action) action. This allows the Expert to make a roll and then immediately use this ability if the resulting total isn’t good enough to succeed. In cases where it matters, the better of the two rolls may be used.
+Once per [Turn](/rules#turn), a Expert may reroll any non-combat [skill check](#skill-checks) as an [Instant](/combat#instant-action) action. This allows the Expert to make a roll and then immediately use this ability if the resulting total isn’t good enough to succeed. In cases where it matters, the better of the two rolls may be used.
 
 [Partial Experts](#partial-expert) **do not** receive this ability.
 

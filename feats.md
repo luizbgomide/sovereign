@@ -57,7 +57,7 @@ You are surprisingly hard to kill. You survive injuries and bear up under stress
 You have a gift with ranged weapons. While this talent most commonly applies to bows, it is also applicable to thrown weapons or other ranged weapons that can be used with the [Shoot](/rules#shoot) skill. For thrown weapons, you can’t use the benefits of the Armsmaster Feat at the same time as Deadeye.
 
 - **Level 1**: Gain [Shoot](/rules#shoot) as a [Bonus Skill](/rules#bonus-skill). You can Ready a Stowed ranged weapon as an [Instant Action](/combat#instant-action). You may use a bow or two-handed ranged weapon even when an enemy is within melee range, albeit at a -4 hit penalty. You add your [Shoot](/rules#shoot) skill level to a ranged weapon’s damage roll.
-- **Level 2**: You reload crossbows or other slow-loading weapons as a [Free Action](/combat#free-action), provided they don’t take more than a round to reload. You use ranged weapons in melee without penalty. Once per Turn, as a [Free Action](/combat#free-action) when target shooting at an inanimate, non-creature target, you automatically hit unless you roll a 2 on your [Shoot](/rules#shoot) skill check or the shot is physically impossible.
+- **Level 2**: You reload crossbows or other slow-loading weapons as a [Free Action](/combat#free-action), provided they don’t take more than a round to reload. You use ranged weapons in melee without penalty. Once per [Turn](/rules#turn), as a [Free Action](/combat#free-action) when target shooting at an inanimate, non-creature target, you automatically hit unless you roll a 2 on your [Shoot](/rules#shoot) skill check or the shot is physically impossible.
 
 ## Gifted Chirurgeon
 
@@ -77,7 +77,7 @@ Whether through uncanny reflexes, remarkable luck, supernatural heritage, or mag
 
 You are exceedingly skilled at presenting yourself as something you are not, including disguises, voice mimicry, and lightning-fast wardrobe changes.
 
-- **Level 1**: Gain [Sneak](/rules#sneak) as a [Bonus Skill](/rules#bonus-skill). Once per Turn, reroll any failed skill check or saving throw related to maintaining an imposture or disguise. Create one false identity of no great social importance; you can flawlessly pretend to be that person, such that only extremely persuasive proof connects you with it. You can change this identity with a week’s worth of effort in building a new one.
+- **Level 1**: Gain [Sneak](/rules#sneak) as a [Bonus Skill](/rules#bonus-skill). Once per [Turn](/rules#turn), reroll any failed skill check or saving throw related to maintaining an imposture or disguise. Create one false identity of no great social importance; you can flawlessly pretend to be that person, such that only extremely persuasive proof connects you with it. You can change this identity with a week’s worth of effort in building a new one.
 - **Level 2**: You can alter your clothing and armor such that a single [Main Action](/combat#main-action) lets you swap between any of three chosen appearances. In addition to your original false identity, you can establish a new false identity in each city or significant community you spend at least a day in.
 
 ## Nullifier (C)
@@ -85,7 +85,7 @@ You are exceedingly skilled at presenting yourself as something you are not, inc
 Something about your hero interferes with easy use of magic on them. It may be a strangely powerful birth blessing, a particular supernatural bloodline, or simple occult incompatibility. This Feat cannot be taken by Mages or Partial Mages.
 
 - **Level 1**: You and all allies within twenty feet gain a +2 bonus to all saving throws against magical effects. As a [Free Action](/combat#free-action), you feel the presence or use of magic within twenty feet of you, though you can’t discern details about it or the specific source. The first failed saving throw against a magical effect you suffer in a day is converted into a success.
-- **Level 2**: Once per day, as an [Instant Action](/combat#instant-action), you are simply not affected by an unwanted magical effect or supernatural monstrous ability, even if it wouldn’t normally allow a saving throw. Immunity to a persistent effect lasts for the rest of the Turn.
+- **Level 2**: Once per day, as an [Instant Action](/combat#instant-action), you are simply not affected by an unwanted magical effect or supernatural monstrous ability, even if it wouldn’t normally allow a saving throw. Immunity to a persistent effect lasts for the rest of the [Turn](/rules#turn).
 
 ## Poisoner
 
@@ -132,8 +132,8 @@ You have a minor spirit, devil, construct, magical beast, or other creature as a
 
 You have uncommon expertise in handling traps and snares, both mundane ones and the magical perils sometimes found in dungeons or the lairs of sorcerers. You know how to improvise traps with materials you easily carry.
 
-- **Level 1**: Gain [Notice](/rules#notice) as a [Bonus Skill](/rules#bonus-skill). Once per Turn, reroll any failed saving throw or skill check related to traps or snares. Given five minutes of work you can trap a portal, container, passageway, or other relatively narrow space with foot snares, caltrops, toxic needles, or other hazards. Non-lethal traps cause the first victim to trigger it to lose a round of actions while dangerous ones inflict `1d6` damage plus twice the character’s level, with an appropriate saving throw for half. Only one such improvised trap can be maintained at a time. More fearsome traps may be laid with congenial circumstances and the GM’s permission.
-- **Level 2**: You know secrets for unraveling even magical traps or arcane hazards that would normally require a wizard to dispel them. Once per Turn, your efforts count as an Extirpate Arcana spell against the trap or hazard, cast as if a Mage of twice your level, with any relevant skill check being INT/[Notice](/rules#notice) or DEX/[Notice](/rules#notice). This ability can be used against any stationary magical effect that’s susceptible to being dispelled by Extirpate Arcana.
+- **Level 1**: Gain [Notice](/rules#notice) as a [Bonus Skill](/rules#bonus-skill). Once per [Turn](/rules#turn), reroll any failed saving throw or skill check related to traps or snares. Given five minutes of work you can trap a portal, container, passageway, or other relatively narrow space with foot snares, caltrops, toxic needles, or other hazards. Non-lethal traps cause the first victim to trigger it to lose a round of actions while dangerous ones inflict `1d6` damage plus twice the character’s level, with an appropriate saving throw for half. Only one such improvised trap can be maintained at a time. More fearsome traps may be laid with congenial circumstances and the GM’s permission.
+- **Level 2**: You know secrets for unraveling even magical traps or arcane hazards that would normally require a wizard to dispel them. Once per [Turn](/rules#turn), your efforts count as a [Dispel Magic](/spells#dispel-magic) spell against the trap or hazard, cast as if a Mage of twice your level, with any relevant skill check being INT/[Notice](/rules#notice) or DEX/[Notice](/rules#notice). This ability can be used against any stationary magical effect that’s susceptible to being dispelled by Extirpate Arcana.
 
 ## Unarmed Combatant (C)
 
@@ -153,5 +153,5 @@ You are a bodyguard, shieldbearer, or other gifted defender of others, accustome
 
 You are a frenzy of bloody havoc in melee combat, and can hack down numerous lesser foes in close combat... assuming you survive being surrounded.
 
-- **Level 1**: Gain [Stab](/rules#stab) as a [Bonus Skill](/rules#bonus-skill). Once per Turn, as a [Free Action](/combat#free-action), apply your Shock damage to all foes within melee range, assuming they’re susceptible to your Shock.
+- **Level 1**: Gain [Stab](/rules#stab) as a [Bonus Skill](/rules#bonus-skill). Once per [Turn](/rules#turn), as a [Free Action](/combat#free-action), apply your Shock damage to all foes within melee range, assuming they’re susceptible to your Shock.
 - **Level 2**: The first time you kill someone in a round with a normal attack, either with its rolled damage on a hit or with the Shock damage it inflicts, instantly gain a second attack on any target within range using any Ready weapon you have.

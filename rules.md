@@ -225,7 +225,7 @@ If the save is failed, the poison or disease takes hold. Most poisons act quickl
 
 A medic can treats a poisoned person within a minute of the poisoning with a [healer’s kit](/equipment#healers-kit) to give them a better chance to resist. They add twice their [Heal](#heal) skill level to the victim’s saving throw roll, or +1 if they have only [Heal](#heal)-0 skill.
 
-Some poisons, like that of a [pit viper](https://basicfantasy.org/srd/monstersAll.html#snake-pit-viper), are save or die. Once the poison takes hold, the victim has `1d4` Turns to live unless specified otherwise.
+Some poisons, like that of a [pit viper](https://basicfantasy.org/srd/monstersAll.html#snake-pit-viper), are save or die. Once the poison takes hold, the victim has `1d4` [Turns](/rules#turn) to live unless specified otherwise.
 
 Other poisons can have other effects. A [giant centepede](https://oldschoolessentials.necroticgnome.com/srd/index.php/Centipede,_Giant) causes lethargy. A [Tarentella](https://oldschoolessentials.necroticgnome.com/srd/index.php/Spider,_Tarantella) causes `2d6` turns of painful jerking spasms.
 
@@ -307,16 +307,16 @@ These rules are meant for tracking adventures in a dangerous site where perils c
 
 At the start of each [Turn](#turn) after the party enters the site:
 
-1. Roll a secret [Wandering Encounter](#wandering-encounters) check if necessary. On a 1, the encounter will happen at some appropriate moment this Turn.
-2. The Delvers decide what they want to do this Turn: move into a new room, carefully search their current location, fiddle with some object they’ve found, or something else that takes ~ten minutes.
+1. Roll a secret [Wandering Encounter](#wandering-encounters) check if necessary. On a 1, the encounter will happen at some appropriate moment this [Turn](/rules#turn).
+2. The Delvers decide what they want to do this [Turn](/rules#turn): move into a new room, carefully search their current location, fiddle with some object they’ve found, or something else that takes ~ten minutes.
 3. The GM explains the result of their actions, whether that’s a first-glance description of a new room, notice of the hideous abomination that’s rearing up before them, or the explosive detonation of the crystal they just experimentally prodded.
-4. Start over from the top, assuming their actions have consumed a Turn, until they withdraw from the site or it becomes safe enough to stop counting Turns.
+4. Start over from the top, assuming their actions have consumed a [Turn](/rules#turn), until they withdraw from the site or it becomes safe enough to stop counting [Turns](/rules#turn).
 
 ### Timekeeping in the Dungeon
 
-Once the Delvers intrude on a ruin, dungeon, corrupt noble’s mansion, or other dangerous site the GM starts tracking time in [Turns](#turn). Each Delver can do one significant thing per Turn. Different Delvers can be doing different things in the same Turn.
+Once the Delvers intrude on a ruin, dungeon, corrupt noble’s mansion, or other dangerous site the GM starts tracking time in [Turns](#turn). Each Delver can do one significant thing per [Turn](/rules#turn). Different Delvers can be doing different things in the same [Turn](/rules#turn).
 
-The point of tracking Turns is to have a rough measure of how much activity they’re engaging in within the ruin. The more the Delvers do and the longer they stay, the more likely that they’ll run into Wandering Encounters or the denizens will have time to realize that intruders are present. Eventually, the Delvers need to either pull back or clear the site entirely of its dangerous inhabitants.
+The point of tracking [Turns](/rules#turn) is to have a rough measure of how much activity they’re engaging in within the ruin. The more the Delvers do and the longer they stay, the more likely that they’ll run into Wandering Encounters or the denizens will have time to realize that intruders are present. Eventually, the Delvers need to either pull back or clear the site entirely of its dangerous inhabitants.
 
 | Activity                                       | Turns |
 |------------------------------------------------|-------|
@@ -336,9 +336,9 @@ Doors can be **locked**, in which case a character with [Thieves Tools](/equipme
 
 Locked doors can be **battered down**. 6 turns less STR and [Exert](#exert) for wooden doors, and triple that for metal-reinforced doors. Metal or stone doors can not be battered down with mundane means. Roll an extra [Wandering Encounter](#wandering-encounters) every [Turn](#turn).
 
-Doors can be **stuck**, in which case a character can try to force them open in a [Round](#round) with a DC 10 STR/[Exert](#exert) check. If they fail, it takes `1d3` Turns to open the door.
+Doors can be **stuck**, in which case a character can try to force them open in a [Round](#round) with a DC 10 STR/[Exert](#exert) check. If they fail, it takes `1d3` [Turns](/rules#turn) to open the door.
 
-Doors can be **listened at** for a Round (but only once per Turn), revealing noises as loud as talking without a roll. The presence of anything quieter with requires a DC 10 WIS/[Notice](#notice) check.
+Doors can be **listened at** for a Round (but only once per [Turn](/rules#turn)), revealing noises as loud as talking without a roll. The presence of anything quieter with requires a DC 10 WIS/[Notice](#notice) check.
 
 To pass through a door, choose to make either a **hard** or **soft** entry. If not specififed, a soft entry is assumed.
 
@@ -362,7 +362,7 @@ If the GM thinks this is possible, use an [opposed](#opposed-skill-checks) roll.
 
 ### Wandering Encounters
 
-Every so many Turns, a GM should roll `1d6` to check for a Wandering Encounter. On a 1, the Delvers will run into one at some point during the Turn. The frequency of the check will depend on how alert and organized the site’s inhabitants are.
+Every so many [Turns](/rules#turn), a GM should roll `1d6` to check for a Wandering Encounter. On a 1, the Delvers will run into one at some point during the [Turn](/rules#turn). The frequency of the check will depend on how alert and organized the site’s inhabitants are.
 
 The actual contents of the encounter are decided when the GM puts together the site. Not all encounters involve running into creatures. Some are mere events or situations that fit the site. In the same vein, not all encounters are necessarily hostile, either. [Reaction rolls](#reaction-rolls) should be made for all groups of creatures.
 

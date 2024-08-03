@@ -71,7 +71,7 @@ If it targets a **creature** within 200 feet, the target becomes partially immun
 
 If it targets a visible **weapon** within two hundred feet, that weapon is rendered entirely harmless and unable to inflict damage for the rest of the turn, with no saving throw.
 
-The spell may only affect a given target or weapon once per Turn and natural body weapons aren’t affected.
+The spell may only affect a given target or weapon once per [Turn](/rules#turn) and natural body weapons aren’t affected.
 
 #### Control Animal
 The mage targets a visible, normal, non-magical animal or insect, obtaining temporary control of the beast and the ability to share its senses. The animal gains a telepathic bond with the caster, obeying any non-suicidal command and allowing the mage to perceive everything it perceives. The beast will not fight for the caster, but can perform complex actions entirely out of character for it while under the mage’s control.
@@ -93,7 +93,7 @@ Wood, linen, cotton, rope, and other plant or fungus-derived matter is annihilat
 The mage targets a point within one hundred feet per caster level and designates a number of contiguous 10-foot cubes within that area equal to or less than their caster level. All non-magical plant matter within that area immediately erodes away to dust. Enchanted objects of plant matter cannot be affected, but ordinary plant-based clothing, bows, or wooden-hafted weapons will be destroyed. If used against plant-based monsters, the spell does `1d10` damage per caster level, with a Physical save for half.
 
 #### Detect Thoughts
-The mage focuses on a visible living creature within 100 feet per caster level. For the rest of the Turn, they immediately receive an impression of the target’s surface thoughts and interests, understanding them regardless of any lack of a shared language.
+The mage focuses on a visible living creature within 100 feet per caster level. For the rest of the [Turn](/rules#turn), they immediately receive an impression of the target’s surface thoughts and interests, understanding them regardless of any lack of a shared language.
 
 The caster may ask one question of the target’s memories per caster level, but doing so risks breaking the spell; the target can make a Mental save before answering each question and the spell ends if the save is successful. These questions can only query memories, not compel any exercise of judgment. This spell is very subtle in its casting, and requires no gestures or audible incantations.
 
@@ -105,7 +105,7 @@ The caster cannot order the creature to answer questions or perform acts that re
 The spell lasts until dispelled, or until the caster dies or releases them. Every time this spell is cast, however, all prior subjects get an immediate unmodified Mental saving throw to throw it off. If the creature has more HP than the caster has levels, it gets an unmodified saving throw to end the effect the first time each day it’s ordered to do something it finds strongly objectionable.
 
 #### Dominate Sense
-The caster targets a visible creature within two hundred feet. The target gets a Mental saving throw to resist; on a failure, one sense of the caster’s choice is entirely under the caster’s control for the rest of the Turn, while a success leaves them bound only for the next round.
+The caster targets a visible creature within two hundred feet. The target gets a Mental saving throw to resist; on a failure, one sense of the caster’s choice is entirely under the caster’s control for the rest of the [Turn](/rules#turn), while a success leaves them bound only for the next round.
 
 Any false impression may be given, or any true one concealed, and a creature may be left effectively blinded or deafened. Distracting tactile sensations can force the victim to make a Physical saving throw in order to act each round. Blinded creatures can’t make ranged attacks and roll all melee attack rolls twice, taking the worst result. If a creature thinks itself in mortal peril its excitement allows it to make a Mental save to throw off the spell at the end of each round.
 
@@ -115,21 +115,21 @@ The mage chooses up to one visible willing target per caster level provided they
 Missile attacks against invisible foes are largely impossible, and melee attacks against them usually suffer a -4 penalty to attack rolls. The spell lasts for up to an hour per caster level, but it breaks if a subject performs some violent motion, such as running, attacking, or casting a spell. Once broken for one subject, it breaks for all.
 
 #### See Magic
-The mage opens up their mind to the presence of occult energies. For one Turn per character level, they are capable of seeing active magical effects, curses, or other enchantments as colored auras or patterns of light.
+The mage opens up their mind to the presence of occult energies. For one [Turn](/rules#turn) per character level, they are capable of seeing active magical effects, curses, or other enchantments as colored auras or patterns of light.
 
 They may identify magical items and get a one-sentence description of their purpose or most significant powers, and get more sophisticated answers with successful WIS/[Magic](/rules#magic) skill checks at difficulties of 8 or more depending on the subtlety of the enchantment. Mages with prepared spells are visible to the caster, though which spells the subject might have prepared is not knowable. As a side effect of this spell, the ambient thaumic currents cast enough quasi-light to allow the caster to see normally even in perfect darkness.
 
 #### Sleep
 The mage designates a visible point within two hundred feet. A silent, invisible burst of soporific influence erupts from that point, targeting all living creatures within a twenty-foot radius. All such targets with 4 or fewer HD within that area fall unconscious instantly, and are roused only by damage or by a [Main Action](/combat#main-action) used to kick them awake.
 
-If not roused, they revive at the end of the Turn. Entities that do not sleep are immune to this spell.
+If not roused, they revive at the end of the [Turn](/rules#turn). Entities that do not sleep are immune to this spell.
 
 #### Speed
 Unlike most spells, Speed may be cast as a [Free Action](/combat#free-action), targeting up to one visible willing creature per caster level within one hundred feet.
 
 Enchanted creatures become incredibly fleet of foot, doubling their usual ground movement rate and becoming capable of running up walls and across ceilings without falling, provided they end their round upright on a navigable surface.
 
-They may also move away from melee opponents without needing to make a Fighting Withdrawal to avoid a parting attack, and may pass through and around armed foes who do not completely physically block their path. The spell lasts for the remainder of the Turn and adds 1 [System Strain](/rules#system-strain) to those who take advantage of it.
+They may also move away from melee opponents without needing to make a Fighting Withdrawal to avoid a parting attack, and may pass through and around armed foes who do not completely physically block their path. The spell lasts for the remainder of the [Turn](/rules#turn) and adds 1 [System Strain](/rules#system-strain) to those who take advantage of it.
 
 #### Stasis
 Stasis may be cast as a [Free Action](/combat#free-action) and targets a single willing or helpless creature the caster is touching. The subject is shifted out of the flow of conventional time, freezing and being limned in a pale sepia light. They and all their carried possessions are rendered impervious to all non-magical harm and are frozen in temporal stasis until the spell ends or is dispelled. Enchanted creatures are quite light, counting as only four items of Encumbrance due to their unwieldiness.
@@ -192,7 +192,7 @@ A visible willing creature within thirty feet is surrounded by a whirl of razor-
 
 Anyone who attempt to touch the target or make a melee attack against them must make an Evasion saving throw or suffer `1d6` damage plus the caster’s level before resolving their attack. The field of blades is indiscriminate and will affect even allies trying to touch the target.
 
-The blades remain as long as the target gives up a [Move Action](/combat#move-action) each Round in order to avoid disrupting them from within, up to a maximum of one Turn.
+The blades remain as long as the target gives up a [Move Action](/combat#move-action) each Round in order to avoid disrupting them from within, up to a maximum of one [Turn](/rules#turn).
 
 #### Suggestion
 The caster makes a single one-sentence statement as part of casting this spell, a process which is subtle enough to appear as no more than ordinary conversation.
@@ -219,7 +219,7 @@ The wall is up to twenty feet high and three feet thick and runs for as much as 
 
 Enemies must inflict five damage per caster level to cut a man-sized hole in the vines, and they must be using weapons or means that could actually cut through a wooden wall to do any meaningful harm. The vines may be covered in long, vicious thorns to discourage climbing, inflicting `2d6` damage on any creature who tries to climb over it.
 
-If the vine wall is summoned from earth that could plausibly support plant life, it remains until dispelled or until it dies naturally. If called from bare stone or other infertile soils, it withers away to dust at the end of the Turn.
+If the vine wall is summoned from earth that could plausibly support plant life, it remains until dispelled or until it dies naturally. If called from bare stone or other infertile soils, it withers away to dust at the end of the [Turn](/rules#turn).
 
 ### Level 3 - High Magic
 
@@ -242,7 +242,7 @@ A single visible living creature is smote with a hideous curse of torment. Boils
 
 If they perform any vigorous physical action save movement they incur two points of damage per caster level from the effects of the curse, damage which can be suffered no more than once per round by a target.
 
-A creature may spend its [Main Action](/combat#main-action) to attempt a Physical save to throw off the curse, but on a failure, the curse remains for the rest of the Turn. If the creature has fewer HD than the caster has levels, a single failed save means the curse lasts indefinitely, until dispelled or until the caster releases them.
+A creature may spend its [Main Action](/combat#main-action) to attempt a Physical save to throw off the curse, but on a failure, the curse remains for the rest of the [Turn](/rules#turn). If the creature has fewer HD than the caster has levels, a single failed save means the curse lasts indefinitely, until dispelled or until the caster releases them.
 
 #### Fear
 A wave of numbing terror sweeps over all enemies of the caster within forty feet.
@@ -268,7 +268,7 @@ This spell calls forth a floating set of colored glass chimes. The caster alone 
 
 Such is the expressiveness of the chimes that those who hear them instantly understands the caster’s desired message, however abstract. If the caster strikes the chimes violently as a [Main Action](/combat#main-action), they shatter them, causing a deafening clamor that does `3d6` damage to all non-deaf targets within forty feet except for the caster.
 
-The chimes persist until shattered or the Turn ends.
+The chimes persist until shattered or the [Turn](/rules#turn) ends.
 
 #### Passwall
 The caster touches a solid non-magical barrier when casting this spell. A 10 foot cube of the barrier then becomes perfectly transparent on the caster’s side, allowing them to see and hear whatever lies on the other side as if it were well-lit and visible.
@@ -296,9 +296,9 @@ The spell lasts until dawn of the day after casting it, whereupon the targets an
 #### Wind Walk
 The caster and up to one visible ally per caster level are briefly granted the ability to move in three dimensions, being able to walk and run upward into the air as easily as along flat ground.
 
-For the rest of the Turn, those affected can move in such a way, remaining suspended in the air after their movement for the round. When the spell ends, either naturally or upon being dispelled, all affected targets float gently to the ground.
+For the rest of the [Turn](/rules#turn), those affected can move in such a way, remaining suspended in the air after their movement for the round. When the spell ends, either naturally or upon being dispelled, all affected targets float gently to the ground.
 
-Optionally, the caster can instead use this spell on one visible flying creature per caster level, which must make a Physical save at a penalty equal to the caster’s [Magic](/rules#magic) skill or be forced to land as they had fallen half the distance they had descended. For the rest of the Turn, such creatures remain grounded and unable to fly.
+Optionally, the caster can instead use this spell on one visible flying creature per caster level, which must make a Physical save at a penalty equal to the caster’s [Magic](/rules#magic) skill or be forced to land as they had fallen half the distance they had descended. For the rest of the [Turn](/rules#turn), such creatures remain grounded and unable to fly.
 
 ### Level 4 - High Magic
 
@@ -438,7 +438,7 @@ Enchanted beings move freely while in the water at their usual movement rate and
 #### Shape Element
 The elementalist makes a direct appeal to a non-magical mass of earth, stone, water, flame, or air no larger than a ten-foot cube.
 
-At the end of the round, the mass will move or reshape itself within that space as the elementalist requests, maintaining its new form until the end of the Turn. If its new shape is one that is stable without magical help, it can be told to remain in it after the spell is finished.
+At the end of the round, the mass will move or reshape itself within that space as the elementalist requests, maintaining its new form until the end of the [Turn](/rules#turn). If its new shape is one that is stable without magical help, it can be told to remain in it after the spell is finished.
 
 ### Level 2 - Elementalist
 
@@ -454,12 +454,12 @@ The flame lasts until dispelled, extinguished, or the elementalist releases it.
 #### Elemental Resistance
 The elementalist chooses earth, water, fire, or wind when casting this spell and selects a visible target to be affected.
 
-For the rest of the Turn, the target is immune to injury caused by mundane manifestations of that substance; stone weapons don’t harm them, water doesn’t drown them, fire doesn’t burn them, and wind doesn’t topple them. This affects secondary effects of the material as well; a fire-pacted mage couldn’t be boiled in a pot, and an earth-pacted one won’t be suffocated if buried alive.
+For the rest of the [Turn](/rules#turn), the target is immune to injury caused by mundane manifestations of that substance; stone weapons don’t harm them, water doesn’t drown them, fire doesn’t burn them, and wind doesn’t topple them. This affects secondary effects of the material as well; a fire-pacted mage couldn’t be boiled in a pot, and an earth-pacted one won’t be suffocated if buried alive.
 
 #### Fly
 The elementalist chooses a visible ally within one hundred feet; the target becomes capable of swift and easy aerial travel, flying at twice their usual movement rate.
 
-If the spell ends or is dispelled while aloft, the target descends gently to the earth. This spell lasts for one Turn, though casters of fifth level or more can make it last an hour, and those of eighth level or more can make it last until dawn or dusk, whichever comes next.
+If the spell ends or is dispelled while aloft, the target descends gently to the earth. This spell lasts for one [Turn](/rules#turn), though casters of fifth level or more can make it last an hour, and those of eighth level or more can make it last until dawn or dusk, whichever comes next.
 
 #### Form Tunnel
 A passage is carved through natural stone or earth, forming a tunnel up to twenty feet long per caster level and up to ten feet wide and tall.
@@ -469,7 +469,7 @@ The caster ca cause the earth to compress and pack itself so as to stabilize the
 This spell can function against worked stone, but the length of the tunnel is much shorter, being only two feet per level. Magical stone or earth cannot be altered by this spell. The caster has basic control over the direction and interior features of the tunnel, and can form stairs or other simple structures within it.
 
 #### Become Element
-The elementalist charges their physical shape with the qualities of a chosen element for the rest of the Turn.
+The elementalist charges their physical shape with the qualities of a chosen element for the rest of the [Turn](/rules#turn).
 
 In all cases, they need not breathe and become immune to poisons and diseases not already present in them. If stone, they automatically stabilize at zero HP and ignore the first three points of damage from any source of harm. If water, they can pass through any aperture a mouse could get through. If air, they can fly at their usual movement rate and gain a +4 AC bonus against ranged attacks. If fire, they inflict `1d6` damage to all creatures in melee range at the start of their turn each round and become immune to heat damage.
 
@@ -488,14 +488,14 @@ Water walls spin and hurl creatures of ox-size or less who pass through them, ej
 
 Air walls are invisible, inaudible, and twenty feet in height; those who cross them suffer `1d6` plus the elementalist’s level in electrical damage.
 
-The walls vanish at the end of the Turn.
+The walls vanish at the end of the [Turn](/rules#turn).
 
 #### Gaseous Form
 A visible target creature and their possessions are briefly transformed into a misty, insubstantial cloud.
 
 Only sources of harm that could conceivably disrupt a cloud of mist can harm them, and until the spell’s end they may pass freely into any area that a vapor could reach. They move freely in all three dimensions at their normal movement rate, though they cannot physically manipulate objects.
 
-The spell lasts until the end of the Turn or until the target or the caster choose to end it.
+The spell lasts until the end of the [Turn](/rules#turn) or until the target or the caster choose to end it.
 
 ### Level 4 - Elementalist
 
@@ -570,19 +570,19 @@ This spell may not be used twice on the same corpse.
 #### Augment Vitality
 The necromancer refines and enhances the natural flow of vitality within a willing visible target.
 
-For the rest of the Turn, all Physical saving throws they make gain a bonus equal to the necromancer’s [Magic](/rules#magic) skill and they automatically stabilize when Mortally Wounded. Once during the Turn, as an [Instant Action](/combat#instant-actin)o, they immediately heal from all damage inflicted by an injury that did not Mortally Wound them.
+For the rest of the [Turn](/rules#turn), all Physical saving throws they make gain a bonus equal to the necromancer’s [Magic](/rules#magic) skill and they automatically stabilize when Mortally Wounded. Once during the [Turn](/rules#turn), as an [Instant Action](/combat#instant-actin)o, they immediately heal from all damage inflicted by an injury that did not Mortally Wound them.
 
 The recipient of this spell gains one [System Strain](/rules#system-strain).
 
 #### Enfeebling Wave
 A wash of debilitating force erupts in a 20-foot radius at a visible point within one hundred feet.
 
-All living creatures within the area must make a Physical saving throw or for the rest of the Turn their movement rate is halved and they must make all attack and damage rolls twice and take the worse result. If the save is successful, these penalties apply only to the next Round.
+All living creatures within the area must make a Physical saving throw or for the rest of the [Turn](/rules#turn) their movement rate is halved and they must make all attack and damage rolls twice and take the worse result. If the save is successful, these penalties apply only to the next Round.
 
 #### Final Death
 The necromancer curses one visible target per level.
 
-For the rest of the Turn, these targets cannot recover or gain HP and will die instantly if Mortally Injured. After each failed instance of healing, a target makes a Physical save to throw off the spell.
+For the rest of the [Turn](/rules#turn), these targets cannot recover or gain HP and will die instantly if Mortally Injured. After each failed instance of healing, a target makes a Physical save to throw off the spell.
 
 #### Raise Corpse
 The necromancer targets a mostly-intact skeleton or corpse, imbuing it with a semblance of life.
@@ -598,9 +598,9 @@ A necromancer cannot have more active subjects of this spell than their characte
 #### Dominate Flesh
 A visible living creature or physically-bodied undead within 100 feet is ensorceled by this spell, their flesh and bones becoming temporarily enthralled to the caster’s will.
 
-The target becomes paralyzed unless commanded by the caster as a [Free Action](/combat#free-action); once given a command, their body will dutifully carry it out on their next Turn. The user’s mind is not affected by this spell, so they cannot be made to cast spells, answer questions, or perform other intellectual tasks, but they will fight, move, and perform other non-suicidal physical acts as normal. The target may make a Physical saving throw at the start of each of their Turns to throw off the effect, but they will inevitably suffer one point of damage per caster level with each attempt as their flesh writhes and tears.
+The target becomes paralyzed unless commanded by the caster as a [Free Action](/combat#free-action); once given a command, their body will dutifully carry it out on their next [Turn](/rules#turn). The user’s mind is not affected by this spell, so they cannot be made to cast spells, answer questions, or perform other intellectual tasks, but they will fight, move, and perform other non-suicidal physical acts as normal. The target may make a Physical saving throw at the start of each Round to throw off the effect, but they will inevitably suffer one point of damage per caster level with each attempt as their flesh writhes and tears.
 
-If not thrown off earlier, the spell lasts until the end of the Turn.
+If not thrown off earlier, the spell lasts until the end of the [Turn](/rules#turn).
 
 #### Festering Curse
 The qualities of a corpse are forced upon a visible living target.
