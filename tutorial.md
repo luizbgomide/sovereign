@@ -38,7 +38,7 @@ I decide that want to be be a great healer, handy with a bow, and be knowledgabl
 
 ![small](/assets/images/improved-skills.png)
 
-**Choose a Class.** I know that I want to be a Healer, but since it only comes as a Partial Mage, I need to pick another partial class. Partial Warrior would give me more HP and accuracy, but Partial Expert is still good with a bow and makes me *even better* at healing (as well as helping me with everything else). I decide on Partial Expert, making me an [Expert/Mage(Healer)](/classes#partial-expertpartial-mage).
+**Choose a Class.** I know that I want to be a Healer, but since it only comes as a Partial Mage, I need to pick another partial class. Partial Warrior would give me more HP and accuracy, but Partial Expert is still good with a bow and makes me *even better* at healing (as well as helping me with everything else). I decide on Partial Expert, making me an [Expert/Mage(Healer)(/classes#partial-expertpartial-mage).
 
 ![small](/assets/images/choose-class.png)
 
