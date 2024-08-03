@@ -62,7 +62,7 @@ For my other feat, I'll pick up [Deadeye](/feats#deadeye-c) at rank 1 to do more
 
 ![small](/assets/images/attack-bonus.png)
 
-**Record Saving Throws**. My Physical save is 15 minus the highest of STR or CON, so 14. My Evasion save is 15 minus the highest of DEX or INT, so 15. My Mental save is 15 minus the highest of INT or WIS, so 15. I'll write them with the other stuff that tends to change when I level up.
+**Record Saving Throws**. My [Physical](/rules#physical) save is 15 minus the highest of STR or CON, so 14. My [Evasion](/rules#evasion) save is 15 minus the highest of DEX or INT, so 15. My [Mental](/rules#mental) save is 15 minus the highest of INT or WIS, so 15. I'll write them with the other stuff that tends to change when I level up.
 
 ![small](/assets/images/saving-throws.png)
 

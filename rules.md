@@ -49,13 +49,13 @@ Three of these attributes are physical.
 
 **Dexterity**, reflecting speed, evasion, manual dexterity, reaction time, and combat initiative. Influences attack rolls with ranged weapons and some melee weapons, [AC](/equipment#armor-class), and [Evasion](#evasion) Saving Throws.
 
-**Constitution**, reflecting hardiness, enduring injury, and tolerating large amounts of magical healing. Influences [HP](#hit-points) and Physical Saving Throws.
+**Constitution**, reflecting hardiness, enduring injury, and tolerating large amounts of magical healing. Influences [HP](#hit-points) and [Physical](/rules#physical) Saving Throws.
 
 Two are mental attributes.
 
-**Intelligence**, reflecting memory, reasoning, technical skills, and general education. Influences Effort for most Arcane Traditions, Evasion and [Mental](#mental) Saving Throws, and the efficacy of some spells.
+**Intelligence**, reflecting memory, reasoning, technical skills, and general education. Influences Effort for most Arcane Traditions, [Evasion](/rules#evasion) and [Mental](#mental) Saving Throws, and the efficacy of some spells.
 
-**Wisdom**, reflecting noticing things, making judgments, reading situations, and intuition. Influences Mental Saving Throws.
+**Wisdom**, reflecting noticing things, making judgments, reading situations, and intuition. Influences [Mental](/rules#mental) Saving Throws.
 
 ### Attribute Modifiers
 

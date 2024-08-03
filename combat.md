@@ -253,7 +253,7 @@ A ranged execution attack requires one full minute of aiming, waiting, and adjus
 
 A melee execution attack requires one full minute of near proximity to the target, watching for just the right opening and getting to within melee range of the victim. If this time is granted, the assassin may make a melee attack, automatically hitting.
 
-When a target is hit with an execution attack they must make a Physical saving throw at a penalty equal to the assailant’s combat skill. On a failure, they are immediately reduced to zero HP and Mortally Injured, or knocked unconscious if the weapon was non-lethal.
+When a target is hit with an execution attack they must make a [Physical](/rules#physical) saving throw at a penalty equal to the assailant’s combat skill. On a failure, they are immediately reduced to zero HP and Mortally Injured, or knocked unconscious if the weapon was non-lethal.
 
 If they succeed on the save, they still take maximum damage from the hit.
 

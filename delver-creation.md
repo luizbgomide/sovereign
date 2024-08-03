@@ -23,7 +23,7 @@ Adventuring is a profession, and all Delvers have undergone extensive training t
 
 8. **Record Attack Bonus**. Your character has a certain degree of basic combat competence based on their class. This bonus increases as you advance in character levels and is added to your attack roll. A new character’s attack bonus is usually +0, though full Warriors start with a +1 attack bonus.
 
-9. **Record Saving Throws**. Record your Physical (exhaustion, poison, etc), Evasion (explosions, traps, etc), and Mental (mind control, tests of will, etc) [Saving Throws](/rules#saving-throws). Your Physical score is 15 minus the highest of your STR and CON. Your Evasion score is 15 minus the highest of your INT and DEX. Your Mental score is 15 minus the highest of your INT and WIS.
+9. **Record Saving Throws**. Record your [Physical](/rules#physical) (exhaustion, poison, etc), [Evasion](/rules#evasion) (explosions, traps, etc), and [Mental](/rules#mental) (mind control, tests of will, etc) [Saving Throws](/rules#saving-throws). Your [Physical](/rules#physical) score is 15 minus the highest of your STR and CON. Your [Evasion](/rules#evasion) score is 15 minus the highest of your INT and DEX. Your [Mental](/rules#mental) score is 15 minus the highest of your INT and WIS.
 
 10. **Choose Starting Gear**. Gain `3d6 x 10` gold to spend on [gear](/equipment) (ignoring [Equipment Availability](/equipment#equipment-availability)), noting thier [Encumbrance](/rules#encumbrance) and whether they are [Readied](/rules#readied) or [Stowed](/rules#stowed). You may carry Readied equipment equal to half your Strength rounded down. You may carry Stowed equipment equal to your Strength. Other party members may be willing to Stow gear for you.
 

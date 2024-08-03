@@ -88,7 +88,7 @@ Some weapons have additional unique traits, perhaps being particularly slow to r
 - **L**: Long. The weapon is unusually long, allowing melee attacks to be made at targets up to 10 feet distant, even if an ally is in the way. Even so, the wielder still needs to be within five feet of a foe to count as being in melee with them for purposes of forcing Fighting Withdrawals, disrupting large ranged weapons, or similar maneuvers.
 - **LL**: Less Lethal. Foes brought to zero HP by this weapon can always be left alive at the wielder’s discretion.
 - **N**: Numerous. Five of these count as only one Readied item.
-- **PM**: Precisely Murderous. When used for an Execution Attack, the weapon applies an additional -1 penalty to the Physical save and does double damage even if it succeeds.
+- **PM**: Precisely Murderous. When used for an Execution Attack, the weapon applies an additional -1 penalty to the [Physical](/rules#physical) save and does double damage even if it succeeds.
 - **R**: Reload. The weapon takes a [Move Action](/combat#move-action) to reload. If the user has at least [Shoot](/rules#shoot)-1 skill, they can reload as a [Free Action](/combat#free-action) instead.
 - **S**: Subtle. Easily hidden in clothing or jewelry.
 - **SR**: Slow Reload. It takes a [Main Action](/combat#main-action) to reload this weapon. SS: Single Shot. This weapon takes ten rounds to reload, and the reloading effort is spoiled if an enemy melees the wielder.

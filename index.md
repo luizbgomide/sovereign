@@ -161,6 +161,7 @@ Otherwise...
 - Added *The Darkness Beneath Level 1: The Upper Caves* to the adventure list. Bryce listed it as his GOAT adventure.
 - Add a section on alignment.
 - Hyperlink Turn and Round.
+- Hyperlink the saving throws.
 
 #### 2024-08-02
 - De-jargon a bit. "Module" is an esoteric term, "adventure" is not.
