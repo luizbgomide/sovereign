@@ -73,6 +73,10 @@ body {
 #search {
     height: 20px;
     margin-bottom: 5px;
+    background: url("/assets/images/search.png") no-repeat left;
+    background-position-x: 5px;
+    background-size: 20px;
+    padding-left: 25px;
 }
 
 #nav-header.headroom {
@@ -100,4 +104,10 @@ main {
 html,
 body {
     scroll-padding-top: 65px;
+}
+
+.search-icon {
+    position: absolute;
+    top: 21px;
+    left: 44px;
 }
