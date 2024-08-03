@@ -56,10 +56,23 @@ body {
 
 #nav-header {
     position: fixed;
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
     top: 0;
     right: 0;
     left: 0;
     z-index: 1030;
+}
+
+#search-container {
+    flex-grow: 1;
+    margin-left: 16px;
+}
+
+#search {
+    height: 20px;
+    margin-bottom: 5px;
 }
 
 #nav-header.headroom {
