@@ -14,7 +14,7 @@ A new Delver chooses one Feat of any kind. Warriors and Partial Warriors select 
 ## Alert (C)
 You are keenly aware of your surroundings and virtually impossible to take unaware.
 
-- **Level 1**: Gain [Notice](/rules#notice) as a [Bonus Skill](/rules#bonus-skill). You cannot be surprised, nor can others use the Execution Attack option on you. Add a +1 bonus to your side’s initiative roll, though multiple Alert Delvers don’t stack this bonus.
+- **Level 1**: Gain [Notice](/rules#notice) as a [Bonus Skill](/rules#bonus-skill). You cannot be surprised, nor can others use the [Execution Attacks](/combat#execution-attacks) on you. Add a +1 bonus to your side’s initiative roll, though multiple Alert Delvers don’t stack this bonus.
 - **Level 2**: You always act first in a combat round unless someone else involved is also this Alert.
 
 ## Armored Magic (C)
@@ -33,10 +33,10 @@ You have an unusual competence with thrown weapons and melee attacks. This Feat�
 
 ## Assassin (C)
 
-You are practiced at sudden murder, and have certain advantages in carrying out an Execution Attack.
+You are practiced at sudden murder, and have certain advantages in carrying out an [Execution Attack](/combat#execution-attacks).
 
 - **Level 1**: Gain [Sneak](/rules#sneak) as a [Bonus Skill](/rules#bonus-skill). You can conceal an object no larger than a knife from anything less invasive than a strip search. You can draw or produce this object as a [Free Action](/combat#free-action), and your point-blank thrown or melee attacks made during a surprise round with it cannot miss the target.
-- **Level 2**: You can take a [Move Action](/combat#move-action) on the same round as you make an Execution Attack, closing rapidly with a target before you attack. You may split this [Move Action](/combat#move-action) when making an Execution Attack, taking part of it before you murder your target and part of it afterwards. This movement happens too quickly to alert a victim or to be hindered by bodyguards.
+- **Level 2**: You can take a [Move Action](/combat#move-action) on the same round as you make an [Execution Attack](/combat#execution-attacks), closing rapidly with a target before you attack. You may split this [Move Action](/combat#move-action) when making an [Execution Attack](/combat#execution-attacks), taking part of it before you murder your target and part of it afterwards. This movement happens too quickly to alert a victim or to be hindered by bodyguards.
 
 ## Close Combatant (C)
 
@@ -92,7 +92,7 @@ Something about your hero interferes with easy use of magic on them. It may be a
 You are a skilled poisoner, capable of compounding toxins out of readily-available flora and minerals. It takes an hour to brew a poison, and you can keep as many doses fresh as you have levels. Blade venoms take a [Main Action](/combat#main-action) to apply and last for ten minutes or until a hit or Shock is inflicted, whichever comes first. Detecting poisoned food is a WIS/[Notice](/rules#notice) skill check against 10, or 12 if the diner’s not a noble or otherwise normally wary of poison. One dose can poison up to a half-dozen diners.
 
 - **Level 1**: Gain [Heal](/rules#heal) as a [Bonus Skill](/rules#bonus-skill). Gain a reroll on any failed saving throw versus poison. Your toxins inflict `2d6` damage plus your level on a hit or Shock, with a [Physical](/rules#physical) save for half. Your incapacitating or hallucinogenic toxins do the same, but those reduced to zero HP are simply incapacitated for an hour.
-- **Level 2**: You are immune to poison and can apply a universal antidote to any poisoned ally as a [Main Action](/combat#main-action). Any attempt to detect or save against your poisons takes a penalty equal to your [Heal](/rules#heal) skill. Your ingested poisons count as an Execution Attack against unsuspecting targets, with [Heal](/rules#heal) used for the [Physical](/rules#physical) saving throw penalty and `1d6` damage per level done on a success. Such poisons are non-lethal at your discretion.
+- **Level 2**: You are immune to poison and can apply a universal antidote to any poisoned ally as a [Main Action](/combat#main-action). Any attempt to detect or save against your poisons takes a penalty equal to your [Heal](/rules#heal) skill. Your ingested poisons count as an [Execution Attack](/combat#execution-attacks) against unsuspecting targets, with [Heal](/rules#heal) used for the [Physical](/rules#physical) saving throw penalty and `1d6` damage per level done on a success. Such poisons are non-lethal at your discretion.
 
 ## Shocking Assault (C)
 
@@ -103,10 +103,10 @@ You’re extremely dangerous to enemies around you. The ferocity of your melee a
 
 ## Sniper’s Eye (C)
 
-You are an expert at placing a thrown knife or arrow on an unsuspecting target. These special benefits only apply when making an Execution Attack with a bow, hurlant, or thrown weapon.
+You are an expert at placing a thrown knife or arrow on an unsuspecting target. These special benefits only apply when making an [Execution Attack](/combat#execution-attacks) with a bow, hurlant, or thrown weapon.
 
-- **Level 1**: Gain [Shoot](/rules#shoot) as a [Bonus Skill](/rules#bonus-skill). When making a skill check for a ranged Execution Attack or target shooting, roll `3d6` and drop the lowest die.
-- **Level 2**: You don’t miss ranged Execution Attacks. A target hit by one takes a -4 penalty on the [Physical](/rules#physical) saving throw to avoid immediate mortal injury. Even if the save is successful, the target takes double the normal damage inflicted by the attack.
+- **Level 1**: Gain [Shoot](/rules#shoot) as a [Bonus Skill](/rules#bonus-skill). When making a skill check for a ranged [Execution Attack](/combat#execution-attacks) or target shooting, roll `3d6` and drop the lowest die.
+- **Level 2**: You don’t miss ranged [Execution Attacks](/combat#execution-attacks). A target hit by one takes a -4 penalty on the [Physical](/rules#physical) saving throw to avoid immediate mortal injury. Even if the save is successful, the target takes double the normal damage inflicted by the attack.
 
 ## Specialist
 
