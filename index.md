@@ -159,6 +159,7 @@ Otherwise...
 
 #### 2024-08-03
 - Added *The Darkness Beneath Level 1: The Upper Caves* to the adventure list. Bryce listed it as his GOAT adventure.
+- Add a section on alignment.
 
 #### 2024-08-02
 - De-jargon a bit. "Module" is an esoteric term, "adventure" is not.

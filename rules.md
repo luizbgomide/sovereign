@@ -390,7 +390,7 @@ When the party enocunters other creatures, the GM describes what they sense and 
 
 If how the other creatures respond is uncertain, the GM rolls their reaction, comparing the result against the Delver's action:
 
-| `2d / Action | Fight  | Talk                          | Run    | Wait                          |
+| `2d6` / Action | Fight  | Talk                          | Run    | Wait                          |
 | ------------ | ------ | ----------------------------- | ------ | ----------------------------- |
 | 2            | Combat | Combat                        | Chase  | Fight                         |
 | 3-5          | Combat | Combat if could win, run otw. | Chase  | Combat if could win, run otw. |
@@ -520,3 +520,24 @@ This is enough to raise a level -1 skill to level 1, or boost a level 1 skill to
 If the Advancement Points aren’t enough to raise the skill to a new level, they remain as credit toward future advances. If applied to a skill that is already at level 4, the Delver can spend the Advancement Points on any other skill of their choice.
 
 **More Spells and Arts**. Mages learn new arts, can cast and prepare more spells, and automatically learn new spells as they advance, based on their [arcane tradition](/arcane-traditions).
+
+## Alignment
+
+Alignment interacts with various magic items. Creatures in [bestaries](https://oldschoolessentials.necroticgnome.com/srd/index.php/Goblin) will often have an alignment, which is useful for interpretting their moral theory. Delvers don't *choose* an alignment, they *live* it. If a magic item only works for Lawful characters, then they need to act Lawfully or it does not work for them (GM discretion).
+
+### Law vs Chaos
+
+**Lawful**: [Deontological](https://en.wikipedia.org/wiki/Deontology). Deontology is a moral theory that emphasizes the importance of adhering to moral rules or duties, regardless of the consequences. It holds that certain actions are inherently right or wrong based on the nature of the action itself, rather than the outcomes it produces. Deontologists believe that moral rules, such as honesty, promise-keeping, and respect for autonomy, should be followed as a matter of principle, even if doing so may lead to undesirable results in specific situations.
+
+**Neutral**: [Virtue ethics](https://en.wikipedia.org/wiki/Virtue_ethics). Virtue ethics is a moral theory that emphasizes the cultivation of virtuous character traits, such as wisdom, courage, justice, and temperance. According to virtue ethics, the foundation of ethics lies in developing good character and making decisions based on what a virtuous person would do in a given situation. The goal is to become a morally exemplary individual who consistently acts in accordance with these virtues, leading to a fulfilling life and contributing to the well-being of society as a whole.
+
+**Chaotic**: [Act consequentialist](https://en.wikipedia.org/wiki/Consequentialism). Act consequentialists argue that the moral value of an action is determined by its actual outcomes rather than the intentions behind it or adherence to moral rules.
+Good vs Evil
+
+### Good vs Evil
+
+**Good**: [Altruist](https://en.wikipedia.org/wiki/Altruism). Acting selflessly to benefit others without expecting anything in return, often at cost to oneself.
+
+**Neutral**: [Ethical egoist](https://en.wikipedia.org/wiki/Ethical_egoism). An action is morally right if it maximizes one's self-interest. According to ethical egoists, the only moral obligation an individual has is to promote their own well-being, and they should only consider the interests of others insofar as doing so ultimately benefits themselves.
+
+**Evil**: Malicious egoist. Actively seeks to harm and exploit others for their own gain or pleasure. They lack empathy, disregard the rights and well-being of others, and may even derive satisfaction from causing suffering.
