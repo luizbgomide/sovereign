@@ -67,6 +67,7 @@ Otherwise...
 | [B5 - Horror on the Hill](https://www.drivethrurpg.com/en/product/17097)                                                                                            | 1              | 3            |
 | [T1 - The Village of Hommlet](https://www.drivethrurpg.com/en/product/17067)                                                                                        | 1              | 3            |
 | [Stonehell](https://www.lulu.com/shop/michael-curtis/stonehell-dungeon-down-night-haunted-halls/paperback/product-1v8vy2zz.html)                                    | 1              | 7            |
+| [The Darkness Beneath - Upper Caves](https://www.drivethrurpg.com/en/product/475110)                                                                                | 1              | 3            |
 | [The Temple of Polyphema](https://www.drivethrurpg.com/en/product/414336)                                                                                           | 2              | 4            |
 | [The Dragon’s Gullet](https://www.drivethrurpg.com/product/422992)                                                                                                  | 2              | 5            |
 | [Fabien's Atelier](https://www.drivethrurpg.com/en/product/406938)                                                                                                  | 2              | 4            |
@@ -155,6 +156,9 @@ Otherwise...
 - Most of the tutorial. I don't plan on covering every paragraph, but it would be useful to go over skill checks, combat, arts, and spells.
 
 ### Change Log
+
+#### 2024-08-03
+- Added *The Darkness Beneath Level 1: The Upper Caves* to the adventure list. Bryce listed it as his GOAT adventure.
 
 #### 2024-08-02
 - De-jargon a bit. "Module" is an esoteric term, "adventure" is not.
