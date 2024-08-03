@@ -192,7 +192,7 @@ A visible willing creature within thirty feet is surrounded by a whirl of razor-
 
 Anyone who attempt to touch the target or make a melee attack against them must make an Evasion saving throw or suffer `1d6` damage plus the caster’s level before resolving their attack. The field of blades is indiscriminate and will affect even allies trying to touch the target.
 
-The blades remain as long as the target gives up a [Move Action](/combat#move-action) each Round in order to avoid disrupting them from within, up to a maximum of one [Turn](/rules#turn).
+The blades remain as long as the target gives up a [Move Action](/combat#move-action) each [Round](/rules#round) in order to avoid disrupting them from within, up to a maximum of one [Turn](/rules#turn).
 
 #### Suggestion
 The caster makes a single one-sentence statement as part of casting this spell, a process which is subtle enough to appear as no more than ordinary conversation.
@@ -577,7 +577,7 @@ The recipient of this spell gains one [System Strain](/rules#system-strain).
 #### Enfeebling Wave
 A wash of debilitating force erupts in a 20-foot radius at a visible point within one hundred feet.
 
-All living creatures within the area must make a Physical saving throw or for the rest of the [Turn](/rules#turn) their movement rate is halved and they must make all attack and damage rolls twice and take the worse result. If the save is successful, these penalties apply only to the next Round.
+All living creatures within the area must make a Physical saving throw or for the rest of the [Turn](/rules#turn) their movement rate is halved and they must make all attack and damage rolls twice and take the worse result. If the save is successful, these penalties apply only to the next [Round](/rules#round).
 
 #### Final Death
 The necromancer curses one visible target per level.
@@ -598,7 +598,7 @@ A necromancer cannot have more active subjects of this spell than their characte
 #### Dominate Flesh
 A visible living creature or physically-bodied undead within 100 feet is ensorceled by this spell, their flesh and bones becoming temporarily enthralled to the caster’s will.
 
-The target becomes paralyzed unless commanded by the caster as a [Free Action](/combat#free-action); once given a command, their body will dutifully carry it out on their next [Turn](/rules#turn). The user’s mind is not affected by this spell, so they cannot be made to cast spells, answer questions, or perform other intellectual tasks, but they will fight, move, and perform other non-suicidal physical acts as normal. The target may make a Physical saving throw at the start of each Round to throw off the effect, but they will inevitably suffer one point of damage per caster level with each attempt as their flesh writhes and tears.
+The target becomes paralyzed unless commanded by the caster as a [Free Action](/combat#free-action); once given a command, their body will dutifully carry it out on their next [Turn](/rules#turn). The user’s mind is not affected by this spell, so they cannot be made to cast spells, answer questions, or perform other intellectual tasks, but they will fight, move, and perform other non-suicidal physical acts as normal. The target may make a Physical saving throw at the start of each [Round](/rules#round) to throw off the effect, but they will inevitably suffer one point of damage per caster level with each attempt as their flesh writhes and tears.
 
 If not thrown off earlier, the spell lasts until the end of the [Turn](/rules#turn).
 
@@ -612,7 +612,7 @@ Creatures with more HD than the necromancer has levels can make a Physical save 
 #### Forgetting the Grave
 Temporarily suspend the mortality of a willing target within sight.
 
-For one round per Necromancer level, the creature simply cannot die, no matter how drastic their injuries. Those reduced to zero HP lose their [Move Action](/combat#move-action) each Round but can continue to act otherwise; if such a target is damaged yet again, they must make a Physical saving throw each time or become incapable of movement until healed.
+For one round per Necromancer level, the creature simply cannot die, no matter how drastic their injuries. Those reduced to zero HP lose their [Move Action](/combat#move-action) each [Round](/rules#round) but can continue to act otherwise; if such a target is damaged yet again, they must make a Physical saving throw each time or become incapable of movement until healed.
 
 At the spell’s end targets reduced to zero HP are Mortally Injured; those that have been dismembered or otherwise slaughtered beyond the hope of survival die instantly.
 

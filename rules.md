@@ -289,7 +289,7 @@ Some perils occur with some regularity for adventurers. A few of the most common
 
 **Falling**: Most creatures will take `1d6` [damage](#damage) per 10 full feet they fall, up to `20d6` maximum. Spikes or other hazardous terrain at the bottom will add at least `1d6` to the total. A creature that intentionally leaps or skids down in a controlled way makes a DEX or STR/[Exert](#exert) [skill check](#skill-checks) at a difficulty of 7 + 1 for every 10 full feet; on a success, the effective distance fallen is halved.
 
-**Suffocation**: Creatures fight or act normally without air for one [Round](#round) per point of Constitution, or 10 Rounds for most NPCs. If they don’t move, they quadruple this time. Once they run out of air, they must make a [Physical](#physical) save each Round or take 1 HP per HD or level they have.
+**Suffocation**: Creatures fight or act normally without air for one [Round](#round) per point of Constitution, or 10 [Rounds](/rules#round) for most NPCs. If they don’t move, they quadruple this time. Once they run out of air, they must make a [Physical](#physical) save each [Round](/rules#round) or take 1 HP per HD or level they have.
 
 **Starvation**: Each day of insufficient food (1 Ration) causes 1 [System Strain](#system-strain). If you already have maximum system strain, you die.
 
@@ -338,7 +338,7 @@ Locked doors can be **battered down**. 6 turns less STR and [Exert](#exert) for 
 
 Doors can be **stuck**, in which case a character can try to force them open in a [Round](#round) with a DC 10 STR/[Exert](#exert) check. If they fail, it takes `1d3` [Turns](/rules#turn) to open the door.
 
-Doors can be **listened at** for a Round (but only once per [Turn](/rules#turn)), revealing noises as loud as talking without a roll. The presence of anything quieter with requires a DC 10 WIS/[Notice](#notice) check.
+Doors can be **listened at** for a [Round](/rules#round) (but only once per [Turn](/rules#turn)), revealing noises as loud as talking without a roll. The presence of anything quieter with requires a DC 10 WIS/[Notice](#notice) check.
 
 To pass through a door, choose to make either a **hard** or **soft** entry. If not specififed, a soft entry is assumed.
 
