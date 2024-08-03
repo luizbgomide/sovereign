@@ -162,6 +162,7 @@ Otherwise...
 - Add a section on alignment.
 - Hyperlink Turn and Round.
 - Hyperlink the saving throws.
+- Implement search! Whew.
 
 #### 2024-08-02
 - De-jargon a bit. "Module" is an esoteric term, "adventure" is not.
