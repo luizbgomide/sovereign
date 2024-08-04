@@ -155,7 +155,7 @@ This represents forcing open a heavy door together, everyone trying to stealth p
 
 ### Opposed Skill Checks
 
-When skills oppose each other, the side attempting to change the situation rolls a skill check vs a [DC](#difficulty-class) of 8 plus the other side's modifier. For example, a Delver trying to sneak past a guard might roll `2d plus their DEX/[Sneak](/rules#sneak) against a DC of 8 + the guard’s skill modifier. If the guard is significant enough to have attributes and skill levels, it might be a `2d+DEX/[Sneak](/rules#sneak) against a DC of 8+WIS/[Notice](#notice). We write this compactly as DEX/[Sneak](/rules#sneak) vs WIS/[Notice](#notice).
+When skills oppose each other, the side attempting to change the situation rolls a skill check vs a [DC](#difficulty-class) of 8 plus the other side's modifier. For example, a Delver trying to sneak past a guard might roll `2d6` plus their DEX/[Sneak](/rules#sneak) against a DC of 8 + the guard’s skill modifier. If the guard is significant enough to have attributes and skill levels, it might be a `2d+DEX/[Sneak](/rules#sneak) against a DC of 8+WIS/[Notice](#notice). We write this compactly as DEX/[Sneak](/rules#sneak) vs WIS/[Notice](#notice).
 
 ## Keeping Track of Time
 
