@@ -570,7 +570,7 @@ This spell may not be used twice on the same corpse.
 #### Augment Vitality
 The necromancer refines and enhances the natural flow of vitality within a willing visible target.
 
-For the rest of the [Turn](/rules#turn), all [Physical](/rules#physical) saving throws they make gain a bonus equal to the necromancer’s [Magic](/rules#magic) skill and they automatically stabilize when Mortally Wounded. Once during the [Turn](/rules#turn), as an [Instant Action](/combat#instant-actin)o, they immediately heal from all damage inflicted by an injury that did not Mortally Wound them.
+For the rest of the [Turn](/rules#turn), all [Physical](/rules#physical) saving throws they make gain a bonus equal to the necromancer’s [Magic](/rules#magic) skill and they automatically stabilize when [Mortally Wounded](/rules#mortal-injury-and-stabalization). Once during the [Turn](/rules#turn), as an [Instant Action](/combat#instant-actin)o, they immediately heal from all damage inflicted by an injury that did not Mortally Wound them.
 
 The recipient of this spell gains one [System Strain](/rules#system-strain).
 
