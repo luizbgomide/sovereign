@@ -74,7 +74,7 @@ Some weapons have additional unique traits, perhaps being particularly slow to r
 | Great Hammer   | `1d10`      | 2/AC 18 | STR       | -          | 2H         | 10g  | 2   |
 | Mace           | `1d6`       | 1/AC 18 | STR       | -          | LL         | 5g   | 1   |
 | Oil, Military  | `2d8`       | 1/AC 18 | DEX       | 20/40      | T          | 2g   | 1   |
-| Shield         | `1d4`       | None    | STR/DEX   | -          | LL         | 10g  | -   |
+| Shield         | `1d4`       | None    | STR/DEX   | -          | LL         | 10g  | 1   |
 | Spear          | `1d6`       | 2/AC 13 | STR/DEX   | 30/60      | T          | 3g   | 1   |
 | Throwing Blade | `1d4`       | None    | DEX       | 30/60      | S, T, N    | 1g   | 1   |
 | Staff          | `1d6`       | 1/AC 13 | STR/DEX   | -          | 2H, LL     | 1g   | 1   |
