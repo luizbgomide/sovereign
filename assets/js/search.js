@@ -44,6 +44,10 @@ window.onload = () => {
 
   const searchElement = document.getElementById("search")
   searchElement.addEventListener("keyup", function(e) {
+    if (e.key === "Enter") {
+      document.querySelector("#search-container a").click()
+      return
+    }
     if (searchElement.value === "") {
       const searchResults = document.getElementById('search-results');
       searchResults.innerHTML = "";
@@ -62,4 +66,11 @@ window.onload = () => {
     searchResults.innerHTML = "";
     searchElement.value = "";
   });
+
+  document.onkeyup = function (e) {
+    const search = document.getElementById("search")
+    if (e.key === "/" && e.target !== search) {
+      search.focus()
+    }
+  };
 }
