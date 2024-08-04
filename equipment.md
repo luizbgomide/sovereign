@@ -249,9 +249,9 @@ Then, consult the following chart to determine market value:
 | ...from effect ≥ 1 hour      | 12,000 × level          |
 | ...from effect ≥ 3 turns     | 19,000 × level          |
 | ...from effect ≥ 1 turn      | 25,000 × level          |
-| +1 (e.g. Sword+1 or Armor+1) | 5,000                   |
-| +2                           | 15,000                  |
-| +3                           | 35,000                  |
+| +1 (e.g. Sword+1 or Armor+1) | 10,000                  |
+| +2                           | 30,000                  |
+| +3                           | 70,000                  |
 
 
 Each settlement has *some* sort of magic item market, however sparse, based on the population of the settlement. The following table lists how many of each type of item are available for purchase. Regenerate monthly.
@@ -283,14 +283,14 @@ Each category corresponds to one of the [OSE Generators](https://oldschoolessent
 - Scroll [Scry] (2000g)
 - Scroll [Magic Bomb] (3000g)
 - Rod of Cancellation (4000g)
-- War Hammer +2 (15000g)
-- Sword +3 (35000g)
-- Sword +1 (5000g)
-- Sword +1 [+3 vs Lycanthropes] (12500g)
-- Sword +1 [+3 vs Undead] (12500g)
-- Sword +1 [Light] (21500g)
-- Shield +3 (35000g)
-- Shield +1 (5000g)
+- War Hammer +2 (30000g)
+- Sword +3 (70000g)
+- Sword +1 (10000g)
+- Sword +1 [+3 vs Lycanthropes] (40000g)
+- Sword +1 [+3 vs Undead] (40000g)
+- Sword +1 [Light] (26500g)
+- Shield +3 (70000g)
+- Shield +1 (10000g)
 
 ### Sentient Weapons
 
