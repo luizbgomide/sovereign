@@ -58,6 +58,7 @@ window.onload = () => {
     }
 
     const searchResults = document.getElementById('search-results');
+    document.getElementById("sidebar").classList.remove("active");
     searchResults.innerHTML = "";
     searchElement.value = "";
   });
