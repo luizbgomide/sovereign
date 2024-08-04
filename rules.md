@@ -35,7 +35,7 @@ Consider being faced with a deep, 15-foot wide spiked pit. Dangerous. If a playe
 
 A clever player might think to *fill up the pit*. Perhaps they spend some time dragging coffins, furniture, etc into the pit so that they can lower themselves down, walk across, and climb up the other side without rolling.
 
-Searching for stuff works the same way - the GM will describe a new room to the players, but *won't* assume that they touched anything (since it could be hazardous). A player can say "I search the room", and lean on their character's WIS/Notice, potentially triggering traps.
+Searching for stuff works the same way - the GM will describe a new room to the players, but *won't* assume that they touched anything (since it could be hazardous). A player can say "I search the room", and lean on their character's WIS/[Notice](#notice), potentially triggering traps.
 
 Better is for the player to specify *what* and *how* they're searching. If their method (which usually has a time-cost measured in [Turns](#keeping-track-of-time)) would find the hidden thing (whether a trap, treasure, or clue), they *just do*.
 
