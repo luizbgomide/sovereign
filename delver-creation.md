@@ -8,7 +8,7 @@ title: Home
 Adventuring is a profession, and all Delvers have undergone extensive training to become 1st level. They can clean and sharpen weapons, set up camp, cook meals, ride mounts, perform first aid, know the value of coins, trade goods, treasure, and identify common magical effects and monsters.
 
 
-1. **Generate Attributes**. For each of the five [Attributes](/rules#attributes) (Strength, Dexterity, Constitution, Intelligence, Wisdom), assign them a score of `3d6` in order. With your role on the team in mind, pick an [Attributes](/rules#attributes) to raise to 14. Record all of your attributes.
+1. **Generate Attributes**. For each of the five [Attributes](/rules#attributes) (Strength, Dexterity, Constitution, Intelligence, Wisdom), assign them a score of `3d6` **in order**. So your first `3d6` is your Strength, your second is your Dexterity, and so on.
 
 1. **Choose a character concept**. Discuss what your role will be in the team. A well-rounded party needs a way to deal with melee enemies, a way to deal with ranged or flying enemies, a way to deal with mundane security measures (guards, locked doors, traps), a way to deal with magical security measures, and a way to keep everyone healthy when things go south. A team of a melee-focused [Warrior](/classes#warrior), Sneak-focused [Expert](/classes#expert), utility-focued [High Mage](/arcane-traditions#high-mage), and [Partial Warrior](/classes#partial-warrior)/[Healer](/arcane-traditions#healer) is well-rounded, but part of the fun is trying out other compositions.
 

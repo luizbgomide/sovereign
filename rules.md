@@ -129,7 +129,7 @@ Skills may overlap in their application; the character may use either skill at t
 
 Most Delvers are skilled, competent folks who are perfectly capable of carrying out the ordinary duties of their role. Sometimes, however, they are faced with a situation or challenge beyond the usual scope of their role and the GM calls for a skill check.
 
-To make a skill check, roll `2d and add the most relevant skill level and [attribute modifier](#attribute-modifiers) (denoted as {Attribute Modifier}/{Skill}, like STR/[Exert](#exert) or INT/Magic). If the total is equal or higher than the check’s <strong id="difficulty-class">Difficulty Class</strong> (DC), the check is a success. On a failure, the Delver either can’t accomplish the feat at all, bad luck cheats them, or they achieve it at the cost of some further complication. The GM determines the specific consequence of a failure.
+To make a skill check, roll `2d6` and add the most relevant skill level and [attribute modifier](#attribute-modifiers) (denoted as {Attribute Modifier}/{Skill}, like STR/[Exert](#exert) or INT/Magic). If the total is equal or higher than the check’s <strong id="difficulty-class">Difficulty Class</strong> (DC), the check is a success. On a failure, the Delver either can’t accomplish the feat at all, bad luck cheats them, or they achieve it at the cost of some further complication. The GM determines the specific consequence of a failure.
 
 To express to this compactly, we write DC {Difficulty Class} {Attribute Modifier/Skill}. For example, DC 8 INT/[Know](#know) or DC 12 DEX/[Heal](#heal).
 
@@ -145,7 +145,7 @@ The GM is always the one who calls for a skill check, and they do so at their di
 
 ### NPC Skill Checks
 
-When an NPC needs to make a skill check, they roll `2d and add their listed skill modifier if their action is something they ought reasonably to be good at. If it isn’t, they roll at +0, or even at -1 if it seems like something they’d be particularly bad at doing. If the NPC is special enough to have actual attribute scores and skill levels, they use those instead.
+When an NPC needs to make a skill check, they roll `2d6` and add their listed skill modifier if their action is something they ought reasonably to be good at. If it isn’t, they roll at +0, or even at -1 if it seems like something they’d be particularly bad at doing. If the NPC is special enough to have actual attribute scores and skill levels, they use those instead.
 
 ### Group Checks
 
@@ -155,7 +155,7 @@ This represents forcing open a heavy door together, everyone trying to stealth p
 
 ### Opposed Skill Checks
 
-When skills oppose each other, the side attempting to change the situation rolls a skill check vs a [DC](#difficulty-class) of 8 plus the other side's modifier. For example, a Delver trying to sneak past a guard might roll `2d6` plus their DEX/[Sneak](/rules#sneak) against a DC of 8 + the guard’s skill modifier. If the guard is significant enough to have attributes and skill levels, it might be a `2d+DEX/[Sneak](/rules#sneak) against a DC of 8+WIS/[Notice](#notice). We write this compactly as DEX/[Sneak](/rules#sneak) vs WIS/[Notice](#notice).
+When skills oppose each other, the side attempting to change the situation rolls a skill check vs a [DC](#difficulty-class) of 8 plus the other side's modifier. For example, a Delver trying to sneak past a guard might roll `2d6` plus their DEX/[Sneak](/rules#sneak) against a DC of 8 + the guard’s skill modifier. If the guard is significant enough to have attributes and skill levels, it might be a `2d6`+DEX/[Sneak](/rules#sneak) against a DC of 8+WIS/[Notice](#notice). We write this compactly as DEX/[Sneak](/rules#sneak) vs WIS/[Notice](#notice).
 
 ## Keeping Track of Time
 
