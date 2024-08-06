@@ -532,7 +532,6 @@ Alignment interacts with various magic items. Creatures in [bestaries](https://o
 **Neutral**: [Virtue ethics](https://en.wikipedia.org/wiki/Virtue_ethics). Virtue ethics is a moral theory that emphasizes the cultivation of virtuous character traits, such as wisdom, courage, justice, and temperance. According to virtue ethics, the foundation of ethics lies in developing good character and making decisions based on what a virtuous person would do in a given situation. The goal is to become a morally exemplary individual who consistently acts in accordance with these virtues, leading to a fulfilling life and contributing to the well-being of society as a whole.
 
 **Chaotic**: [Act consequentialist](https://en.wikipedia.org/wiki/Consequentialism). Act consequentialists argue that the moral value of an action is determined by its actual outcomes rather than the intentions behind it or adherence to moral rules.
-Good vs Evil
 
 ### Good vs Evil
 
