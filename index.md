@@ -157,6 +157,10 @@ Otherwise...
 
 ### Change Log
 
+#### 2024-08-06
+- Removed the accursed art 'Snaring Speech'. We don't have persuasion checks.
+- Hyperlink Commit Effort.
+
 #### 2024-08-03
 - Added *The Darkness Beneath Level 1: The Upper Caves* to the adventure list. Bryce listed it as his GOAT adventure.
 - Add a section on alignment.

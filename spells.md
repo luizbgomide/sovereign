@@ -7,17 +7,11 @@ title: Home
 
 High Mages, Necromancers, and Elementalists are capable of casting spells. NPC wizards may also have access to spellcasting, though NPCs seldom have classes.
 
-## Spells and Arts
-
 Spells ranked in power from level one, the relatively weakest, to level five, the most potent.
 
 The common corpus of ancient spells is known as High Magic. These spells are the common heritage of all spellcasting mages, and any spellcasting mage can learn and use them.
 
 Elementalists or Necromancers also have bodies of spells specific to their tradition. Only they can learn or cast these spells.
-
-In addition to spells, mages commonly have access to Arts, magical techniques that allow them to produce certain effects quickly and easily. Most mages learn one or two arts as an apprentice and gradually master more as they advance in skill.
-
-Every tradition has its own body of arts, and only members of that tradition can ever learn them. Delvers who take dual Mage classes can learn arts from both, but each class must choose its arts individually; a Partial High Mage/Partial Healer couldn’t use his High Mage art picks to choose Healer arts, or vice-versa.
 
 ## Learning a Spell
 
@@ -556,7 +550,7 @@ The necromancer conjures a blast of dispelling force at a point within one hundr
 
 All hostile undead within that area immediately suffer `1d10` damage per caster level. Undead with HD equal or less than the caster’s level must make a [Physical](/rules#physical) save or be destroyed outright.
 
-The necromancer may Commit Effort for the day immediately before casting this spell; if so, its casting does not count against the Necromancer’s available spell slots for the day.
+The necromancer may [Commit Effort](/arcane-traditions#committing-effort) for the day immediately before casting this spell; if so, its casting does not count against the Necromancer’s available spell slots for the day.
 
 #### Speak with Corpse
 This spell requires a corpse with largely-intact organs of communication.
