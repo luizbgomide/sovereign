@@ -141,7 +141,7 @@ Move your normal movement rate in combat, which is 30 feet for an ordinary human
 
 ### Disengage (Main)
 
-Disengage from an adjacent melee attacker, allowing you to move away from them without incurring a free attack as you retreat. You do not actually leave melee range with this action alone, and your enemy can simply re-engage you next round if you don’t move away.
+Disengage from all adjacent melee attackers for the rest of the round, allowing you to move or act from them without incurring a free attack. This action *does not move you* by itself.
 
 ### Use a Skill (Main)
 
