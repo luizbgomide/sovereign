@@ -85,7 +85,7 @@ Some weapons have additional unique traits, perhaps being particularly slow to r
 | Unarmed Attack | `1d2+Skill` | None    | STR/DEX   | -          | LL         | -    | -   |
 
 - **2H**: Two Handed. The weapon requires two hands to use in combat. Ranged two-handed weapons cannot be fired effectively while an enemy is within melee range.
-- **L**: Long. The weapon is unusually long, allowing melee attacks to be made at targets up to 10 feet distant, even if an ally is in the way. Even so, the wielder still needs to be within five feet of a foe to count as being in melee with them for purposes of forcing Fighting Withdrawals, disrupting large ranged weapons, or similar maneuvers.
+- **L**: Long. The weapon is unusually long, allowing melee attacks to be made at targets up to 10 feet distant, even if an ally is in the way. Even so, the wielder still needs to be within five feet of a foe to count as being in melee with them for purposes of forcing [Disengages](/combat#disengage-main), disrupting large ranged weapons, or similar maneuvers.
 - **LL**: Less Lethal. Foes brought to zero HP by this weapon can always be left alive at the wielder’s discretion.
 - **N**: Numerous. Five of these count as only one Readied item.
 - **PM**: Precisely Murderous. When used for an [Execution Attack](/combat#execution-attacks), the weapon applies an additional -1 penalty to the [Physical](/rules#physical) save and does double damage even if it succeeds.

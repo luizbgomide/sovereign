@@ -43,7 +43,7 @@ You are practiced at sudden murder, and have certain advantages in carrying out 
 You’ve had all too much practice at close-in fighting and desperate struggles with drawn blades. You’re extremely skilled at avoiding injury in melee combat, and at level 2 you can dodge through a melee scrum without fear of being knifed in passing.
 
 - **Level 1**: Gain any combat skill as a [Bonus Skill](/rules#bonus-skill). You can use knife-sized thrown weapons in melee without suffering penalties for the proximity of melee attackers. You ignore Shock damage from melee assailants, even if you’re unarmored at the time, but invoking this benefit disrupts any spellcasting you might do that round due to the need for violently active evasion.
-- **Level 2**: The Shock damage from your melee attacks treats all targets as if they were AC 10. The Fighting Withdrawal combat action is treated as a [Free Action](/combat#free-action) for you.
+- **Level 2**: The Shock damage from your melee attacks treats all targets as if they were AC 10. The [Disengage](/combat#disengage-main) combat action is treated as a [Free Action](/combat#free-action) for you.
 
 ## Die Hard (C)
 

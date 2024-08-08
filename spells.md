@@ -123,7 +123,7 @@ Unlike most spells, Speed may be cast as a [Free Action](/combat#free-action), t
 
 Enchanted creatures become incredibly fleet of foot, doubling their usual ground movement rate and becoming capable of running up walls and across ceilings without falling, provided they end their round upright on a navigable surface.
 
-They may also move away from melee opponents without needing to make a Fighting Withdrawal to avoid a parting attack, and may pass through and around armed foes who do not completely physically block their path. The spell lasts for the remainder of the [Turn](/rules#turn) and adds 1 [System Strain](/rules#system-strain) to those who take advantage of it.
+They may also move away from melee opponents without needing to make a [Disengage](/combat#disengage-main) to avoid a parting attack, and may pass through and around armed foes who do not completely physically block their path. The spell lasts for the remainder of the [Turn](/rules#turn) and adds 1 [System Strain](/rules#system-strain) to those who take advantage of it.
 
 #### Stasis
 Stasis may be cast as a [Free Action](/combat#free-action) and targets a single willing or helpless creature the caster is touching. The subject is shifted out of the flow of conventional time, freezing and being limned in a pale sepia light. They and all their carried possessions are rendered impervious to all non-magical harm and are frozen in temporal stasis until the spell ends or is dispelled. Enchanted creatures are quite light, counting as only four items of Encumbrance due to their unwieldiness.
