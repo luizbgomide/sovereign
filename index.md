@@ -159,9 +159,9 @@ Otherwise...
 
 #### 2024-08-08
 - Hyperlink System Strain.
-- Add change disengage to work on all foes. All of the core *WN books work this way, it's just the SRDs that are different.
+- Change disengage to work on all foes. All of the core *WN books work this way, it's just the SRDs that are different.
 - Simplify language around skill levels.
-- Specify that moving triggers a free attack *on each square*. Disengage is good!
+- Specify that moving triggers a free attack when you leave a foe's threatened range.
 - Specify how diagonal movement works.
 
 #### 2024-08-06
