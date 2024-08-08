@@ -162,6 +162,7 @@ Otherwise...
 - Add change disengage to work on all foes. All of the core *WN books work this way, it's just the SRDs that are different.
 - Simplify language around skill levels.
 - Specify that moving triggers a free attack *on each square*. Disengage is good!
+- Specify how diagonal movement works.
 
 #### 2024-08-06
 - Removed the accursed art 'Snaring Speech'. We don't have persuasion checks.
