@@ -137,7 +137,7 @@ Since Total Defense is an [Instant Action](#instant-action), you may use it *aft
 
 ### Run (Move)
 
-Move your normal movement rate in combat, which is 30 feet for an ordinary human. If you start your movement adjacent to an armed melee combatant, they get a free melee attack against you as you flee. To avoid this, you must [Disengage](/combat#disengage-main) first.
+Move your normal movement rate in combat, which is 30 feet for an ordinary human. Each time you leave a square adjacent to an armed melee combatant, they get a free melee attack against you. You may be attacked multiple times by the same combatant in this way. To avoid this, you must [Disengage](/combat#disengage-main) first.
 
 ### Disengage (Main)
 
