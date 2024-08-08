@@ -293,7 +293,7 @@ Some perils occur with some regularity for adventurers. A few of the most common
 
 **Starvation**: Each day of insufficient food (1 Ration) causes 1 [System Strain](#system-strain). If you already have maximum system strain, you die.
 
-**Dehydration**: Each day of insufficient water (a waterskin's worth) causes 3 System Strain. If you already have maximum system strain, you die.
+**Dehydration**: Each day of insufficient water (a waterskin's worth) causes 3 [System Strain](/rules#system-strain). If you already have maximum system strain, you die.
 
 Starvation and Dehydration are ignored so long as the Delvers aren't trying to sleep in a dungeon. Assume that they find sufficient food in the wilderness.
 

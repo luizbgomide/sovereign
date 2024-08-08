@@ -200,7 +200,7 @@ Say that we're playing [Winter's Daughter](https://www.drivethrurpg.com/en/produ
 
 **Player**: What if everyone helps shove? *(come up with a better plan)*
 
-**GM**: Sure - how about a [DC 8 group STR/[Exert](/rules#exert) check](/rules#group-checks)? And if it fails, everyone takes a point of System Strain as you have to give it your all? *(inform the players about their chances)*
+**GM**: Sure - how about a [DC 8 group STR/[Exert](/rules#exert) check](/rules#group-checks)? And if it fails, everyone takes a point of [System Strain](/rules#system-strain) as you have to give it your all? *(inform the players about their chances)*
 
 **Player**: Yuck, that's a lot of strain. We're pretty flush - do you think some of the burly townsfolk would be willing to help us out for coin? *(come up with a better plan)*
 
