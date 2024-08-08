@@ -33,7 +33,7 @@ While the arts of Accursed Blade and Accursed Bolt use [Magic](/rules#magic) as 
 
 ### Accursed Arts
 
-Accursed have Effort equal to their [Magic](/rules#magic) skill level plus their INT, to a minimum of one point. Every Accursed gains either Accursed Bolt or Accursed Blade as a starting art, plus one more of their choice. Accursed arts may be used in or out of armor. Additional arts are learned as the Accursed advances in experience.
+Accursed have Effort equal to [Magic](/rules#magic) plus INT, to a minimum of 1. Every Accursed gains either Accursed Bolt or Accursed Blade as a starting art, plus one more of their choice. Accursed arts may be used in or out of armor. Additional arts are learned as the Accursed advances in experience.
 
 | Level | Arts Gained                                         |
 | ----- | --------------------------------------------------- |
@@ -83,7 +83,7 @@ As such, [Partial Warriors](/classes#partial-warrior)/Partial Duelists use `1d6`
 
 ### Duelist Arts
 
-Duelist Effort is equal to their [Stab](/rules#stab) skill plus the highest of their DEX or INT, to a minimum of 1. All Duelists begin with the Favored Weapon art and one more of their choice. Additional arts are learned as the Duelist advances in experience.
+Duelist Effort is equal to [Stab](/rules#stab) the highest of DEX and INT, to a minimum of 1. All Duelists begin with the Favored Weapon art and one more of their choice. Additional arts are learned as the Duelist advances in experience.
 
 The arts of the Duelist require agility and free motion. The Duelist cannot benefit from any art of this class while wearing Chain or Plate armor or while weilding a shield.
 
@@ -146,7 +146,7 @@ Elementalists roll `1d6-1` for [HP Progression](/rules#hp-progression).
 
 ### Elementalist Arts
 
-Elementalist Effort is equal to one plus their [Magic](/rules#magic) skill level plus INT to a minimum of one point. Partial Elementalists have one less Effort, to a minimum of one.
+Elementalist Effort is equal to 1 plus [Magic](/rules#magic) plus INT to a minimum 1. Partial Elementalists have 1 less Effort, to a minimum of 1.
 
 Elementalists gain the Elemental Resilience and Elemental Sparks arts as part of their basic training, and may pick one additional art from the list below. Further arts are learned as they advance in character level, as given in the tables below.
 
@@ -192,7 +192,7 @@ At first level, a Healer gains the Healing Touch art and can pick one more of th
 
 ### Healer Arts
 
-Healer Effort is equal to one plus their [Heal](/rules#heal) skill level plus INT, to a minimum of one point.
+Healer Effort is equal to 1 plus [Heal](/rules#heal) plus INT, to a minimum of 1.
 
 All Healers are trained in the Healing Touch art, but develop other techniques with time.
 
@@ -267,7 +267,7 @@ High Mages conduct extensive experimentation and study as part of their daily ac
 
 ### High Mage Arts
 
-High Mage Effort is equal to one plus their [Magic](/rules#magic) skill level plus INT, to a minimum of one point. Partial High Mages have one less Effort, to a minimum of one.
+High Mage Effort is equal to 1 plus [Magic](/rules#magic) plus INT, to a minimum of 1. Partial High Mages have 1 less Effort, to a minimum of 1.
 
 - **Arcane Lexicon:** [Commit Effort](#committing-effort) for the [Turn](/rules#turn). For the rest of the [Turn](/rules#turn), you can read any script that was not intentionally obfuscated or encoded by its writer. Extremely esoteric or nonhuman scripts may not be comprehensible this way; the “plain meaning” of the text might be utterly foreign to human logic.
 - **Counter Magic:** [Commit Effort](#committing-effort) for the day as an [Instant Action](/combat#instant-action) when a visible enemy mage casts a spell. Make an opposed INT/[Magic](/rules#magic) skill check; if you win, their spell fizzles and is wasted. This art only works on actual spellcasters and not creatures that merely activate magical powers. You can use this art no more than once per round.
@@ -328,7 +328,7 @@ Each time a Necromancer advances a level, they pick a new High Magic spell or a 
 
 ### Necromancer Arts
 
-Necromancer Effort is equal to one plus their [Magic](/rules#magic) skill level plus INT, to a minimum of one point. Partial Necromancers have one less Effort, to a minimum of one.
+Necromancer Effort is equal to 1 plus [Magic](/rules#magic) plus INT, to a minimum of 1. Partial Necromancers have 1 less Effort, to a minimum of 1.
 
 - **Bonetalker:** You can see and communicate with any undead creature, regardless of a shared language or the creature’s natural state of invisibility. By Committing Effort for the [Turn](/rules#turn) you can sense the surface thoughts of any visible undead, including an impression of any commands or behavior it has been ordered to carry out. Unintelligent undead will not attack you or your companions unless specifically compelled to do so by a command or a master. Even intelligent undead will generally pause at least for an initial parley before attacking.
 - **Cold Flesh:** You no longer require sleep and feel pain only in an abstract sense. You suffer no more than 2 points of damage from any given instance of Shock and you have a natural AC equal to 12 plus half your level, rounded down.
