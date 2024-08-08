@@ -129,7 +129,7 @@ Skills may overlap in their application; the character may use either skill at t
 
 Most Delvers are skilled, competent folks who are perfectly capable of carrying out the ordinary duties of their role. Sometimes, however, they are faced with a situation or challenge beyond the usual scope of their role and the GM calls for a skill check.
 
-To make a skill check, roll `2d6` and add the most relevant skill level and [attribute modifier](#attribute-modifiers) (denoted as {Attribute Modifier}/{Skill}, like STR/[Exert](#exert) or INT/Magic). If the total is equal or higher than the check’s <strong id="difficulty-class">Difficulty Class</strong> (DC), the check is a success. On a failure, the Delver either can’t accomplish the feat at all, bad luck cheats them, or they achieve it at the cost of some further complication. The GM determines the specific consequence of a failure.
+To make a skill check, roll `2d6` and add the most relevant skill level and [attribute modifier](#attribute-modifiers) (denoted as {Attribute Modifier}/{Skill}, like STR/[Exert](#exert) or INT/[Magic](#magic)). If the total is equal or higher than the check’s <strong id="difficulty-class">Difficulty Class</strong> (DC), the check is a success. On a failure, the Delver either can’t accomplish the feat at all, bad luck cheats them, or they achieve it at the cost of some further complication. The GM determines the specific consequence of a failure.
 
 To express to this compactly, we write DC {Difficulty Class} {Attribute Modifier/Skill}. For example, DC 8 INT/[Know](#know) or DC 12 DEX/[Heal](#heal).
 
@@ -187,7 +187,7 @@ Creatures who reach 0 HP and then recover are Frail.
 
 A Frail character acts normally, but if reduced to 0 HP again, they die instantly. Frail characters do not recover HP through [Natural Healing](#natural-healing).
 
-Frailty is removed with a week of bed rest and medical attention by someone with a [healer’s kit](/equipment#healers-kit) and at least [Heal](#heal)-0 skill. In addition, someone with at least [Heal](#heal)-1 can make one attempt to remove Frailty with a healer's kit, an hour of labor, and a successful DC 10 DEX/[Heal](#heal) or INT/[Heal](#heal) check.
+Frailty is removed with a week of bed rest and medical attention by someone with a [healer’s kit](/equipment#healers-kit) and at least [Heal](#heal)-0. In addition, someone with at least [Heal](#heal)-1 can make one attempt to remove Frailty with a healer's kit, an hour of labor, and a successful DC 10 DEX/[Heal](#heal) or INT/[Heal](#heal) check.
 
 Frail characters without this level of medical care must make a [Physical](#physical) save after a week; on a failure they die `1d6` days later, while success means they lose their Frailty after another month’s rest.
 
@@ -223,7 +223,7 @@ Most toxins force a victim to make a [Physical](#physical) saving throw to resis
 
 If the save is failed, the poison or disease takes hold. Most poisons act quickly, inflicting damage, adding [System Strain](#system-strain) to the target, or applying long-lasting penalties. Diseases have a slower onset but often apply the same sort of harms.
 
-A medic can treats a poisoned person within a minute of the poisoning with a [healer’s kit](/equipment#healers-kit) to give them a better chance to resist. They add twice their [Heal](#heal) skill level to the victim’s saving throw roll, or +1 if they have only [Heal](#heal)-0 skill.
+A medic can treats a poisoned person within a minute of the poisoning with a [healer’s kit](/equipment#healers-kit) to give them a better chance to resist. They add twice their [Heal](#heal) to the victim’s saving throw roll, or +1 if they have only [Heal](#heal)-0.
 
 Some poisons, like that of a [pit viper](https://basicfantasy.org/srd/monstersAll.html#snake-pit-viper), are save or die. Once the poison takes hold, the victim has `1d4` [Turns](/rules#turn) to live unless specified otherwise.
 

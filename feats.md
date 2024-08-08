@@ -28,8 +28,8 @@ Usable only by Mage heroes who would otherwise be prevented from casting spells 
 
 You have an unusual competence with thrown weapons and melee attacks. This Feat’s benefits do not apply to unarmed attacks or non-thrown projectile weapons. This Feat’s bonuses also don’t stack with Deadeye or other Feats that add a skill’s level to your damage or Shock.
 
-- **Level 1**: Gain [Stab](/rules#stab) as a [Bonus Skill](/rules#bonus-skill). You can Ready a Stowed melee or thrown weapon as an [Instant Action](/combat#instant-action). You add your [Stab](/rules#stab) skill level to a melee or thrown weapon’s damage roll or Shock damage, assuming it has any to begin with.
-- **Level 2**: The Shock from your melee attacks always treats the target as if they have AC 10. Gain a +1 bonus to hit with all thrown or melee attacks.
+- **Level 1**: Gain [Stab](/rules#stab) as a [Bonus Skill](/rules#bonus-skill). You can Ready a Stowed melee or thrown weapon as an [Instant Action](/combat#instant-action). You add your [Stab](/rules#stab) to a melee or thrown weapon’s damage roll or [Shock](/rules#shock) damage, assuming it has any to begin with.
+- **Level 2**: The [Shock](/rules#shock) from your melee attacks always treats the target as if they have AC 10. Gain a +1 bonus to hit with all thrown or melee attacks.
 
 ## Assassin (C)
 
@@ -54,17 +54,17 @@ You are surprisingly hard to kill. You survive injuries and bear up under stress
 
 ## Deadeye (C)
 
-You have a gift with ranged weapons. While this talent most commonly applies to bows, it is also applicable to thrown weapons or other ranged weapons that can be used with the [Shoot](/rules#shoot) skill. For thrown weapons, you can’t use the benefits of the Armsmaster Feat at the same time as Deadeye.
+You have a gift with ranged weapons. While this talent most commonly applies to bows, it is also applicable to thrown weapons or other ranged weapons that can be used with [Shoot](/rules#shoot). For thrown weapons, you can’t use the benefits of [Armsmaster](#armsmaster-c) at the same time as Deadeye.
 
-- **Level 1**: Gain [Shoot](/rules#shoot) as a [Bonus Skill](/rules#bonus-skill). You can Ready a Stowed ranged weapon as an [Instant Action](/combat#instant-action). You may use a bow or two-handed ranged weapon even when an enemy is within melee range, albeit at a -4 hit penalty. You add your [Shoot](/rules#shoot) skill level to a ranged weapon’s damage roll.
-- **Level 2**: You reload crossbows or other slow-loading weapons as a [Free Action](/combat#free-action), provided they don’t take more than a round to reload. You use ranged weapons in melee without penalty. Once per [Turn](/rules#turn), as a [Free Action](/combat#free-action) when target shooting at an inanimate, non-creature target, you automatically hit unless you roll a 2 on your [Shoot](/rules#shoot) skill check or the shot is physically impossible.
+- **Level 1**: Gain [Shoot](/rules#shoot) as a [Bonus Skill](/rules#bonus-skill). You can Ready a Stowed ranged weapon as an [Instant Action](/combat#instant-action). You may use a bow or two-handed ranged weapon even when an enemy is within melee range, albeit at a -4 hit penalty. You add your [Shoot](/rules#shoot) to a ranged weapon’s damage roll.
+- **Level 2**: You reload crossbows or other slow-loading weapons as a [Free Action](/combat#free-action), provided they don’t take more than a round to reload. You use ranged weapons in melee without penalty. Once per [Turn](/rules#turn), as a [Free Action](/combat#free-action) when target shooting at an inanimate, non-creature target, you automatically hit unless you roll a 2 on your [Shoot](/rules#shoot) check or the shot is physically impossible.
 
 ## Gifted Chirurgeon
 
 You have an unusual gift for saving [Mortally Wounded](/rules#mortal-injury-and-stabalization) allies and quickening the natural recovery of the wounded in your care.
 
-- **Level 1**: Gain [Heal](/rules#heal) as a [Bonus Skill](/rules#bonus-skill). You may attempt to stabilize one [Mortally Wounded](/rules#mortal-injury-and-stabalization) adjacent person per round as a [Free Action](/combat#free-action). When rolling [Heal](/rules#heal) skill checks, roll `3d6` and drop the lowest die. You heal twice as many HP as usual when applying first aid after a battle.
-- **Level 2**: Your curative gifts count as magical healing. You can heal `1d6`+[Heal](/rules#heal) skill in damage to an adjacent wounded ally as a [Main Action](/combat#main-action), potentially reviving them without any lingering Frailty. Each such application of healing adds 1 [System Strain](/rules#system-strain) to the target, and the gift cannot be used on targets already at their maximum [System Strain](/rules#system-strain).
+- **Level 1**: Gain [Heal](/rules#heal) as a [Bonus Skill](/rules#bonus-skill). You may attempt to stabilize one [Mortally Wounded](/rules#mortal-injury-and-stabalization) adjacent person per round as a [Free Action](/combat#free-action). When rolling [Heal](/rules#heal) checks, roll `3d6` and drop the lowest die. You heal twice as many HP as usual when applying first aid after a battle.
+- **Level 2**: Your curative gifts count as magical healing. You can heal `1d6` plus [Heal](/rules#heal) to an adjacent wounded ally as a [Main Action](/combat#main-action), potentially reviving them without any lingering [Frailty](/rules#frail). Each such application of healing adds 1 [System Strain](/rules#system-strain) to the target, and the gift cannot be used on targets already at their maximum [System Strain](/rules#system-strain).
 
 ## Impervious Defense (C)
 
@@ -89,10 +89,10 @@ Something about your hero interferes with easy use of magic on them. It may be a
 
 ## Poisoner
 
-You are a skilled poisoner, capable of compounding toxins out of readily-available flora and minerals. It takes an hour to brew a poison, and you can keep as many doses fresh as you have levels. Blade venoms take a [Main Action](/combat#main-action) to apply and last for ten minutes or until a hit or Shock is inflicted, whichever comes first. Detecting poisoned food is a WIS/[Notice](/rules#notice) skill check against 10, or 12 if the diner’s not a noble or otherwise normally wary of poison. One dose can poison up to a half-dozen diners.
+You are a skilled poisoner, capable of compounding toxins out of readily-available flora and minerals. It takes an hour to brew a poison, and you can keep as many doses fresh as you have levels. Blade venoms take a [Main Action](/combat#main-action) to apply and last for ten minutes or until a hit or Shock is inflicted, whichever comes first. Detecting poisoned food is a WIS/[Notice](/rules#notice) check against 10, or 12 if the diner’s not a noble or otherwise normally wary of poison. One dose can poison up to a half-dozen diners.
 
 - **Level 1**: Gain [Heal](/rules#heal) as a [Bonus Skill](/rules#bonus-skill). Gain a reroll on any failed saving throw versus poison. Your toxins inflict `2d6` damage plus your level on a hit or Shock, with a [Physical](/rules#physical) save for half. Your incapacitating or hallucinogenic toxins do the same, but those reduced to zero HP are simply incapacitated for an hour.
-- **Level 2**: You are immune to poison and can apply a universal antidote to any poisoned ally as a [Main Action](/combat#main-action). Any attempt to detect or save against your poisons takes a penalty equal to your [Heal](/rules#heal) skill. Your ingested poisons count as an [Execution Attack](/combat#execution-attacks) against unsuspecting targets, with [Heal](/rules#heal) used for the [Physical](/rules#physical) saving throw penalty and `1d6` damage per level done on a success. Such poisons are non-lethal at your discretion.
+- **Level 2**: You are immune to poison and can apply a universal antidote to any poisoned ally as a [Main Action](/combat#main-action). Any attempt to detect or save against your poisons takes a penalty equal to your [Heal](/rules#heal). Your ingested poisons count as an [Execution Attack](/combat#execution-attacks) against unsuspecting targets, with [Heal](/rules#heal) used for the [Physical](/rules#physical) saving throw penalty and `1d6` damage per level done on a success. Such poisons are non-lethal at your discretion.
 
 ## Shocking Assault (C)
 
@@ -146,12 +146,12 @@ Your empty hands are more dangerous than swords in the grip of the less gifted. 
 
 You are a bodyguard, shieldbearer, or other gifted defender of others, accustomed to the roil of bloody battle and desperate struggle. You have an exceptional ability to shield your allies from the attacks of those who would slay them.
 
-- **Level 1**: Gain [Stab](/rules#stab) or [Brawl](/rules#brawl) as a [Bonus Skill](/rules#bonus-skill). Gain a +2 on all skill checks for the Screen Ally combat action. You can screen against one more attacker per round than your skill would normally allow. Once per round, you can Screen Ally against even intangible spells or magical attacks or bodily shield them from an area-effect explosion or magic. Such attempts require the usual successful opposing skill check, with the assailant using their [Magic](/rules#magic) skill.
-- **Level 2**: The first Screen Ally skill check you make in a round is always successful. Gain +2 AC while screening someone. You can screen against foes as large as ogres or oxen.
+- **Level 1**: Gain [Stab](/rules#stab) or [Brawl](/rules#brawl) as a [Bonus Skill](/rules#bonus-skill). Gain a +2 on all skill checks for the [Screen Ally](/combat#screen-an-ally-move) combat action. You can screen against one more attacker per round than your skill would normally allow. Once per round, you can [Screen Ally](/combat#screen-an-ally-move) against even intangible spells or magical attacks or bodily shield them from an area-effect explosion or magic. Such attempts require the usual successful opposing skill check, with the assailant using their [Magic](/rules#magic) skill.
+- **Level 2**: The first [Screen Ally](/combat#screen-an-ally-move) skill check you make in a round is always successful. Gain +2 AC while screening someone. You can screen against foes as large as ogres or oxen.
 
 ## Whirlwind Assault (C)
 
 You are a frenzy of bloody havoc in melee combat, and can hack down numerous lesser foes in close combat... assuming you survive being surrounded.
 
-- **Level 1**: Gain [Stab](/rules#stab) as a [Bonus Skill](/rules#bonus-skill). Once per [Turn](/rules#turn), as a [Free Action](/combat#free-action), apply your Shock damage to all foes within melee range, assuming they’re susceptible to your Shock.
+- **Level 1**: Gain [Stab](/rules#stab) as a [Bonus Skill](/rules#bonus-skill). Once per [Turn](/rules#turn), as a [Free Action](/combat#free-action), apply your [Shock](/rules#shock) damage to all foes within melee range, assuming they’re susceptible to your [Shock](/rules#shock).
 - **Level 2**: The first time you kill someone in a round with a normal attack, either with its rolled damage on a hit or with the Shock damage it inflicts, instantly gain a second attack on any target within range using any Ready weapon you have.
