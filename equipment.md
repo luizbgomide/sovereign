@@ -91,7 +91,7 @@ Some weapons have additional unique traits, perhaps being particularly slow to r
 - **PM**: Precisely Murderous. When used for an [Execution Attack](/combat#execution-attacks), the weapon applies an additional -1 penalty to the [Physical](/rules#physical) save and does double damage even if it succeeds.
 - **R**: Reload. The weapon takes a [Move Action](/combat#move-action) to reload. If the user has at least [Shoot](/rules#shoot)-1, they can reload as a [Free Action](/combat#free-action) instead.
 - **S**: Subtle. Easily hidden in clothing or jewelry.
-- **SR**: Slow Reload. It takes a [Main Action](/combat#main-action) to reload this weapon. SS: Single Shot. This weapon takes ten rounds to reload, and the reloading effort is spoiled if an enemy melees the wielder.
+- **SR**: Slow Reload. It takes a [Main Action](/combat#main-action) to reload this weapon.
 - **T**: Throwable. While the weapon can be used in melee, it may be thrown out to the listed range as well, albeit it does no Shock in that case. Throwing a weapon while in melee applies a -4 penalty to the attack roll.
 
 Military oil may be ignited and thrown with a DEX/[Shoot](/rules#shoot) attck, dealing `1d8` damage for 2 rounds to the target. If the attack fails, it lands in a random adjacent square and deals `1d3` damage to that square and all adjacent squares.
