@@ -26,7 +26,7 @@ Usable only by Mage heroes who would otherwise be prevented from casting spells 
 
 ## Armsmaster (C)
 
-You have an unusual competence with thrown weapons and melee attacks. This Feat’s benefits do not apply to unarmed attacks or non-thrown projectile weapons. This Feat’s bonuses also don’t stack with Deadeye or other Feats that add a skill’s level to your damage or Shock.
+You have an unusual competence with thrown weapons and melee attacks. This Feat’s benefits do not apply to unarmed attacks or non-thrown projectile weapons. This Feat’s bonuses also don’t stack with [Deadeye](#deadeye-c) or other Feats that add a skill’s level to your damage or Shock.
 
 - **Level 1**: Gain [Stab](/rules#stab) as a [Bonus Skill](/rules#bonus-skill). You can Ready a Stowed melee or thrown weapon as an [Instant Action](/combat#instant-action). You add your [Stab](/rules#stab) to a melee or thrown weapon’s damage roll or [Shock](/rules#shock) damage, assuming it has any to begin with.
 - **Level 2**: The [Shock](/rules#shock) from your melee attacks always treats the target as if they have AC 10. Gain a +1 bonus to hit with all thrown or melee attacks.

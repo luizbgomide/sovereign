@@ -9,7 +9,7 @@ This game endeavors to provide a ruleset that allows players to play through adv
 
 This document is split in several sections.
 
-If you prefer to learn by example and with exercises, the [Tutorial](/tutorial) (work in progress) has you covered.
+[Examples of Play](/examples) tries to cover the major systems and subsystems, as well as convey some play culture.
 
 A list of monsters, list of magic items magic item, and extensive game master section are in progress. In the mean time, check out [Those Outside The Walls](https://www.drivethrurpg.com/en/product/422653/Those-Outside-the-Walls--A-450-Monster-Bestiary) and [Basic Fantasy](https://basicfantasy.org/srd/monstersAll.html) for monsters, and [Old School Essentials](https://oldschoolessentials.necroticgnome.com/srd/index.php/Magic_Items_(General)) for magic items.
 
@@ -153,16 +153,18 @@ Otherwise...
 - The whole GM section. The advice and theory can wait, but conversion guides and whatnot are pressing.
 - The bestiary
 - Magic items
-- Most of the tutorial. I don't plan on covering every paragraph, but it would be useful to go over skill checks, combat, arts, and spells.
+- Most of the examples. I don't plan on covering every situation, but it would be useful to go over skill checks, combat, arts, and spells.
 
 ### Change Log
+
+#### 2024-08-09
+- Change the tutorial to examples of play
 
 #### 2024-08-08
 - Hyperlink System Strain.
 - Change disengage to work on all foes. All of the core *WN books work this way, it's just the SRDs that are different.
 - Simplify language around skill levels.
 - Specify that moving triggers a free attack when you leave a foe's threatened range.
-- Specify how diagonal movement works.
 
 #### 2024-08-06
 - Removed the accursed art 'Snaring Speech'. We don't have persuasion checks.
