@@ -250,7 +250,9 @@ A DC 10 check has only a 17% chance of success. If they have +1 in the relevant 
 
 The Delvers are
 
-- **Annora**, Warrior. 6 HP, 17 AC (Plate + Shield), Short Sword: +3 -> `1d6+3`; Sh 5/AC 15. Hand Axe(10/30): +3 -> `1d6+3`; Sh 4/AC 15.
+- **Annora**, Warrior. 6 HP, 17 AC (Plate + Shield)
+  - Short Sword: +3 -> `1d6+3`; Sh 5/AC 15.
+  - Hand Axe(10/30): +3 -> `1d6+3`; Sh 4/AC 15.
 - **Bennett**, Warrior/Healer. 4 HP, 17 AC (Plate + Shield), Mace: +1 -> `1d6+1`; Sh 2/AC 18.
 - **Colette**, Expert. 3 HP, 12 AC (Leather), Small Bow(50/300): +2 -> `1d6+2`.
 - **Daegal**, High Mage. 2 HP, 10 AC (Unarmored), Small Bow(50/300): +1 -> `1d6+1`.
@@ -272,17 +274,17 @@ Combat begins by rolling initiative. We'll say that the group's highest DEX is C
 
 **Round 1**
 
-Annora [Runs](/combat#run-move) forward 30 ft and hurls her Hand Axe at W2. The Hand Axe's normal range is 10ft and the W2 does not have any sort of cover, so Annora rolls `1d20+3=8` but misses, since W1's AC is 15. Annora, wanting to thin the enemy line as fast as possible, chooses to use her [Veteran's Luck](/classes#class-ability-veterans-luck) ability to turn the miss into a hit. She deals `1d6+3=5` damage, which kills W2.
+The players discuss if they want to [Charge](/combat#charge-special) (which will let them attack with +2 to hit at the cost of -2 AC until their next turn) or move forward more cautiously. Seeing that the Skeletons are armed with Short Swords, and knowing that short swords do 2 [Shock](/rules#shock) to anything with 15 AC or less, they decide they don't want to put their AC below that threshold by charging.
+
+Annora [Runs](/combat#run-move) forward 30 ft and hurls her Hand Axe at W2. The Hand Axe's normal range is 10ft and since W2 does not have any sort of cover, so Annora rolls `1d20+3=8` but misses, as W2's AC is 15. Annora, wanting to thin the enemy line as fast as possible, chooses to use her [Veteran's Luck](/classes#class-ability-veterans-luck) ability to turn the miss into a hit. She deals minimum damage `1d6+3=4` damage (since her axe is not a blunt weapon). Since W2 has 1 HP, it is destroyed.
 
 Bennett uses [Screen an Ally](/combat#screen-an-ally-move) to get beside Annora and protect her from the Skeletons. Bennett plans to use [Total Defense](/combat#total-defense-instant) to protect himself if he's attacked.
 
 ![tiny](/assets/images/combat-2.png)
 
-The players discuss if they want to charge (which will let them attack with +2 to hit) or move forward more cautiously. Seeing that the Skeletons are armed with Short Swords, and knowing that short swords do 2 shock to anything with 15 AC or less, they decide they don't want to put their AC below that threshold by charging.
+Colette [Runs](/combat#run-move) forward (to be able to get behind cover next turn) and shoots at W1 with her bow. She'd love to take out an archer, but they all have half cover: A1 and A3 from the pillars, and A2 because of the elevation. Colette rolls `1d20+2=20` and hits for the minimum of `1d6+2=3` damage, since arrows are not blunt. W1's HP is reduced from 5 to 2.
 
-Colette [Runs](/combat#run-move) forward (to be able to get behind cover next turn) and shoots at W1 with her Bow. She'd love to take out an archer, but they all have half cover: A1 and A3 from the pillars, and A2 because of the elevation. Colette rolls `1d20+2=20` and hits for `1d6+2=5` damage. The Hand Axe does not do blunt damage, so the skeleton takes *minimum* damage, which is the [Shock](/rules#shock) value of `4`. W1 had 1 HP and so is destroyed.
-
-Daegal has the same plan as Colette. He [Runs](/combat#run-move) forward and tries to finish off W1 with his Bow. he rolls `1d20+1=4` and misses.
+Daegal has the same plan as Colette. He [Runs](/combat#run-move) forward and tries to finish off W1 with his bow. he rolls `1d20+1=4` and misses.
 
 ![tiny](/assets/images/combat-3.png)
 
@@ -296,7 +298,7 @@ The GM randomly determines that the Archers all attack Benett as well, as a [Swa
 
 ![tiny](/assets/images/combat-4.png)
 
-Annora could [pick up](/combat#pick-up-an-item-move) Benett's mace to try to do full damage, but doing so would give W1 a free attack against her. She [Runs](/combat#run-move) 10ft east behind cover from the archers which does *not* trigger a free attack from W1 because she never leaves its range. Annora attacks W1 with her Sword, rolling `1d20+3=16`, and hits, for her minimum 5 shock damage because her sword is not a blunt weapon. Since W1 only had 5 HP, it is destroyed.
+Annora could [pick up](/combat#pick-up-an-item-move) Benett's mace to try to do full damage, but doing so would give W1 a free attack against her. She [Runs](/combat#run-move) 10ft east behind cover from the archers which does *not* trigger a free attack from W1 because she never leaves its range. Annora attacks W1 with her sword, rolling `1d20+3=16`, and hits, for her minimum 5 [Shock](/rules#shock) damage because her sword is not a blunt weapon. Since W1 only had 2 HP, it is destroyed.
 
 Colette and Daegal [Run](/combat#run-move) behind cover.
 
@@ -352,7 +354,7 @@ Annora has [half cover](/combat#half-cover) from A2 because of the verticality, 
 
 **Round 5**
 
-Annora [Runs](/combat#run-move) after A2. If there was a straight line, Annora could [Charge](/combat#charge-special), but there isn't. Annora could leap off the platform, but would suffer `2d6` [falling](/rules#falling-and-other-hazards) damage and isn't feeling too hot right now. She uses her [Main Action](/combat#main-action) for another [Move Action](/combat#move-action) to catch fully up with A2 and interpose herself between it and Benett.
+Annora [Runs](/combat#run-move) after A2. If there was a straight line, Annora could [Charge](/combat#charge-special), but there isn't. Annora could leap off the platform, but would suffer `1d6` [falling](/rules#falling-and-other-hazards) damage and isn't feeling too hot right now. She uses her [Main Action](/combat#main-action) for another [Move Action](/combat#move-action) to catch fully up with A2 and interpose herself between it and Benett.
 
 ![tiny](/assets/images/combat-12.png)
 
