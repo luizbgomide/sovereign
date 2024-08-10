@@ -23,6 +23,8 @@ Dialog is between the **GM** and **Alice** (a representative for the party).
 
 After reading through delver creation, following the various links and having a look at the classes, equipment, and spells, I start from the top.
 
+> Delver creation asks you to make decisions. In order for these decisions to be *informed*, it's worth skimming through the document to get a handle on how the game works. Usually someone (like your GM) has read the game in more detail, and can help answer questions.
+
 **Generate Attributes.** I roll [`3d6`](https://anydice.com/program/1) 5 times in order and get Strength 14, Dexterity 7, Constitution 11, Intelligence 8, Wisdom 10. I pencil all of these scores in.
 
 **Choose a Character Concept.** One friend wants going to play a big two-handed conan the barbarian type, my partner is obsessed with necromancy ever since watching the mummy as a child, and the other buddy really wants to be a bilbo baggins. I figure the best way I could round out the team would be to play someone that can keep the team alive. I'm thinking it would be really cool to play some sort of support archer, throwing out heals from range if needed, but being a decent shot with a bow otherwise.
