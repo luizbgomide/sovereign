@@ -153,9 +153,11 @@ Otherwise...
 - The whole GM section. The advice and theory can wait, but conversion guides and whatnot are pressing.
 - The bestiary
 - Magic items
-- Most of the examples. I don't plan on covering every situation, but it would be useful to go over skill checks, combat, arts, and spells.
 
 ### Change Log
+
+#### 2024-08-10
+- Re-do the delver creation example, which makes the examples section done for now.
 
 #### 2024-08-09
 - Change the tutorial to examples of play
