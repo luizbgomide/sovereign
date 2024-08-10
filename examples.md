@@ -17,6 +17,7 @@ Dialog is between the **GM** and **Alice** (a representative for the party).
 - [The Big Picture](#the-big-picture)
 - [Core Gameplay Loop](#core-gameplay-loop)
 - [Skills](#skills)
+- [Combat](#combat)
 
 ## Delver Creation
 
@@ -248,7 +249,7 @@ A DC 10 check has only a 17% chance of success. If they have +1 in the relevant 
 
 ## Combat
 
-The Delvers are
+The Delvers
 
 - **Annora**, Warrior. 6 HP, 17 AC (Plate + Shield)
   - Short Sword: +3 -> `1d6+3`; Sh 5/AC 15.
@@ -257,7 +258,7 @@ The Delvers are
 - **Colette**, Expert. 3 HP, 12 AC (Leather), Small Bow(50/300): +2 -> `1d6+2`.
 - **Daegal**, High Mage. 2 HP, 10 AC (Unarmored), Small Bow(50/300): +1 -> `1d6+1`.
 
-They are fighting 3 Skeletal Warrior and 3 Skeletal Archers.
+are fighting 3 Skeletal Warrior and 3 Skeletal Archers.
 
 - **Skeletal Warrior** 1 HD, (5, 1) HP, 15 AC (Shield), Short Sword: +2 -> 1d6; Sh 2/AC 15, 30 MV.
 - **Skeletal Archer** 1 HD, (2, 6, 3) HP, 13 AC, Bow(50/300): +2 -> 1d6, 30 MV.
@@ -268,15 +269,15 @@ Here's the setup:
 
 ![tiny](/assets/images/combat-1.png)
 
-Blue are the Delvers, denoted by the first letter of their names. Orange are the Skeletal Warriors, denoted with a W for Warrior and an identifying number. Red are the Skeletal Archers, denoted with an A for Archer and an identifying number.
+The Delvers are blue, denoted by the first letter of their names. The Skeletal Warriors are orange, denoted with a W (for Warrior) and an identifying number. The Skeletal Archers are red, denoted with an A (for Archer) and an identifying number.
 
 Combat begins by rolling initiative. We'll say that the group's highest DEX is Colette's at +1. The Delvers roll `1d8+1=8` and the Skeletons roll `1d8=8`. [Ties go to the Delvers](/combat#combat-sequence)!
 
 **Round 1**
 
-The players discuss if they want to [Charge](/combat#charge-special) (which will let them attack with +2 to hit at the cost of -2 AC until their next turn) or move forward more cautiously. Seeing that the Skeletons are armed with Short Swords, and knowing that short swords do 2 [Shock](/combat#shock) to anything with 15 AC or less, they decide they don't want to put their AC below that threshold by charging.
+The players discuss if they want to [Charge](/combat#charge-special) (which will let them attack with +2 to hit at the cost of -2 AC until their next turn) or move forward more cautiously. Seeing that the Skeletal Warriors are armed with Short Swords, and knowing that short swords do 2 [Shock](/combat#shock) to anything with 15 AC or less, they decide they don't want to put their AC below that threshold by charging.
 
-Annora [Runs](/combat#run-move) forward 30 ft and hurls her Hand Axe at W2. The Hand Axe's normal range is 10ft and since W2 does not have any sort of cover, so Annora rolls `1d20+3=8` but misses, as W2's AC is 15. Annora, wanting to thin the enemy line as fast as possible, chooses to use her [Veteran's Luck](/classes#class-ability-veterans-luck) ability to turn the miss into a hit. She deals minimum damage `1d6+3=4` damage (since her axe is not a blunt weapon). Since W2 has 1 HP, it is destroyed.
+Annora [Runs](/combat#run-move) forward 30 ft and hurls her Hand Axe at W2. W2 is within her Hand Axe's short range of 10ft (no penalty) and since W2 does not have any sort of cover (no penalty), Annora rolls `1d20+3=8`. This misses, as W2's AC is 15. Annora, wanting to thin the enemy line as fast as possible, chooses to use her [Veteran's Luck](/classes#class-ability-veterans-luck) ability to turn the miss into a hit. She deals minimum damage `1d6+3=4` damage (since her axe is not a blunt weapon). Since W2 has 1 HP, it is destroyed.
 
 Bennett uses [Screen an Ally](/combat#screen-an-ally-move) to get beside Annora and protect her from the Skeletons. Bennett plans to use [Total Defense](/combat#total-defense-instant) to protect himself if he's attacked.
 
@@ -290,9 +291,9 @@ Daegal has the same plan as Colette. He [Runs](/combat#run-move) forward and tri
 
 Now the Skeletons act. Many intelligent beings (like bandits) would flee at this point (to regroup with overwhelming numbers), but Skeletons mindlessly follow the simple commands of whatever animated them.
 
-Thd GM randomly determines that W1 [Runs](/combat#run-move) up to attack Benett. The Skeleton rolls `1d20+2=17` and hits. Bennett uses [Total Defense](/combat#total-defense-instant) to boost his AC to 19 this turn and make him immune to [Shock](/combat#shock), making the attack miss.
+Thd GM determines (randomly, since Skeletons are not intelligent) that W1 [Runs](/combat#run-move) up to attack Benett. The Skeleton rolls `1d20+2=17` and hits. Bennett uses [Total Defense](/combat#total-defense-instant) to boost his AC to 19 this turn, making him him immune to [Shock](/combat#shock), and making the attack miss.
 
-The GM randomly determines that the Archers all attack Benett as well, as a [Swarm](/combat#make-a-swarm-attack-main). A2 makes the attack, and gets +4 to hit and +2 damage from his two allies helping. A2 rolls `1d20+6=20` and hits Benett for `1d6+2=5` damage. This [Mortally Injures](/rules#mortal-injury-and-stabalization) Benett.
+The GM decides that the Archers all attack Benett as well, as a [Swarm](/combat#make-a-swarm-attack-main). A2 makes the attack, and gets +4 to hit and +2 damage from its two allies helping. A2 rolls `1d20+6=20` and hits Benett for `1d6+2=5` damage. This [Mortally Injures](/rules#mortal-injury-and-stabalization) Benett.
 
 **Round 2**
 
@@ -324,7 +325,7 @@ Annora [Runs](/combat#run-move) and circles around A3 (to be closer and give her
 
 Then, she attacks A3 with her sword. She rolls `1d20+3=23` (natural 20s are not special) and hits for the minimum damage of 5, her [Shock](/combat#shock) value. A3 had 3 HP and is destroyed.
 
-Daegel [Goes Prone](/combat#go-prone-free) to apply an additional -2 penalty to ranged attacks against him. He [Hold An Action](/combat#hold-an-action-move) to be able to choose between using [Total Defense](/combat#total-defense-instant) if he's shot or [Ready or Stow an Item](/combat#ready-or-stow-an-item-main) to grab his Healing Potion from his backpack if he's not. Annora can take care of the last skeleton!
+Daegel [Goes Prone](/combat#go-prone-free) to apply an [additional -2 penalty](/combat#combat-attack-rolls) to ranged attacks against him. He [Holds His Action](/combat#hold-an-action-move) to be able to choose between using [Total Defense](/combat#total-defense-instant) if he's shot or [Ready or Stow an Item](/combat#ready-or-stow-an-item-main) to grab his Healing Potion from his backpack if he's not. Annora can take care of the last skeleton!
 
 Now it's the Skeleton's turn. A2 moves 10ft east to put a little distance between it and Annora, and then shoots against [half cover](/combat#half-cover).
 
@@ -354,7 +355,7 @@ Annora has [half cover](/combat#half-cover) from A2 because of the verticality, 
 
 **Round 5**
 
-Annora [Runs](/combat#run-move) after A2. If there was a straight line, Annora could [Charge](/combat#charge-special), but there isn't. Annora could leap off the platform, but would suffer `1d6` [falling](/rules#falling-and-other-hazards) damage and isn't feeling too hot right now. She uses her [Main Action](/combat#main-action) for another [Move Action](/combat#move-action) to catch fully up with A2 and interpose herself between it and Benett.
+Annora [Runs](/combat#run-move) after A2. If there was a straight line, Annora could [Charge](/combat#charge-special), but there isn't. Annora could leap off the platform, but would suffer `1d6` [falling](/rules#falling-and-other-hazards) damage and isn't feeling too hot right now. She uses her [Main Action](/combat#main-action) for another [Move Action](/combat#move-action) to catch fully up with A2 and interpose herself between it and Benett. This is especially valuable because A2 is only equipped with a Bow, and cannot make ranged attacks while engaged in melee. If it moves away from Annora without [Disengaging](/combat#disengage-main), it will trigger a free attack and die to the [Shock](/combat#shock) damage. If it does [Disengage](/combat#disengage-main), it can't attack this turn.
 
 ![tiny](/assets/images/combat-12.png)
 
@@ -364,4 +365,4 @@ Benett, Colete, and Daegel move in position and [Make a Swarm Attack](/combat#ma
 
 After combat, Benett heals Annora's wound at the cost of 1 [System Strain](/rules#system-strain).
 
-The Delvers are all still at full HP, but now two of them are [Frail](/rules#frail) and they're out a Healing potion (worth 1000g). That was a close call! Whether or not to press on, or to retreat back to town to get rid of their [Frail](/rules#frail) condition is up to them.
+The Delvers are all still at full HP, but now two of them are [Frail](/rules#frail) and they're out a Healing Potion (worth 1000g). That was a close call! Whether or not to press on, or to retreat back to town to get rid of their [Frail](/rules#frail) condition is up to them.

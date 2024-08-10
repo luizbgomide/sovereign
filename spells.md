@@ -564,7 +564,7 @@ This spell may not be used twice on the same corpse.
 #### Augment Vitality
 The necromancer refines and enhances the natural flow of vitality within a willing visible target.
 
-For the rest of the [Turn](/rules#turn), all [Physical](/rules#physical) saving throws they make gain a bonus equal to the necromancer’s [Magic](/rules#magic) and they automatically stabilize when [Mortally Wounded](/rules#mortal-injury-and-stabalization). Once during the [Turn](/rules#turn), as an [Instant Action](/combat#instant-actin)o, they immediately heal from all damage inflicted by an injury that did not Mortally Wound them.
+For the rest of the [Turn](/rules#turn), all [Physical](/rules#physical) saving throws they make gain a bonus equal to the necromancer’s [Magic](/rules#magic) and they automatically stabilize when [Mortally Injured](/rules#mortal-injury-and-stabalization). Once during the [Turn](/rules#turn), as an [Instant Action](/combat#instant-actin)o, they immediately heal from all damage inflicted by an injury that did not Mortally Wound them.
 
 The recipient of this spell gains one [System Strain](/rules#system-strain).
 
@@ -613,7 +613,7 @@ At the spell’s end targets reduced to zero HP are Mortally Injured; those that
 #### Share Vitality
 By molding the plasmic stuff of life force, create a bond between two willing or helpless targets.
 
-These subjects must be close enough for the necromancer to touch; thereafter, for as long as the spell is in effect, the two creatures pool their HP. Injuries to either subtract from this pool, and neither dies until it is reduced to zero, whereupon both are Mortally Wounded. They can communicate telepathically at will while the spell is in effect.
+These subjects must be close enough for the necromancer to touch; thereafter, for as long as the spell is in effect, the two creatures pool their HP. Injuries to either subtract from this pool, and neither dies until it is reduced to zero, whereupon both are [Mortally Injured](/rules#mortal-injury-and-stabalization). They can communicate telepathically at will while the spell is in effect.
 
 The power ends at daybreak; if dispelled sooner, the remaining pool is split proportionately.
 
