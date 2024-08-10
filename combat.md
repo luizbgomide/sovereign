@@ -51,6 +51,8 @@ Alice has <strong id="full cover">full cover</strong> from Bob if Bob has line o
 
 Each participating side rolls `1d8`, with the player's side adding the highest DEX from among their Delvers. Starting with the side with the highest roll, each member of that side takes all of their actions in whatever order they'd like. Once every member of a side has acted, the next highest side repeats the process. This repeats until all sides have acted, and then begins from the top in the same order. Initiative is not re-rolled.
 
+Delvers win ties.
+
 ## Surprise
 
 If a group is caught entirely unawares they may suffer surprise, granting their enemies a full free round of action before initiative is rolled. The GM decides when surprise applies, possibly calling for an opposed DEX/[Sneak](/rules#sneak) (for a stealthy approach) check or STR/[Exert](/rules#exert) (to kick a door in) versus the target’s WIS/[Notice](/rules#notice).
@@ -104,7 +106,7 @@ Attack a target with a bow or thrown weapon. The [Shoot](/rules#shoot) skill is 
 
 ### Make a Snap Attack (Instant)
 
-As an [Instant Action](#instant-action), give up your [Main Action](#main-action) and either Make a Melee Attack or Make a Ranged Attack at a -4 penalty to hit. As an [Instant Action](#instant-action), you can Make a Snap Attack even when it’s not your turn, but you must not have taken your [Main Action](#main-action) this round yet. Only well-trained and disciplined NPCs have enough focus to Make a Snap Attack.
+As an [Instant Action](#instant-action), give up your [Main Action](#main-action) and either [Make a Melee Attack](#make-a-melee-attack-main) or [Make a Ranged Attack](#make-a-melee-attack-ranged) at a -4 penalty to hit. You can Make a Snap Attack even when it’s not your turn, but you must not have taken your [Main Action](#main-action) this round yet. Only well-trained and disciplined NPCs have enough focus to Make a Snap Attack.
 
 Since Snap Attack is an [Instant Action](#instant-action), you can use it to interrupt a spell, or kill a foe *after* they have hit but *before* damage has been rolled in order to prevent that damage.
 
