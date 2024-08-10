@@ -17,7 +17,7 @@ The grid helps us disambiguate a few situations:
 - Movement is done in 5' adjacent increments. This allows characters to move a greater distance diagonally than in a cardinal direction (in a [cartesian sense](https://en.wikipedia.org/wiki/Cartesian_coordinate_system)), but the decreased book-keeping is worth the loss of realism.
 - Abilities that have a radius create a square on the grid where each side of the square has a length of twice the radius. For example, [Magic Bomb](/spells#magic-bomb) creates 20' radius explosion. On the grid, this is an 8x8 square.
 - Some squares are <strong id="difficult-terrain">Difficult Terrain</strong>, requiring 10' of movement to enter. Others (like where walls are) are impassible.
-- In order to move diagonally, both of the squares that share an edge with the origin and destination square must be passable. This means you can not move diagonally around a corner or enemy.
+- Diagonal movement can not be used to cut corners (like walls or enemies).
 
 ### Line of Sight and Cover
 
