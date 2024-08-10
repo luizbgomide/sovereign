@@ -271,51 +271,51 @@ Here's the setup:
 
 The Delvers are blue, denoted by the first letter of their names. The Skeletal Warriors are orange, denoted with a W (for Warrior) and an identifying number. The Skeletal Archers are red, denoted with an A (for Archer) and an identifying number.
 
-Combat begins by rolling initiative. We'll say that the group's highest DEX is Colette's at +1. The Delvers roll `1d8+1=8` and the Skeletons roll `1d8=8`. [Ties go to the Delvers](/combat#combat-sequence)!
+Combat begins by rolling initiative. We'll say that the group's highest DEX is Colette's at +1. The Delvers roll `1d8+1: 8` and the Skeletons roll `1d8: 8`. [Ties go to the Delvers](/combat#combat-sequence)!
 
 **Round 1**
 
 The players discuss if they want to [Charge](/combat#charge-special) (which will let them attack with +2 to hit at the cost of -2 AC until their next turn) or move forward more cautiously. Seeing that the Skeletal Warriors are armed with Short Swords, and knowing that short swords do 2 [Shock](/combat#shock) to anything with 15 AC or less, they decide they don't want to put their AC below that threshold by charging.
 
-Annora [Runs](/combat#run-move) forward 30 ft and hurls her Hand Axe at W2. W2 is within her Hand Axe's short range of 10ft (no penalty) and since W2 does not have any sort of cover (no penalty), Annora rolls `1d20+3=8`. This misses, as W2's AC is 15. Annora, wanting to thin the enemy line as fast as possible, chooses to use her [Veteran's Luck](/classes#class-ability-veterans-luck) ability to turn the miss into a hit. She deals minimum damage `1d6+3=4` damage (since her axe is not a blunt weapon). Since W2 has 1 HP, it is destroyed.
+Annora [Runs](/combat#run-move) forward 30 ft and hurls her Hand Axe at W2. W2 is within her Hand Axe's short range of 10ft (no penalty) and since W2 does not have any sort of cover (no penalty), Annora rolls `1d20+3: 8`. This misses, as W2's AC is 15. Annora, wanting to thin the enemy line as fast as possible, chooses to use her [Veteran's Luck](/classes#class-ability-veterans-luck) ability to turn the miss into a hit. She deals minimum damage `1d6+3: 4` damage (since her axe is not a blunt weapon). Since W2 has 1 HP, it is destroyed.
 
 Bennett uses [Screen an Ally](/combat#screen-an-ally-move) to get beside Annora and protect her from the Skeletons. Bennett plans to use [Total Defense](/combat#total-defense-instant) to protect himself if he's attacked.
 
 ![tiny](/assets/images/combat-2.png)
 
-Colette [Runs](/combat#run-move) forward (to be able to get behind cover next turn) and shoots at W1 with her bow. She'd love to take out an archer, but they all have half cover: A1 and A3 from the pillars, and A2 because of the elevation. Colette rolls `1d20+2=20` and hits for the minimum of `1d6+2=3` damage, since arrows are not blunt. W1's HP is reduced from 5 to 2.
+Colette [Runs](/combat#run-move) forward (to be able to get behind cover next turn) and shoots at W1 with her bow. She'd love to take out an archer, but they all have half cover: A1 and A3 from the pillars, and A2 because of the elevation. Colette rolls `1d20+2: 20` and hits for the minimum of `1d6+2: 3` damage, since arrows are not blunt. W1's HP is reduced from 5 to 2.
 
-Daegal has the same plan as Colette. He [Runs](/combat#run-move) forward and tries to finish off W1 with his bow. he rolls `1d20+1=4` and misses.
+Daegal has the same plan as Colette. He [Runs](/combat#run-move) forward and tries to finish off W1 with his bow. he rolls `1d20+1: 4` and misses.
 
 ![tiny](/assets/images/combat-3.png)
 
 Now the Skeletons act. Many intelligent beings (like bandits) would flee at this point (to regroup with overwhelming numbers), but Skeletons mindlessly follow the simple commands of whatever animated them.
 
-Thd GM determines (randomly, since Skeletons are not intelligent) that W1 [Runs](/combat#run-move) up to attack Benett. The Skeleton rolls `1d20+2=17` and hits. Bennett uses [Total Defense](/combat#total-defense-instant) to boost his AC to 19 this turn, making him him immune to [Shock](/combat#shock), and making the attack miss.
+Thd GM determines (randomly, since Skeletons are not intelligent) that W1 [Runs](/combat#run-move) up to attack Benett. The Skeleton rolls `1d20+2: 17` and hits. Bennett uses [Total Defense](/combat#total-defense-instant) to boost his AC to 19 this turn, making him him immune to [Shock](/combat#shock), and making the attack miss.
 
-The GM decides that the Archers all attack Benett as well, as a [Swarm](/combat#make-a-swarm-attack-main). A2 makes the attack, and gets +4 to hit and +2 damage from its two allies helping. A2 rolls `1d20+6=20` and hits Benett for `1d6+2=5` damage. This [Mortally Injures](/rules#mortal-injury-and-stabalization) Benett.
+The GM decides that the Archers all attack Benett as well, as a [Swarm](/combat#make-a-swarm-attack-main). A2 makes the attack, and gets +4 to hit and +2 damage from its two allies helping. A2 rolls `1d20+6: 20` and hits Benett for `1d6+2: 5` damage. This [Mortally Injures](/rules#mortal-injury-and-stabalization) Benett.
 
 **Round 2**
 
 ![tiny](/assets/images/combat-4.png)
 
-Annora could [pick up](/combat#pick-up-an-item-move) Benett's mace to try to do full damage, but doing so would give W1 a free attack against her. She [Runs](/combat#run-move) 10ft east behind cover from the archers which does *not* trigger a free attack from W1 because she never leaves its range. Annora attacks W1 with her sword, rolling `1d20+3=16`, and hits, for her minimum 5 [Shock](/combat#shock) damage because her sword is not a blunt weapon. Since W1 only had 2 HP, it is destroyed.
+Annora could [pick up](/combat#pick-up-an-item-move) Benett's mace to try to do full damage, but doing so would give W1 a free attack against her. She [Runs](/combat#run-move) 10ft east behind cover from the archers which does *not* trigger a free attack from W1 because she never leaves its range. Annora attacks W1 with her sword, rolling `1d20+3: 16`, and hits, for her minimum 5 [Shock](/combat#shock) damage because her sword is not a blunt weapon. Since W1 only had 2 HP, it is destroyed.
 
 Colette and Daegal [Run](/combat#run-move) behind cover.
 
 ![tiny](/assets/images/combat-5.png)
 
-Then, they both shoot at A1, deciding to [Make a Swarm Attack](/combat#make-a-swarm-attack-main) with Colette rolling to hit. A1 has [half cover](/combat#half-cover), because they're both able to see at least one but not all of A1's corners. Colette rolls `1d20+2=14` to hit (+2 from her regular bonus, +2 for swarm, -2 for half cover) and hits for `1d6+3` damage (+2 normally, +1 for swarm). Since arrows are not blunt weapons, it does the minimum of 4 damage. Since A1 only had 2 HP, it is destroyed.
+Then, they both shoot at A1, deciding to [Make a Swarm Attack](/combat#make-a-swarm-attack-main) with Colette rolling to hit. A1 has [half cover](/combat#half-cover), because they're both able to see at least one but not all of A1's corners. Colette rolls `1d20+2: 14` to hit (+2 from her regular bonus, +2 for swarm, -2 for half cover) and hits for `1d6+3` damage (+2 normally, +1 for swarm). Since arrows are not blunt weapons, it does the minimum of 4 damage. Since A1 only had 2 HP, it is destroyed.
 
 ![tiny](/assets/images/combat-6.png)
 
 Now it is the Skeleton's turn to act.
 
-A3 [Runs](/combat#run-move) forward to deny Colette cover and shoots at her. A3 rolls `1d20+2=17` and hits for `1d6=6` damage. Colette is [Mortally Injured](/rules#mortal-injury-and-stabalization).
+A3 [Runs](/combat#run-move) forward to deny Colette cover and shoots at her. A3 rolls `1d20+2: 17` and hits for `1d6: 6` damage. Colette is [Mortally Injured](/rules#mortal-injury-and-stabalization).
 
 ![tiny](/assets/images/combat-7.png)
 
-A2 shoots at Daegal behind [half cover](/combat#half-cover). A2 rolls `1d20=3` and misses.
+A2 shoots at Daegal behind [half cover](/combat#half-cover). A2 rolls `1d20: 3` and misses.
 
 **Round 3**
 
@@ -323,7 +323,7 @@ Annora [Runs](/combat#run-move) and circles around A3 (to be closer and give her
 
 ![tiny](/assets/images/combat-8.png)
 
-Then, she attacks A3 with her sword. She rolls `1d20+3=23` (natural 20s are not special) and hits for the minimum damage of 5, her [Shock](/combat#shock) value. A3 had 3 HP and is destroyed.
+Then, she attacks A3 with her sword. She rolls `1d20+3: 23` (natural 20s are not special) and hits for the minimum damage of 5, her [Shock](/combat#shock) value. A3 had 3 HP and is destroyed.
 
 Daegel [Goes Prone](/combat#go-prone-free) to apply an [additional -2 penalty](/combat#combat-attack-rolls) to ranged attacks against him. He [Holds His Action](/combat#hold-an-action-move) to be able to choose between using [Total Defense](/combat#total-defense-instant) if he's shot or [Ready or Stow an Item](/combat#ready-or-stow-an-item-main) to grab his Healing Potion from his backpack if he's not. Annora can take care of the last skeleton!
 
@@ -331,19 +331,19 @@ Now it's the Skeleton's turn. A2 moves 10ft east to put a little distance betwee
 
 ![tiny](/assets/images/combat-9.png)
 
-It roll `1d20=13` and misses.
+It roll `1d20: 13` and misses.
 
 Daegel pops his [Held Action](/combat#hold-an-action-move) now that the danger is passed to grab a potion for Benett.
 
 **Round 4**
 
-Annora [Runs](/combat#run-move) 30ft towards A2 (diagonal movement can't cut corners) and hurls her last Hand Axe. She rolls `1d20+3=16` and hits for the minimum of `1d6+3`, which is `4`. Skeleton A2 is reduced from 6 HP to 2 HP.
+Annora [Runs](/combat#run-move) 30ft towards A2 (diagonal movement can't cut corners) and hurls her last Hand Axe. She rolls `1d20+3: 16` and hits for the minimum of `1d6+3`, which is `4`. Skeleton A2 is reduced from 6 HP to 2 HP.
 
 ![tiny](/assets/images/combat-10.png)
 
-Daegel [crawls](/combat#run-move) 5ft west to Benett and [adminsters](/rules#use-a-skill-main) the potion. Benett gains `1d6+1=6` HP which makes him prone, conscious, back to his max HP of 4, and [Frail](/rules#frail).
+Daegel [crawls](/combat#run-move) 5ft west to Benett and [adminsters](/rules#use-a-skill-main) the potion. Benett gains `1d6+1: 6` HP which makes him prone, conscious, back to his max HP of 4, and [Frail](/rules#frail).
 
-Benett stands up and [Commits Effort](/arcane-traditions#committing-effort) for the [Turn](/rules#turn) to [Healing Touch](/arcane-traditions#healing-touch) Colette, healing her for `2d6+1=4` HP and inflicting 1 [System Strain](/rules#system-strain). Colette is prone, conscious, back to her max HP of 3, and [Frail](/rules#frail).
+Benett stands up and [Commits Effort](/arcane-traditions#committing-effort) for the [Turn](/rules#turn) to [Healing Touch](/arcane-traditions#healing-touch) Colette, healing her for `2d6+1: 4` HP and inflicting 1 [System Strain](/rules#system-strain). Colette is prone, conscious, back to her max HP of 3, and [Frail](/rules#frail).
 
 Colette stays prone and prepares to use [Total Defense](/combat#total-defense-instant) if she's attacked. If she hits 0 HP again while [Frail](/rules#frail), she's dead.
 
@@ -351,7 +351,7 @@ A2 [Runs](/combat#run-move) from Annora before taking a shot.
 
 ![tiny](/assets/images/combat-11.png)
 
-Annora has [half cover](/combat#half-cover) from A2 because of the verticality, and so A2 rolls `1d20=19` to hit for `1d6=3` damage. Annora's HP is reduced from 6 to 3. If Annora hadn't already spent her [Veteran's Luck](/classes#class-ability-veterans-luck), she could use it to turn the hit into a miss, but she used it in Round 1.
+Annora has [half cover](/combat#half-cover) from A2 because of the verticality, and so A2 rolls `1d20: 19` to hit for `1d6: 3` damage. Annora's HP is reduced from 6 to 3. If Annora hadn't already spent her [Veteran's Luck](/classes#class-ability-veterans-luck), she could use it to turn the hit into a miss, but she used it in Round 1.
 
 **Round 5**
 
@@ -359,7 +359,7 @@ Annora [Runs](/combat#run-move) after A2. If there was a straight line, Annora c
 
 ![tiny](/assets/images/combat-12.png)
 
-Benett, Colete, and Daegel move in position and [Make a Swarm Attack](/combat#make-a-swarm-attack-main), using Benett as the attacker. Benett rolls `1d20+5=15` and hits for `1d6+3=5`. Since A2 only had 2 HP remaining, A2 is destroyed!
+Benett, Colete, and Daegel move in position and [Make a Swarm Attack](/combat#make-a-swarm-attack-main), using Benett as the attacker. Benett rolls `1d20+5: 15` and hits for `1d6+3: 5`. Since A2 only had 2 HP remaining, A2 is destroyed!
 
 ---
 
