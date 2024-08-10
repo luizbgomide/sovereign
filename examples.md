@@ -90,7 +90,7 @@ I'll save my other 43g to add to the party slush fund and wait to buy the rest o
 
 I write `• Bow(100/600): +2 -> 1d8+2` in my preferred short hand for weapon stats for basically any d20 game.
 
-> One of the big differences here from BX is that all weapons include their mod for doing damage. Ranged still does less damage than melee because it generally doesn't do [Shock](/rules#shock).
+> One of the big differences here from BX is that all weapons include their mod for doing damage. Ranged still does less damage than melee because it generally doesn't do [Shock](/combat#shock).
 
 The image shows `1d8+1` instead of `1d8+2`, which is a mistake. I'll re-do these eventually.
 
@@ -274,7 +274,7 @@ Combat begins by rolling initiative. We'll say that the group's highest DEX is C
 
 **Round 1**
 
-The players discuss if they want to [Charge](/combat#charge-special) (which will let them attack with +2 to hit at the cost of -2 AC until their next turn) or move forward more cautiously. Seeing that the Skeletons are armed with Short Swords, and knowing that short swords do 2 [Shock](/rules#shock) to anything with 15 AC or less, they decide they don't want to put their AC below that threshold by charging.
+The players discuss if they want to [Charge](/combat#charge-special) (which will let them attack with +2 to hit at the cost of -2 AC until their next turn) or move forward more cautiously. Seeing that the Skeletons are armed with Short Swords, and knowing that short swords do 2 [Shock](/combat#shock) to anything with 15 AC or less, they decide they don't want to put their AC below that threshold by charging.
 
 Annora [Runs](/combat#run-move) forward 30 ft and hurls her Hand Axe at W2. The Hand Axe's normal range is 10ft and since W2 does not have any sort of cover, so Annora rolls `1d20+3=8` but misses, as W2's AC is 15. Annora, wanting to thin the enemy line as fast as possible, chooses to use her [Veteran's Luck](/classes#class-ability-veterans-luck) ability to turn the miss into a hit. She deals minimum damage `1d6+3=4` damage (since her axe is not a blunt weapon). Since W2 has 1 HP, it is destroyed.
 
@@ -290,7 +290,7 @@ Daegal has the same plan as Colette. He [Runs](/combat#run-move) forward and tri
 
 Now the Skeletons act. Many intelligent beings (like bandits) would flee at this point (to regroup with overwhelming numbers), but Skeletons mindlessly follow the simple commands of whatever animated them.
 
-Thd GM randomly determines that W1 [Runs](/combat#run-move) up to attack Benett. The Skeleton rolls `1d20+2=17` and hits. Bennett uses [Total Defense](/combat#total-defense-instant) to boost his AC to 19 this turn and make him immune to [Shock](/rules#shock), making the attack miss.
+Thd GM randomly determines that W1 [Runs](/combat#run-move) up to attack Benett. The Skeleton rolls `1d20+2=17` and hits. Bennett uses [Total Defense](/combat#total-defense-instant) to boost his AC to 19 this turn and make him immune to [Shock](/combat#shock), making the attack miss.
 
 The GM randomly determines that the Archers all attack Benett as well, as a [Swarm](/combat#make-a-swarm-attack-main). A2 makes the attack, and gets +4 to hit and +2 damage from his two allies helping. A2 rolls `1d20+6=20` and hits Benett for `1d6+2=5` damage. This [Mortally Injures](/rules#mortal-injury-and-stabalization) Benett.
 
@@ -298,7 +298,7 @@ The GM randomly determines that the Archers all attack Benett as well, as a [Swa
 
 ![tiny](/assets/images/combat-4.png)
 
-Annora could [pick up](/combat#pick-up-an-item-move) Benett's mace to try to do full damage, but doing so would give W1 a free attack against her. She [Runs](/combat#run-move) 10ft east behind cover from the archers which does *not* trigger a free attack from W1 because she never leaves its range. Annora attacks W1 with her sword, rolling `1d20+3=16`, and hits, for her minimum 5 [Shock](/rules#shock) damage because her sword is not a blunt weapon. Since W1 only had 2 HP, it is destroyed.
+Annora could [pick up](/combat#pick-up-an-item-move) Benett's mace to try to do full damage, but doing so would give W1 a free attack against her. She [Runs](/combat#run-move) 10ft east behind cover from the archers which does *not* trigger a free attack from W1 because she never leaves its range. Annora attacks W1 with her sword, rolling `1d20+3=16`, and hits, for her minimum 5 [Shock](/combat#shock) damage because her sword is not a blunt weapon. Since W1 only had 2 HP, it is destroyed.
 
 Colette and Daegal [Run](/combat#run-move) behind cover.
 
@@ -322,7 +322,7 @@ Annora [Runs](/combat#run-move) and circles around A3 (to be closer and give her
 
 ![tiny](/assets/images/combat-8.png)
 
-Then, she attacks A3 with her sword. She rolls `1d20+3=23` (natural 20s are not special) and hits for the minimum damage of 5, her [Shock](/rules#shock) value. A3 had 3 HP and is destroyed.
+Then, she attacks A3 with her sword. She rolls `1d20+3=23` (natural 20s are not special) and hits for the minimum damage of 5, her [Shock](/combat#shock) value. A3 had 3 HP and is destroyed.
 
 Daegel [Goes Prone](/combat#go-prone-free) to apply an additional -2 penalty to ranged attacks against him. He [Hold An Action](/combat#hold-an-action-move) to be able to choose between using [Total Defense](/combat#total-defense-instant) if he's shot or [Ready or Stow an Item](/combat#ready-or-stow-an-item-main) to grab his Healing Potion from his backpack if he's not. Annora can take care of the last skeleton!
 

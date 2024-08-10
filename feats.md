@@ -28,8 +28,8 @@ Usable only by Mage heroes who would otherwise be prevented from casting spells 
 
 You have an unusual competence with thrown weapons and melee attacks. This Feat’s benefits do not apply to unarmed attacks or non-thrown projectile weapons. This Feat’s bonuses also don’t stack with [Deadeye](#deadeye-c) or other Feats that add a skill’s level to your damage or Shock.
 
-- **Level 1**: Gain [Stab](/rules#stab) as a [Bonus Skill](/rules#bonus-skill). You can Ready a Stowed melee or thrown weapon as an [Instant Action](/combat#instant-action). You add your [Stab](/rules#stab) to a melee or thrown weapon’s damage roll or [Shock](/rules#shock) damage, assuming it has any to begin with.
-- **Level 2**: The [Shock](/rules#shock) from your melee attacks always treats the target as if they have AC 10. Gain a +1 bonus to hit with all thrown or melee attacks.
+- **Level 1**: Gain [Stab](/rules#stab) as a [Bonus Skill](/rules#bonus-skill). You can Ready a Stowed melee or thrown weapon as an [Instant Action](/combat#instant-action). You add your [Stab](/rules#stab) to a melee or thrown weapon’s damage roll or [Shock](/combat#shock) damage, assuming it has any to begin with.
+- **Level 2**: The [Shock](/combat#shock) from your melee attacks always treats the target as if they have AC 10. Gain a +1 bonus to hit with all thrown or melee attacks.
 
 ## Assassin (C)
 
@@ -153,5 +153,5 @@ You are a bodyguard, shieldbearer, or other gifted defender of others, accustome
 
 You are a frenzy of bloody havoc in melee combat, and can hack down numerous lesser foes in close combat... assuming you survive being surrounded.
 
-- **Level 1**: Gain [Stab](/rules#stab) as a [Bonus Skill](/rules#bonus-skill). Once per [Turn](/rules#turn), as a [Free Action](/combat#free-action), apply your [Shock](/rules#shock) damage to all foes within melee range, assuming they’re susceptible to your [Shock](/rules#shock).
+- **Level 1**: Gain [Stab](/rules#stab) as a [Bonus Skill](/rules#bonus-skill). Once per [Turn](/rules#turn), as a [Free Action](/combat#free-action), apply your [Shock](/combat#shock) damage to all foes within melee range, assuming they’re susceptible to your [Shock](/combat#shock).
 - **Level 2**: The first time you kill someone in a round with a normal attack, either with its rolled damage on a hit or with the Shock damage it inflicts, instantly gain a second attack on any target within range using any Ready weapon you have.
