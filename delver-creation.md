@@ -50,4 +50,6 @@ Adventuring is a profession, and all Delvers have undergone extensive training t
 
 1. **Mages Choose Starting Arts**. All Mages select Arts based on their [Arcane Tradition](/arcane-traditions). Refer to your chosen tradition for specific details. For example, a Duelist refers to [Duelist Arts](/arcane-traditions#duelist-arts).
 
+1. **Record Level and XP.** Characters start at Level 1 with 0 XP, and need 1500 XP to [advance](/rules#xp-thresholds).
+
 1. **Create Descriptive Details**. Imagine an appearance, brief history, personality, mannerisms, and motivations for your character. Bear in mind that your character *will be* going on adventures and *will be* part of a team. Endeavor to create a character that *wants* to go on adventures, and *wants* to be part of a team.

@@ -25,17 +25,17 @@ After reading through delver creation, following the various links and having a 
 
 **Generate Attributes.** I roll [`3d6`](https://anydice.com/program/1) 5 times in order and get Strength 14, Dexterity 7, Constitution 11, Intelligence 8, Wisdom 10. I pencil all of these scores in.
 
-**Choose a character concept.** One friend wants going to play a big two-handed conan the barbarian type, my partner is obsessed with necromancy ever since watching the mummy as a child, and the other buddy really wants to be a bilbo baggins. I figure the best way I could round out the team would be to play someone that can keep the team alive. I'm thinking it would be really cool to play some sort of support archer, throwing out heals from range if needed, but being a decent shot with a bow otherwise.
+**Choose a Character Concept.** One friend wants going to play a big two-handed conan the barbarian type, my partner is obsessed with necromancy ever since watching the mummy as a child, and the other buddy really wants to be a bilbo baggins. I figure the best way I could round out the team would be to play someone that can keep the team alive. I'm thinking it would be really cool to play some sort of support archer, throwing out heals from range if needed, but being a decent shot with a bow otherwise.
 
 > We choose a character concept after everyone rolls stats because some stat lines are better suited for some concepts than others.
 
 **Raise an Attributes to 14.** Since I want to be a good shot, I raise my Dexterity to 14. I write them all down.
 
-![small](/assets/images/generate-attributes.png)
+![small](/assets/images/sheet-1.png)
 
 **Starting Improvements.** I write down all of the skills at level -1
 
-![small](/assets/images/record-initial-skills.png)
+![small](/assets/images/sheet-2.png)
 
 Then I get to make 4 improvements. My Strength and Dexterity are already 14, which is the threshold for +1, and the rest of my Attributes are at +0 and quite far away from 14 so I'll stick to improving my skills for now.
 
@@ -43,11 +43,13 @@ I decide to be a great healer, handy with a bow, and be knowledgable, so I impro
 
 > Looking forward at [Advancement](/rules#advancement-benefits), we get better value out of raising attributes at character creation than advancement. Raising an attribute 4 times would cost 10 points. Raising 4 skills to level 0 costs 4 points. Raising 2 skills to level 1 costs 6 points. That said, raising 4 skills to will create an overall stronger character at first level, so trade-offs. It's also worth looking to see if you can get to a better mod *cheaply*. For instance, if your Strength is 13, it only takes 1 improvement to get a +1 STR.
 
-![small](/assets/images/improved-skills.png)
+![small](/assets/images/sheet-3.png)
 
-**Choose a Class.** I know that I want to be a Healer, but since it only comes as a Partial Mage, I need to pick another partial class. Partial Warrior would give me more HP and accuracy, but Partial Expert is still good with a bow and makes me *even better* at healing (as well as helping me with everything else). I decide on Partial Expert, making me an [Expert/Mage(Healer)](/classes#partial-expertpartial-mage).
+**Choose a Class.** I know that I want to be a [Healer](/arcane-traditions#healer), but since it only comes as a [Partial Mage](/classes#partial-mage), I need to pick another partial class. [Partial Warrior](/classes#partial-warrior) would give me more HP and accuracy, but [Partial Expert](/classes#partial-expert) is still good with a bow and makes me *even better* at healing (as well as helping me with everything else). I decide on [Partial Expert](/classes#partial-expert), making me an [Expert/Healer](/classes#partial-expertpartial-mage).
 
-![small](/assets/images/choose-class.png)
+Healer gives me [Heal](/rules#heal) as a [Bonus Skill](/rules#bonus-skill). Since I already have [Heal](/rules#heal)-1, I'll take [Sneak](/rules#sneak)-0 so that I don't hinder my team while trying to sneak around with [group checks](/rules#group-checks).
+
+![small](/assets/images/sheet-4.png)
 
 **Choose Feats.** The "Feats" column for level 1 Partial Expert/Partial Mage says I get "1 Non-combat + 1 Any", which means I can select any feat that doesn't have (C) in its name, and then any feat I want.
 
@@ -57,23 +59,23 @@ For my other feat, I'll pick up [Deadeye](/feats#deadeye-c) at rank 1 to do more
 
 > Casters don't have *any* Feats that directly improve spellcasting. The closest is [Spirit Familiar](/feats#spirit-familiar) which provides a little bit of effort economy. This is intentional. Instead, casters should look to become more useful at other areas of the game. They get few spells per day, and so being more handy with a bow (like by grabbing [Deadeye](/feats#deadeye-c)) is a great option.
 
-![small](/assets/images/choose-feats.png)
+![small](/assets/images/sheet-5.png)
 
 **Record Attribute Modifiers.** I record my modifiers next to my attributes. My STR and DEX are +1 and the others are +0.
 
-![small](/assets/images/attribute-mods.png)
+![small](/assets/images/sheet-6.png)
 
 **Generate Maximum Hit Points.** My class of [Expert/Mage(Healer)](/classes#partial-expertpartial-mage) tells me that I start with `1d6` HP (plus my 0 CON). I roll a 3. Mildly unlucky, but we'll take what we can get.
 
-![small](/assets/images/generate-hp.png)
+![small](/assets/images/sheet-7.png)
 
 **Record Attack Bonus.** My class tells me that I start with a +0 attack bonus.
 
-![small](/assets/images/attack-bonus.png)
+![small](/assets/images/sheet-8.png)
 
-**Record Saving Throws**. My [Physical](/rules#physical) save is 15 minus the highest of STR or CON, so 14. My [Evasion](/rules#evasion) save is 15 minus the highest of DEX or INT, so 15. My [Mental](/rules#mental) save is 15 minus the highest of INT or WIS, so 15. I'll write them with the other stuff that tends to change when I level up.
+**Record Saving Throws**. My [Physical](/rules#physical) save is 15 minus the highest of STR or CON, so 14. My [Evasion](/rules#evasion) save is 15 minus the highest of DEX or INT, so 14. My [Mental](/rules#mental) save is 15 minus the highest of INT or WIS, so 15.
 
-![small](/assets/images/saving-throws.png)
+![small](/assets/images/sheet-9.png)
 
 **Choose Starting Gear**. I roll `3d6•10` and get 130g starting gold; lucky! Based on my Strength can carry 7 [Readied](/rules#readied) enc and 14 [Stowed](/rules#stowed) enc.
 
@@ -85,7 +87,7 @@ I'll save my other 43g to add to the party slush fund and wait to buy the rest o
 >
 > We record equipment on card stock because equipment tends to get passed around, sold, discarded, stored, etc. I find that its easier (and much less error-prone) to pass the paper around than to erase from one sheet and write on another in a game of [telephone](https://www.wikihow.com/Play-the-Telephone-Game) (especially when folks are intoxicated).
 
-![small](/assets/images/inventory.png)
+![small](/assets/images/sheet-10.png)
 
 **Record Weapon Statistics.** I can shoot my bow at 100 ft for close range, 600 for long range. I add +2 to hit (+1 from DEX, +1 from [Shoot](/rules#shoot)), and I do `1d8+2` damage on a hit (+1 from DEX, +1 from [Deadeye](/feats#deadeye-c)). I haven't picked up a melee weapon yet, but I figure with [Deadeye](/feats#deadeye-c) I probably won't need one.
 
@@ -93,9 +95,7 @@ I write `• Bow(100/600): +2 -> 1d8+2` in my preferred short hand for weapon st
 
 > One of the big differences here from BX is that all weapons include their mod for doing damage. Ranged still does less damage than melee because it generally doesn't do [Shock](/combat#shock).
 
-The image shows `1d8+1` instead of `1d8+2`, which is a mistake. I'll re-do these eventually.
-
-![small](/assets/images/weapon-stats.png)
+![small](/assets/images/sheet-11.png)
 
 **Record Armor Class.** Plate armor gives me 16 AC and my DEX bumps that to 17.
 
@@ -103,25 +103,29 @@ The image shows `1d8+1` instead of `1d8+2`, which is a mistake. I'll re-do these
 >
 > If you're going to go for AC, go for *a lot* of AC.
 
-![small](/assets/images/armor-class.png)
+![small](/assets/images/sheet-12.png)
 
 **Mages Choose Starting Spells.** Healers are technically mages, but don't get any starting spells, so we skip this.
 
 **Mages Record Effort.** Healers get [Heal](/rules#heal)+INT Effort, so 1 for now.
 
-![small](/assets/images/effort.png)
+![small](/assets/images/sheet-13.png)
 
 **Mages Choose Starting Arts.** I get [Healing Touch](/arcane-traditions#healing-touch) and an art of my choice. In order to make the healing-at-range thing work, I'll pick up [Far Healer](/arcane-traditions#far-healer). I'm limited to 10ft right now, but that should be fine. It'll get better as I level up. There's a decent argument to be made for taking a different Art that's more useful at lower levels, and then picking up Far Healer at level 2 or 4, but I think this is fine.
 
 > There's a concept in Magic: The Gathering deckbuilding theory called [Win More](https://hobbylark.com/card-games/best-winmore-cards-mtg). Lots of cards (in our case, options like spells, feats, and arts) make winning positions even-more-winning. Those tend to *look* powerful, but in practice are much weaker than they appear (you would have already won). Instead, *good* options tend to be ones that convert losing or uncertain positions into winning positions.
 
-![small](/assets/images/arts.png)
+![small](/assets/images/sheet-14.png)
+
+**Record Level and XP.** We start at Level 1 with 0 / 1500 XP.
+
+![small](/assets/images/sheet-15.png)
 
 **Create Descriptive Details.** I'm imagining a character a lot like [Lucie](https://battlerite.fandom.com/wiki/Lucie) from Battlerite. I decide she's a chipper, slightly unhinged failed alchemist and flavor healing touch as chucking alchemical healing bombs at people. I think it will be fun to juxtapose her relentless optimism with the brutality and horror of dungeoneering. I'll name her Sunny.
 
 > In Sovereign, your character's backstory *is not assumed to be relevant*. We play modules, and modules can't assume anything about your character. The GM *might* alter NPCs or hooks a bit to tie them in, but that's them going above and beyond. I don't, and it works just fine. Since that's the case, focus on the history that helps you make decisions in modules *now*. Do the ends justify the means? Are you altruistic? Why do you want all of this gold and power so dang bad?
 
-![small](/assets/images/character-details.png)
+![small](/assets/images/sheet-16.png)
 
 That's a character!
 
