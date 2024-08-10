@@ -242,7 +242,7 @@ These rules assume both targets are man-sized. Grappling or shoving significantl
 
 ### Dual Wielding Weapons
 
-Some attackers prefer to use two weapons at once. Delvers who wish to do so must have at least level 1 in the relevant weapon skills, such as [Stab](/rules#stab)-1 and [Shoot](/rules#shoot)-1 for dual-wielding a knife and hand crossbow.
+Some attackers prefer to use two weapons at once. Delvers who wish to do so must have at least level 1 in the relevant weapon skills, such as [Stab](/rules#stab)-1 a mace and sword.
 
 When making an attack while dual-wielding, the attacker chooses which weapon they wish to use, rolling the attack roll accordingly. On a hit, the weapon does +2 damage so long as the target is within range of both wielded weapons. This bonus does not add to Shock.
 
