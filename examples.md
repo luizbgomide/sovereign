@@ -5,11 +5,11 @@ title: Home
 
 # Examples
 
-This document is designed to provide examples of play. The examples are purposefully contrived and cliche to demonstrate edge cases, as well as to convey some play culture.
-
-In-line commentary will be in quote blocks.
+This document is designed to provide examples of play. The examples are crafted to demonstrate edge cases, as well as to convey some play culture.
 
 Dialog is between the **GM** and **Alice** (a representative for the party).
+
+> In-line commentary will be in quote blocks.
 
 ## Table of Contents
 
@@ -129,7 +129,7 @@ That's a character!
 
 The players just defeated the [Black Wyrm of Brandonsford](https://rancourt.substack.com/p/review-the-black-wyrm-of-brandonsford) and hauled its hoard back to town, everyone reaching level 3.
 
-**GM**: The citizens of brandonsford ecstatic that you've slain the beast, and the revelry continues well into the week. Many of the folks you've met or helped come to pay their respect, Bently of the clumsy fox, Warwick, hand in hand with Ingrid, Father William, and even George the hunter seems to be in better spirits. As the celebrations are winding down, the town reeve, Eric, announces that they'll be memoralizing you along side Brandon as the second saviors of Brandonsford. Is there anything else you want to do here before we wrap up?
+**GM**: The citizens of Brandonsford are ecstatic that you've slain the beast, and the revelry continues well into the week. Many of the folks you've met or helped offer gratitude: Bently of the clumsy fox, Warwick, hand in hand with Ingrid, Father William, and even George the hunter seems to be in better spirits. As the celebrations are winding down, the town reeve, Eric, announces that they'll be memoralizing you along side Brandon as the second saviors of Brandonsford. You'll have your own statues! Is there anything else you want to do here before we wrap up?
 
 **Alice**: I'd like to have my character, Huxley, stick around in Brandonsford for a few years. Settle in. Help Rebuild.
 
@@ -171,7 +171,7 @@ Say that we're playing [Winter's Daughter](https://www.drivethrurpg.com/en/produ
 
 > come up with a better plan
 
-**GM**: Sure - how about a [DC 8 group STR/[Exert](/rules#exert) check](/rules#group-checks)? And if it fails, everyone takes a point of [System Strain](/rules#system-strain) as you have to give it your all?
+**GM**: Sure - how about a DC 8 group STR/[Exert](/rules#exert) [check](/rules#group-checks)? And if it fails, everyone takes a point of [System Strain](/rules#system-strain) as you have to give it your all?
 
 > inform the players about their chances
 
@@ -193,11 +193,11 @@ Say that we're playing [Winter's Daughter](https://www.drivethrurpg.com/en/produ
 
 ---
 
-I can't stress enough how important this is "getting" it. This loop and The Big Picture are the whole thing - all the rest is commentary.
+I can't stress enough how important this is "getting" it. This loop and [The Big Picture](/rules#the-big-picture) are the whole thing - all the rest is commentary.
 
 We have stuff like attributes and skills to make it easier for the GM to come up with consistent rulings for common situations, and for the players to be on the same page as the GM. We have subsystems like combat because it tends to be high stakes as well as *fun* to game out, but ultimately it serves the same purpose.
 
-The Core Gameplay Loop has a lot of hidden complexity in it. For instance, take "players describe their actions and the *intent* behind their actions". Say that there's a 20ft pit that a player wants to cross. There's a big difference between an intent of "I want to clear the pit" and "I want to have a shot of grabbing the far ledge". In the first one, they're asking to just totally succeed. In the second one, they're asking for a *chance* to catch the ledge - even if they succeed at their *jump*, they still might not *catch*, and that uncertainty puts us back at the beginning of the loop, and allows us to build more complex mechanics. An excellent post on the subject is [Advantage and Impact - Dreaming Dragonslayer](https://dreamingdragonslayer.wordpress.com/2020/03/28/advantage-and-impact/).
+The [Core Gameplay Loop](/rules#core-gameplay-loop) has a lot of hidden complexity in it. For instance, take "players describe their actions and the *intent* behind their actions". Say that there's a 20ft pit that a player wants to cross. There's a big difference between an intent of "I want to clear the pit" and "I want to have a shot of grabbing the far ledge". In the first one, they're asking to just totally succeed. In the second one, they're asking for a *chance* to catch the ledge - even if they succeed at their *jump*, they still might not *catch*, and that uncertainty puts us back at the beginning of the loop, and allows us to build more complex mechanics. An excellent post on the subject is [Advantage and Impact - Dreaming Dragonslayer](https://dreamingdragonslayer.wordpress.com/2020/03/28/advantage-and-impact/).
 
 These are the levers for negotiation. If the players are unhappy with their chances, they can negotiate with less desirable intents or more grevious consequences and so on. Similarly, this is the GM's space to port in more complex subsystems where they think they're needed, to handwave it all with a roll, or to say it *just happens*.
 
@@ -209,7 +209,7 @@ This isn't to say that players don't need to learn the rules; *they do*. If a ga
 
 Say we are playing through [Stonehell](https://www.lulu.com/shop/michael-curtis/stonehell-dungeon-down-night-haunted-halls/paperback/product-1v8vy2zz.html). Alice's Delver has just fallen down the pit trap in area 1B, arriving at 2B21. Here's the original text:
 
-> 21. Landing Pad: Fearsome faces carved in walls; bloodstains; broken weapons & equipment. Victims of the pit trap on Level 1B arrive here, taking `1d6` points of damage from the slide and tumble. The chute may be climbed by a thief with a Climb Walls check or by any other character aided by ropes & spikes and making a STR check.
+> **21)** Landing Pad: Fearsome faces carved in walls; bloodstains; broken weapons & equipment. Victims of the pit trap on Level 1B arrive here, taking `1d6` points of damage from the slide and tumble. The chute may be climbed by a thief with a Climb Walls check or by any other character aided by ropes & spikes and making a STR check.
 
 **GM**: The floor drops out from under you, and you slide down a narrow chute to the west. The walls around you are carved with fearsome faces. Broken weapons and equipment are strewn over old bloodstains. What do you do?
 
