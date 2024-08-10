@@ -268,4 +268,8 @@ window.onload = () => {
 
     toggleSidebar();
   });
+
+  document.querySelector(".home").addEventListener("click", () => {
+    window.location.href = "/";
+  });
 };
