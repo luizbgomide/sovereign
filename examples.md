@@ -364,4 +364,4 @@ Benett, Colete, and Daegel move in position and [Make a Swarm Attack](/combat#ma
 
 After combat, Benett heals Annora's wound at the cost of 1 [System Strain](/rules#system-strain).
 
-The Delvers are all still at full HP, but now two of them are [Frail](/rules#frail) and they're out a Healing potion (worth 1000g). That was a close call! Whether or not to press on, or to retreat back to town to restock and lick their wounds is up to them.
+The Delvers are all still at full HP, but now two of them are [Frail](/rules#frail) and they're out a Healing potion (worth 1000g). That was a close call! Whether or not to press on, or to retreat back to town to get rid of their [Frail](/rules#frail) condition is up to them.

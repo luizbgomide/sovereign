@@ -159,6 +159,7 @@ Otherwise...
 
 #### 2024-08-09
 - Change the tutorial to examples of play
+- Add an extensive combat example
 
 #### 2024-08-08
 - Hyperlink System Strain.
