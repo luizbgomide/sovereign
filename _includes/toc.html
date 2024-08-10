@@ -1,6 +1,16 @@
 <div id="sidebar">
     <ul id="toc-list">
-        {% for item in site.data.toc %} {% include toc-element.html item=item %}
+        {% for item in site.data.toc %}
+            <li class="toc-listitem">
+                <a href="{{item.id}}">{{item.label}}</a>
+                {% unless include.item.children == empty %}
+                    <ul class="toc-innerchild">
+                        {% for child in item.children %}
+                            <li><a href="{{child.id}}">{{child.label}}</a></li>
+                        {% endfor %}
+                    </ul>
+                {% endunless %}
+            </li>
         {% endfor %}
     </ul>
 </div>
