@@ -11,9 +11,7 @@ This document is split in several sections.
 
 [Examples of Play](/examples) tries to cover the major systems and subsystems, as well as convey some play culture.
 
-A list of monsters, list of magic items magic item, and extensive game master section are in progress. In the mean time, check out [Those Outside The Walls](https://www.drivethrurpg.com/en/product/422653/Those-Outside-the-Walls--A-450-Monster-Bestiary) and [Basic Fantasy](https://basicfantasy.org/srd/monstersAll.html) for monsters, and [Old School Essentials](https://oldschoolessentials.necroticgnome.com/srd/index.php/Magic_Items_(General)) for magic items.
-
-Otherwise...
+An extensive game master section is in progress! In the mean time, much of the material can be found in long-form in my review of [Brandonsford](https://rancourt.substack.com/p/review-the-black-wyrm-of-brandonsford), ruminations on [randomness](https://rancourt.substack.com/p/on-randomness), my audit of [silveraxe](https://rancourt.substack.com/p/audit-tower-silveraxe), [Beginning Game Masters - The Alexandrian](https://thealexandrian.net/gamemastery-101), the [Art of Rulings](https://thealexandrian.net/wordpress/4238/roleplaying-games/the-art-of-rulings), the [Art of Pacing](https://thealexandrian.net/wordpress/31509/roleplaying-games/the-art-of-pacing) and the [Art of the Key](https://thealexandrian.net/wordpress/35180/roleplaying-games/the-art-of-the-key).
 
 # Table Of Contents
 
