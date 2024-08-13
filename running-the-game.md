@@ -38,21 +38,21 @@ Just talk to them. Seriously. Don't post about it on social media and ask for ad
 
 ## Necessary Materials
 
-- Pens. [Uniball Signo DX 0.38](https://www.amazon.com/gp/product/B003FXWGWE). I personally use a [Pilot Prera](https://www.amazon.com/dp/B0016YYKUA).
-- Pencils. [Paper Mate Sharpwriter 0.7](https://www.amazon.com/gp/product/B00OQQ05JA)
-- Paper. [20lb Amazon White](https://www.amazon.com/gp/product/B01FV0F8H8)
-- Dice. [Chessex Pound-O-Dice](https://www.amazon.com/Chessex-001LBCHX-Pound-O-Dice/dp/B008C0KXYS). I *highly* recommend folks use a different color for each size of dice as they're learning.
-- Card Stock. [Printworks 67lb](https://www.amazon.com/gp/product/B07FX5LCXK). For item and spell handouts.
-- Scissors. [Amazon Basics](https://www.amazon.com/Amazon-Basics-Multipurpose-Titanium-Stainless/dp/B01BRGU8R0). For cutting out character sheets, items and spell handouts.
-- A Battlemap. [Melee Mats 24x36](https://www.amazon.com/gp/product/B01MQHECUR). This one is dry-erase compatible, which is great.
-- Dry Erase Markers. [Amazon Basics, 12 ct](https://www.amazon.com/gp/product/B00T3ROM9G). If you have a wet erase battlemap, get wet erase markers instead.
-- Meeples. [100pc Apostrophe Games](https://www.amazon.com/gp/product/B07BZ36NYJ). Label each color 1 through 10 with a Sharpie and use them for monsters.
-- Delver Icons. [Magnets](https://www.amazon.com/dp/B016DSBNY4) + [Epoxy Stickers](https://www.amazon.com/dp/B00AFRWIRQ) + [Hole Punch](https://www.amazon.com/Bira-Circle-Craft-Crafting-Scrapbooking/dp/B07B43X316). From [JP Coovert's Youtube](https://youtu.be/LBZPi4oKlCQ?si=mTP5tiOjJyb1ITeu).
-- Printer. [Brother HL-L2350DW](https://www.amazon.com/gp/product/B09961WKKS). Good for printing modules, character sheets, maps, handouts, etc.
-- Awl. [General Tools Awl](https://www.amazon.com/General-Tools-818-Hardwood-Scratch/dp/B00004T7R3). Sewn digest modules lay much more nicely than stapled ones.
-- Needle and Thread. [Slimthread Polyester](https://www.amazon.com/Simthread-Purpose-Thread-Polyester-Yards/dp/B0B9FQ2QN4). To bind modules with.
-- 3 Ring Binder. [Samsill 0.5"](https://www.amazon.com/Samsill-Economy-Ring-Binder-5-Round/dp/B07FKXHP1H). Some modules are natively printed on big paper (like Castle Xyntillan) and printing them out digest style makes the font painfully small. For these, we use a hole punch and a 3 ring binder. Additionally, GM notes go in a separate 3-ring binder.
-- 3 Hole Punch. [Amazon Basics](https://www.amazon.com/AmazonBasics-Hole-Punch-Sheet-Capacity/dp/B0879YNTTP)
+- [Pens](https://www.amazon.com/gp/product/B003FXWGWE). I personally use a [Pilot Prera](https://www.amazon.com/dp/B0016YYKUA).
+- [Pencils](https://www.amazon.com/gp/product/B00OQQ05JA).
+- [Paper](https://www.amazon.com/gp/product/B01FV0F8H8).
+- [Dice](https://www.amazon.com/Chessex-001LBCHX-Pound-O-Dice/dp/B008C0KXYS). I *highly* recommend folks use a different color for each size of dice as they're learning.
+- [Card Stock](https://www.amazon.com/gp/product/B07FX5LCXK). For item and spell handouts.
+- [Scissors](https://www.amazon.com/Amazon-Basics-Multipurpose-Titanium-Stainless/dp/B01BRGU8R0). For cutting out character sheets, items and spell handouts.
+- [A Battlemap](https://www.amazon.com/gp/product/B01MQHECUR). This one is dry-erase compatible, which is great.  For travel, I like [silicone maps](https://www.amazon.com/gp/product/B0763QJQ8C).
+- [Dry Erase Markers](https://www.amazon.com/gp/product/B00T3ROM9G). If you have a wet erase battlemap, get wet erase markers instead.
+- [Meeples](https://www.amazon.com/gp/product/B07BZ36NYJ). Label each color 1 through 10 with a Sharpie and use them for monsters.
+- Delver Icons: [Magnets](https://www.amazon.com/dp/B016DSBNY4) + [Epoxy Stickers](https://www.amazon.com/dp/B00AFRWIRQ) + [Hole Punch](https://www.amazon.com/Bira-Circle-Craft-Crafting-Scrapbooking/dp/B07B43X316). From [JP Coovert's Youtube](https://youtu.be/LBZPi4oKlCQ?si=mTP5tiOjJyb1ITeu).
+- [Printer](https://www.amazon.com/gp/product/B09961WKKS). Good for printing modules, character sheets, maps, handouts, etc.
+- [Awl](https://www.amazon.com/General-Tools-818-Hardwood-Scratch/dp/B00004T7R3). Sewn digest modules lay much more nicely than stapled ones.
+- [Needle and Thread](https://www.amazon.com/Simthread-Purpose-Thread-Polyester-Yards/dp/B0B9FQ2QN4). For binding modules.
+- [3 Ring Binder](https://www.amazon.com/Samsill-Economy-Ring-Binder-5-Round/dp/B07FKXHP1H). Some modules are natively printed on big paper (like Castle Xyntillan) and printing them out digest style makes the font painfully small. For these, we use a hole punch and a 3 ring binder. Additionally, GM notes go in a separate 3-ring binder.
+- [3 Hole Punch](https://www.amazon.com/AmazonBasics-Hole-Punch-Sheet-Capacity/dp/B0879YNTTP).
 
 The specific product recommendations are all optional. At a higher level, you need some way to:
 
