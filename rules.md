@@ -17,7 +17,7 @@ Finally, the episodic natures of the adventures facilitates players joining and 
 
 ## Core Gameplay Loop
 
-Sovereign is played with one GM and at most 8 players, playing as 4 to 8 Delvers, venturing into dark dungeons, corrupt mansions, and wizard towers for fun and profit. The game is, predominately, a conversation, but that conversation has *structure*:
+Sovereign is played with one GM and at most 8 players, playing as 4 to 8 Delvers, venturing into dark dungeons, derelict castles, and ancient tombs for fun and profit. The game is, predominately, a conversation, but that conversation has *structure*:
 
 1. The GM describes a situation to the players, making sure to not assume actions from the players, paying special attention to what they see, hear, and smell. Then, they ask "What do you do?"
 2. The players clarify or describe their actions and the *intent* behind their actions. When acting as a group (such as picking the next room to explore), elect one person to speak for the group to reduce chaos.
