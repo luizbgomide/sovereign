@@ -125,7 +125,7 @@ I write `• Bow(100/600): +2 -> 1d8+2` in my preferred short hand for weapon st
 
 **Create Descriptive Details.** I'm imagining a character a lot like [Lucie](https://battlerite.fandom.com/wiki/Lucie) from Battlerite. I decide she's a chipper, slightly unhinged failed alchemist and flavor healing touch as chucking alchemical healing bombs at people. I think it will be fun to juxtapose her relentless optimism with the brutality and horror of dungeoneering. I'll name her Sunny.
 
-> In Sovereign, your character's backstory *is not assumed to be relevant*. We play modules, and modules can't assume anything about your character. The GM *might* alter NPCs or hooks a bit to tie them in, but that's them going above and beyond. I don't, and it works just fine. Since that's the case, focus on the history that helps you make decisions in modules *now*. Do the ends justify the means? Are you altruistic? Why do you want all of this gold and power so dang bad?
+> In Sovereign, your character's backstory *is not assumed to be relevant*. We play pre-written adventures, and these can't assume anything about your character. The GM *might* alter NPCs or hooks a bit to tie them in, but that's them going above and beyond. I don't, and it works just fine. Since that's the case, focus on the history that helps you make decisions in adventures *now*. Do the ends justify the means? Are you altruistic? Why do you want all of this gold and power so dang bad?
 
 ![small](/assets/images/sheet-16.png)
 

@@ -59,14 +59,14 @@ The specific product recommendations are all optional. At a higher level, you ne
 - Record character information (pencil and paper)
 - Generate random numbers (dice)
 - Take GM notes (pen, paper, 3-ring binder)
-- Read modules (printer and paper)
-- Prepare modules (pen, printed module)
+- Read adventures (printer and paper)
+- Prepare adventures (pen, printed adventure)
 - Represent a battle (battle map, markers, meeples, delver icons)
 
 As long as you have these things handled, you're good.
 
-## Preparing a Module
+## Preparing an Adventure
 TODO
 
-## Running a Module
+## Running an Adventure
 TODO

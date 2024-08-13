@@ -20,7 +20,7 @@ Finally, the episodic natures of the adventures facilitates players joining and 
 Sovereign is played with one GM and at most 8 players, playing as 4 to 8 Delvers, venturing into dark dungeons, derelict castles, and ancient tombs for fun and profit. The game is, predominately, a conversation, but that conversation has *structure*:
 
 1. The GM describes a situation to the players, making sure to not assume actions from the players, paying special attention to what they see, hear, and smell. Then, they ask "What do you do?"
-2. The players clarify or describe their actions and the *intent* behind their actions. When acting as a group (such as picking the next room to explore), elect one person to speak for the group to reduce chaos.
+2. The players clarify or describe their actions and the [*intent*](https://www.bastionland.com/2022/12/action-intent-duality.html) behind their actions. When acting as a group (such as picking the next room to explore), elect one person to speak for the group to reduce chaos.
 3. The GM informs the players how likely their actions are to accomplish their intent (taking into account the situation, their [Attributes](#attributes), and their [Skills](#skills)), what happens if they fail, and how much it costs them to try. Actions that have no chance to fail, have no consequences for failure and no appreciable cost to attempt *just happen*. [Skill checks](#skill-checks) are a useful way come up with likelihood, but the GM is free to come up with probabilities directly, like 1-in-6 or 45%.
 4. If the players find the ruling to be reasonable, the dice are rolled and we honor the stakes. If they *don't*, they negotiate or come up with a better plan. Typical levers are higher chances of success for less impactful results, worse consequences for failure, or higher costs to attempt and vice versa.
 5. This creates a new situation. The GM [fast forwards](https://thealexandrian.net/wordpress/31509/roleplaying-games/the-art-of-pacing) to the next meaningful decision, narrating the transition and repeats the process.
@@ -303,20 +303,20 @@ Unless there is an *extremely* compelling reason to play it out, montage through
 
 ## Dungeon Exploration
 
-These rules are meant for tracking adventures in a dangerous site where perils could spring up at any moment. Not all Wandering Encounters are hostile (see [, but each is a risk of pointless fighting or sudden alarm.
+These rules are meant for tracking adventures in a dangerous site where perils could spring up at any moment. Not all [Wandering Encounters](#wandering-encounters) are hostile (see [Reaction Rolls](#reaction-rolls)), but each is a risk of pointless fighting or sudden alarm.
 
 At the start of each [Turn](#turn) after the party enters the site:
 
-1. Roll a secret [Wandering Encounter](#wandering-encounters) check if necessary. On a 1, the encounter will happen at some appropriate moment this [Turn](/rules#turn).
+1. Roll a secret [Wandering Encounter](#wandering-encounters) check with frequency depending on the adventure or site. On a 1, the encounter will happen at some appropriate moment this [Turn](/rules#turn). Most adventures give a frequency (like every other [Turn](#turn)).
 2. The Delvers decide what they want to do this [Turn](/rules#turn): move into a new room, carefully search their current location, fiddle with some object they’ve found, or something else that takes ~ten minutes.
 3. The GM explains the result of their actions, whether that’s a first-glance description of a new room, notice of the hideous abomination that’s rearing up before them, or the explosive detonation of the crystal they just experimentally prodded.
 4. Start over from the top, assuming their actions have consumed a [Turn](/rules#turn), until they withdraw from the site or it becomes safe enough to stop counting [Turns](/rules#turn).
 
 ### Timekeeping in the Dungeon
 
-Once the Delvers intrude on a ruin, dungeon, corrupt noble’s mansion, or other dangerous site the GM starts tracking time in [Turns](#turn). Each Delver can do one significant thing per [Turn](/rules#turn). Different Delvers can be doing different things in the same [Turn](/rules#turn).
+Once the Delvers intrude on a ruin, dungeon, or other dangerous site the GM starts tracking time in [Turns](#turn). Each Delver can do one significant thing per [Turn](/rules#turn). Different Delvers can be doing different things in the same [Turn](/rules#turn). Not every Delver *has* to do something.
 
-The point of tracking [Turns](/rules#turn) is to have a rough measure of how much activity they’re engaging in within the ruin. The more the Delvers do and the longer they stay, the more likely that they’ll run into Wandering Encounters or the denizens will have time to realize that intruders are present. Eventually, the Delvers need to either pull back or clear the site entirely of its dangerous inhabitants.
+The point of tracking [Turns](/rules#turn) is to have a rough measure of activity. The more the Delvers do and the longer they stay, the more likely that they’ll run into [Wandering Encounters](#wandering-encounters) or the denizens will have time to realize that intruders are present. Eventually, the Delvers need to either pull back or clear the site entirely of its dangerous inhabitants.
 
 | Activity                                       | Turns |
 |------------------------------------------------|-------|
