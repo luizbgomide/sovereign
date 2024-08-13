@@ -527,16 +527,16 @@ Alignment interacts with various magic items. Creatures in [bestaries](https://o
 
 ### Law vs Chaos
 
-**Lawful**: [Deontological](https://en.wikipedia.org/wiki/Deontology). Deontology is a moral theory that emphasizes the importance of adhering to moral rules or duties, regardless of the consequences. It holds that certain actions are inherently right or wrong based on the nature of the action itself, rather than the outcomes it produces. Deontologists believe that moral rules, such as honesty, promise-keeping, and respect for autonomy, should be followed as a matter of principle, even if doing so may lead to undesirable results in specific situations.
+**Lawful**: [Lawfulness](https://en.wikipedia.org/wiki/Deontology) emphasizes the importance of adhering to moral rules or duties, regardless of the consequences. It holds that certain actions are inherently right or wrong based on the nature of the action itself, rather than the outcomes it produces. Lawful folks believe that moral rules, such as honesty, promise-keeping, and respect for autonomy, should be followed as a matter of principle, even if doing so may lead to undesirable results in specific situations.
 
-**Neutral**: [Virtue ethics](https://en.wikipedia.org/wiki/Virtue_ethics). Virtue ethics is a moral theory that emphasizes the cultivation of virtuous character traits, such as wisdom, courage, justice, and temperance. According to virtue ethics, the foundation of ethics lies in developing good character and making decisions based on what a virtuous person would do in a given situation. The goal is to become a morally exemplary individual who consistently acts in accordance with these virtues, leading to a fulfilling life and contributing to the well-being of society as a whole.
+**Neutral**: [Neutrality](https://en.wikipedia.org/wiki/Virtue_ethics) emphasizes the cultivation of virtuous character traits, such as wisdom, courage, justice, and temperance. Neutral folks believe in developing good character and making decisions based on what a virtuous person would do in a given situation. The goal is to become a morally exemplary individual who consistently acts in accordance with these virtues, leading to a fulfilling life and contributing to the well-being of society as a whole.
 
-**Chaotic**: [Act consequentialist](https://en.wikipedia.org/wiki/Consequentialism). Act consequentialists argue that the moral value of an action is determined by its actual outcomes rather than the intentions behind it or adherence to moral rules.
+**Chaotic**: [Chaotic](https://en.wikipedia.org/wiki/Consequentialism) folks argue that the moral value of an action is determined by its actual outcomes rather than the intentions behind it or adherence to moral rules.
 
 ### Good vs Evil
 
-**Good**: [Altruist](https://en.wikipedia.org/wiki/Altruism). Acting selflessly to benefit others without expecting anything in return, often at cost to oneself.
+**Good**: [Good](https://en.wikipedia.org/wiki/Altruism) folks believe in acting selflessly to benefit others without expecting anything in return, often at cost to oneself.
 
-**Neutral**: [Ethical egoist](https://en.wikipedia.org/wiki/Ethical_egoism). An action is morally right if it maximizes one's self-interest. According to ethical egoists, the only moral obligation an individual has is to promote their own well-being, and they should only consider the interests of others insofar as doing so ultimately benefits themselves.
+**Neutral**: [Neutral](https://en.wikipedia.org/wiki/Ethical_egoism) folks belive that an action is morally right if it maximizes one's self-interest. According to neutral folks, the only moral obligation an individual has is to promote their own well-being, and they should only consider the interests of others insofar as doing so ultimately benefits themselves.
 
-**Evil**: Malicious egoist. Actively seeks to harm and exploit others for their own gain or pleasure. They lack empathy, disregard the rights and well-being of others, and may even derive satisfaction from causing suffering.
+**Evil**: Evil folks actively seek to harm and exploit others for their own gain or pleasure. They lack empathy, disregard the rights and well-being of others, and may even derive satisfaction from causing suffering.
