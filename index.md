@@ -11,7 +11,7 @@ This document is split in several sections.
 
 [Examples of Play](/examples) tries to cover the major systems and subsystems, as well as convey some play culture.
 
-An extensive game master section is in progress! In the mean time, much of the material can be found in long-form in my review of [Brandonsford](https://rancourt.substack.com/p/review-the-black-wyrm-of-brandonsford), ruminations on [randomness](https://rancourt.substack.com/p/on-randomness), my audit of [silveraxe](https://rancourt.substack.com/p/audit-tower-silveraxe), [Beginning Game Masters - The Alexandrian](https://thealexandrian.net/gamemastery-101), the [Art of Rulings](https://thealexandrian.net/wordpress/4238/roleplaying-games/the-art-of-rulings), the [Art of Pacing](https://thealexandrian.net/wordpress/31509/roleplaying-games/the-art-of-pacing) and the [Art of the Key](https://thealexandrian.net/wordpress/35180/roleplaying-games/the-art-of-the-key).
+An extensive [game master section](/running-the-game) is in progress! In the mean time, much of the material can be found in long-form in my review of [Brandonsford](https://rancourt.substack.com/p/review-the-black-wyrm-of-brandonsford), ruminations on [randomness](https://rancourt.substack.com/p/on-randomness), my audit of [silveraxe](https://rancourt.substack.com/p/audit-tower-silveraxe), [Beginning Game Masters - The Alexandrian](https://thealexandrian.net/gamemastery-101), the [Art of Rulings](https://thealexandrian.net/wordpress/4238/roleplaying-games/the-art-of-rulings), the [Art of Pacing](https://thealexandrian.net/wordpress/31509/roleplaying-games/the-art-of-pacing) and the [Art of the Key](https://thealexandrian.net/wordpress/35180/roleplaying-games/the-art-of-the-key).
 
 # Table Of Contents
 
@@ -153,6 +153,9 @@ An extensive game master section is in progress! In the mean time, much of the m
 - Magic items
 
 ### Change Log
+
+#### 2024-08-12
+- Initial sections for the game master guide
 
 #### 2024-08-10
 - Re-do the delver creation example, which makes the examples section done for now.
