@@ -50,7 +50,7 @@ Just talk to them. Seriously. Don't post about it on social media and ask for ad
 - Delver Icons. [Magnets](https://www.amazon.com/dp/B016DSBNY4) + [Epoxy Stickers](https://www.amazon.com/dp/B00AFRWIRQ) + [Hole Punch](https://www.amazon.com/Bira-Circle-Craft-Crafting-Scrapbooking/dp/B07B43X316). From [JP Coovert's Youtube](https://youtu.be/LBZPi4oKlCQ?si=mTP5tiOjJyb1ITeu).
 - Printer. [Brother HL-L2350DW](https://www.amazon.com/gp/product/B09961WKKS). Good for printing modules, character sheets, maps, handouts, etc.
 - Awl. [General Tools Awl](https://www.amazon.com/General-Tools-818-Hardwood-Scratch/dp/B00004T7R3). Sewn digest modules lay much more nicely than stapled ones.
-- Needle and Thread [Slimthread Polyester](https://www.amazon.com/Simthread-Purpose-Thread-Polyester-Yards/dp/B0B9FQ2QN4). To bind modules with.
+- Needle and Thread. [Slimthread Polyester](https://www.amazon.com/Simthread-Purpose-Thread-Polyester-Yards/dp/B0B9FQ2QN4). To bind modules with.
 - 3 Ring Binder. [Samsill 0.5"](https://www.amazon.com/Samsill-Economy-Ring-Binder-5-Round/dp/B07FKXHP1H). Some modules are natively printed on big paper (like Castle Xyntillan) and printing them out digest style makes the font painfully small. For these, we use a hole punch and a 3 ring binder. Additionally, GM notes go in a separate 3-ring binder.
 - 3 Hole Punch. [Amazon Basics](https://www.amazon.com/AmazonBasics-Hole-Punch-Sheet-Capacity/dp/B0879YNTTP)
 
