@@ -213,7 +213,7 @@ A healthy character starts at zero System Strain and has their Constitution as t
 
 Magical healing and certain spells and abilities (like [Speed](/spells#speed)) will add to a subject’s System Strain. If this addition would put them over their maximum they cannot activate the spell, benefit from healing, or otherwise gain any use from the ability. If they are forced over the maximum by some unavoidable effect, they are instead knocked unconscious for an hour.
 
-Characters lose one point of accumulated System Strain after each night’s rest, assuming they are warm, fed, comfortable, and get at least eight uninterrupted hours of sleep.
+Characters lose one point of accumulated System Strain after each night’s rest, assuming they are warm, fed, comfortable, in a safe place (ie, a settlement), and get at least eight uninterrupted hours of sleep.
 
 Delvers are *not* confortable while sleeping in tents, outdoors, etc. It has to be a honest *bed*.
 
@@ -300,6 +300,16 @@ Starvation and Dehydration are ignored so long as the Delvers aren't trying to s
 ## Overland Travel
 
 Unless there is an *extremely* compelling reason to play it out, montage through the geography traveled and arrive at the destination. For time-tracking purposes, Delvers are able to travel ~18 miles/day.
+
+We abstract the cost of hiring mercenaries, donkeys, buying rations, etc with this chart from [Illusory Sensorium](https://illusorysensorium.com/tyranny-of-wagons/). The further you travel, the more food you need, which is heavy, so you need donkeys. The donkeys *also* have to eat, and be protected, which requires more donkeys to serve as a baggage train, all of which need guards that also have to eat, and so on. Hence, we have exponential costs:
+
+| Weeks | Cost per Delver | Weeks | Cost per Delver |
+| ----- | --------------- | ----- | --------------- |
+| 1     | 10g             | 6     | 320g            |
+| 2     | 20g             | 7     | 640g            |
+| 3     | 40g             | 8     | 1,250g          |
+| 4     | 80g             | 9     | 2,500g          |
+| 5     | 160g            | 10    | 5,000g          |
 
 ## Dungeon Exploration
 

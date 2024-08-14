@@ -152,8 +152,9 @@ An extensive [game master section](/running-the-game) is in progress! In the mea
 
 ### Change Log
 
-### 2024-08-04
+### 2024-08-14
 - Flesh out the faction advice in the GM section. Need to make my own diagram still.
+- Specify that System Strain and spell slots can only be recovered in settlements.
 
 #### 2024-08-13
 - Clean up the time keeping + wandering encounter text

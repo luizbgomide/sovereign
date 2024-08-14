@@ -27,7 +27,7 @@ A mage must be able to cast the spell in order to learn it. A novice mage can ca
 
 Once a spell is learned, the mage must prepare the spell for casting. The number of spells a mage can prepare at once varies with their experience level, from as few as two or three at first level to as many as twelve when at tenth level. The mage may prepare any spell they have in their spellbook; there’s no obligation to prepare a certain number of low-level spells should the mage wish to fill all their available “slots” with their most powerful magics and run the risk of lacking some lesser, yet more useful spell.
 
-Preparing a new set of spells takes an hour, and can only be done after a good night’s rest, when the mage’s mind is most fresh and malleable. Once spells have been prepared they remain so indefinitely until replaced with a different set of magics.
+Preparing a new set of spells takes an hour, and can only be done after a good night’s (the same sort of rest that recovers [System Strain](/rules#system-strain); must be in a settlement) rest, when the mage’s mind is most fresh and malleable. Once spells have been prepared they remain so indefinitely until replaced with a different set of magics.
 
 ## Casting Prepared Spells
 
@@ -37,7 +37,7 @@ Casting a spell requires focus and undisturbed concentration. If a mage has take
 
 Spells and Arts cannot be cast while wearing armor, restrictive clothing, or wielding a shield.
 
-A mage can cast only so many spells each day before needing a full night’s rest to recover. Novices can cast only one spell, while masters can manage six. The spell to be cast may be selected from any prepared by the mage; the same power can be used to invoke a mighty fifth-level spell or a relatively modest first-level incantation. The same spell may be cast more than once, if the mage has multiple castings left for the day.
+A mage can cast only so many spells each day before needing a good night’s rest (the same sort of rest that recovers [System Strain](/rules#system-strain); must be in a settlement) to recover. Novices can cast only one spell, while masters can manage six. The spell to be cast may be selected from any prepared by the mage; the same power can be used to invoke a mighty fifth-level spell or a relatively modest first-level incantation. The same spell may be cast more than once, if the mage has multiple castings left for the day.
 
 Partial Mages are more limited than more focused specialists. They are able to cast fewer spells each day and the maximum level of spell they can cast is also significantly lower as compared to an equivalent full Mage. The total spells they can prepare for the day are also fewer than that of a full Mage. When they cast the spells, however, any level-based effects also use their full level, so a third-level Partial Necromancer’s Arcane Spark does `3d8` damage, just as a full Necromancer would.
 
