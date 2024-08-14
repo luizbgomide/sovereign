@@ -79,11 +79,11 @@ Duelists gain [Stab](/rules#stab) as a [Bonus Skill](/rules#bonus-skill). No Due
 
 While duelists are excellent one-on-one combatants, they spend much less time at raw physical conditioning than [Warriors](/classes#warrior). The techniques they use are swift and lethal, but they aren’t as generally applicable to enduring harm as the standard training methods.
 
-As such, [Partial Warriors](/classes#partial-warrior)/Partial Duelists use `1d6` for their [HP Progression](/rules#hp-progression), rather than the Partial Warrior’s usual `1d6`+2. Other partial class mixes are unaffected by this flaw.
+As such, [Partial Warriors](/classes#partial-warrior)/Partial Duelists use `1d6` for their [HP Progression](/rules#hp-progression), rather than the Partial Warrior’s usual `1d6+2`. Other partial class mixes are unaffected by this flaw.
 
 ### Duelist Arts
 
-Duelist Effort is equal to [Stab](/rules#stab) the highest of DEX and INT, to a minimum of 1. All Duelists begin with the Favored Weapon art and one more of their choice. Additional arts are learned as the Duelist advances in experience.
+Duelist Effort is equal to [Stab](/rules#stab) plus the highest of DEX and INT, to a minimum of 1. All Duelists begin with the Favored Weapon art and one more of their choice. Additional arts are learned as the Duelist advances in experience.
 
 The arts of the Duelist require agility and free motion. The Duelist cannot benefit from any art of this class while wearing Chain or Plate armor or while weilding a shield.
 
