@@ -149,8 +149,6 @@ An extensive [game master section](/running-the-game) is in progress! In the mea
 - Make sure that there's enough skills for all the advancement points that PCs get while leveling up. Need to make sure that not every high level character is the same.
 - Make sure that there's enough feats for spellcasters.
 - The whole GM section. The advice and theory can wait, but conversion guides and whatnot are pressing.
-- The bestiary
-- Magic items
 
 ### Change Log
 
