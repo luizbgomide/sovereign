@@ -157,6 +157,7 @@ An extensive [game master section](/running-the-game) is in progress! In the mea
 #### 2024-08-13
 - Clean up the time keeping + wandering encounter text
 - Hide alignment philosophy links in the text. They were too technical to be explicitly called out.
+- Swapped out the searching library I was using for full-text. Now, typing whole words should work.
 
 #### 2024-08-12
 - Initial sections for the game master guide
