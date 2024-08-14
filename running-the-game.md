@@ -66,7 +66,69 @@ The specific product recommendations are all optional. At a higher level, you ne
 As long as you have these things handled, you're good.
 
 ## Preparing an Adventure
-TODO
+
+Read the module cover to cover. Then, start back at the beginning and try to mentally answer each one of these questions:
+
+- How does the game start?
+- Does each faction have a goal?
+- For each room:
+  - Is it clear what I should say when the players enter the room?
+  - Does each trap and secret door have a mechanism and tell?
+  - Does it have all of the information necessary to run it?
+  - Do the details in the room have internal consistency?
+  - Are stat blocks accurate and complete?
+  - Do magic items have a description?
+- Do the bespoke mechanics work in play?
+- Does the key match the map?
+- Is the amount of treasure appropriate for the risk?
+- Can I replace random values with pre-rolled results?
+
+For an *involved* demonstration of this process, check out my [Audit of Tower Silveraxe](https://rancourt.substack.com/p/audit-tower-silveraxe).
+
+### How Does the Game Start?
+
+Some dungeons, like Borshak's Lair, *just* detail a dungeon. Here, you're using [hard framing](https://thealexandrian.net/wordpress/31509/roleplaying-games/the-art-of-pacing) to narrate how they found out about the dungeon, what information they gathered, their trip to the dungeon, and what it looks from the outside.
+
+For instance
+
+> At Slarkeron the Wizard's behest, you venture past the Valley of Barzak Bragoth, around Lake Shimron, and just north of Tol Bandur to the ancient tomb of Lord Helmdar.
+>
+> Slarkeron says that a rival named Tim the Moonslayer claimed the tomb and created a tunnel complex for his crazed experiments but hasn't been heard from in decades.
+>
+> You arrive at a stairway leading deep under the earth. The walls are moist but not slimy; the air is cool, damp, and silent. What do you do?
+
+Other adventures, like [The Evils of Illmire](https://www.drivethrurpg.com/product/343439) detail a town and multiple nearby dungeons. It is *usually* safe to start the players in the town, let them gather information about the adventure, and choose where to go. If the town is weakly detailed, nothing interesting to do in town, or there's no real choice about where to go, we [skip forward](https://thealexandrian.net/wordpress/31509/roleplaying-games/the-art-of-pacing) to the dungeon entrance, letting the town fade into the background as a place for the adventures to return to to resupply or recover [System Strain](/rules#system-strain).
+
+If this is the first session, **strongly** consider starting them at the entrance to a dungeon rather than in a town.
+
+### Factions
+
+I love GFC's [take on factions](https://guccifuligincloak.blogspot.com/2020/01/the-four-blanks-method-of-faction.html). The summary is that you should be able to write
+
+> [FACTION] wants [MOTIVATION], but [OBSTACLE]; therefore, [METHOD OF SURMOUNTING OBSTACLE]
+
+for each faction. If the faction doesn’t want anything, it’s hard to know how to get them to act or how they’ll react. If nothing is stopping them from getting what they want, why don’t they have it? If they’re not trying to remove their obstacle, what are they doing, and do they actually want the thing?
+
+Read through the factions in the adventure (and dungeon), and make sure they're at least this complex. If they aren't, flesh them out! The [Parley](/rules#parley) information has some sample motivations for each kind of creature:
+
+**Dragons** want food, territory, treasure, and domination.
+
+**Humanoids** want territory, treasure, domination, or higher order concepts like fairness, kindness, loyalty, obediency, and sanctity.
+
+**Giants** are obsessed in their place in the hierarchy of Giants, and anything that will help them climb that hierarchy.
+
+**Undead** and **constructs** are compelled by whatever directive created them.
+
+**Fiends** want to cause suffering.
+
+**Aberrations** have intentionally alien, unintelligible motives.
+
+**Fey** have emotional motives, often following dream logic or the [seven deadly sins](https://en.wikipedia.org/wiki/Seven_deadly_sins) (gluttony, lust, greed, sorrow, wrath, sloth, pride).
+
+It's helpful if the motivations, obstacles, and methods of different factions overlap somehow. Have two factions want the same thing, or two different factions are blocked by the same obstacle.
+
+A neat way of visualizing this is given by [Murkdice](https://murkdice.substack.com/p/make-factions-fight).
+
+![small](/assets/images/faction-visualization.webp)
 
 ## Running an Adventure
-TODO
