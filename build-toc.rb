@@ -37,7 +37,9 @@ chapters = [
   "combat",
   "equipment",
   "feats",
-  "spells"
+  "spells",
+  "examples",
+  "running-the-game"
 ]
 
 chapters.each do |chapter|

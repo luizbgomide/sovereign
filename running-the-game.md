@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Home
 ---
 
 # Running The Game
@@ -130,5 +131,3 @@ It's helpful if the motivations, obstacles, and methods of different factions ov
 A neat way of visualizing this is given by [Murkdice](https://murkdice.substack.com/p/make-factions-fight).
 
 ![small](/assets/images/faction-visualization.webp)
-
-## Running an Adventure

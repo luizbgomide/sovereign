@@ -153,7 +153,8 @@ An extensive [game master section](/running-the-game) is in progress! In the mea
 ### Change Log
 
 #### 2024-08-16
-- Rewrite the section on rest, adding a Comfortable Rest keyword.
+- Rewrite the section on rest, adding a Comfortable Sleep keyword.
+- Add examples and running the game to the ToC
 
 #### 2024-08-14
 - Flesh out the faction advice in the GM section. Need to make my own diagram still.
