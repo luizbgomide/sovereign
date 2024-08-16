@@ -187,13 +187,13 @@ Creatures who reach 0 HP and then recover are Frail.
 
 A Frail character acts normally, but if reduced to 0 HP again, they die instantly. Frail characters do not recover HP through [Natural Healing](#natural-healing).
 
-Frailty is removed with a week of bed rest and medical attention by someone with a [healer’s kit](/equipment#healers-kit) and at least [Heal](#heal)-0. In addition, someone with at least [Heal](#heal)-1 can make one attempt to remove Frailty with a healer's kit, an hour of labor, and a successful DC 10 DEX/[Heal](#heal) or INT/[Heal](#heal) check.
+Frailty is removed with a continuous week of [Comfortable Sleep](#comfortable-sleep) and medical attention by someone with a [healer’s kit](/equipment#healers-kit) and at least [Heal](#heal)-0. In addition, someone with at least [Heal](#heal)-1 can make one attempt to remove Frailty with a healer's kit, an hour of labor, and a successful DC 10 DEX/[Heal](#heal) or INT/[Heal](#heal) check.
 
-Frail characters without this level of medical care must make a [Physical](#physical) save after a week; on a failure they die `1d6` days later, while success means they lose their Frailty after another month’s rest.
+Frail characters without this level of medical care must make a [Physical](#physical) save after a week; on a failure they die `1d6` days later, while success means they lose their Frailty after another month’s [Comfortable Sleep](#comfortable-sleep).
 
 ### Natural Healing
 
-A wounded creature recovers HP by getting a good night’s rest and adequate food. Provided they are warm, fed, and comfortable, they regain HP each morning equal to their experience level, or equal to their HD if they are NPCs.
+A wounded creature recovers HP by getting [Comfortable Sleep](#comfortable-sleep) and adequate food. Provided they are warm, fed, and comfortable, they regain HP each morning equal to their experience level, or equal to their HD if they are NPCs.
 
 Delvers are *not* confortable while sleeping in tents, outdoors, etc. It has to be a honest *bed*.
 
@@ -203,7 +203,7 @@ Delvers are *not* confortable while sleeping in tents, outdoors, etc. It has to 
 
 Healers can patch up victims in a hurry at a cost to their physical resilience. By spending one minute patching up an ally with a [healer’s kit](/equipment#healers-kit), heal `1d6`+[Heal](#heal) points of damage. Each such application adds one [System Strain](#system-strain) to the target. First aid restores HP to a [Frail](#frail) target, but it cannot remove their Frailty.
 
-One [Turn](#turn) is enough time for a healer to apply as much first aid as is wanted to the rest of their party.
+One [Turn](#turn) is enough time for a healer to apply as much first aid as is wanted to their party.
 
 ### System Strain
 
@@ -213,9 +213,23 @@ A healthy character starts at zero System Strain and has their Constitution as t
 
 Magical healing and certain spells and abilities (like [Speed](/spells#speed)) will add to a subject’s System Strain. If this addition would put them over their maximum they cannot activate the spell, benefit from healing, or otherwise gain any use from the ability. If they are forced over the maximum by some unavoidable effect, they are instead knocked unconscious for an hour.
 
-Characters lose one point of accumulated System Strain after each night’s rest, assuming they are warm, fed, comfortable, in a safe place (ie, a settlement), and get at least eight uninterrupted hours of sleep.
+Characters lose one point of accumulated System Strain after [Comfortable Sleep](#comfortable-sleep).
 
-Delvers are *not* confortable while sleeping in tents, outdoors, etc. It has to be a honest *bed*.
+## Rest
+
+Each Delver needs to sleep for at least 8 hours a day in order to avoid incurring [System Strain](#system-strain) from [Lack of Sleep](#lack-of-sleep). Magic items that recharge on a per-day basis recharge recharge at dawn.
+
+For all other mechanics to recover ([System Strain](#system-strain), [Effort committed for the day](#committing-effort), recovering [Spells](/spells#casting-prepared-spells)), the Delver needs **Comfortable Sleep**.
+
+<strong id="comfortable-sleep">Comfortable Sleep</strong> needs to be:
+
+- Totally uninterrupted
+- In a safe place
+- Comfortable
+
+The intention here is that Delvers *cannot* get Comfortable Sleep (and thus recover resources) while on an adventure. They must return to a settlement where they can sleep comfortably in peace. While the adventurers are away, the dungeon has time to respond and repopulate.
+
+Some (mega) dungeons are so large that they have (especially as a reward for exploration or befriending a faction) places to achieve Comfortable Sleep.
 
 ## Poisons and Diseases
 
@@ -293,9 +307,11 @@ Some perils occur with some regularity for adventurers. A few of the most common
 
 **Starvation**: Each day of insufficient food (1 Ration) causes 1 [System Strain](#system-strain). If you already have maximum system strain, you die.
 
-**Dehydration**: Each day of insufficient water (a waterskin's worth) causes 3 [System Strain](/rules#system-strain). If you already have maximum system strain, you die.
+**Dehydration**: Each day of insufficient water (a waterskin's worth) causes 3 [System Strain](#system-strain). If you already have maximum system strain, you die.
 
-Starvation and Dehydration are ignored so long as the Delvers aren't trying to sleep in a dungeon. Assume that they find sufficient food in the wilderness.
+<strong id="lack-of-sleep>Lack of Sleep</strong>: Each day of insufficient sleep (8 hours every 24 hours) causes 2 [System Strain](#system-strain).
+
+Starvation and Dehydration are ignored so long as the Delvers aren't trying to sleep in a dungeon or stay longer than [they paid for](#overland-travel).
 
 ## Overland Travel
 
