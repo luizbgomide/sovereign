@@ -6,6 +6,14 @@ img[alt="tiny"] {
     width: 200px;
 }
 
+img[alt="300"] {
+    width: 300px;
+}
+
+img[alt="400"] {
+    width: 400px;
+}
+
 ul {
     margin-bottom: 0px;
     padding-inline-start: 1.25rem;

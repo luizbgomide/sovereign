@@ -155,6 +155,7 @@ An extensive [game master section](/running-the-game) is in progress! In the mea
 #### 2024-08-16
 - Rewrite the section on rest, adding a Comfortable Sleep keyword.
 - Add examples and running the game to the ToC
+- Add an example of reaction rolls.
 
 #### 2024-08-14
 - Flesh out the faction advice in the GM section. Need to make my own diagram still.

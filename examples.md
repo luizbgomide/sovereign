@@ -253,6 +253,30 @@ This graph gives the distribution of rolling at least a number on `2d6`:
 
 A DC 10 check has only a 17% chance of success. If they have +1 in the relevant mod and +1 in the relevant skill, then they'd only need to roll an 8, which jumps them all the way up to 42%. If a friend is able to help, that gets them to 58%. These are *huge* differences, and incentivize the style of play we're aiming for.
 
+## Reaction Rolls
+
+From [The Necropolis of Nuromen](https://www.drivethrurpg.com/en/product/110292):
+
+![400](/assets/images/nuromen-19.png)
+
+When in doubt, we use monster stats from [Osric](https://osricwiki.presgas.name/doku.php?id=osric:chapter5). Osric tends to be better specified than OSE and has a larger bestiary.
+
+The only bit we need for reaction rolls is that Troglodytes have 2 HD. This means that the group of 3 of them has a total of 6 HD. We'll say our party of 4 level 1 Delvers are washed ashore and to the cave, where the Trogs come to investigate.
+
+**GM**: You're swept by the river, battered along the way taking... can everyone roll a [Physical](/rules#physical) save for me, and if you fail, d6 damage. You hear multiple two-legged footsteps from the south. What do you do?
+
+**Alice**: Let's see if they're willing to parley; we can see if they're willing to let us pass in exchange for us solving problems for them.
+
+**GM**: Okay, sounds like you want to Talk. *rolls `2d6: 6` on the [Reaction Roll](/rules#reaction-rolls) table and gets a result of [Parley](/rules#parley).*
+
+**GM**: They're willing to Parley - what's your [Leverage](/rules#leverage)?
+
+Had the Delvers chosen to Fight, the 6 would have resulted in the Trogs fighting back. Had they chosen to Run, the trogs would have let them run. Had they chosen to Wait, the trogs would have watched them for a bit and then left.
+
+Note that if the players aren't aggressive, the reaction rolls only go straight to aggression ~3% of the time, or ~28% of the time if the adversaries have at least a 3x HD advantage.
+
+Results of Ignore do not mean they *totally disregard* the Delvers. This is their *home*, they'll go get friends (safety in numbers) and bring force to bear in either combat or use the threat of violence as leverage in a Parley. In the case of these Troglodtyes, they're looking to have at least 7 Trogs (7 trogs • 2 HD is a 3x advantage over 4 Delvers of 1st level).
+
 ## Combat
 
 The Delvers
