@@ -115,3 +115,12 @@ body {
 .home {
     margin-left: 10px;
 }
+
+.badge {
+    background-color: rgb(13, 202, 240);
+    color: black;
+    padding: 1px 5px;
+    text-align: center;
+    border-radius: 5px;
+    margin-left: 5px;
+}

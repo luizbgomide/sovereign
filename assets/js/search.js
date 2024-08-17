@@ -38,7 +38,8 @@ window.onload = () => {
       let appendString = '';
 
       for (const {id, label} of results) {
-        appendString += `<li><a href="${id}">${label}</a>`;
+        const root = id.split("#")[0].slice(1)
+        appendString += `<li><a href="${id}">${label}</a><span class="badge">${root}</span></li>`;
       }
 
       searchResults.innerHTML = appendString;
