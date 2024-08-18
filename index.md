@@ -166,6 +166,9 @@ An extensive [game master section](/running-the-game) is in progress! In the mea
 
 ### Change Log
 
+#### 2024-08-18
+- Finish the first draft of the preparing-a-module section
+
 #### 2024-08-16
 - Rewrite the section on rest, adding a Comfortable Sleep keyword.
 - Add examples and running the game to the ToC

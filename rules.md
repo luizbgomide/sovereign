@@ -420,7 +420,7 @@ If how the other creatures respond is uncertain, the GM rolls their reaction, co
 | ------------ | ------ | ----------------------------- | ------ | ----------------------------- |
 | 2            | Combat | Combat                        | Chase  | Fight                         |
 | 3-5          | Combat | Combat if could win, run otw. | Chase  | Combat if could win, run otw. |
-| 6-8          | Combat | Parley                        | Ignore | Ignore                        |
+| 6-8          | Combat if could win, run otw. | Parley                        | Ignore | Ignore                        |
 | 9-11         | Run    | Parley                        | Ignore | Ignore                        |
 | 12           | Run    | Parley                        | Ignore | Parley                        |
 

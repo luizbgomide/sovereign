@@ -76,11 +76,8 @@ Read the module cover to cover. Then, start back at the beginning and try to men
   - Is it clear what I should say when the players enter the room?
   - Does each trap and secret door have a mechanism and tell?
   - Does it have all of the information necessary to run it?
-  - Do the details in the room have internal consistency?
   - Are stat blocks accurate and complete?
-  - Do magic items have a description?
-- Do the bespoke mechanics work in play?
-- Does the key match the map?
+  - Does the key match the map?
 - Is the amount of treasure appropriate for the risk?
 - Can I replace random values with pre-rolled results?
 
@@ -275,3 +272,47 @@ Compare this to the [stat block from OSE](https://oldschoolessentials.necroticgn
 The Silveraxe statline leaves out the bit about acid, and their **entire regeneration ability**. My experience is that this happens *over and over*.
 
 Throw out the inline stats and look up the monster from [Osric](https://osricwiki.presgas.name/doku.php?id=osric:chapter5). Osric monsters tend to be a little more powerful than OSE monsters and Sovereign delvers are more powerful than OSE characters of the same level.
+
+#### Double-Check The Map
+
+While we're looking at the room, check to see where it is on the map. Make sure it's on there (it's shocking how often it isn't). Make sure that it's properly labeled (sometimes two labels have been switched).
+
+If there are open passages leading to other rooms, make sure that any information that players could glean from *those* rooms is mentioned in this room.
+
+For instance, if room 9 is connected by an open 10-ft strech of hallway to room 22, and room 22 is a dining hall where bandits are singing drunken songs, room 9 should mention this.
+
+### Re-Balance Treasure
+
+We want to make sure that there's between 3-4x more gold worth of treasure in a dungeon than XP of the denizens defending it. This helps make sure that bewteen 75-80% of the XP players get comes from looting treasure.
+
+We do this because "get treasure" is open ended. Players can steal it, kill for it, negotiate for it, etc. It's a much more interesting goal than "kill stuff".
+
+If there's too much treasure in a dungeon (as is usually the case with adventures), then the risk:reward balance is out of whack.
+
+Unfortunately, there's no quick way to do this. You have to go through each room and record the treasure and monster XP. Here's a [google sheet](https://docs.google.com/spreadsheets/d/1DGlkn0bUaRkA9dsL6zTeYes6CrnXit8XC9eXC_3Ky8s/edit?usp=sharing) to help track it (make a copy of it). The sheet is filled with an example from [Incandescent Grottoes](https://www.drivethrurpg.com/en/product/348878).
+
+Incandescent Grottoes has 40481 lootable treasure, 2208 xp worth of keyed defenders, for a ratio of ~18. This is absurd! It's enough to get a party of 4 Delvers from level 1 to nearly level 5, which is **way** too much. We're going to want to divide every piece of loot in the dungeon by 5 to get this back in line.
+
+We also want to rebalance magic items so that there is roughly 1 item per 10000 XP.
+
+Incandescent Grottoes has a whopping 23 magic items. We want it to have 4-5, so we need to cut ~18 of the magic items.
+
+### Pre-Rolling
+
+I go in-depth here in [On Randomness](https://rancourt.substack.com/p/on-randomness). The takeaway is that we should be skeptical of GM-side randomness.
+
+Random encounters that have random amounts of enemies (like an entry that says 1d6 goblins) can often be pre-rolled (by replacing it with an entry that says 3 goblins). Commit up-front to how many such total wandering monsters there are of each type; a good rule of thumb is that there are 7x more enemies than the average result (so for 1d6 goblins, there might be 25 wandering goblins total).
+
+Random treasure can *always* be pre-rolled.
+
+Random encounter lists can usually become *ordered* encounter lists (we don't normally want to re-use results). A quick way to do this is with [random.org/lists](https://www.random.org/lists/).
+
+For instance, the encounter table from Nuromen:
+
+![400](/assets/images/nuromen-encounter-1.png)
+
+Can become:
+
+![400](/assets/images/nuromen-encounter-2.png)
+
+So it'll be Bandits, then Goblins, then Elves, then Screechers...
