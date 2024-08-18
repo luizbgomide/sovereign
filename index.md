@@ -81,6 +81,9 @@ An extensive [game master section](/running-the-game) is in progress! In the mea
 | [Mines, Claws & Princesses](https://www.drivethrurpg.com/product/240094)                                                                                            | 2              | 4            |
 | [The Singing Caverns](https://www.drivethrurpg.com/product/241136)                                                                                                  | 2              | 4            |
 | [B10 - Night's Dark Terror](https://www.drivethrurpg.com/en/product/17119)                                                                                          | 2              | 4            |
+| [The Mysterious Manor](https://www.drivethrurpg.com/en/product/241136)                                                                                              | 2              | 4            |
+| [The Four Wives of Xantun](https://www.drivethrurpg.com/en/product/251466)                                                                                          | 2              | 4            |
+| [Down the Smugglers' Walk](https://www.drivethrurpg.com/en/product/251466)                                                                                          | 2              | 6            |
 | [The House under the Moondial](https://www.drivethrurpg.com/en/product/474868/)                                                                                     | 3              | 4            |
 | [Bastard King of Thraxford Castle](https://www.drivethrurpg.com/en/product/405442/)                                                                                 | 3              | ?            |
 | [Shrine of the Small God](https://princeofnothing.itch.io/no-artpunk-ii)                                                                                            | 3              | 5            |
@@ -109,6 +112,13 @@ An extensive [game master section](/running-the-game) is in progress! In the mea
 | [Sision Tower](https://www.drivethrurpg.com/en/product/270477)                                                                                                      | 3              | 5            |
 | [C1 - The Hidden Shrine of Tamoachan](https://www.drivethrurpg.com/en/product/17031)                                                                                | 3              | 7            |
 | [Many Gates of the Gann](https://www.drivethrurpg.com/en/product/105975)                                                                                            | 3              | 5            |
+| [Terror on Tridentfish Island](https://www.drivethrurpg.com/en/product/261005)                                                                                      | 3              | 5            |
+| [Revenge of the Frogs](https://www.drivethrurpg.com/en/product/271836)                                                                                              | 3              | 5            |
+| [The Enchantment of Vashundara](https://www.drivethrurpg.com/en/product/282763)                                                                                     | 3              | 4            |
+| [Plunder of the Stone Sacks](https://www.drivethrurpg.com/en/product/282763)                                                                                        | 3              | 5            |
+| [Yrrtwano's Repose](https://www.drivethrurpg.com/en/product/365419)                                                                                                 | 3              | 5            |
+| [Guests of the Beggar King](https://www.drivethrurpg.com/en/product/414336)                                                                                         | 3              | 5            |
+| [Gorge of the Unmortal Hermit](https://www.drivethrurpg.com/en/product/414336)                                                                                      | 3              | 5            |
 | [Standoff at Sandfell Sea Fort](https://www.drivethrurpg.com/en/product/252951)                                                                                     | 4              | 7            |
 | [Cloister of the Frog-God](https://emdt.bigcartel.com/product/cloister-of-the-frog-god)                                                                             | 4              | 6            |
 | [Webs of Past and Present](https://emdt.bigcartel.com/product/the-webs-of-past-and-present)                                                                         | 4              | 5            |
@@ -117,6 +127,9 @@ An extensive [game master section](/running-the-game) is in progress! In the mea
 | [The Tomb of Ali Shulwar](https://www.drivethrurpg.com/product/322655)                                                                                              | 4              | 6            |
 | [Trollback Keep](https://www.drivethrurpg.com/product/264501)                                                                                                       | 4              | 7            |
 | [The Barbarian King](https://www.drivethrurpg.com/product/247440)                                                                                                   | 4              | 6            |
+| [The Swine Lord](https://www.drivethrurpg.com/en/product/251466)                                                                                                    | 4              | 6            |
+| [The Wandering Glade](https://www.drivethrurpg.com/en/product/298986)                                                                                               | 4              | 6            |
+| [The Gallery of Rising Tombs](https://www.drivethrurpg.com/en/product/298986)                                                                                       | 4              | 6            |
 | [The Dreaming Caldera](https://www.drivethrurpg.com/en/product/406938)                                                                                              | 5              | 6            |
 | [The Temple of Hypnos](https://www.drivethrurpg.com/product/375980)                                                                                                 | 5              | 5            |
 | [The Sepulchre of Seven](https://www.drivethrurpg.com/product/366868)                                                                                               | 5              | 7            |
@@ -130,6 +143,7 @@ An extensive [game master section](/running-the-game) is in progress! In the mea
 | [Fractious Mayhem at Melonath Falls](https://princeofnothing.itch.io/no-artpunk-ii)                                                                                 | 5              | 8            |
 | [Secrets of the Wyrwoode](https://www.drivethrurpg.com/en/product/200708/Secrets-of-the-Wyrwoode)                                                                   | 5              | 7            |
 | [WG4 - The Forgotten Temple of Tharizdun](https://www.drivethrurpg.com/en/product/17080)                                                                            | 5              | 10           |
+| [Castle Sullogh](https://www.drivethrurpg.com/en/product/365419)                                                                                                    | 5              | 9            |
 | [Battle for Carrion Vale](https://www.drivethrurpg.com/product/393396)                                                                                              | 6              | 7            |
 | [The Lost Treasure of Atlantis](https://www.drivethrurpg.com/product/296269)                                                                                        | 6              | 8            |
 | [Eyrie of the Dread Eye](https://www.drivethrurpg.com/product/268206)                                                                                               | 6              | 8            |
