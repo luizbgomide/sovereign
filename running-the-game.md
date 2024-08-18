@@ -206,3 +206,72 @@ For the tell, we can say that the fish's mouth has a finger-sized hole in it tha
 Putting it all together, The statue has several ethereal hooks running from it to the ground. Pushing or turning the statue might (2-in-6 chance) tug on one of the hooks, and trigger a magic item inside the statue capable of producing poison gas. The gas travels from the interior out the fish's mouth.
 
 Unless an adventure *specifically* mentions otherwise, traps only have a 2-in-6 chance to trigger even if their trigger explicitly happens. You can walk over pit traps 4/6ths of the time; you miss tripwires 4/6th of the time, etc. Roll for *each triggering action*. For instance, if a party of 7 Delvers walks over a tripwire, roll 7 times.
+
+#### Full Information
+
+Make sure that all of the things that affect the room are explained *in the room*. There are three main things to look for:
+
+- Switches/levers/etc that exist in other rooms that affect *this* room.
+- "Keys" from other rooms for "locks" in this room.
+
+For an example of the first, here's [Hole in the Oak](https://www.drivethrurpg.com/en/product/284852):
+
+> **(29) Plinth and Chalice**
+>
+> Stone plinth (4' high). Bathed in golden light (a 10' diameter pool of light surrounds the plinth). Platinum and sapphire chalice (upon the plinth, worth 2,000gp, full of water).
+>
+> Stepping into the light: 2d6 evil tree babies leap from the trees and attack.
+
+which is related to:
+
+> **(24) Control Room**
+> ...
+> Pulling lever 4: Deactivates the golden light in Area 29.
+
+Whether or not there's a golden light is affected by whether or not a lever has been pulled in a different room. Room 29 **needs** to let us know that this is the case (otherwise we're likely to forget).
+
+Keys and locks are in quotes because they're not only literal, mundane locks and keys, but also any abstract lock and key in the [game design sense](https://www.youtube.com/watch?v=wW0O3YK2dpo). For example, from [The Necropolis of Nuromen](https://www.drivethrurpg.com/en/product/110292):
+
+> **(9) Neuromen's Apartments**
+> ...
+> The girl's bony wrist bears a silver bracelet which has her name, "Anthea", engraved upon it. The girl's name is the password to the magician’s study (12).
+
+When we read this, we skip forward to (12) and make sure that it tells us the password is "Anthea" and this can be found in (9). Nuromen partially succeeds at this:
+
+> **(12) Nuromen's Study**
+> ...
+> When anyone approaches the copper-plated door to this hall, a corpse face moulded into its surface will animate and state, “NONE MAY PASS UNLESS THEY KNOW THE WORD.” The password is Anthea, the name of Nuromen's daughter. If this is offered, the face will moan, "You may pass." as the door swings open.
+
+Better is to also mention where this information can be discovered:
+
+> **(12) Nuromen's Study**
+> ...
+> When anyone approaches the copper-plated door to this hall, a corpse face moulded into its surface will animate and state, “NONE MAY PASS UNLESS THEY KNOW THE WORD.” The password is Anthea, the name of Nuromen's daughter (Found in (9)). If this is offered, the face will moan, "You may pass." as the door swings open.
+
+Finally, **differentiate** mundane keys. If you tell the delvers that they found a key, they just write down "key". You might know that it's for the door to area 25, but they don't. Then they find 4 more keys. Eventually when they get to area 25 and ask if any of the keys fit, you'll have to be like "do ya'll have the uh, key from... area 9?"
+
+This is totally circumvented by making each key unique. "Small brass key", "Big iron key", "twisted key" etc. Just make sure you update both room you find the key in and the room the key unlocks. "Unlocked by the key from area 9" becomes "Unlocked by the twisted key (9)".
+
+
+#### Inline Monster Stats
+
+Do not trust in-line monster stats. Adventures, for some forsaken reason, assume you're familiar with the bestiary and don't bother to include important stats (like movement speed) or special abilties. For instance, check out this description of a Troll from [Tower Silveraxe](https://www.drivethrurpg.com/en/product/358825)
+
+> **troll**(AC4[15],HD6+3*(30hp), Att 2 x talon(1d6), 1 x bite(1d10), THAC0 13[+6], ML 10(8 fear of fire))
+
+Compare this to the [stat block from OSE](https://oldschoolessentials.necroticgnome.com/srd/index.php/Troll) (which Silveraxe is built for):
+
+> **Troll**
+>
+> Intelligent, wicked, 8’ tall humanoids with emaciated, rubbery bodies. Consume the flesh of other humanoids. Dwell underground, in barren wilderness, and in the ruined homes of former victims.
+>
+> AC 4[15] HD 6+3* (30hp), Att 2 × talon (1d6), 1 × bite (1d10), THAC0 13[+6], MV 120’(40’), SV F6, ML 10 (8 ***fear of fire**), AL Chaotic, XP 650
+>
+> - **Regeneration**: 3 rounds after being damaged, start regaining 3hp per round. Severed limbs reattach.
+> - **Return from death**: If killed (0hp), will regenerate and fight again in 2d6 rounds.
+> - **Fire and acid**: Cannot regenerate damage from these sources. The only way to permanently kill a troll.
+> - **Fear of fire**: Morale 8 when attacked with fire or acid.
+
+The Silveraxe statline leaves out the bit about acid, and their **entire regeneration ability**. My experience is that this happens *over and over*.
+
+Throw out the inline stats and look up the monster from [Osric](https://osricwiki.presgas.name/doku.php?id=osric:chapter5). Osric monsters tend to be a little more powerful than OSE monsters and Sovereign delvers are more powerful than OSE characters of the same level.
