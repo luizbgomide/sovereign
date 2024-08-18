@@ -182,3 +182,27 @@ or
 or
 
 > 4) ~~A large room with 4 doors and~~ a round 10’ pool in the middle. The pool is purely decorative.
+
+#### Traps
+
+There are two good sources on this, both of which say the same thing: [A Treatise on Traps - GFC](https://guccifuligincloak.blogspot.com/2021/11/a-treatise-on-traps.html) and [Stop Hiding Traps - Ben Milton](https://www.youtube.com/watch?v=RY_IRqx5dtI).
+
+GFC's is more procedural and I *love* a good procedure. Each trap needs to have a mechanism (causes the trap to spring and informs how it can be disabled), a consequence (what happens if the trap is sprung), and a tell (how the Delvers could tell it's there).
+
+Unfortunately, most modules *only* describe the consequence. During our room-by-room pass, we'll make sure that each trap has all three components.
+
+For example, from [Stonehell](https://www.lulu.com/shop/michael-curtis/stonehell-dungeon-down-night-haunted-halls/paperback/product-1v8vy2zz.html):
+
+> (22) **Gas Fountain**: Dry stone fountain adorned with a statue of a leaping fish. Fish spouts poison gas (2 in 6 chance; save vs. poison or die) in 10‘×10‘ cloud if the fountain is disturbed.
+
+There's *sort* of a mechanism (disturbing the fountain), no tell, but *definitely* a consequence (death).
+
+It's hard to imagine how the statue could be rigged up with a purely mechanical sensor delicate enough that any disturbance causes it to release poison gas. Especially one complex enough that it can be re-armed (if it can't be re-armed, then it should have been triggered long ago).
+
+The easiest thing here is to make it magical, and then attach a few [ethereal hooks](https://thealexandrian.net/wordpress/12909/roleplaying-games/thought-of-the-day-disarming-magical-traps) that [Sense Magic](/arcane-traditions#sense-magic) or [See Magic](/spells#see-magic) would pick up on.
+
+For the tell, we can say that the fish's mouth has a finger-sized hole in it that runs deep into the statue (where the gas comes out).
+
+Putting it all together, The statue has several ethereal hooks running from it to the ground. Pushing or turning the statue might (2-in-6 chance) tug on one of the hooks, and trigger a magic item inside the statue capable of producing poison gas. The gas travels from the interior out the fish's mouth.
+
+Unless a module *specifically* mentions otherwise, traps only have a 2-in-6 chance to trigger even if their trigger explicitly happens. You can walk over pit traps 4/6ths of the time; you miss tripwires 4/6th of the time, etc. Roll for *each Delver*.
