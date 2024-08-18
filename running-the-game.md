@@ -131,3 +131,54 @@ It's helpful if the motivations, obstacles, and methods of different factions ov
 A neat way of visualizing this is given by [Murkdice](https://murkdice.substack.com/p/make-factions-fight).
 
 ![small](/assets/images/faction-visualization.webp)
+
+### Room By Room
+
+#### Initial Description
+
+The easiest is when adventures provide *well written* read-aloud text. For instance, here's [Temple of 1000 Swords](https://www.drivethrurpg.com/en/product/360211):
+
+![300](/assets/images/1000-swords-3.png)
+
+You just read it! As you're reading through each room, check to make sure that it avoids the [classic pitfalls](https://thealexandrian.net/wordpress/48312/roleplaying-games/gm-dont-list-13-boxed-text-pitfalls):
+
+- Do not describe reactable action while assuming the players are doing nothing.
+- Do not declare the actions or thoughts of the Delvers.
+
+Or in other words, focus on the *scene* - what the Delvers see, hear, and smell. When you describe something that they might want to react to, stop *then* and ask "what do you do?"
+
+The second easiest is when there's formatted text. Here's [The Black Wyrm of Brandonsford](https://www.drivethrurpg.com/en/product/327744/the-black-wyrm-of-brandonsford):
+
+![400](/assets/images/brandonsford-5.png)
+
+This is still easy enough to run it at the table with no modification.
+
+> You see four statues, 8' tall, one in each corner of the room. There appears to be something etched into each statue's base, but you're not close enough read them. You hear the sound of dripping water from the northwest. What do you do?
+
+When cobbling this sort of reading together, we want to make sure we *assume no action*. Here's a video of a guy [exploring a cave by torchlight](https://youtu.be/lp0b165mHqw?si=GqU3XbKgiCJcnSnM&t=777). Torchlight is *not enough* to be able to read text from a distance; they need to get right up next to it. We don't assume that players *move* drapes to see what's behind them, or open containers to see what's in them. We save those details for the [Core Gameplay Loop](/rules#core-gameplay-loop).
+
+The hardest is dense text; the denser and longer the more work we need to do. Many of the 80s TSR modules used descriptions like this. Here's [Keep on the Borderlands](https://www.drivethrurpg.com/en/product/17158/B2-The-Keep-on-the-Borderlands-Basic)
+
+![400](/assets/images/keep-on-the-borderlands-13.png)
+
+Note how the description of the room is *buried* in the text. After we print out the module, we grab a highlighter and highlight the bits we need for the initial description.
+
+![400](/assets/images/keep-on-the-borderlands-13-highlighted.png).
+
+Now, it's much easier to cobble together or initial reading:
+
+> You see a small table and two chairs in the middle of the room. There's a wooden chest pushed up against the east wall, and two shields are hung on the south wall. Among other odds and ends, is an old bucket, resting on something; clearly elevated. What do you do?
+
+Finally, as we're going through each room, we want to mark out irrelevant text. Filler words, mundane descriptions of exits (implied by the map), and objects that would obviously be in a room (like describing there are pots and pans in a kitchen).
+
+For instance, here's [Tower Silveraxe](https://www.drivethrurpg.com/en/product/358825/in-the-shadow-of-tower-silveraxe):
+
+> 14) ~~There are 2 doors here; northwest and southeast. The room is otherwise empty.~~
+
+or
+
+> 5) ~~This hall is long and has a few exits and turns. See map.~~
+
+or
+
+> 4) ~~A large room with 4 doors and~~ a round 10’ pool in the middle. The pool is purely decorative.
