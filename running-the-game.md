@@ -205,4 +205,4 @@ For the tell, we can say that the fish's mouth has a finger-sized hole in it tha
 
 Putting it all together, The statue has several ethereal hooks running from it to the ground. Pushing or turning the statue might (2-in-6 chance) tug on one of the hooks, and trigger a magic item inside the statue capable of producing poison gas. The gas travels from the interior out the fish's mouth.
 
-Unless a module *specifically* mentions otherwise, traps only have a 2-in-6 chance to trigger even if their trigger explicitly happens. You can walk over pit traps 4/6ths of the time; you miss tripwires 4/6th of the time, etc. Roll for *each Delver*.
+Unless an adventure *specifically* mentions otherwise, traps only have a 2-in-6 chance to trigger even if their trigger explicitly happens. You can walk over pit traps 4/6ths of the time; you miss tripwires 4/6th of the time, etc. Roll for *each Delver*.
