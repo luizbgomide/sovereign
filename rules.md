@@ -45,7 +45,7 @@ A Delver has five attributes ranging from 3 to 18, reflecting a range from the m
 
 Three of these attributes are physical.
 
-**Strength**, reflecting physical prowess, melee combat, carrying gear, and brute force. Influences melee [attack rolls](/combat#combat-attack-rolls), melee [damage](/combat#damage), [encumbrance](/rules#encumbrance), and [Physical](/rules#physical) [Saving Throws](#saving-throws).
+**Strength**, reflecting physical prowess, melee combat, carrying gear, and brute force. Influences melee [attack rolls](/combat#attack-rolls), melee [damage](/combat#damage), [encumbrance](/rules#encumbrance), and [Physical](/rules#physical) [Saving Throws](#saving-throws).
 
 **Dexterity**, reflecting speed, evasion, manual dexterity, reaction time, and combat initiative. Influences attack rolls with ranged weapons and some melee weapons, [AC](/equipment#armor-class), and [Evasion](#evasion) Saving Throws.
 

@@ -81,7 +81,7 @@ Some weapons have additional unique traits, perhaps being particularly slow to r
 | Staff                                      | `1d6`       | 1/AC 13 | STR/DEX   | -          | 2H, LL     | 1g   | 1   |
 | Stiletto                                   | `1d4`       | 1/AC 18 | DEX       | -          | S, PM      | 3g   | 1   |
 | Sword, Great                               | `1d12`      | 2/AC 15 | STR       | -          | 2H         | 15g  | 2   |
-| Sword                                      | `1d8`       | 2/AC 13 | STR/DEX   | -          | -          | 10g  | 1   |
+| <span id="sword">Sword</span>              | `1d8`       | 2/AC 13 | STR/DEX   | -          | -          | 10g  | 1   |
 | <span id="short-sword">Sword, Short</span> | `1d6`       | 2/AC 15 | STR/DEX   | -          | -          | 7g   | 1   |
 | Unarmed Attack                             | `1d2+Skill` | None    | STR/DEX   | -          | LL         | -    | -   |
 
@@ -105,13 +105,13 @@ Armor provides an <strong id="armor-class">Armor Class</strong> (AC). Equipped a
 
 Chain applies a -2 penalty to [Sneak](/rules#sneak) checks. Plate applies a -3 penalty to [Sneak](/rules#sneak) and [Exert](/rules#exert) checks.
 
-| Name    | AC  | Cost | enc |
-| ------- | --- | ---- | --- |
-| None    | 10  | 0g   | 0   |
-| Leather | 12  | 20g  | 1   |
-| Chain   | 14  | 40g  | 2   |
-| Plate   | 16  | 60g  | 3   |
-| Shield  | +1  | 10g  | 1   |
+| Name                            | AC  | Cost | enc |
+| -------                         | --- | ---- | --- |
+| None                            | 10  | 0g   | 0   |
+| Leather                         | 12  | 20g  | 1   |
+| Chain                           | 14  | 40g  | 2   |
+| <span id="plate">Plate</span>   | 16  | 60g  | 3   |
+| Shield                          | +1  | 10g  | 1   |
 
 ## Adventuring Gear
 

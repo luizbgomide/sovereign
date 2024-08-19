@@ -180,7 +180,7 @@ Fall prone, applying a -2 penalty to ranged attacks against you and a +2 bonus t
 
 Spend your [Move Action](#move-action) to delay acting on your side’s turn. You may trigger the rest of your turn’s actions as an [Instant Action](#instant-action) at any point until the end of the round, after which they are lost. If your held action is taken in response to someone else’s action, yours resolves first.
 
-## Combat Attack Rolls
+## Attack Rolls
 
 When an assailant makes an attack, they roll `1d20` and add their attack bonus, the weapon’s relevant attribute modifier, their relevant combat skill level, and any magical bonuses from their weapon. If the total is equal or greater than the target’s relevant AC, they hit. If less, they miss.
 

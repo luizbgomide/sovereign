@@ -167,8 +167,10 @@ An extensive [game master section](/running-the-game) is in progress! In the mea
 ### Change Log
 
 #### 2024-08-19
-- Fix table scrolling
+- Fix table scrolling.
 - Update number of suggested magic items per adventure.
+- Add a sling to the weapons list. Lots of magic stones out there in adventures.
+- Fully hyperlink delver creation.
 
 #### 2024-08-18
 - Finish the first draft of the preparing-a-module section

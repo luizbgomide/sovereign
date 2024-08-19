@@ -355,7 +355,7 @@ Annora [Runs](/combat#run-move) and circles around A3 (to be closer and give her
 
 Then, she attacks A3 with her sword. She rolls `1d20+3: 23` (natural 20s are not special) and hits for the minimum damage of 5, her [Shock](/combat#shock) value. A3 had 3 HP and is destroyed.
 
-Daegel [Goes Prone](/combat#go-prone-free) to apply an [additional -2 penalty](/combat#combat-attack-rolls) to ranged attacks against him. He [Holds His Action](/combat#hold-an-action-move) to be able to choose between using [Total Defense](/combat#total-defense-instant) if he's shot or [Ready or Stow an Item](/combat#ready-or-stow-an-item-main) to grab his Healing Potion from his backpack if he's not. Annora can take care of the last skeleton!
+Daegel [Goes Prone](/combat#go-prone-free) to apply an [additional -2 penalty](/combat#attack-rolls) to ranged attacks against him. He [Holds His Action](/combat#hold-an-action-move) to be able to choose between using [Total Defense](/combat#total-defense-instant) if he's shot or [Ready or Stow an Item](/combat#ready-or-stow-an-item-main) to grab his Healing Potion from his backpack if he's not. Annora can take care of the last skeleton!
 
 Now it's the Skeleton's turn. A2 moves 10ft east to put a little distance between it and Annora, and then shoots against [half cover](/combat#half-cover).
 
