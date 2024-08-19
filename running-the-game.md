@@ -326,10 +326,10 @@ So it'll be Bandits, then Goblins, then Elves, then Screechers...
 From [blorb principles](https://idiomdrottning.org/blorb-principles): if you're asked to specify details like "What is in this office?" then:
 
 1. Refer to your (edited) adventure.
-2. Otherwise, maybe you have a rule like "desks have quills, paper, and boring ledgers" or you've already made a random table of office contents.
-3. Otherwise, invent something that won't harm or help the players very much. Feel free to make it evocative but not distracting. After the session, *patch the hole*. Either create a new rule or random table or whatever for the future.
+2. Otherwise, maybe you have a heuristic like "desks have quills, paper, and boring ledgers" or you've already made a random table of office contents.
+3. Otherwise, invent something that won't harm or help the players very much. Feel free to make it evocative but not distracting. After the session, *patch the hole*. Either create a new heuristic, random table or whatever for the future.
 
-It's useful to have random tables of all kinds. Cooridor dressing (the unimportant stuff that helps distinguish one corridor from another), NPC names, etc. You don't need to crazy creating these; it's fine to create them in response to having to make something up.
+It's useful to have random tables of all kinds. [Set dressing](https://en.wikipedia.org/wiki/Set_dresser) (the stuff that gives a location the proper feel), NPC names, etc. You don't need to crazy creating these in advance. I source these from scenes in fantasy fiction: [Malazan](https://en.wikipedia.org/wiki/Malazan_Book_of_the_Fallen), [Fafhrd](https://en.wikipedia.org/wiki/Fafhrd_and_the_Gray_Mouser), [Dying Earth](https://en.wikipedia.org/wiki/Dying_Earth), [World of Warcraft](https://en.wikipedia.org/wiki/World_of_Warcraft), [Wheel of Time](https://en.wikipedia.org/wiki/The_Wheel_of_Time) etc.
 
 ### Looking Up Rules
 
@@ -356,3 +356,63 @@ Finally, treat predators as having [Killing Blow](/classes#class-ability-killing
 For example, Osric's Cave Bear has 6 HD, 6 AC, and has a claw (1d8)/claw (1d8)/bite (1d12) routine. In Sovereign, it would have 14 AC, the claws would have a Shock of 3/AC 18, and the bite would have a Shock of 3/AC 15.
 
 Osric's Bandit has 1 HD, AC based on equipment (we'll use Leather+Shield for 13), and might be equipped with a [short sword](/equipment#short-sword). In Sovereign, it would have 13 AC, and its sword would do 3/AC 15 shock.
+
+### Order of Battle
+
+[Wandering Encounters](/rules#wandering-encounters) represent the *initial* activity of a dungeon, before the inhabitants learn that the Delvers are *invading their home and stealing their stuff*. After first contact, the inhabitants should respond based on their natures. Do this *in addition* to the [Wandering Encounter](/rules#wandering-encounters) rules. Page 104 of the [AD&D 1e Dungeon Master's Guide](https://www.drivethrurpg.com/en/product/17004/dungeon-master-s-guide-1e) provides guidance by contrasting different monster types and situations that I'll paraphrase:
+
+#### Skeletons and Zombies
+
+The Delvers entered a crypt under an old temple and attacked skeletons and zombies encountered there. They respond only as the crypts are entered in turn. Being effectively mindless, they have no co-ordination in their attacks, and no pursuit will occur when the party breaks off.
+
+A week later, the Delvers return. There there is no change in response. Those destroyed will not have been replaced (assuming, of course, that some necromancer is not nearby) by reinforcements. Doors and furniture previously damaged or destroyed will not have been repaired.
+
+#### Giant Ants
+
+The Delvers located and attacked a colony of giant ants. An ant colony is an organized hive mind; response is orderly. Warrior ants meet the attackers. Workers remove bodies, items dropped, and any rubble caused by the combat. If the queen is threatened, the workers join the defense. When the Delvers retreat, there is a low chance that the Ants pursue.
+
+A week later, the Delvers return. In the interim, pupae reaching maturity (perhaps 1d6 warriors and 3d4 workers) replace casualties incurred during the first encounter. The workers repaired destroyed tunnels and dug new tunnels. General activity of the colony carried on normally. Warriors will again meet the party (although they might be reduced in number). When the queen is killed, all organized activity will cease.
+
+#### Orcs
+
+The Delvers found a cave complex which is the lair of an orc band. The orcs usually have a warning device (a drum, horn, gong, bell, etc.) available for use by the guards. As soon as the attack occurs, one or two orcs will rush to inform the rest that they are under attack. Response to the attack will be in waves, with the nearest orcs coming first, and the leaders (most likely to be at the rear of the complex) coming up near the last.
+
+Some traps might be set along the complex entry. Resistance will stiffen as the leaders (and ogres, if any) come up. When the Delvers retreat, there is a fair chance for pursuit by the boldest orcs.
+
+A week later, the Delvers return. The orcs are not likely to send for reinforcements, although returning group members replace losses. They repair damage or destruction in the cave complex. More guards patrol the complex with increased discipline. Response to the attack is faster; leaders and spell casters are ready to fight.
+
+#### Bandit Camp
+
+The Delvers encountered a bandit camp and engaged in combat. The entire camp is organized and ready for action on the spur of the moment. As soon as the guards sound the alarm, reaction is swift. Defensive traps, snares, and pits make up a part of the defensive ring of the camp. Bandits move to take up assigned posts. Counterattacks are thrown against the Delvers. When the Delvers retreat, thieves and assassins of the bandit group will move to track and follow the party to discover what its subsequent actions are and if another attack will ensue.
+
+A week later, the Delvers return. There is a great likelihood that the entire encampment will be **gone** if the Delvers were of sufficient power to cause serious trouble. Otherwise, the traps, pits, and snares will have been more carefully hidden and will be more numerous. Ambushes are set along the probable route of approach. A few more bandits might have been enlisted or called in from groups out raiding. All guards will have been doubled, all men more alert than ever, and all possible preparations made.
+
+During the interim, an assassination attempt upon one or more of the members of the party might have been made (if the bandits have an assassin), an attempt to insinuate a spy into the party might have been made, and/or a raid upon the party’s camp may have been carried out by the bandits. If the party retreats, pursuit will take place if bandit strength still allows.
+
+### Restocking
+
+Once the Delvers head to the adventure, they slowly burn resources. They use their consumable magic items, they spend their [Prepared Spells](/spells#preparing-a-spell), and they accumulate [System Strain](/rules#system-strain). If the dungeon is large and threatening enough, they'll have to retreat back to a settlement to get [Comfortable Sleep](#comfortable-sleep) and may want to return.
+
+While they're gone, restock the dungeon. Split the dungeon up into ~20-room sections. For every week the Delvers are away, roll `4d3-5` for each section. On positive results, that many encounters repopulate, either from new members being born (like Giant Ants), members returning from trips (like Bandits), or new monsters moving into the now-vacant space. To generate new occupants, use the [Random Dungeon Encounters from Osric](https://osricwiki.presgas.name/doku.php?id=osric:chapter4#random_dungeon_encounters). Only re-stock up to the number of original keyed encounters and do not re-stock treasure.
+
+### Exploring Settlements
+
+Many adventures will present a town with tons of keyed locations but totally fail to articulate how they envision such places to be explored. For instance, say that the Delvers go to Gosterwick (the main town of [Arden Vul](https://www.drivethrurpg.com/en/product/307320/the-halls-of-arden-vul-complete)). It would be absurd to say:
+
+**GM**: You arrive at Gosterwick; it's huge. You could go to Azure Keep, Lady Alexia's Residence, Kaleo's Bathhouse, The Baliff's Truncheon, The Benevolent Brotherhood, The House of Gods, The Temple of Mitra, Temple of Heschius Ban,  Temple of Demma, Temple of Lucreon, Residence of Chairduster the Metallurgist, The Stunned Acolyte Inn, The House of Sight, Torunn the Smith, The Private House, The Old Well Tavern, The Rarities Factor, The Grain Hall, The House of Coins, The Silent Factor, The Yellow Cloak Inn, The Central Market, House of the Thesmothete, The Prosperity Factor, Creon’s Curios and Pawnshop, The Muddy Puddle, Jeremias the Money Changer, Chairduster’s Fine Metallurgy, Astableon the Scribe and Bookseller, The Arcane Practitioners’ Club, Livestock and Horse Market, or The Kettles. What do you do?
+
+In [So You Want To Be A Game Master](https://www.amazon.com/You-Want-Game-Master-Adventure_for/dp/1645679152), Alexander recommends splitting up the settlement into 4-10 districts. For instance, Gosterwick has The Keep, Upper Market, Under Keep, Lower Market, Incense District, and The Outs. Then, whenever players want to do something in the city, ask them which district they want to do stuff in, reminding them of the general vibe.
+
+If they just want to explore, ask which district they want to explore in. Pick a (random) keyed location from the district for them to check out.
+
+If they're looking for something specific (like an inn, library, or clue), ask which district they search. If that district doesn't have the thing they're looking for, have someone from that district recommend options in other districts.
+
+**GM**: You finally make it back from the Halls of Arden Vul to the "safety" of Gosterwick. What do you do?
+
+**Alice**: Let's find an inn; we're ready to crash.
+
+**GM**: Which district? There's Upper Market which is a little snobby, Under Keep is poor and seedy, Lower market is prosperous, Incense District enmeshes nobility with the masses, and The Outs is barely more than a shanty.
+
+**Alice**: Let's check Lower Market.
+
+**GM**: Crossing the Imperial Gate and walking the Imperial Way, you pass The House of the Thesmothete, a 3-story stone-and-wood structure that serves as the civic heart of Gosterwick. Across from the Thesmothete is the Yellow Cloak Inn, painted imperial yellow and is 5 stories tall...

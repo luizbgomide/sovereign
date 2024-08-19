@@ -166,6 +166,8 @@ This game endeavors to provide a ruleset that allows players to play through adv
 - Add a sling to the weapons list. Lots of magic stones out there in adventures.
 - Fully hyperlink delver creation.
 - Note in the index that Running the Game is much more complete
+- Finish Running the Game
+- I think we're ready to release!
 
 #### 2024-08-18
 - Finish the first draft of the preparing-a-module section
