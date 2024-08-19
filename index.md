@@ -11,7 +11,7 @@ This document is split in several sections.
 
 [Examples of Play](/examples) tries to cover the major systems and subsystems, as well as convey some play culture.
 
-An extensive [game master section](/running-the-game) is in progress! In the mean time, much of the material can be found in long-form in my review of [Brandonsford](https://rancourt.substack.com/p/review-the-black-wyrm-of-brandonsford), ruminations on [randomness](https://rancourt.substack.com/p/on-randomness), my audit of [silveraxe](https://rancourt.substack.com/p/audit-tower-silveraxe), [Beginning Game Masters - The Alexandrian](https://thealexandrian.net/gamemastery-101), the [Art of Rulings](https://thealexandrian.net/wordpress/4238/roleplaying-games/the-art-of-rulings), the [Art of Pacing](https://thealexandrian.net/wordpress/31509/roleplaying-games/the-art-of-pacing) and the [Art of the Key](https://thealexandrian.net/wordpress/35180/roleplaying-games/the-art-of-the-key).
+[Running The Game](/running-the-game) (for Game Masters) is still in progress, but currently covers gathering a group to play with, how to keep the game running, a recommend buy list for physical materials, and a module conversion and auditing guide.
 
 # Table Of Contents
 
@@ -171,6 +171,7 @@ An extensive [game master section](/running-the-game) is in progress! In the mea
 - Update number of suggested magic items per adventure.
 - Add a sling to the weapons list. Lots of magic stones out there in adventures.
 - Fully hyperlink delver creation.
+- Note in the index that Running the Game is much more complete
 
 #### 2024-08-18
 - Finish the first draft of the preparing-a-module section
