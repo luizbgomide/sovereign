@@ -166,6 +166,10 @@ An extensive [game master section](/running-the-game) is in progress! In the mea
 
 ### Change Log
 
+#### 2024-08-19
+- Fix table scrolling
+- Update number of suggested magic items per adventure.
+
 #### 2024-08-18
 - Finish the first draft of the preparing-a-module section
 

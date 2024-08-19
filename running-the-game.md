@@ -293,9 +293,9 @@ Unfortunately, there's no quick way to do this. You have to go through each room
 
 Incandescent Grottoes has 40481 lootable treasure, 2208 xp worth of keyed defenders, for a ratio of ~18. This is absurd! It's enough to get a party of 4 Delvers from level 1 to nearly level 5, which is **way** too much. We're going to want to divide every piece of loot in the dungeon by 5 to get this back in line.
 
-We also want to rebalance magic items so that there is roughly 1 item per 10000 XP.
+We also want to rebalance magic items so that there are around 2 consumables (scrolls, potions, etc) and 1 permament magic item per 2000 XP of defenders.
 
-Incandescent Grottoes has a whopping 23 magic items. We want it to have 4-5, so we need to cut ~18 of the magic items.
+Incandescent Grottoes has a whopping 23 magic items. We want it to have 3, so we need to cut ~20 of the magic items.
 
 ### Pre-Rolling
 
