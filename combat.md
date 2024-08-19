@@ -184,7 +184,7 @@ Spend your [Move Action](#move-action) to delay acting on your side’s turn. Yo
 
 ## Attack Rolls
 
-When an assailant makes an attack, they roll `1d20` and add their attack bonus, the weapon’s relevant [Attribute Modifier](/rules#attribute-modifiers), their relevant combat skill ([Brawl](/rules#brawl), [Stab](/rules#stab), or [Shoot](/rules#shoot)) level, and any magical bonuses from their weapon. If the total is equal or greater than the target’s relevant AC, they hit. If less, they miss.
+When an assailant makes an attack, they roll `1d20` and add their attack bonus, the weapon’s relevant [Attribute Modifier](/rules#attribute-modifiers), their relevant combat skill ([Brawl](/rules#brawl), [Stab](/rules#stab), or [Shoot](/rules#shoot)) level, and any magical bonuses from their weapon. If the total is equal or greater than the target’s AC, they hit. If less, they miss.
 
 Every weapon listed in the equipment section is listed as using one or more attributes, such as either STR or DEX for a [dagger](/equipment#dagger). The attacker may choose either attribute for modifying the weapon’s attack and damage rolls.
 
