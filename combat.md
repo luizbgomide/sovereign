@@ -13,7 +13,7 @@ The grid helps us disambiguate a few situations:
 
 - Allies can move through each other so long as they do not end their movement in an unoccupied square.
 - A character can not move through a standing enemy. [Shove](#shoving) (or kill) them to get by. Creatures 8x bigger (in any dimension) than their enemies instead treat enemies as [difficult terrain](#difficult-terrain).
-- A two squares are considered adjacent if they share an edge or corner (diagonals are adjacent).
+- Two squares are considered adjacent if they share an edge or corner (diagonals are adjacent).
 - Movement is done in 5' adjacent increments. This allows characters to move a greater distance diagonally than in a cardinal direction (in a [cartesian sense](https://en.wikipedia.org/wiki/Cartesian_coordinate_system)), but the decreased book-keeping is worth the loss of realism.
 - Abilities that have a radius create a square on the grid where each side of the square has a length of twice the radius. For example, [Magic Bomb](/spells#magic-bomb) creates 20' radius explosion. On the grid, this is an 8x8 square.
 - Some squares are <strong id="difficult-terrain">Difficult Terrain</strong>, requiring 10' of movement to enter. Others (like where walls are) are impassible.
