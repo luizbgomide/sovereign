@@ -106,7 +106,6 @@ header#nav-header.headroom--frozen {
 
 main {
     margin-top: 59.5px;
-    overflow-x: scroll;
 }
 
 html,
@@ -131,4 +130,8 @@ body {
     text-align: center;
     border-radius: 5px;
     margin-left: 5px;
+}
+
+.table-wrapper {
+    overflow-x: scroll;
 }
