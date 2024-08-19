@@ -156,6 +156,9 @@ This game endeavors to provide a ruleset that allows players to play through adv
 - Actually playtest the classes. I know it uses WWN which has its own playtesting, but there's probably still jank somewhere.
 - Make sure that there's enough skills for all the advancement points that PCs get while leveling up. Need to make sure that not every high level character is the same.
 - Make sure that there's enough feats for spellcasters.
+- Build out sample build packages for players who aren't interested in build craft and just want to get going
+- Build out sample adventuring parties for random encounters
+- Create out starting-at-higher-level rules (mostly magic items)
 
 ### Change Log
 
