@@ -7,12 +7,6 @@ Welcome to Sovereign!
 
 This game endeavors to provide a ruleset that allows players to play through adventures compatible with [1980s D&D](https://en.wikipedia.org/wiki/Dungeons_%26_Dragons_Basic_Set). Little conversion should be necessary. The game hopes to be written more clearly, be more searchable, better hyperlinked, have more depth, and boast a better in-game economy.
 
-This document is split in several sections.
-
-[Examples of Play](/examples) tries to cover the major systems and subsystems, as well as convey some play culture.
-
-[Running The Game](/running-the-game) (for Game Masters) is still in progress, but currently covers gathering a group to play with, how to keep the game running, a recommend buy list for physical materials, and a module conversion and auditing guide.
-
 # Table Of Contents
 
 <ul>
