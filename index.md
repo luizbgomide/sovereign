@@ -156,7 +156,6 @@ This game endeavors to provide a ruleset that allows players to play through adv
 - Actually playtest the classes. I know it uses WWN which has its own playtesting, but there's probably still jank somewhere.
 - Make sure that there's enough skills for all the advancement points that PCs get while leveling up. Need to make sure that not every high level character is the same.
 - Make sure that there's enough feats for spellcasters.
-- The whole GM section. The advice and theory can wait, but conversion guides and whatnot are pressing.
 
 ### Change Log
 
