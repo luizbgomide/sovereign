@@ -107,7 +107,7 @@ I love GFC's [take on factions](https://guccifuligincloak.blogspot.com/2020/01/t
 
 for each faction. If the faction doesn’t want anything, it’s hard to know how to get them to act or how they’ll react. If nothing is stopping them from getting what they want, why don’t they have it? If they’re not trying to remove their obstacle, what are they doing, and do they actually want the thing?
 
-Read through the factions in the adventure (and dungeon), and make sure they're at least this complex. If they aren't, flesh them out! The [Parley](/rules#parley) information has some sample motivations for each kind of creature:
+Read through the factions in the adventure (and dungeon), and make sure they're at least this complex. If they aren't, flesh them out! The [Parley](/rules#parley) information has some sample motivations (from [The Monsters Know What They're Doing](https://www.themonstersknow.com/)) for each kind of creature:
 
 **Dragons** want food, territory, treasure, and domination.
 

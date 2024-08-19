@@ -467,6 +467,8 @@ The amount of value a NPC is willing to offer should be no more than how much le
 
 **Fey** have emotional motives, often following dream logic or the [seven deadly sins](https://en.wikipedia.org/wiki/Seven_deadly_sins) (gluttony, lust, greed, sorrow, wrath, sloth, pride).
 
+source: [The Monsters Know What They're Doing](https://www.themonstersknow.com/)
+
 ## Advancement
 
 Characters accumulate <strong id="experience-points">Experience Points</strong> (XP) by defeating monsters, extracting coins and treasure from dungeons, and making it back to a settlement. The *party* accumulates XP while on an adventure, and then all surviving members get a share of the total XP when they return to town. Delvers get a full share and Henchmen get half of a share.
