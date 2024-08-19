@@ -69,7 +69,7 @@ Some weapons have additional unique traits, perhaps being particularly slow to r
 | Club                                       | `1d4`       | None    | STR/DEX   | 10/30      | T, LL      | -    | 1   |
 | Club, Great                                | `1d10`      | 2/AC 15 | STR       | -          | 2H         | 1g   | 2   |
 | Crossbow                                   | `1d10`      | None    | DEX       | 100/300    | 2H, SR, PM | 30g  | 1   |
-| Dagger                                     | `1d4`       | 1/AC 15 | STR/DEX   | 30/60      | S, T, PM   | 3g   | 1   |
+| <span id="dagger">Dagger</span>            | `1d4`       | 1/AC 15 | STR/DEX   | 30/60      | S, T, PM   | 3g   | 1   |
 | Polearm                                    | `1d10`      | 2/AC 15 | STR       | -          | 2H, L      | 7g   | 2   |
 | Great Hammer                               | `1d10`      | 2/AC 18 | STR       | -          | 2H         | 10g  | 2   |
 | Mace                                       | `1d6`       | 1/AC 18 | STR       | -          | LL         | 5g   | 1   |
@@ -111,7 +111,7 @@ Chain applies a -2 penalty to [Sneak](/rules#sneak) checks. Plate applies a -3 p
 | Leather                         | 12  | 20g  | 1   |
 | Chain                           | 14  | 40g  | 2   |
 | <span id="plate">Plate</span>   | 16  | 60g  | 3   |
-| Shield                          | +1  | 10g  | 1   |
+| <span id="shield">Shield</span> | +1  | 10g  | 1   |
 
 ## Adventuring Gear
 

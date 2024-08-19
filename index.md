@@ -159,6 +159,7 @@ This game endeavors to provide a ruleset that allows players to play through adv
 - Build out sample build packages for players who aren't interested in build craft and just want to get going
 - Build out sample adventuring parties for random encounters
 - Create out starting-at-higher-level rules (mostly magic items)
+- Port over conditions from those outside the walls
 
 ### Change Log
 

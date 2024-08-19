@@ -65,11 +65,11 @@ Attacks, movement, spellcasting, and other combat activities all require one of 
 
 <strong id="main-action">Main Actions</strong> are a character’s primary action during a combat round, such as attacking an enemy, applying first aid to a downed ally, casting a spell, frantically evading incoming spears, or something else that takes less than ten seconds to do. A combatant gets one Main action per round.
 
-<strong id="move-action">Move Actions</strong> involve moving the character’s normal movement rate of 30 feet or performing some other relatively brief bodily action, such as getting up from prone. A combatant gets one Move Action per round, but can spend their main action to get a second.
+<strong id="move-action">Move Actions</strong> involve moving the character’s normal movement rate of 30 feet or performing some other relatively brief bodily action, such as getting up from prone. A combatant gets one Move Action per round, but can spend their [Main Action](#main-action) to get a second.
 
-<strong id="free-action">Free Actions</strong> are brief, simple acts that require only a moment’s concentration. Activating certain abilities or speaking a few words might constitute a [Free Action](#free-action). A combatant can take as many [Free Action](#free-action)s on their round as the GM finds plausible.
+<strong id="free-action">Free Actions</strong> are brief, simple acts that require only a moment’s concentration. Activating certain abilities or speaking a few words might constitute a Free Action. A combatant can take as many Free Actions on their round as the GM finds plausible.
 
-<strong id="instant-action">Instant Actions</strong> are special, most being provided only by certain powers or certain special actions. Instant Actions can be performed even when it’s not your turn in the round, even after the dice have already been rolled. The Veteran’s Luck class ability provides one such Instant Action, allowing the Delver to treat a missed attack roll as an automatic hit. A combatant can use as many Instant Actions in a round as the GM finds plausible. Instant Actions performed at the same time are resolved simultaneously, with the GM adjudicating any ambiguities.
+<strong id="instant-action">Instant Actions</strong> are special, most being provided only by certain powers (like [Veteran's Luck](/classes#class-ability-veterans-luck)) or certain actions (like [Hold an Action](#hold-an-action-move)). Instant Actions can be performed even when it’s not your turn in the round, even after the dice have already been rolled. A combatant can use as many Instant Actions in a round as the GM finds plausible. Instant Actions performed at the same time are resolved simultaneously, with the GM adjudicating any ambiguities.
 
 Many actions (like [Run](/combat#run-move) and [Stand Up](/combat#stand-up-move)) allow any adjacent foes armed with a melee weapon to make a free <strong id="attack-of-opportunity">Attack of Opportunity</strong>. To avoid this, either do not be in melee range or use the [Disengage](/combat#disengage-main) action first.
 
@@ -94,15 +94,15 @@ Many actions (like [Run](/combat#run-move) and [Stand Up](/combat#stand-up-move)
 | [Total Defense](/combat#total-defense-instant)              | Instant   | No                     |
 | [Make a Snap Attack](/combat#make-a-snap-attack-instant)    | Instant   | No                     |
 
-This list is not exhaustive! If you want to do something else, or a variant of any of these actions, describe what you're doing and what you are hoping to have happen, and the GM will figure out the specifics - see [the core gameplay loop](/rules#core-gameplay-loop). Normally, this involves figuring out which sort of action it takes (main, move, free, etc), whether or not it provokes an attack of opportunity, etc.
+This list is not exhaustive! If you want to do something else, or a variant of any of these actions, describe what you're doing and what you are hoping to have happen, and the GM will figure out the specifics - see the [Core Gameplay Loop](/rules#core-gameplay-loop). Normally, this involves figuring out which sort of action it takes ([Main](#main-action), [Move](#move-action), [Free](#free-action), etc), whether or not it provokes an [Attack of Opportunity](#attack-of-opportunity), etc.
 
 ### Make a Melee Attack (Main)
 
-Attack a target in melee range with an unarmed attack or melee weapon. Such weapons use either the [Brawl](/rules#brawl) or the [Stab](/rules#stab) skill, depending on the type of attack.
+[Attack](#attack-rolls) a target in melee range with an unarmed attack or melee weapon. Such weapons use either the [Brawl](/rules#brawl) or the [Stab](/rules#stab) skill, depending on the type of attack.
 
 ### Make a Ranged Attack (Main)
 
-Attack a target with a bow or thrown weapon. The [Shoot](/rules#shoot) skill is used for these attacks, though [Stab](/rules#stab) or [Exert](/rules#exert) can optionally be used for thrown weapons. If there is an enemy attacker in melee range, one-handed ranged weapons and thrown weapons suffer a -4 penalty to hit, while bows and other two-handed ranged weapons cannot be fired at all.
+[Attack](#attack-rolls) a target with a bow or thrown weapon. The [Shoot](/rules#shoot) skill is used for these attacks, though [Stab](/rules#stab) or [Exert](/rules#exert) can optionally be used for thrown weapons. If there is an enemy attacker in melee range, one-handed ranged weapons and thrown weapons suffer a -4 penalty to hit, while bows and other two-handed ranged weapons cannot be fired at all.
 
 ### Make a Snap Attack (Instant)
 
@@ -112,23 +112,25 @@ Since Snap Attack is an [Instant Action](#instant-action), you can use it to int
 
 ### Make a Swarm Attack (Main)
 
-Target an enemy within range of your weapon and take this action until up to four allies have Made a Swarm Attack on that target this round. At that point or any point beforehand, one of these assailants can Make a Melee Attack or Make a Ranged Attack on the target with a +2 bonus to hit and +1 bonus to damage for every other assailant, up to a maximum bonus of +6 to hit and +3 damage. This bonus damage does not add to the attack’s Shock and cannot make it do more than its usual maximum damage. Any Shock inflicted by this attack is always applicable, however, even if the target’s AC is too high, they’re using a shield, or have some power that makes them immune to Shock; the damage a Swarm Attack does isn’t really Shock, but a reflection of the inevitable hazards of being swarmed by numerous armed foes.
+Target an enemy within range of your weapon and take this action until up to four allies have Made a Swarm Attack on that target this round. At that point or any point beforehand, one of these assailants can [Make a Melee Attack](#make-a-melee-attack-main) or [Make a Ranged Attack](#make-a-ranged-attack-main) on the target with a +2 bonus to hit and +1 bonus to damage for every other assailant, up to a maximum bonus of +6 to hit and +3 damage.
+
+This bonus damage does not add to the attack’s [Shock](#shock) and cannot make it do more than its usual maximum damage. Any [Shock](#shock) inflicted by this attack is always applicable, even if the target’s AC is too high, they’re using a shield, or have some power that makes them immune to [Shock](#shock). The damage a Swarm Attack does isn’t really Shock, but a reflection of the inevitable hazards of being swarmed by numerous armed foes.
 
 ### Charge (Special)
 
 Spend both your [Main Action](#main-action) and your [Move Action](#move-action) to move up to twice your normal movement rate in a straight line, making a melee or thrown ranged attack at the end of it with a +2 bonus to hit. You must be able to charge at least 5' to build up sufficient momentum and you suffer a -2 penalty to your AC until the end of the round.
 
-If you start your movement adjacent to an armed melee combatant, they get a free melee attack against you as you flee. To avoid this, you must [Disengage](/combat#disengage-main) first.
+If you start your movement adjacent to an armed melee combatant, they get an [Attack of Opportunity](#attack-of-opportunity). To avoid this, you must [Disengage](/combat#disengage-main) first.
 
 ### Screen an Ally (Move)
 
-Move up to your normal movement rate to get adjacent to an ally. You then physically block attacks against them until the start of your next turn, provided they remain within 5 ft of you. Enemies who attack your ward must make a successful opposed combat skill check against you using either STR or DEX and the most applicable combat skill.
+Move up to your normal movement rate to get adjacent to an ally. You then physically block attacks against them until the start of your next turn, provided they remain within 5 ft of you. Enemies who attack your ward must make a successful [opposed](/rules#opposed-skill-checks) combat [skill check](/rules#skill-checks) against you using either STR or DEX and the most applicable combat skill.
 
 If the enemy succeeds, their attack targets your ward normally. If you succeed, their attack instead targets you. You can screen against a number of attackers each round equal to your highest combat skill; thus, you need at least level 1 in a combat skill to successfully screen.
 
 Multiple defenders can screen the same target, in which case the opposed skill check is compared to all defenders and targets the worst-rolling successful defender. You can only screen against attacks you could feasibly physically parry or body-block.
 
-If you moved and started your movement adjacent to an armed melee combatant, they get a free melee attack against. To avoid this, you must [Disengage](/combat#disengage-main) first.
+If you moved and started your movement adjacent to an armed melee combatant, they get an [Attack of Opportunity](#attack-of-opportunity). To avoid this, you must [Disengage](/combat#disengage-main) first.
 
 Screen an Ally may be used to protect ranged allies (especially spellcasters) from ranged attacks.
 
@@ -136,41 +138,41 @@ Screen an Ally may be used to protect ranged allies (especially spellcasters) fr
 
 Give up your [Main Action](#main-action) to focus entirely on dodging and evading incoming perils. Your AC increases by 2 and you become immune to Shock until the start of your next turn, including the otherwise-unavoidable damage from a Swarm Attack. You cannot take this action if you have already spent your [Main Action](#main-action) for the round.
 
-Since Total Defense is an [Instant Action](#instant-action), you may use it *after* you see the result of an attack roll against you.
+Since Total Defense is an [Instant Action](#instant-action), you may use it *after* you see the result of an [Attack Roll](#attack-rolls) against you.
 
 ### Run (Move)
 
-Move your normal movement rate in combat, which is 30 feet for an ordinary human. When you leave a melee combatant's range (usually 5', though can be longer for big foes or [Long](/equipment#long) weapons), they get a free attack against you as an [Instant](#instant) action. To avoid this, you must [Disengage](/combat#disengage-main) first.
+Move your normal movement rate in combat, which is 30 feet for an ordinary human. When you leave a melee combatant's range (usually 5', though can be longer for big foes or [Long](/equipment#long) weapons), they get an [Attack of Opportunity](#attack-of-opportunity). To avoid this, you must [Disengage](/combat#disengage-main) first.
 
 ### Disengage (Main)
 
-Disengage from all adjacent melee attackers for the rest of the round, allowing you to move or act from them without incurring a free attack. This action *does not move you* by itself.
+Disengage from all adjacent melee attackers for the rest of the round, allowing you to move or act from them without incurring an [Attack of Opportunity](#attack-of-opportunity). This action *does not move you* by itself.
 
 ### Use a Skill (Main)
 
 Perform first aid on a downed comrade, cry out an appeal for parley, or otherwise use a skill that wouldn’t normally take more than six seconds.
 
-If you attempt to Use a Skill while adjacent to an armed melee combatant, they get a free melee attack against you.
+If you attempt to Use a Skill while adjacent to an armed melee combatant, they get an [Attack of Opportunity](#attack-of-opportunity).
 
 ### Ready or Stow an Item (Main)
 
-A character can Ready an item for use from their pack or stowage or Stow it, as per the encumbrance rules. Sheathing or holstering a Readied weapon without actually Stowing it does not require this action, though the GM may disallow rapid weapon swaps if they start to become implausible.
+A character can [Ready](/rules#readied) an item for use from their pack or stowage or [Stow](/rules#stowed) it, as per the encumbrance rules. Sheathing or holstering a [Readied](/rules#readied) weapon does not require this action, though the GM may disallow rapid weapon swaps if they start to become implausible.
 
 ### Reload a Weapon (Main)
 
-Reload a crossbow from a Readied case of quarrels. Bows and crossbows may be reloaded as a [Free Action](#free-action) if the shooter has at least [Shoot](/rules#shoot)-1; otherwise it’s a [Move Action](#move-action) to nock a new arrow in a bow.
+Reload a crossbow from a [Readied](/rules#readied) [Quiver](/equipment#quiver). Bows and crossbows may be reloaded as a [Free Action](#free-action) if the shooter has at least [Shoot](/rules#shoot)-1; otherwise it’s a [Move Action](#move-action) to nock a new arrow in a bow. Don't bother tracking ammunition, but don't try stupid plans that assume you have infinite ammo.
 
 ### Pick up an Item (Move)
 
-Scoop up a dropped item within melee range, leaving it Readied in your hand.
+Scoop up a dropped item within melee range, leaving it [Readied](/rules#readied) in your hand.
 
-If you attempt to pick up an item while adjacent to an armed melee combatant, they get a free melee attack against you. To avoid this, you must [Disengage](/combat#disengage-main) first.
+If you attempt to pick up an item while adjacent to an armed melee combatant, they get an [Attack of Opportunity](#attack-of-opportunity). To avoid this, you must [Disengage](/combat#disengage-main) first.
 
 ### Stand Up (Move)
 
 Rise from a prone position, picking up any dropped items as you do so.
 
-If you stand up adjacent to an armed melee combatant, they get a free melee attack against you. To avoid this, you must [Disengage](/combat#disengage-main) first.
+If you stand up adjacent to an armed melee combatant, they get an [Attack of Opportunity](#attack-of-opportunity). To avoid this, you must [Disengage](/combat#disengage-main) first.
 
 ### Go Prone (Free)
 
@@ -182,11 +184,11 @@ Spend your [Move Action](#move-action) to delay acting on your side’s turn. Yo
 
 ## Attack Rolls
 
-When an assailant makes an attack, they roll `1d20` and add their attack bonus, the weapon’s relevant attribute modifier, their relevant combat skill level, and any magical bonuses from their weapon. If the total is equal or greater than the target’s relevant AC, they hit. If less, they miss.
+When an assailant makes an attack, they roll `1d20` and add their attack bonus, the weapon’s relevant [Attribute Modifier](/rules#attribute-modifiers), their relevant combat skill ([Brawl](/rules#brawl), [Stab](/rules#stab), or [Shoot](/rules#shoot)) level, and any magical bonuses from their weapon. If the total is equal or greater than the target’s relevant AC, they hit. If less, they miss.
 
-Every weapon listed in the equipment section is listed as using one or more attributes, such as either STR or DEX for a dagger. The attacker may choose either attribute for modifying the weapon’s attack and damage rolls.
+Every weapon listed in the equipment section is listed as using one or more attributes, such as either STR or DEX for a [dagger](/equipment#dagger). The attacker may choose either attribute for modifying the weapon’s attack and damage rolls.
 
-NPCs usually do not have attribute modifiers or skill levels. Instead, the attack bonus of a trained NPC combatant is usually equal to their HD, often with an additional bonus to reflect particularly good training or talent.
+NPCs usually do not have attribute modifiers or skill levels. Instead, the combined attack bonus of a trained NPC combatant is usually equal to their HD, sometimes with an additional bonus to reflect particularly good training or talent.
 
 Some common situations modify an attack roll, granting a bonus or penalty. GMs may add others depending on the situation.
 
@@ -206,21 +208,21 @@ Some common situations modify an attack roll, granting a bonus or penalty. GMs m
 
 ## Damage
 
-If an attack hits, it inflicts HP damage equal to the weapon’s damage die plus the weapon’s relevant attribute modifier. Class Abilities (like [Killing Blow](/classes#class-ability-killing-blow)), Feats (like [Armsmaster](/feats#armsmaster-c)), and magic weapon enchantments increase this damage.
+If an attack hits, it inflicts HP damage by rolling the weapon’s damage die plus the weapon’s relevant [Attribute Modifier](/rules#attribute-modifiers). Class Abilities (like [Killing Blow](/classes#class-ability-killing-blow)), Feats (like [Armsmaster](/feats#armsmaster-c)), and magic weapon enchantments increase this damage.
 
 If you are making a purely unarmed attack add your [Brawl](/rules#brawl) to the damage.
 
-If the result is less than your Shock damage, inflict that much instead.
+If the result is less than your [Shock](#shock) damage, inflict that much instead.
 
 ## Shock
 
-Some melee weapons inflict Shock on a missed attack roll. This damage reflects the inevitable harm a poorly-armored combatant suffers when engaging in armed combat. Shock for a weapon is recorded as a point value and target AC, such as “Shock 2/15”. If the wielder misses a target with this weapon that has a AC equal or less than the weapon’s Shock rating, they suffer the listed amount of damage anyway. Thus, if that weapon were to miss a victim with Melee AC 13, it would still do 2 points of damage.
+Some melee weapons inflict Shock on a missed attack roll. This damage reflects the inevitable harm a poorly-armored combatant suffers when engaging in armed combat. Shock for a weapon is recorded as a point value and target AC, such as “Shock 2/AC 15”. If the wielder misses a target with this weapon that has a AC equal or less than the weapon’s Shock rating, they suffer the listed amount of damage anyway. Thus, if that weapon were to miss a victim with Melee AC 13, it would still do 2 points of damage.
 
 Some attacks apply Shock on a miss regardless of the target’s AC. This benefit may be granted by certain abilities (like [Armsmaster](/feats#armsmaster-c)), or it be part of a dangerous NPC’s talents. Such Shock ratings are recorded with “-” as the affected AC, such as “Shock 5/-”. This automatic Shock is still negated by shields or abilities that grant a subject immunity to Shock.
 
-The only modifiers that add to Shock damage are the wielder’s relevant attribute modifier for the weapon and any damage bonuses that explicitly add to Shock.
+The only modifiers that add to Shock damage are the wielder’s relevant attribute modifier for the weapon and any damage bonuses that explicitly add to Shock, and a magic weapon's bonus.
 
-A person using a shield ignores the first source of Shock they would normally suffer in a round. Some other Feats or special actions such as Total Defense can also render a subject immune to Shock.
+A person using a [shield](/equipment#shield) ignores the first source of Shock they would normally suffer in a round. Some other [Feats](/feats) or special actions such as [Total Defense](#total-defense-instant) can also render a subject immune to Shock.
 
 An attack that hits never does less damage than the Shock that would have been inflicted on a miss.
 
@@ -228,11 +230,11 @@ An attack that hits never does less damage than the Shock that would have been i
 
 ### Shoving
 
-To knock a target down or force them into an adjacent square, the attacker needs a successful attack roll. Then, in lieu of damage, roll an opposed STR/[Brawl](/rules#brawl) or STR/[Exert](/rules#exert) check. If the attacker succeeds, the target is forced into an adjacent square or knocked prone.
+To knock a target down or force them into an adjacent square, the attacker needs a successful [Attack Roll](#attack-rolls). Then, in lieu of damage, roll an opposed STR/[Brawl](/rules#brawl) or STR/[Exert](/rules#exert) check. If the attacker succeeds, the target is forced into an adjacent square or knocked prone.
 
 ### Grappling
 
-To grapple a foe, the attacker must first hit with an unarmed attack. In lieu of damage, make an opposed STR/[Brawl](/rules#brawl) check. If the attacker wins, the defender is grappled and remains that way until released or until they spend a [Main Action](#main-action) and succeed in a new opposed check. An attacker can grapple only one target at a time, though multiple attackers can cling to the same luckless defender. In such cases, the defender’s single skill check is compared against all of their foes.
+To grapple a foe, the attacker must first hit with an unarmed attack [Attack Roll](#attack-rolls). In lieu of damage, make an opposed STR/[Brawl](/rules#brawl) check. If the attacker wins, the defender is grappled and remains that way until released or until they spend a [Main Action](#main-action) and succeed in a new opposed check. An attacker can grapple only one target at a time, though multiple attackers can cling to the same luckless defender. In such cases, the defender’s single skill check is compared against all of their foes.
 
 While grappling, neither attackers or defenders can move from their current location, nor can they fight with anything but unarmed attacks. At the end of each round in which a defender remains grappled, they suffer damage from each attacker as if hit with an unarmed attack from each foe grappling them.
 
