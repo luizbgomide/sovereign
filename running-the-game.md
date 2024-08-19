@@ -13,7 +13,7 @@ I *highly* recommend trying to play in-person. The easy way to do this is to ask
 
 Finally, it's worth advertising at your friendly local game store. They often let people reserve tables or have a dedicated night. If you google "friendly local game store near me", you'll hopefully get some nearby places. If you don't, experiment with... moving to a city. Once you find one, call them and ask about D&D, that's usually way faster than trying to navigate bespoke (and frequently out of date) websites.
 
-## Actually Playing
+## Playing Consistently
 
 Get people together, *noncommittally* to see if they like playing in your game. Make sure they're safe, and that you'd be comfortable having them in your house. I like to have lunch with people at a restaurant before inviting them to my home (sort of like how dating works), but meeting at a game store in the beginning works too.
 
@@ -316,3 +316,43 @@ Can become:
 ![400](/assets/images/nuromen-encounter-2.png)
 
 So it'll be Bandits, then Goblins, then Elves, then Screechers...
+
+## During The Session
+
+*Almost* all of the work is front-loaded in [Preparing An Adventure](#preparing-an-adventure), and your job during the session is to properly execute the [Core Gameplay Loop](/rules#core-gameplay-loop) over and over. That said, there are a few GM-specific areas worth diving into.
+
+### Specifying Details
+
+From [blorb principles](https://idiomdrottning.org/blorb-principles): if you're asked to specify details like "What is in this office?" then:
+
+1. Refer to your (edited) adventure.
+2. Otherwise, maybe you have a rule like "desks have quills, paper, and boring ledgers" or you've already made a random table of office contents.
+3. Otherwise, invent something that won't harm or help the players very much. Feel free to make it evocative but not distracting. After the session, *patch the hole*. Either create a new rule or random table or whatever for the future.
+
+It's useful to have random tables of all kinds. Cooridor dressing (the unimportant stuff that helps distinguish one corridor from another), NPC names, etc. You don't need to crazy creating these; it's fine to create them in response to having to make something up.
+
+### Looking Up Rules
+
+If you're unsure, look up the rules when the stakes are high. Make a ruling and look it up after the game when the stakes are low.
+
+It's fine to mess up something that doesn't matter a lot; better to keep the game moving. It's *not* fine to accidentally kill character because you couldn't remember how [Screen an Ally](/combat#screen-an-ally-move) works.
+
+Most players *will not read the rules*. You're going to have to. When a player forgets a rule the first time, remind them how it works. When a player forgets the same rule the second time, ask them to look it up and tell you how it works. When a player forgets the same rule the third time, maybe the rule is hard to remember, and I'd appreciate being notified!
+
+If *you* forget an important rule a lot, add it to your personal cheat sheet or GM screen (the same place you're keeping your random tables).
+
+### Converting Monsters
+
+Since [Inline Monster Stats](#inline-monster-stats) are unreliable, we generally want to use monsters from [Osric](https://osricwiki.presgas.name/doku.php?id=osric:chapter5). I keep the page bookmarked on my phone and run the monsters from there. We convert Osric AC (lower is better) to Sovereign AC (higher is better) by subtracting Osric's from 20.
+
+The only important thing that Osric doesn't give us is [Shock](/combat#shock).
+
+Anything with a weapon should use the weapon's shock value.
+
+Natural weapons should affect AC 13 if they are piercing (like teeth), AC 15 if they're slashing (like claws), and AC 18 if they're bludgeoning (like headbutts). Bump these up 1 category if the creature is Large (at least as big as a horse), so a polar bear's bite would affect AC 15, their claws would affect AC 18, and shoulder tackle would affect any AC.
+
+Finally, treat predators as having [Killing Blow](/classes#class-ability-killing-blow), so add half of their HD rounded up to their [Shock](/combat#shock). For natural weapons, this is their Shock. For armed predators (like Skeletons, or Bandits), add it to the weapon's Shock.
+
+For example, Osric's Cave Bear has 6 HD, 6 AC, and has a claw (1d8)/claw (1d8)/bite (1d12) routine. In Sovereign, it would have 14 AC, the claws would have a Shock of 3/AC 18, and the bite would have a Shock of 3/AC 15.
+
+Osric's Bandit has 1 HD, AC based on equipment (we'll use Leather+Shield for 13), and might be equipped with a [short sword](/equipment#short-sword). In Sovereign, it would have 13 AC, and its sword would do 3/AC 15 shock.
