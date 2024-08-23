@@ -293,9 +293,32 @@ Unfortunately, there's no quick way to do this. You have to go through each room
 
 Incandescent Grottoes has 40481 lootable treasure, 2208 xp worth of keyed defenders, for a ratio of ~18. This is absurd! It's enough to get a party of 4 Delvers from level 1 to nearly level 5, which is **way** too much. We're going to want to divide every piece of loot in the dungeon by 5 to get this back in line.
 
-We also want to rebalance magic items so that there are around 2 consumables (scrolls, potions, etc) and 1 permament magic item per 2000 XP of defenders.
+We also want to re-balance magic items so that there are around 3 consumables (scrolls, potions, etc) and 1 permament magic item per 2000 XP of defenders.
 
-Incandescent Grottoes has a whopping 23 magic items. We want it to have 3, so we need to cut ~20 of the magic items.
+Incandescent Grottoes has a whopping 23 magic items. We want it to have 4, so we need to cut ~19 of the magic items.
+
+The biggest candidates for removal are healing potions or scrolls of cure light wounds. Scrolls can often become spell books (that the Mages can learn from), trading vertical progression for [horizontal progression](https://www.engadget.com/2014-02-05-mmo-mechanics-comparing-vertical-and-horizontal-progression.html). Prefer magic items that do something unique (like a potion of gaseous form or a ring of plant control) to something that provides passive numerical combat bonuses (like a +1 sword).
+
+For example, in Incandescent Grottoes, I kept the Ring of Plant Control, Potion of Gaseous Form, Scroll of Blacklight, and Lamp of Fictitious Finery. I removed:
+
+- Scroll of Hold Person
+- Scroll of Cure Disease
+- Scroll of Wraithform
+- 3x Scroll of Cure Light Wounds
+- Transformed a Scroll of Charm Ooze into a Spellbook of Charm Ooze
+- Transformed a Scroll of Gelatinous Transformation into a Spellbook of Gelatinous Transformation
+- Potion of Healing
+- Potion of Poison
+- Potion of Invisibility
+- Ring of Smell Nullification
+- Ring of Protection
+- Mirror of seeing-the-last-person-you-killed
+- 5x Arrows +1
+- 5x Sling bullets +1
+- Silver Dagger +1
+- Shield +2
+- Short Sword +2
+- Dagger +2
 
 ### Pre-Rolling
 

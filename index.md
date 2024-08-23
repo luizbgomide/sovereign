@@ -163,6 +163,10 @@ This game endeavors to provide a ruleset that allows players to play through adv
 
 ### Change Log
 
+#### 2024-08-23
+- Add one more consumable per 2000xp in the magic item rebalancing section.
+- Give guidance on which items are good to cut and which to keep.
+
 #### 2024-08-19
 - Fix table scrolling.
 - Update number of suggested magic items per adventure.
