@@ -271,7 +271,7 @@ Compare this to the [stat block from OSE](https://oldschoolessentials.necroticgn
 
 The Silveraxe statline leaves out the bit about acid, and their **entire regeneration ability**. My experience is that this happens *over and over*.
 
-Throw out the inline stats and look up the monster from [Osric](https://osricwiki.presgas.name/doku.php?id=osric:chapter5). Osric monsters tend to be a little more powerful than OSE monsters and Sovereign delvers are more powerful than OSE characters of the same level.
+Throw out the inline stats and look up the monster from [Osric](https://osricwiki.presgas.name/doku.php?id=osric:chapter5). Here's an [index](/monsters). Osric monsters tend to be a little more powerful than OSE monsters and Sovereign delvers are more powerful than OSE characters of the same level.
 
 #### Double-Check The Map
 

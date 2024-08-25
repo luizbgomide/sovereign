@@ -163,6 +163,9 @@ This game endeavors to provide a ruleset that allows players to play through adv
 
 ### Change Log
 
+#### 2024-08-25
+- Include an [index for osric monsters](/monsters) since osric's is pretty bad and weirdly sorted.
+
 #### 2024-08-23
 - Add one more consumable per 2000xp in the magic item rebalancing section.
 - Give guidance on which items are good to cut and which to keep.
