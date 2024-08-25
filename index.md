@@ -15,6 +15,7 @@ This game endeavors to provide a ruleset that allows players to play through adv
       <a href="{{item.id}}">{{item.label}}</a>
     </li>
   {% endfor %}
+  <li><a href="/monsters">Monsters</a></li>
 </ul>
 
 ### Recommended Adventures
