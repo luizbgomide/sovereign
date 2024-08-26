@@ -11,7 +11,7 @@ Each individual piece of equipment should be recorded on its own small piece of 
 
 Purchases are made using coins. A copper piece (c) purchases a loaf of bread or three pints of cheap ale. 10c make a silver piece (s). 10s or 100c make a gold piece (g).
 
-Uncommon coins are electrum pieces (e) worth 5s, and platinum pieces (p) worth 5g.
+Many D&D adventures also provide electrum coins (e; worth 5s) and platinum coins (p; worth 5g).
 
 To estimate the price of an unlisted item, $1 is about 1c in 2024 US Dollars. A night at a best western costs ~$70 and so night at a cheap Inn costs ~7s. Cheap bar food costs about $10 and a meal in an Inn costs about 1s. It won't be totally accurate, but it'll be close enough to not matter. Adventuring equipment is purposefully inflated to represent the large relative difference in demand.
 
