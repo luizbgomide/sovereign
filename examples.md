@@ -109,7 +109,7 @@ I write `• Bow(100/600): +2 -> 1d8+2` in my preferred short hand for weapon st
 
 **Mages Choose Starting Spells.** Healers are technically mages, but don't get any starting spells, so we skip this.
 
-**Mages Record Effort.** Healers get [Heal](/rules#heal)+INT Effort, so 1 for now.
+**Mages Record Effort.** Healers get [Heal](/rules#heal)+INT [Effort](/arcane-traditions#effort), so 1 for now.
 
 ![small](/assets/images/sheet-13.png)
 

@@ -53,7 +53,7 @@ Three of these attributes are physical.
 
 Two are mental attributes.
 
-**Intelligence**, reflecting memory, reasoning, technical skills, and general education. Influences Effort for most Arcane Traditions, [Evasion](/rules#evasion) and [Mental](#mental) Saving Throws, and the efficacy of some spells.
+**Intelligence**, reflecting memory, reasoning, technical skills, and general education. Influences [Effort](/arcane-traditions#effort) for most [Arcane Traditions](/arcane-traditions), [Evasion](/rules#evasion) and [Mental](#mental) Saving Throws, and the efficacy of some spells.
 
 **Wisdom**, reflecting noticing things, making judgments, reading situations, and intuition. Influences [Mental](/rules#mental) Saving Throws.
 
