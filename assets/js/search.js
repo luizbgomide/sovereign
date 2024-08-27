@@ -31,9 +31,9 @@ window.onload = () => {
 
   miniSearch.addAll(documents)
 
-  function displaySearchResults(results) {
-    const searchResults = document.getElementById('search-results');
+  const searchResults = document.getElementById('search-results');
 
+  function displaySearchResults(results) {
     if (results.length) { // Are there any results?
       let appendString = '';
 
@@ -55,7 +55,6 @@ window.onload = () => {
       return
     }
     if (searchElement.value === "") {
-      const searchResults = document.getElementById('search-results');
       searchResults.innerHTML = "";
     } else {
       displaySearchResults(miniSearch.search(searchElement.value))
@@ -67,16 +66,20 @@ window.onload = () => {
       return;
     }
 
-    const searchResults = document.getElementById('search-results');
     document.getElementById("sidebar").classList.remove("active");
     searchResults.innerHTML = "";
     searchElement.value = "";
   });
 
   document.onkeyup = function (e) {
-    const search = document.getElementById("search")
-    if (e.key === "/" && e.target !== search) {
-      search.focus()
+    if (e.key === "/" && e.target !== searchElement) {
+      searchElement.focus()
+    }
+
+    if (e.key === "Escape" && e.target === searchElement) {
+      searchElement.value = "";
+      searchResults.innerHTML = "";
+      document.querySelector("main").focus()
     }
   };
 
