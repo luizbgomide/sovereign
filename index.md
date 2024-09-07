@@ -164,6 +164,10 @@ This game endeavors to provide a ruleset that allows players to play through adv
 
 ### Change Log
 
+#### 2024-09-07
+- Update the equipment list to include everything in the suggested uses
+- Remove the healer art "Refined Restoration"; didn't fit.
+
 #### 2024-08-25
 - Include an [index for osric monsters](/monsters) since osric's is pretty bad and weirdly sorted.
 

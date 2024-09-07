@@ -119,14 +119,19 @@ This list is **not** exhaustive.
 
 | Item                            | Cost | enc |
 | ------------------------------- | ---- | --- |
+| Acid flask                      | 10g  | 1   |
+| Bag of Marbles (100)            | 8s   | 1   |
 | Blanket                         | 2g   | 2   |
+| Bottle                          | 1g   | 1   |
 | Chest (holds 50 enc)            | 22g  | 25  |
 | Crowbar                         | 1g   | 1   |
 | Disguise Kit                    | 25g  | 4   |
 | Ear Trumpet                     | 15g  | 1   |
 | Earplugs                        | 1s   | -   |
+| Fishhook                        | 1s   | -   |
 | Grappling Hook                  | 25g  | 1   |
 | Hammer (small)                  | 2g   | 1   |
+| Hand Drill                      | 10g  | 1   |
 | <span id="healers-kit">Healer's Kit</span>                    | 10g  | 1   |
 | <span id="holy-water">Holy Water (1 pint)</span>             | 25g  | 1   |
 | Ink (1 pint)                    | 7g   | 1   |
@@ -135,16 +140,22 @@ This list is **not** exhaustive.
 | Laborer’s Tools                 | 10g  | 2   |
 | Lantern                         | 10g  | 1   |
 | Lock                            | 20g  | 1   |
+| Magnet                          | 1s   | -   |
 | Manacles                        | 2g   | 1   |
 | Mirror (hand-sized, steel)      | 5g   | 1   |
 | Oil, Common (1 pint)            | 3s   | 1   |
 | Oil, Military (1 pint)          | 2g   | 1   |
+| Paper, 1 sheet                  | 1g   | -   |
+| Pickaxe                         | 4g   | 2   |
 | Pole, 10ft                      | 1cp  | 2   |
 | <span id="quiver">Quiver + ∞ Arrows</span>               | 10g  | 1   |
 | Rations, Iron (one day)         | 2s   | 1   |
 | Rope, 50’                       | 1g   | 2   |
+| Shovel                          | 4g   | 2   |
+| Soap                            | 1s   | -   |
 | Spell Book (blank)              | 20g  | 1   |
 | Stakes (6)                      | 3g   | 1   |
+| String, 100ft                   | 2s   | 1   |
 | <span id="thieves-tools">Thieves’ Tools</span>                  | 25g  | 1   |
 | Tinderbox (flint & steel)       | 8s   | 1   |
 | Torches (2)                     | 1s   | 1   |
@@ -156,14 +167,14 @@ Adventuring equipment tends to be useful [within the fiction](https://www.merria
 - Ropes and spikes are great for climbing.
 - 10ft Poles for triggering traps and generally poking things.
 - Soap for lubricating things; less flammable than oil.
-- Parchment to make a map or write down strange markings.
-- Ball bears clog up traps, make enemies slip, make loud thunks, and roll on slopes.
+- Paper to make a map or write down strange markings.
+- Marbles clog up traps, make enemies slip, make loud thunks, and roll on slopes.
 - Acid for throwing or pouring into locks.
-- Fishing rods for fishing (hah) or trying to fetch things out of reach.
+- Fishing rod (fishhook + string + pole) for fishing (hah) or trying to fetch things out of reach.
 - Magnets for grabbing distant keys, especially tied to fishing rods.
-- Pickaxes, hammers, axes, crowbars, shovels, etc for dismanting what's in front of you, be it ground, wall, or ceiling.
+- Pickaxes, hammers, axes, crowbars, shovels, etc for dismanting.
 - Glass vials for storing strange liquids or bugs.
-- Glue for binding things that cannot be easily tied. Mirrors for peering around corners.
+- Mirrors for peering around corners.
 - Flour for causing explosions and coating invisible targets.
 
 ## Services
