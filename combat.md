@@ -65,7 +65,7 @@ Attacks, movement, spellcasting, and other combat activities all require one of 
 
 <strong id="main-action">Main Actions</strong> are a character’s primary action during a combat round, such as attacking an enemy, applying first aid to a downed ally, casting a spell, frantically evading incoming spears, or something else that takes less than ten seconds to do. A combatant gets one Main action per round.
 
-<strong id="move-action">Move Actions</strong> involve moving the character’s normal movement rate of 30 feet or performing some other relatively brief bodily action, such as getting up from prone. A combatant gets one Move Action per round, but can spend their [Main Action](#main-action) to get a second.
+<strong id="move-action">Move Actions</strong> involve moving the character’s normal movement rate of 30ft or performing some other relatively brief bodily action, such as getting up from prone. A combatant gets one Move Action per round, but can spend their [Main Action](#main-action) to get a second.
 
 <strong id="free-action">Free Actions</strong> are brief, simple acts that require only a moment’s concentration. Activating certain abilities or speaking a few words might constitute a Free Action. A combatant can take as many Free Actions on their round as the GM finds plausible.
 
@@ -142,7 +142,7 @@ Since Total Defense is an [Instant Action](#instant-action), you may use it *aft
 
 ### Run (Move)
 
-Move your normal movement rate in combat, which is 30 feet for an ordinary human. When you leave a melee combatant's range (usually 5', though can be longer for big foes or [Long](/equipment#long) weapons), they get an [Attack of Opportunity](#attack-of-opportunity). To avoid this, you must [Disengage](/combat#disengage-main) first.
+Move your normal movement rate in combat, which is 30ft for an ordinary human. When you leave a melee combatant's range (usually 5', though can be longer for big foes or [Long](/equipment#long) weapons), they get an [Attack of Opportunity](#attack-of-opportunity). To avoid this, you must [Disengage](/combat#disengage-main) first.
 
 ### Disengage (Main)
 
@@ -238,7 +238,7 @@ To grapple a foe, the attacker must first hit with an unarmed attack [Attack Rol
 
 While grappling, neither attackers or defenders can move from their current location, nor can they fight with anything but unarmed attacks. At the end of each round in which a defender remains grappled, they suffer damage from each attacker as if hit with an unarmed attack from each foe grappling them.
 
-If the attacker wishes to move the target, they must spend a [Main Action](#main-action) and succeed in an opposed STR/[Brawl](/rules#brawl) check. If they win, the target is either moved ten feet along with them, or thrown five feet and knocked prone. If they lose, the defender breaks free.
+If the attacker wishes to move the target, they must spend a [Main Action](#main-action) and succeed in an opposed STR/[Brawl](/rules#brawl) check. If they win, the target is either moved 10ft along with them, or thrown 5ft and knocked prone. If they lose, the defender breaks free.
 
 These rules assume both targets are man-sized. Grappling or shoving significantly larger but still humanoid targets is done at a -2 penalty on all skill checks by the attacker. Doing so to creatures only barely plausible for such manhandling is done at a -4 skill check penalty.
 

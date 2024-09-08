@@ -61,16 +61,16 @@ If a maximum range isn’t given, assume 600ft.
 ### Level 1 - High Magic
 
 #### Arcane Spark
-A thaumic discharge is focused on a single visible creature within one hundred feet per caster level, wreathing them in a lethal mantle of crackling energy.
+A thaumic discharge is focused on a single visible creature within 100ft per caster level, wreathing them in a lethal mantle of crackling energy.
 
 NPC targets with only 1 HD are slain. Otherwise, the target suffers `1d8` damage per caster level, with a [Physical](/rules#physical) save for half.
 
 #### Blunt Contact
 This spell may be cast in two different forms.
 
-If it targets a **creature** within 200 feet, the target becomes partially immune to physical weapons; any weapon hit on them requires the attacker make a successful [Physical](/rules#physical) save or the hit is negated. This effect lasts for one round per two caster levels, rounded up, and can’t target the caster.
+If it targets a **creature** within 200ft, the target becomes partially immune to physical weapons; any weapon hit on them requires the attacker make a successful [Physical](/rules#physical) save or the hit is negated. This effect lasts for one round per two caster levels, rounded up, and can’t target the caster.
 
-If it targets a visible **weapon** within two hundred feet, that weapon is rendered entirely harmless and unable to inflict damage for the rest of the turn, with no saving throw.
+If it targets a visible **weapon** within 200ft, that weapon is rendered entirely harmless and unable to inflict damage for the rest of the turn, with no saving throw.
 
 The spell may only affect a given target or weapon once per [Turn](/rules#turn) and natural body weapons aren’t affected.
 
@@ -80,9 +80,9 @@ The mage targets a visible, normal, non-magical animal or insect, obtaining temp
 The mage must focus to share the beast’s senses, requiring a [Main Action](/combat#main-action) and leaving the mage unable to act physically while so focused. The spell lasts until the mage releases the beast, it is dispelled, or it is cast again.
 
 #### Create Illusion
-The mage creates a illusion at a visible location within 100 feet per caster level. The illusion can occupy a number of 10-foot cubes equal to the caster’s level and can fool sight, hearing, smell, and even touch.
+The mage creates a illusion at a visible location within 100ft per caster level. The illusion can occupy a number of 10ft cubes equal to the caster’s level and can fool sight, hearing, smell, and even touch.
 
-If onlookers have no reason to believe the illusion is false, they will unconsciously conform to its apparent physical qualities, halting before walls, reeling from imagined blows, and seeing their clothing burnt by illusory flames. The illusion will behave and act on its own in accordance with the caster’s intentions for it, but it cannot go more than a hundred feet from where it was conjured.
+If onlookers have no reason to believe the illusion is false, they will unconsciously conform to its apparent physical qualities, halting before walls, reeling from imagined blows, and seeing their clothing burnt by illusory flames. The illusion will behave and act on its own in accordance with the caster’s intentions for it, but it cannot go more than 100ft from where it was conjured.
 
 Illusory monsters fight with the caster’s attack bonus, do `1d8` damage, have AC 10, and vanish if struck. There can be no more than one active illusionary attacker per two caster levels. Foes brought to zero HP fall unconscious and wake up ten minutes later with 1 HP.
 
@@ -91,27 +91,27 @@ Creatures convinced the illusion is false can make a [Mental](/rules#mental) sav
 #### Destroy Plants
 Wood, linen, cotton, rope, and other plant or fungus-derived matter is annihilated by a wave of entropic force that washes through an area near the caster.
 
-The mage targets a point within one hundred feet per caster level and designates a number of contiguous 10-foot cubes within that area equal to or less than their caster level. All non-magical plant matter within that area immediately erodes away to dust. Enchanted objects of plant matter cannot be affected, but ordinary plant-based clothing, bows, or wooden-hafted weapons will be destroyed. If used against plant-based monsters, the spell does `1d10` damage per caster level, with a [Physical](/rules#physical) save for half.
+The mage targets a point within 100ft per caster level and designates a number of contiguous 10ft cubes within that area equal to or less than their caster level. All non-magical plant matter within that area immediately erodes away to dust. Enchanted objects of plant matter cannot be affected, but ordinary plant-based clothing, bows, or wooden-hafted weapons will be destroyed. If used against plant-based monsters, the spell does `1d10` damage per caster level, with a [Physical](/rules#physical) save for half.
 
 #### Detect Thoughts
-The mage focuses on a visible living creature within 100 feet per caster level. For the rest of the [Turn](/rules#turn), they immediately receive an impression of the target’s surface thoughts and interests, understanding them regardless of any lack of a shared language.
+The mage focuses on a visible living creature within 100ft per caster level. For the rest of the [Turn](/rules#turn), they immediately receive an impression of the target’s surface thoughts and interests, understanding them regardless of any lack of a shared language.
 
 The caster may ask one question of the target’s memories per caster level, but doing so risks breaking the spell; the target can make a [Mental](/rules#mental) save before answering each question and the spell ends if the save is successful. These questions can only query memories, not compel any exercise of judgment. This spell is very subtle in its casting, and requires no gestures or audible incantations.
 
 #### Dominate Person
-The mage targets a visible living creature within 100 feet. The subject must immediately make a [Mental](/rules#mental) saving throw at a penalty equal to the caster’s [Magic](/rules#magic) or become enthralled to the caster’s will. Such victims will obey any physical commands issued by the caster, barring ones that seem suicidal or patently meant to result in their death.
+The mage targets a visible living creature within 100ft. The subject must immediately make a [Mental](/rules#mental) saving throw at a penalty equal to the caster’s [Magic](/rules#magic) or become enthralled to the caster’s will. Such victims will obey any physical commands issued by the caster, barring ones that seem suicidal or patently meant to result in their death.
 
 The caster cannot order the creature to answer questions or perform acts that require independent judgment, nor to use non-physical abilities or spells, but it will fight for the caster or to defend its own life. Enchanted victims appear torpid and dazed, and will act only to defend themselves or satisfy their needs.
 
 The spell lasts until dispelled, or until the caster dies or releases them. Every time this spell is cast, however, all prior subjects get an immediate unmodified [Mental](/rules#mental) saving throw to throw it off. If the creature has more HP than the caster has levels, it gets an unmodified saving throw to end the effect the first time each day it’s ordered to do something it finds strongly objectionable.
 
 #### Dominate Sense
-The caster targets a visible creature within two hundred feet. The target gets a [Mental](/rules#mental) saving throw to resist; on a failure, one sense of the caster’s choice is entirely under the caster’s control for the rest of the [Turn](/rules#turn), while a success leaves them bound only for the next round.
+The caster targets a visible creature within 200ft. The target gets a [Mental](/rules#mental) saving throw to resist; on a failure, one sense of the caster’s choice is entirely under the caster’s control for the rest of the [Turn](/rules#turn), while a success leaves them bound only for the next round.
 
 Any false impression may be given, or any true one concealed, and a creature may be left effectively blinded or deafened. Distracting tactile sensations can force the victim to make a [Physical](/rules#physical) saving throw in order to act each round. Blinded creatures can’t make ranged attacks and roll all melee attack rolls twice, taking the worst result. If a creature thinks itself in mortal peril its excitement allows it to make a [Mental](/rules#mental) save to throw off the spell at the end of each round.
 
 #### Invisibility
-The mage chooses up to one visible willing target per caster level provided they are within 100 feet. The targets and all they wear or carry become perfectly transparent.
+The mage chooses up to one visible willing target per caster level provided they are within 100ft. The targets and all they wear or carry become perfectly transparent.
 
 Missile attacks against invisible foes are largely impossible, and melee attacks against them usually suffer a -4 penalty to attack rolls. The spell lasts for up to an hour per caster level, but it breaks if a subject performs some violent motion, such as running, attacking, or casting a spell. Once broken for one subject, it breaks for all.
 
@@ -121,12 +121,12 @@ The mage opens up their mind to the presence of occult energies. For one [Turn](
 They may identify magical items and get a one-sentence description of their purpose or most significant powers, and get more sophisticated answers with successful WIS/[Magic](/rules#magic) skill checks at difficulties of 8 or more depending on the subtlety of the enchantment. Mages with prepared spells are visible to the caster, though which spells the subject might have prepared is not knowable. As a side effect of this spell, the ambient thaumic currents cast enough quasi-light to allow the caster to see normally even in perfect darkness.
 
 #### Sleep
-The mage designates a visible point within two hundred feet. A silent, invisible burst of soporific influence erupts from that point, targeting all living creatures within a twenty-foot radius. All such targets with 4 or fewer HD within that area fall unconscious instantly, and are roused only by damage or by a [Main Action](/combat#main-action) used to kick them awake.
+The mage designates a visible point within 200ft. A silent, invisible burst of soporific influence erupts from that point, targeting all living creatures within a 20ft radius. All such targets with 4 or fewer HD within that area fall unconscious instantly, and are roused only by damage or by a [Main Action](/combat#main-action) used to kick them awake.
 
 If not roused, they revive at the end of the [Turn](/rules#turn). Entities that do not sleep are immune to this spell.
 
 #### Speed
-Unlike most spells, Speed may be cast as a [Free Action](/combat#free-action), targeting up to one visible willing creature per caster level within one hundred feet.
+Unlike most spells, Speed may be cast as a [Free Action](/combat#free-action), targeting up to one visible willing creature per caster level within 100ft.
 
 Enchanted creatures become incredibly fleet of foot, doubling their usual ground movement rate and becoming capable of running up walls and across ceilings without falling, provided they end their round upright on a navigable surface.
 
@@ -143,15 +143,15 @@ The spell ends when the mage releases it, or up to a maximum of one day per cast
 #### Destroy Earth
 Stone, earth, sod, sand, or other largely mineral material is reduced to a faint spray of fine dust, though metal and enchanted objects are unaffected.
 
-The caster chooses up to one contiguous 10-foot cube per caster level in a visible area within one hundred feet per caster level, causing all such stone or mineral material within the cubes to disappear. Such rapid destruction may cause larger structures to collapse. If used against rock-based monsters, the spell does `1d10` damage per caster level, with a [Physical](/rules#physical) save for half.
+The caster chooses up to one contiguous 10ft cube per caster level in a visible area within 100ft per caster level, causing all such stone or mineral material within the cubes to disappear. Such rapid destruction may cause larger structures to collapse. If used against rock-based monsters, the spell does `1d10` damage per caster level, with a [Physical](/rules#physical) save for half.
 
 #### Dimension Door
-A visible target within a hundred feet is immediately teleported to any visible, solid resting point within a half-mile, provided the target point has enough room to accept them.
+A visible target within 100ft is immediately teleported to any visible, solid resting point within a half-mile, provided the target point has enough room to accept them.
 
 Unattended objects can be teleported by the spell, but they can be no larger than a horse. Unwilling creatures targeted by this spell make a [Mental](/rules#mental) saving throw to resist; on a success, it is the caster who is transported to the intended destination instead.
 
 #### Dispel Magic
-The caster sweeps away all unwanted magical effects and enchantments within a twenty-foot radius, centered on any visible point within one hundred feet per level.
+The caster sweeps away all unwanted magical effects and enchantments within a 20ft radius, centered on any visible point within 100ft per caster level.
 
 If the magical effect was cast by a creature with equal or fewer HD, the effect is negated automatically. Otherwise, make an opposed INT/[Magic](/rules#magic) skill check, with higher-leveled caster gaining a +2 bonus and the dispeller getting a +1 bonus.
 
@@ -168,9 +168,9 @@ The target suffers dramatic and ostentatiously obvious death, with mortal blows 
 If the target’s remains are intentionally scattered widely, incinerated, or entirely eaten, however, they cannot revive. The subject is aware of their surroundings while “dead”.
 
 #### Floating Palanquin
-This spell calls forth a floating palanquin of ornately-carved green stone. A slim three-foot-tall statue of a faceless entity stands at the center of the platform, while four slender pillars rise at the corners, the roof and sides being draped by metallic golden cloth.
+This spell calls forth a floating palanquin of ornately-carved green stone. A slim 3ft tall statue of a faceless entity stands at the center of the platform, while four slender pillars rise at the corners, the roof and sides being draped by metallic golden cloth.
 
-The palanquin itself is twelve feet long and eight wide, with room enough for several people to sit on it. It floats at shoulder-height above the ground or a liquid surface below. It does not move of its own, but may be pulled along by even one human-sized bearer. The total burden on the palanquin cannot exceed more than two thousand pounds, or it sinks to the ground.
+The palanquin itself is 12ft long and 8ft wide, with room enough for several people to sit on it. It floats at shoulder-height above the ground or a liquid surface below. It does not move of its own, but may be pulled along by even one human-sized bearer. The total burden on the palanquin cannot exceed more than two thousand pounds, or it sinks to the ground.
 
 It lasts until dusk, dawn, or until the statue of the god is struck or insulted, whichever comes first.
 
@@ -180,7 +180,7 @@ The caster imbues one visible ally per caster level with a burst of tremendous s
 For `1d4+1` rounds, all subjects get an extra [Main Action](/combat#main-action). This [Main Action](/combat#main-action) may not be used to cast spells or use arts. This spell severely taxes those who take advantage of it, adding 1 [System Strain](/rules#system-strain) for each round in which the recipient takes the bonus action.
 
 #### Scry
-A pool of water, mirror, open flame, polished crystal, or other luminous or reflective surface is used to peer at a distant location. The location must either be within one hundred feet per caster level or be a location the caster has physically occupied before.
+A pool of water, mirror, open flame, polished crystal, or other luminous or reflective surface is used to peer at a distant location. The location must either be within 100ft per caster level or be a location the caster has physically occupied before.
 
 The caster perceives the location as if he were standing at the targeted point within it, seeing and hearing events there as if he were present. This spell cannot scry locations that have been magically warded, and scrying the same location repeatedly is hindered by the resonance created by the spell.
 
@@ -189,7 +189,7 @@ The spell cannot perceive the same area twice within the same week, or position 
 This spell lasts until the caster performs some action other than focusing on the scrying.
 
 #### Shield of Daggers
-A visible willing creature within thirty feet is surrounded by a whirl of razor-sharp energy shards.
+A visible willing creature within 30ft is surrounded by a whirl of razor-sharp energy shards.
 
 Anyone who attempt to touch the target or make a melee attack against them must make an [Evasion](/rules#evasion) saving throw or suffer `1d6` damage plus the caster’s level before resolving their attack. The field of blades is indiscriminate and will affect even allies trying to touch the target.
 
@@ -198,7 +198,7 @@ The blades remain as long as the target gives up a [Move Action](/combat#move-ac
 #### Suggestion
 The caster makes a single one-sentence statement as part of casting this spell, a process which is subtle enough to appear as no more than ordinary conversation.
 
-All who hear the caster speak within a forty-foot radius must make a [Mental](/rules#mental) saving throw or come to immediately believe the statement is true unless it seems physically impossible to them or it is emotionally intolerable to believe.
+All who hear the caster speak within a 40ft must make a [Mental](/rules#mental) saving throw or come to immediately believe the statement is true unless it seems physically impossible to them or it is emotionally intolerable to believe.
 
 The listeners must be able to understand the caster’s language, and the caster may exempt up to two targets per caster level from this delusion when casting the spell, so as to avoid beguiling their companions.
 
@@ -214,9 +214,9 @@ If the familiar is slain, it fades away, but can be called forth again by the sp
 The familiar remains in existence until dawn following the spell’s casting or until dismissed by the caster.
 
 #### Vine Growth
-A vast wall of thick, heavy vines and other plant life blooms from a visible point within one hundred feet per caster level.
+A vast wall of thick, heavy vines and other plant life blooms from a visible point within 100ft per caster level.
 
-The wall is up to twenty feet high and three feet thick and runs for as much as twenty feet in width per caster level. The vine wall can be shaped as the caster wishes within the spell’s area of effect, so long as it’s contiguous, and may be laid horizontally if a bridge or roof is desired.
+The wall is up to 20ft high, 3ft thick, and up to 20ft wide per caster level. The vine wall can be shaped as the caster wishes within the spell’s area of effect, so long as it’s contiguous, and may be laid horizontally if a bridge or roof is desired.
 
 Enemies must inflict five damage per caster level to cut a man-sized hole in the vines, and they must be using weapons or means that could actually cut through a wooden wall to do any meaningful harm. The vines may be covered in long, vicious thorns to discourage climbing, inflicting `2d6` damage on any creature who tries to climb over it.
 
@@ -225,9 +225,9 @@ If the vine wall is summoned from earth that could plausibly support plant life,
 ### Level 3 - High Magic
 
 #### Arctic Circle
-The caster invokes a gust of deepest winter on a point within one hundred feet per level, freezing everything in a radius up to ten feet per caster level.
+The caster invokes a gust of deepest winter on a point within 100ft per caster level, freezing everything in a radius up to 10ft per caster level.
 
-All liquids freeze solid down to a depth of two feet and all living creatures not impervious to arctic cold must suffer `1d6` damage per two levels of the caster, with a [Physical](/rules#physical) save for half damage. Those who fail their [Physical](/rules#physical) saves are numbed by the cold and lose their [Move Action](/combat#move-action) each round for the next `1d4` rounds.
+All liquids freeze solid down to a depth of 2ft and all living creatures not impervious to arctic cold must suffer `1d6` damage per two levels of the caster, with a [Physical](/rules#physical) save for half damage. Those who fail their [Physical](/rules#physical) saves are numbed by the cold and lose their [Move Action](/combat#move-action) each round for the next `1d4` rounds.
 
 The frozen area warms again at the usual rate for the surrounding environment.
 
@@ -246,33 +246,33 @@ If they perform any vigorous physical action save movement they incur two points
 A creature may spend its [Main Action](/combat#main-action) to attempt a [Physical](/rules#physical) save to throw off the curse, but on a failure, the curse remains for the rest of the [Turn](/rules#turn). If the creature has fewer HD than the caster has levels, a single failed save means the curse lasts indefinitely, until dispelled or until the caster releases them.
 
 #### Fear
-A wave of numbing terror sweeps over all enemies of the caster within forty feet.
+A wave of numbing terror sweeps over all enemies of the caster within 40ft.
 
 They must immediately make a [Mental](/rules#mental) save, with failure causing flight. Those who succeed at the check suffer one point of damage per caster level from demoralization and despair, with those brought to zero HP instead regaining 1 HP and fleeing.
 
 This spell has no effect on creatures that feel no fear.
 
 #### Magic Bomb
-A flattened disc of tremendous heat, sound, and shock is triggered at a visible point within fifty feet per caster level, erupting in a twenty-foot radius eight feet in height.
+A flattened disc of tremendous heat, sound, and shock is triggered at a visible point within 50ft per caster level, erupting in a 20ft radius 8ft height.
 
-Everything within the area suffers `1d8` damage from flame, concussion, and sonic shock per caster level, with an [Evasion](/rules#evasion) save for half. If used in a space less than 40 feet in width, the explosion is channeled through adjacent spaces and passages for an additional `1d6` x 10 feet.
+Everything within the area suffers `1d8` damage from flame, concussion, and sonic shock per caster level, with an [Evasion](/rules#evasion) save for half. If used in a space less than 40ft in width, the explosion is channeled through adjacent spaces and passages for an additional `1d6` x 10ft.
 
 #### Magic Wall
-The caster must form some sort of line as part of this spell’s invocation, either with dropped powders or a trace drawn in the dirt or a more permanent inlay into a floor. The caster can make such a line as part of a [Move Action](/combat#move-action, tracing it out or scattering powder as they go. The line itself may be no longer than twenty feet per caster level, and may be straight or curved as the caster wishes.
+The caster must form some sort of line as part of this spell’s invocation, either with dropped powders or a trace drawn in the dirt or a more permanent inlay into a floor. The caster can make such a line as part of a [Move Action](/combat#move-action, tracing it out or scattering powder as they go. The line itself may be no longer than 20ft per caster level, and may be straight or curved as the caster wishes.
 
 Once it has been drawn, Magic Wall empowers the line with the ability to ward off a particular target and prevent them or their powers from crossing or being made to cross the line, as if it were a physical wall. The caster can nominate any kind of target to be warded that could be distinguished without need for knowing their thoughts, such as “humans” or “non-humans” or “men wearing the livery of the baron”.
 
-The barrier extends a hundred feet upward and ten feet downward and blocks any attack or magical power used by those warded. If the excluded creatures are attacked or targeted by powers from the other side of the barrier, however, the entire field shatters. The barrier lasts until dispelled, the caster drops it, or until one hour has passed per caster level.
+The barrier extends 100ft upward and 10ft downward and blocks any attack or magical power used by those warded. If the excluded creatures are attacked or targeted by powers from the other side of the barrier, however, the entire field shatters. The barrier lasts until dispelled, the caster drops it, or until one hour has passed per caster level.
 
 #### Message
 This spell calls forth a floating set of colored glass chimes. The caster alone may strike them, producing sounds of great subtlety and clarity. The caster may allow anyone within ten miles per level to hear the music, or may make it inaudible to anyone save specific targets within range.
 
-Such is the expressiveness of the chimes that those who hear them instantly understands the caster’s desired message, however abstract. If the caster strikes the chimes violently as a [Main Action](/combat#main-action), they shatter them, causing a deafening clamor that does `3d6` damage to all non-deaf targets within forty feet except for the caster.
+Such is the expressiveness of the chimes that those who hear them instantly understands the caster’s desired message, however abstract. If the caster strikes the chimes violently as a [Main Action](/combat#main-action), they shatter them, causing a deafening clamor that does `3d6` damage to all non-deaf targets within 40ft except for the caster.
 
 The chimes persist until shattered or the [Turn](/rules#turn) ends.
 
 #### Passwall
-The caster touches a solid non-magical barrier when casting this spell. A 10 foot cube of the barrier then becomes perfectly transparent on the caster’s side, allowing them to see and hear whatever lies on the other side as if it were well-lit and visible.
+The caster touches a solid non-magical barrier when casting this spell. A 10ft cube of the barrier then becomes perfectly transparent on the caster’s side, allowing them to see and hear whatever lies on the other side as if it were well-lit and visible.
 
 Optionally, the caster may make the barrier insubstantial for one round per caster level, allowing anyone to pass or shoot through it from either side. The barrier always appears solid and opaque from the other side, even while the caster is peering through. If someone is caught within the barrier when it becomes solid again, they’re spat out on the nearest clear side and suffer `2d10` damage.
 
@@ -304,9 +304,9 @@ Optionally, the caster can instead use this spell on one visible flying creature
 ### Level 4 - High Magic
 
 #### Control Wind
-Conjure a fierce gust of wind in a line a hundred feet long and thirty feet wide.
+Conjure a fierce gust of wind in a line 100ft long and 30ft wide.
 
-All creatures of man-size or smaller must make [Physical](/rules#physical) saves or be bowled over and blown back thirty feet, losing their next round’s [Main Action](/combat#main-action) and suffering `1d6` damage. Light wooden constructions or similar structures are flattened by the wind.
+All creatures of man-size or smaller must make [Physical](/rules#physical) saves or be bowled over and blown back 30ft, losing their next round’s [Main Action](/combat#main-action) and suffering `1d6` damage. Light wooden constructions or similar structures are flattened by the wind.
 
 If used outdoors, the spell can instead control the local weather, transforming the quarter-mile around the caster into any climate found normally at that location at any point during the year. The spell cannot summon a tornado or other extreme weather, but it can call rain and conventional storms sufficient to cause flooding in areas prone to it. The gust of wind is instantaneous, but the weather change lasts for one hour per caster level before reverting to its natural state.
 
@@ -339,12 +339,12 @@ If used on a cabinet, backpack, pocket, or other such container it can be no lar
 If used on a creature, it attempts to tear out the subject’s innards; if the subject has equal or fewer HD than the caster, it must make a [Physical](/rules#physical) save or die instantly. Whether or not it perishes, it suffers `1d10` damage per caster level, with a [Physical](/rules#physical) save for half.
 
 #### Rewind
-The caster may invoke this spell as an [Instant Action](/combat#instant-action) on any single creature within one hundred feet. Time is rolled back slightly, allowing them to replay their current round of action as if it never occurred, though all involved retain a memory of what originally happened.
+The caster may invoke this spell as an [Instant Action](/combat#instant-action) on any single creature within 100ft. Time is rolled back slightly, allowing them to replay their current round of action as if it never occurred, though all involved retain a memory of what originally happened.
 
 This spell is only useful on targets that are currently taking their round’s actions; once they’ve finished for the round and another creature has started acting, it is too late to benefit from this spell. If the target is unwilling to roll back their action, they make a [Mental](/rules#mental) saving throw to resist the spell.
 
 #### Rift
-The caster opens a short-ranged spatial rift between two points within one hundred feet per level, provided they can see or have physically occupied both points at some prior time and provided the two points are at least twenty feet apart.
+The caster opens a short-ranged spatial rift between two points within 100ft per caster level, provided they can see or have physically occupied both points at some prior time and provided the two points are at least 20ft apart.
 
 The rift forms a gateway that connects the two points, large enough to drive a cart through, and allows subjects on either side to see through and pass through the gate. Ambient environmental qualities such as liquids or atmospheres will not pass through the portal; only intentionally-directed creatures and objects will transfer.
 
@@ -362,14 +362,14 @@ The servitor lasts until destroyed or the dawn after the spell is cast.
 #### Swapping Sigil
 This spell is cast in two parts, each of which must be cast separately within a mile of each other, though such paired use counts as only a single spell slot.
 
-The first casting inscribes a palm-sized seal of ruddy brown radiance on the ground beneath the caster. The second casting will immediately switch the caster and all creatures and objects within ten feet with all creatures and objects within ten feet of the sigil.
+The first casting inscribes a palm-sized seal of ruddy brown radiance on the ground beneath the caster. The second casting will immediately switch the caster and all creatures and objects within 10ft with all creatures and objects within 10ft of the sigil.
 
 The caster may refrain from swapping certain targets as they wish. Only portable objects are swapped; any object too heavy for the caster to lift or secured in place remains unmoved. Unwilling targets get no saving throw if they have four or less HD; others can make a [Mental](/rules#mental) save. Unused sigils dissipate in a day.
 
 ### Level 5 - High Magic
 
 #### Color Bomb
-A blinding fan of impossible colors cascades over all targets in front of the caster in an area equal to a cone a hundred feet long and a hundred feet wide at the end.
+A blinding fan of impossible colors cascades over all targets in front of the caster in an area equal to a cone 100ft long and 100ft wide at the end.
 
 Each creature within that area must make a [Physical](/rules#physical) saving throw; those who fail roll `1d6`. On a 1, they are unharmed, on a 2 they collapse into a handful of dust, on a 3 they fall unconscious for an hour, on a 4 they go violently insane for the next hour and attack all around them, on a 5 they turn to stone, and on a 6 they become utterly enthralled to the caster’s commands for the next hour, as if under the effect of an [Dominate Person](#dominate-person) spell.
 
@@ -383,14 +383,14 @@ Only living creatures and the vehicles they drive and objects they carry may pas
 #### Impenatrable Dome
 The caster hurls up a magical shield that is impervious to almost all hostile powers.
 
-Unlike most sorceries, this spell can be cast as an [Instant Action](/combat#instant-action), and immediately creates a transparent bubble of force around the caster with up to a twenty-foot radius.
+Unlike most sorceries, this spell can be cast as an [Instant Action](/combat#instant-action), and immediately creates a transparent bubble of force around the caster with up to a 20ft radius.
 
 Entities and forces outside the bubble cannot penetrate it, and the interior remains a warm, breathable, safe environment regardless of the exterior. Those within the bubble can pass out of it, but they cannot then return within. The bubble can be dispelled by appropriate magics, but other enchantments and attacks cannot harm it, nor can magical effects or material objects pass through it from either direction.
 
 The spell lasts until the caster departs from the bubble.
 
 #### Maze
-Aimed at a visible point within three hundred feet, the spell affects all creatures except the caster within a ten-foot radius of the target, translating them into a lightless extradimensional maze of endlessly tall obsidian walls.
+Aimed at a visible point within 300ft, the spell affects all creatures except the caster within a 10ft radius of the target, translating them into a lightless extradimensional maze of endlessly tall obsidian walls.
 
 The maze is infinite, featureless, and empty. Transported creatures get a [Mental](/rules#mental) saving throw to end the spell, re-appearing one round after it was cast. Those who fail their save get to make an additional attempt once an hour afterwards. Creatures with five or fewer HD cannot attempt these saving throws and are trapped forever unless the mage is killed or ends the spell.
 
@@ -399,9 +399,9 @@ Time passes normally while trapped, and creatures snared within may rest, fight,
 #### Mold Landscape
 The caster molds the soil and stone of the land around them, raising hills, digging trenches, or forming simple structures out of extruded bedrock.
 
-Once cast, the mage psychically molds the terrain within three hundred feet per caster level, shifting it slowly over the course of an hour to form whatever shape they desire out of it, provided the material used can actually maintain such a shape.
+Once cast, the mage psychically molds the terrain within 300ft per caster level, shifting it slowly over the course of an hour to form whatever shape they desire out of it, provided the material used can actually maintain such a shape.
 
-Simple buildings and walls may be created out of bedrock or available stone, and tunnels and caves may be shaped up to 50 feet down from the caster, while hills may be raised up to 200 feet above the prevailing grade. This spell cannot work within a thousand feet of stone or earth that has been significantly worked by intelligent creatures, though the use of this spell by the same caster doesn’t count as working the earth on further castings.
+Simple buildings and walls may be created out of bedrock or available stone, and tunnels and caves may be shaped up to 50ft down from the caster, while hills may be raised up to 200ft above the prevailing grade. This spell cannot work within 1000ft of stone or earth that has been significantly worked by intelligent creatures, though the use of this spell by the same caster doesn’t count as working the earth on further castings.
 
 #### Time Stop
 The caster and up to one visible ally per caster level briefly step outside of the conventional flow of time, the rest of the world freezing around them.
@@ -409,11 +409,11 @@ The caster and up to one visible ally per caster level briefly step outside of t
 These subjects can take `1d4+1` free rounds of actions, but they cannot physically affect the world or move any object they were not carrying at the time they cast the spell. Any spells the caster or other allies cast can affect only their own group, and not those entities still in the normal flow of time.
 
 #### Typhoon
-The caster unleashes a consuming destruction on a visible point within three thousand feet.
+The caster unleashes a consuming destruction on a visible point within 3000ft.
 
-A torrent of eldritch ruin rains down from the heavens on everything within up to a two hundred foot radius per caster level, inflicting `1d8` damage per caster level with a [Physical](/rules#physical) save for half damage, and automatically killing all targets with 4 or fewer HD.
+A torrent of eldritch ruin rains down from the heavens on everything within up to a 200ft radius per caster level, inflicting `1d8` damage per caster level with a [Physical](/rules#physical) save for half damage, and automatically killing all targets with 4 or fewer HD.
 
-This damage is sufficient to destroy any wooden or lightly-built stone structure and will seriously damage even fortifications. The caster can tighten the radius down to a minimum of 20 feet, but cannot be selective about targets within that area.
+This damage is sufficient to destroy any wooden or lightly-built stone structure and will seriously damage even fortifications. The caster can tighten the radius down to a minimum of 20ft, but cannot be selective about targets within that area.
 
 This spell cannot be cast indoors, and is extremely hazardous to the caster; they must make a [Mental](/rules#mental) saving throw on casting it or suffer a quarter of the damage inflicted, rounded up.
 
@@ -427,7 +427,7 @@ The elementalist enchants a stone, ounce of liquid, flame no smaller than a cand
 For one day per level, so long as the charmed object is not destroyed, dispersed, or consumed, they can as a [Main Action](/combat#main-action) see and listen to anything around the object as if they were standing there.
 
 #### Flame Scrying
-The elementalist becomes aware of the approximate locations of all open flames within thirty feet per caster level.
+The elementalist becomes aware of the approximate locations of all open flames within 30ft per caster level.
 
 They choose one of those flames as a focus for the scrying, allowing them to see and hear everything around the flame as if they were present. The spell’s duration lasts for as long as the elementalist remains motionlessly focused on it; during this duration, they may switch their focus between the various flames in range as they wish.
 
@@ -437,7 +437,7 @@ The elementalist and up to a dozen allies are enchanted with powers of water-bre
 Enchanted beings move freely while in the water at their usual movement rate and their attacks and projectile weapons are not hindered by the medium, nor are their possessions soaked or damaged. The spell lasts for one hour per caster level, but will not naturally end so long as a subject is still at least partially submerged. Only the caster or magical dispelling can stop it under those circumstances.
 
 #### Shape Element
-The elementalist makes a direct appeal to a non-magical mass of earth, stone, water, flame, or air no larger than a ten-foot cube.
+The elementalist makes a direct appeal to a non-magical mass of earth, stone, water, flame, or air no larger than a 10ft cube.
 
 At the end of the round, the mass will move or reshape itself within that space as the elementalist requests, maintaining its new form until the end of the [Turn](/rules#turn). If its new shape is one that is stable without magical help, it can be told to remain in it after the spell is finished.
 
@@ -458,16 +458,16 @@ The elementalist chooses earth, water, fire, or wind when casting this spell and
 For the rest of the [Turn](/rules#turn), the target is immune to injury caused by mundane manifestations of that substance; stone weapons don’t harm them, water doesn’t drown them, fire doesn’t burn them, and wind doesn’t topple them. This affects secondary effects of the material as well; a fire-pacted mage couldn’t be boiled in a pot, and an earth-pacted one won’t be suffocated if buried alive.
 
 #### Fly
-The elementalist chooses a visible ally within one hundred feet; the target becomes capable of swift and easy aerial travel, flying at twice their usual movement rate.
+The elementalist chooses a visible ally within one 100ft; the target becomes capable of swift and easy aerial travel, flying at twice their usual movement rate.
 
 If the spell ends or is dispelled while aloft, the target descends gently to the earth. This spell lasts for one [Turn](/rules#turn), though casters of fifth level or more can make it last an hour, and those of eighth level or more can make it last until dawn or dusk, whichever comes next.
 
 #### Form Tunnel
-A passage is carved through natural stone or earth, forming a tunnel up to twenty feet long per caster level and up to ten feet wide and tall.
+A passage is carved through natural stone or earth, forming a tunnel up to 20ft long per caster level and up to 10ft wide and tall.
 
-The caster ca cause the earth to compress and pack itself so as to stabilize the tunnel even in very sandy or burdened soil, or they can allow it to collapse naturally if burdened by some large structure or unstable surroundings.
+The caster can cause the earth to compress and pack itself so as to stabilize the tunnel even in very sandy or burdened soil, or they can allow it to collapse naturally if burdened by some large structure or unstable surroundings.
 
-This spell can function against worked stone, but the length of the tunnel is much shorter, being only two feet per level. Magical stone or earth cannot be altered by this spell. The caster has basic control over the direction and interior features of the tunnel, and can form stairs or other simple structures within it.
+This spell can function against worked stone, but the length of the tunnel is much shorter, being only 2ft per level. Magical stone or earth cannot be altered by this spell. The caster has basic control over the direction and interior features of the tunnel, and can form stairs or other simple structures within it.
 
 #### Become Element
 The elementalist charges their physical shape with the qualities of a chosen element for the rest of the [Turn](/rules#turn).
@@ -479,7 +479,7 @@ In all cases, they need not breathe and become immune to poisons and diseases no
 #### Elemental Wall
 Conjure a a wall of a chosen churning elemental force.
 
-The barrier is ten feet long per character level, with a height of ten feet and a thickness of one foot. The barrier must rest on solid ground but may be bent or shaped as desired so long as no part of it is more than two hundred feet from the caster.
+The barrier is 10ft long per character level, 10ft high, and 1ft thick. The barrier must rest on solid ground but may be bent or shaped as desired so long as no part of it is more than 200ft from the caster.
 
 Earthen walls are impervious to anything but mining-appropriate tools or rock-shattering strength, taking 20 HP of damage to knock a man-sized hole in them.
 
@@ -487,7 +487,7 @@ Fire walls inflict `3d6` damage plus the elementalist’s level on anyone who pa
 
 Water walls spin and hurl creatures of ox-size or less who pass through them, ejecting them at a random point on the far side of the wall and doing `2d6` damage from the buffeting.
 
-Air walls are invisible, inaudible, and twenty feet in height; those who cross them suffer `1d6` plus the elementalist’s level in electrical damage.
+Air walls are invisible, inaudible, and 20ft high. Those who cross them suffer `1d6` plus the elementalist’s level in electrical damage.
 
 The walls vanish at the end of the [Turn](/rules#turn).
 
@@ -501,7 +501,7 @@ The spell lasts until the end of the [Turn](/rules#turn) or until the target or 
 ### Level 4 - Elementalist
 
 #### Calcify
-A visible target within one hundred feet must make a [Physical](/rules#physical) saving throw or be turned to stone.
+A visible target within 100ft must make a [Physical](/rules#physical) saving throw or be turned to stone.
 
 Any size of living creature may be so transmuted, though inanimate objects larger than a cart cannot. Objects being held or worn by someone else get a [Physical](/rules#physical) saving throw made by their user. The calcification remains until dispelled or the caster undoes the magic, but if the object or creature is damaged in the meanwhile, it may end up being harmed or killed on its restoration.
 
@@ -521,16 +521,16 @@ A guardian persists until destroyed or until the dawn after they have been summo
 ### Level 5 - Elementalist
 
 #### Earthquake
-The elementalist calls up a deep, rolling tremor from within the earth, centering it on a visible point and affecting all structures in a radius of up to five hundred feet.
+The elementalist calls up a deep, rolling tremor from within the earth, centering it on a visible point and affecting all structures in a radius of up to 500ft.
 
 This spell’s effects build slowly, requiring five minutes to fully manifest, but they can successfully topple or destroy any structures, tunnels, or caves within the affected area unless such structures are magically reinforced.
 
 The effects are negated if the spell is dispelled within a minute after it was cast; after that, it’s too late to stop the effect.
 
 #### Fury of the Elements
-A combination of molten rock, searing pyroclastic winds, and super-heated steam erupts forth to ravage a chosen target point within two hundred feet per caster level.
+A combination of molten rock, searing pyroclastic winds, and super-heated steam erupts forth to ravage a chosen target point within 200ft per caster level.
 
-The cataclysmic ruin smites everything within thirty feet of the target point for `10d6` damage, destroying all conventional structures. The zone of devastation then moves `1d6x10` feet in a random direction at the start of the next round, blasting everything in its path. The zone will continue to wander in this fashion for `1d6` rounds in total before dying out.
+The cataclysmic ruin smites everything within 30ft of the target point for `10d6` damage, destroying all conventional structures. The zone of devastation then moves `1d6•10ft`in a random direction at the start of the next round, blasting everything in its path. The zone will continue to wander in this fashion for `1d6` rounds in total before dying out.
 
 The molten remnants of the spell remain after this duration, a hazard for whomever enters the area for the rest of the day.
 
@@ -541,7 +541,7 @@ The molten remnants of the spell remain after this duration, a hazard for whomev
 #### Command the Dead
 The necromancer exerts their will over a number of HD worth of undead equal to twice their character level.
 
-These undead must be visible and within one hundred feet of the caster. Undead get a [Mental](/rules#mental) saving throw to resist this binding, at a penalty equal to the caster’s [Magic](/rules#magic). Creatures only partially-bewitched by the spell due to their excess HD merely stand dazed for a round. Those fully within the HD cap who are affected become suicidally loyal to the necromancer until they are released by the caster.
+These undead must be visible and within 100ft. Undead get a [Mental](/rules#mental) saving throw to resist this binding, at a penalty equal to the caster’s [Magic](/rules#magic). Creatures only partially-bewitched by the spell due to their excess HD merely stand dazed for a round. Those fully within the HD cap who are affected become suicidally loyal to the necromancer until they are released by the caster.
 
 Regardless of how often the caster uses this spell, they may have no more than twice their level worth of HD bound at any one time, with the oldest-enchanted being first released.
 
@@ -553,7 +553,7 @@ The target appears as it did in life, at any point in its lifespan that the necr
 A necromancer can maintain only one such disguise per level, and it does not work on sentient unwilling targets.
 
 #### Smite the Dead
-The necromancer conjures a blast of dispelling force at a point within one hundred feet per caster level, affecting an area up to 20 feet in radius.
+The necromancer conjures a blast of dispelling force at a point within 100ft per caster level, affecting an area up to 20ft in radius.
 
 All hostile undead within that area immediately suffer `1d10` damage per caster level. Undead with HD equal or less than the caster’s level must make a [Physical](/rules#physical) save or be destroyed outright.
 
@@ -576,7 +576,7 @@ For the rest of the [Turn](/rules#turn), all [Physical](/rules#physical) saving 
 The recipient of this spell gains one [System Strain](/rules#system-strain).
 
 #### Enfeebling Wave
-A wash of debilitating force erupts in a 20-foot radius at a visible point within one hundred feet.
+A wash of debilitating force erupts in a 20ft radius at a visible point within 100ft.
 
 All living creatures within the area must make a [Physical](/rules#physical) saving throw or for the rest of the [Turn](/rules#turn) their movement rate is halved and they must make all attack and damage rolls twice and take the worse result. If the save is successful, these penalties apply only to the next [Round](/rules#round).
 
@@ -597,7 +597,7 @@ A necromancer cannot have more active subjects of this spell than their characte
 ### Level 3 - Necromantic
 
 #### Dominate Flesh
-A visible living creature or physically-bodied undead within 100 feet is ensorceled by this spell, their flesh and bones becoming temporarily enthralled to the caster’s will.
+A visible living creature or physically-bodied undead within 100ft is ensorceled by this spell, their flesh and bones becoming temporarily enthralled to the caster’s will.
 
 The target becomes paralyzed unless commanded by the caster as a [Free Action](/combat#free-action); once given a command, their body will dutifully carry it out on their next [Turn](/rules#turn). The user’s mind is not affected by this spell, so they cannot be made to cast spells, answer questions, or perform other intellectual tasks, but they will fight, move, and perform other non-suicidal physical acts as normal. The target may make a [Physical](/rules#physical) saving throw at the start of each [Round](/rules#round) to throw off the effect, but they will inevitably suffer one point of damage per caster level with each attempt as their flesh writhes and tears.
 
@@ -645,10 +645,10 @@ One that has been reduced to zero HP is destroyed and can only be rebuilt with a
 #### Call of the Tomb
 The necromancer invokes the inescapable urge for self-dissolution within the substance of all that exists, amplifying the weight of their own mortality.
 
-All enemy creatures within forty feet are affected. Targets make a [Physical](/rules#physical) saving throw to resist, in which case the effects last only one round, otherwise lasting for one round per caster level. During this time all attacks made against the victims automatically hit and all damage dice they suffer are maximized. Any special defenses they may have against mundane weapons or certain types of injury are negated while the spell is on them.
+All enemy creatures within 40ft are affected. Targets make a [Physical](/rules#physical) saving throw to resist, in which case the effects last only one round, otherwise lasting for one round per caster level. During this time all attacks made against the victims automatically hit and all damage dice they suffer are maximized. Any special defenses they may have against mundane weapons or certain types of injury are negated while the spell is on them.
 
 #### Everlasting
-The spell may be triggered as an [Instant Action](/combat#instant-action) by the caster, imparting a burst of unquenchable life force to all allied creatures within 50 feet.
+The spell may be triggered as an [Instant Action](/combat#instant-action) by the caster, imparting a burst of unquenchable life force to all allied creatures within 50ft.
 
 For the next five rounds, no affected ally can be reduced below 1 HP, regardless of the damage inflicted upon them. At the end of the spell’s effect, the caster’s own life energy is exhausted, leaving them with only 1 HP.
 

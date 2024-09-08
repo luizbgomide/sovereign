@@ -166,6 +166,7 @@ This game endeavors to provide a ruleset that allows players to play through adv
 
 #### 2024-09-08
 - Clarify language on spell prep and casting
+- Use numbers and ft instead of spelling it out.
 
 #### 2024-09-07
 - Update the equipment list to include everything in the suggested uses

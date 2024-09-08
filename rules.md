@@ -301,7 +301,7 @@ To haul more equipment and loot than the Delvers can carry, they need pack anima
 ## Falling and Other Hazards
 Some perils occur with some regularity for adventurers. A few of the most common are detailed here.
 
-**Falling**: Most creatures will take `1d6` [damage](#damage) per 10 full feet they fall, up to `20d6` maximum. Spikes or other hazardous terrain at the bottom will add at least `1d6` to the total. A creature that intentionally leaps or skids down in a controlled way makes a DEX or STR/[Exert](#exert) [skill check](#skill-checks) at a difficulty of 7 + 1 for every 10 full feet; on a success, the effective distance fallen is halved.
+**Falling**: Most creatures will take `1d6` [damage](#damage) per 10ft they fall, up to `20d6` maximum. Spikes or other hazardous terrain at the bottom will add at least `1d6` to the total. A creature that intentionally leaps or skids down in a controlled way makes a DEX or STR/[Exert](#exert) [skill check](#skill-checks) at a difficulty of 7 + 1 for every 10ft; on a success, the effective distance fallen is halved.
 
 **Suffocation**: Creatures fight or act normally without air for one [Round](#round) per point of Constitution, or 10 [Rounds](/rules#round) for most NPCs. If they don’t move, they quadruple this time. Once they run out of air, they must make a [Physical](#physical) save each [Round](/rules#round) or take 1 HP per HD or level they have.
 

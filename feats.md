@@ -84,7 +84,7 @@ You are exceedingly skilled at presenting yourself as something you are not, inc
 
 Something about your hero interferes with easy use of magic on them. It may be a strangely powerful birth blessing, a particular supernatural bloodline, or simple occult incompatibility. This Feat cannot be taken by Mages or Partial Mages.
 
-- **Level 1**: You and all allies within twenty feet gain a +2 bonus to all saving throws against magical effects. As a [Free Action](/combat#free-action), you feel the presence or use of magic within twenty feet of you, though you can’t discern details about it or the specific source. The first failed saving throw against a magical effect you suffer in a day is converted into a success.
+- **Level 1**: You and all allies within 20ft gain a +2 bonus to all saving throws against magical effects. As a [Free Action](/combat#free-action), you feel the presence or use of magic within 20ft of you, though you can’t discern details about it or the specific source. The first failed saving throw against a magical effect you suffer in a day is converted into a success.
 - **Level 2**: Once per day, as an [Instant Action](/combat#instant-action), you are simply not affected by an unwanted magical effect or supernatural monstrous ability, even if it wouldn’t normally allow a saving throw. Immunity to a persistent effect lasts for the rest of the [Turn](/rules#turn).
 
 ## Poisoner
