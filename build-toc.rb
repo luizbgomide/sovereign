@@ -7,6 +7,8 @@ $chapter = ""
 class ToC < Redcarpet::Render::Base
   def header(text, header_level)
     return nil if text.include? "title:"
+    return nil if text.include? "Table Of Contents"
+    return nil if text.include? "Summary"
 
     id = text.gsub(" ", "-").gsub(/[^\s\w-]/, "").downcase
     entry = { label: text, id: "/#{$chapter}##{id}", children: [] }
@@ -30,7 +32,7 @@ def create_chapter_toc(chapter)
 end
 
 chapters = [
-  "delver-creation",
+  "character-creation",
   "classes",
   "arcane-traditions",
   "rules",
@@ -48,3 +50,8 @@ chapters.each do |chapter|
 end
 
 File.open("_data/toc.json", 'w') { |file| file.write($toc.to_json) }
+
+$toc.each do |chapter|
+  file_name = chapter[:label].gsub(" ", "-").gsub(/[^\s\w-]/, "").downcase
+  File.open("_data/#{file_name}.json", 'w') { |file| file.write(chapter[:children].to_json) }
+end

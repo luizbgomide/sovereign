@@ -168,6 +168,7 @@ This game endeavors to provide a ruleset that allows players to play through adv
 - Clarify language on spell prep and casting
 - Use numbers and ft instead of spelling it out.
 - Use more common terms instead of Delver
+- Add an intro, toc, and summary for the rules chapter.
 
 #### 2024-09-07
 - Update the equipment list to include everything in the suggested uses

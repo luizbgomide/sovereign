@@ -5,6 +5,18 @@ title: Home
 
 # Rules
 
+This chapter covers the core rules of Sovereign. It endeavors to familiarize the reader with common terms, the goal of the game, the main procedures, and provide structure for commonly-occuring situations.
+
+Sovereign is a [Table-Top Role-Playing Game](https://en.wikipedia.org/wiki/Tabletop_role-playing_game), where a group of friends come together to imagine a fantasy adventure. One player (called the Game Master) prepares an an adventure and the other players [create characters](/character-creation) who will go on the adventure. The Game Master describes each situation to the Players, who then tell the Game Master what their Characters do. Their actions create new situations, which the Game Master describes, and the process repeats.
+
+The players aim to defeat powerful monsters and recover valuable treasure, which rewards Experience Points. Unlike most games, there is no *winning* in a strict sense, but *playing well* looks like earning as many Experience Points as possible without dying. After earning enough Experience Points, their Characters [grow more powerful](#advancement), and can face fiercer challenges (which tend to be worth more and more Experience Points).
+
+The Game Master aims to resolve each situation **fairly**. There is no *winning* for the Game Master, but *playing well* involves creating [interesting, impactful, and informed choices](https://www.bastionland.com/2018/09/the-ici-doctrine-information-choice.html) for the players, and then fairly determing what happens next.
+
+## Table Of Contents
+
+{% include chapter-toc.html items=site.data.rules %}
+
 ## Common Terms
 
 - **Player**: All of the real-life humans sitting around the table, *except* for the Game Master. Each Player controls a Character.
@@ -40,7 +52,7 @@ Sovereign is played with one GM and at most 8 players, playing as 4 to 8 PCs, ve
 
 1. The GM describes a situation to the players, making sure to not assume actions from the players, paying special attention to what they see, hear, and smell. Then, they ask "What do you do?"
 2. The players clarify or describe their actions and the [*intent*](https://www.bastionland.com/2022/12/action-intent-duality.html) behind their actions. When acting as a group (such as picking the next room to explore), elect one person to speak for the group to reduce chaos.
-3. The GM informs the players how likely their actions are to accomplish their intent (taking into account the situation, their [Attributes](#attributes), and their [Skills](#skills)), what happens if they fail, and how much it costs them to try. Actions that have no chance to fail, have no consequences for failure and no appreciable cost to attempt *just happen*. [Skill checks](#skill-checks) are a useful way come up with likelihood, but the GM is free to come up with probabilities directly, like 1-in-6 or 45%.
+3. The GM informs the players how likely their actions are to accomplish their intent (taking into account the situation, their [Attributes](#attributes), and their [Skills](#skills)), what happens if they fail, and how much it costs them to try. Actions that have no chance to fail, have no consequences for failure and no appreciable cost to attempt *just happen*. [Skill Checks](#skill-checks) are a useful way come up with likelihood, but the GM is free to come up with probabilities directly, like 1-in-6 or 45%.
 4. If the players find the ruling to be reasonable, the dice are rolled and we honor the stakes. If they *don't*, they negotiate or come up with a better plan. Typical levers are higher chances of success for less impactful results, worse consequences for failure, or higher costs to attempt and vice versa.
 5. This creates a new situation. The GM [fast forwards](https://thealexandrian.net/wordpress/31509/roleplaying-games/the-art-of-pacing) to the next meaningful decision, narrating the transition and repeats the process.
 
@@ -48,9 +60,9 @@ That's the *whole* game. All other rules exist to either faciliate interesting d
 
 ### Narrative Interaction
 
-Much of the intresting part (and what separates skilled players from novice players) of exploring is coming up with a plan that *avoids* rolling. A plan that triggers a skill check or roll is *workable*, but also *risky*. A lot of the fun in this play style is coming up with plans that *can't fail*.
+Much of the intresting part (and what separates skilled players from novice players) of exploring is coming up with a plan that *avoids* rolling. A plan that triggers a [Skill Check](#skill-checks) or roll is *workable*, but also *risky*. A lot of the fun in this play style is coming up with plans that *can't fail*.
 
-Consider being faced with a deep, 15-foot wide spiked pit. Dangerous. If a player wants to leap to the other side, the GM might rule that as a DC 8 STR/[Exert](#exert) [check](#skill-checks) with failure resulting in taking `3d6` [damage](#damage) from the fall and spikes as well as being stuck at the bottom.
+Consider being faced with a deep, 15-foot wide spiked pit. Dangerous. If a player wants to leap to the other side, the GM might rule that as a DC 8 STR/[Exert](#exert) [Check](#skill-checks) with failure resulting in taking `3d6` [Damage](#damage) from the fall and spikes as well as being stuck at the bottom.
 
 A clever player might think to *fill up the pit*. Perhaps they spend some time dragging coffins, furniture, etc into the pit so that they can lower themselves down, walk across, and climb up the other side without rolling.
 
@@ -587,3 +599,21 @@ Alignment interacts with various magic items. Creatures in [bestaries](https://o
 **Neutral**: [Neutral](https://en.wikipedia.org/wiki/Ethical_egoism) folks belive that an action is morally right if it maximizes one's self-interest. According to neutral folks, the only moral obligation an individual has is to promote their own well-being, and they should only consider the interests of others insofar as doing so ultimately benefits themselves.
 
 **Evil**: Evil folks actively seek to harm and exploit others for their own gain or pleasure. They lack empathy, disregard the rights and well-being of others, and may even derive satisfaction from causing suffering.
+
+## Summary
+
+That's it for the core rules! By now, the reader should have a handle on goal of the game (get XP), an understanding of the game's structure (the [Core Gameplay Loop](#core-gameplay-loop)), and should *know where to look* to resolve commonly occuring situations.
+
+Key takeaways:
+
+- Players should engage with the GM's description of the situation, think [laterally](https://en.wikipedia.org/wiki/Lateral_thinking), and come up with plans to defeat monsters and recover treasure (often involving their [equipment](/equipment) and environment) with good that have good cost:benefit ratios.
+- The main scarce resources are:
+  - [Encumbrance](#encumbrance). You can only carry so much.
+  - Time. Every [Turn](#turn) is another chance at a risky wandering encounter.
+  - Spells. They only replenish back in town with [Comfortable Sleep](#comfortable-sleep).
+  - [System Strain](#system-strain). It only replenishes back in town with [Comfortable Sleep](#comfortable-sleep).
+- Fighting drains resources and is not the only option.
+
+Absent from this chapter are the rules for [Combat](/combat) which are complex enough to have its own chapter.
+
+![small](/assets/images/game-flowchart.png)
