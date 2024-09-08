@@ -167,6 +167,7 @@ This game endeavors to provide a ruleset that allows players to play through adv
 #### 2024-09-08
 - Clarify language on spell prep and casting
 - Use numbers and ft instead of spelling it out.
+- Use more common terms instead of Delver
 
 #### 2024-09-07
 - Update the equipment list to include everything in the suggested uses
@@ -183,7 +184,7 @@ This game endeavors to provide a ruleset that allows players to play through adv
 - Fix table scrolling.
 - Update number of suggested magic items per adventure.
 - Add a sling to the weapons list. Lots of magic stones out there in adventures.
-- Fully hyperlink delver creation.
+- Fully hyperlink PC creation.
 - Note in the index that Running the Game is much more complete
 - Finish Running the Game
 - I think we're ready to release!
@@ -209,7 +210,7 @@ This game endeavors to provide a ruleset that allows players to play through adv
 - Initial sections for the game master guide
 
 #### 2024-08-10
-- Re-do the delver creation example, which makes the examples section done for now.
+- Re-do the character creation example, which makes the examples section done for now.
 
 #### 2024-08-09
 - Change the tutorial to examples of play
@@ -248,7 +249,7 @@ This game endeavors to provide a ruleset that allows players to play through adv
 - Standardize text around actions.
 - Somehow the metric system slipped it. It has been removed.
 - Use HD for npcs
-- Use HP Progression for Delvers
+- Use HP Progression for characters.
 - hyperlink all of the skills.
 - Get an actual table of contents going. Thanks Lina!
 
@@ -256,9 +257,9 @@ This game endeavors to provide a ruleset that allows players to play through adv
 - Give the spell level headers unique names so the hyperlinks work.
 - Rename "arts and spells" to "progression" to be more clear.
 - Hyperlink and standardize Bonus Skills.
-- Clarify Screen an Ally
-- Use HD for npcs
-- Use HP Progression for Delvers
+- Clarify Screen an Ally.
+- Use HD for npcs.
+- Use HP Progression for characters.
 
 #### 2024-07-28
 - Build a table of contents for the index and each section.
@@ -288,10 +289,10 @@ This game endeavors to provide a ruleset that allows players to play through adv
 #### 2024-07-25
 - Remove Lead and Lead-based Feats. Use leverage instead.
 - Remove Charisma
-- Worked delver creation example. Whew.
+- Worked character creation example. Whew.
 
 #### 2024-07-24
-- Add a tutorial for learning delver creation. Still need a worked example.
+- Add a tutorial for learning character creation. Still need a worked example.
 - Keep items on card stock
 - Add rules for doors. So many doors.
 - Drop a ton of instances of 'may' and 'can' that weren't actual choices.

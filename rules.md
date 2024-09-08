@@ -5,19 +5,28 @@ title: Home
 
 # Rules
 
+## Common Terms
+
+- **Player**: All of the real-life humans sitting around the table, *except* for the Game Master. Each Player controls a Character.
+- **Game Master**: The real-life human in charge of everything *except* the actions of the Player Characters (PC). They control the setting, the actions of Non-Player Characters (NPCs), and read/run the [adventures](/index#recommended-adventures).
+- **Character**: A person within the game world, built using the rules in [Character Creation](/character-creation).
+- **Player Character (PC)**: A Character controlled by a Player.
+- **Non-Player Character (NPC)**: A all entities controlled by the GM. Some NPCs are also Characters (if the GM finds this useful).
+- **Party**: The group of PCs and [Henchmen](/equipment#henchmen) adventuring together.
+
 ## The Big Picture
 
 1. The Game Master (GM) creates a loosely defined fantasy setting where most adventures that they would want to run fits in somewhere.
-2. The GM proposes a few adventures (describing them in vague strokes) to the players between sessions, the players pick the one they want to run next, and the GM prepares that adventure, using [hard framing](https://thealexandrian.net/wordpress/31509/roleplaying-games/the-art-of-pacing) to place the Delvers right on the adventure's doorstep with a strong hook.
-3. After an adventure is completed, the process repeats from step 2, usually with the same Delvers. Weeks or months pass in-game between adventures as appropriate.
+2. The GM proposes a few adventures (describing them in vague strokes) to the players between sessions, the players pick the one they want to run next, and the GM prepares that adventure, using [hard framing](https://thealexandrian.net/wordpress/31509/roleplaying-games/the-art-of-pacing) to place the Party right on the adventure's doorstep with a strong hook.
+3. After an adventure is completed, the process repeats from step 2, usually with the same Party. Weeks or months pass in-game between adventures as appropriate.
 
 This is *very much* a game about playing all of the wonderful [adventures](/#recommended-adventures) that the [community](https://campaignwiki.org/osr/) has to offer. To that end, Sovereign attempts to strip out and de-emphasize anything that might entice the players *away* from the pre-written content in adventures. Domain play, crafting, etc have all be deliberately removed.
 
-Finally, the episodic natures of the adventures facilitates players joining and leaving the table, and allows for players to easily introduce new Delvers as their old ones die, retire, or recover. We want everyone playing as smoothly as possible!
+Finally, the episodic natures of the adventures facilitates players joining and leaving the table, and allows for players to easily introduce new PCs as their old ones die, retire, or recover. We want everyone playing as smoothly as possible!
 
 ## Core Gameplay Loop
 
-Sovereign is played with one GM and at most 8 players, playing as 4 to 8 Delvers, venturing into dark dungeons, derelict castles, and ancient tombs for fun and profit. The game is, predominately, a conversation, but that conversation has *structure*:
+Sovereign is played with one GM and at most 8 players, playing as 4 to 8 PCs, venturing into dark dungeons, derelict castles, and ancient tombs for fun and profit. The game is, predominately, a conversation, but that conversation has *structure*:
 
 1. The GM describes a situation to the players, making sure to not assume actions from the players, paying special attention to what they see, hear, and smell. Then, they ask "What do you do?"
 2. The players clarify or describe their actions and the [*intent*](https://www.bastionland.com/2022/12/action-intent-duality.html) behind their actions. When acting as a group (such as picking the next room to explore), elect one person to speak for the group to reduce chaos.
@@ -41,7 +50,7 @@ Better is for the player to specify *what* and *how* they're searching. If their
 
 ## Attributes
 
-A Delver has five attributes ranging from 3 to 18, reflecting a range from the minimum viable capacity for a playable character to the maximum normal human level.
+A PC has five attributes ranging from 3 to 18, reflecting a range from the minimum viable capacity for a playable character to the maximum normal human level.
 
 Three of these attributes are physical.
 
@@ -89,17 +98,17 @@ Saving throws are rolled to resist some unusual danger or chance hazard. To make
 
 There are three types of saving throws. Usually it will be obvious which type is most appropriate for a threat, but the GM makes the call.
 
-<strong id="physical">Physical</strong> saves resist exhaustion, poisons, diseases, or other bodily afflictions. A Delver's Physical saving throw target is equal to 16 minus their character level and the highest of their STR or CON.
+<strong id="physical">Physical</strong> saves resist exhaustion, poisons, diseases, or other bodily afflictions. A Character's Physical saving throw target is equal to 16 minus their character level and the highest of their STR or CON.
 
-<strong id="evasion">Evasion</strong> saves apply when dodging explosions, avoiding traps, reacting to sudden peril, or other occasions where speed is of the essence. A Delver’s Evasion saving throw target is equal to 16 minus their character level and the highest of their DEX or INT.
+<strong id="evasion">Evasion</strong> saves apply when dodging explosions, avoiding traps, reacting to sudden peril, or other occasions where speed is of the essence. A Character's Evasion saving throw target is equal to 16 minus their character level and the highest of their DEX or INT.
 
-<strong id="mental">Mental</strong> saves apply when resisting mental attacks, insubstantial magic spells, psychological trauma, and other mental hazards. A Delver’s Mental saving throw target is equal to 16 minus their character level and the highest of their INT or WIS.
+<strong id="mental">Mental</strong> saves apply when resisting mental attacks, insubstantial magic spells, psychological trauma, and other mental hazards. A Character’s Mental saving throw target is equal to 16 minus their character level and the highest of their INT or WIS.
 
 NPCs have a single saving throw target equal to 15 minus half their rounded-down HD. Thus, an NPC with 3 HD would have a saving throw target of 14+ for any particular hazard.
 
 ## Skills
 
-A Delver’s skills reprsent their training. A newly-created Delver starts with a few trained skills and [gain more](#advancement-benefits) as the Delver [advances](#advancement) in level.
+A PC's skills reprsent their training. A newly-created PC starts with a few trained skills and [gain more](#advancement-benefits) as they [level up](#advancement).
 
 ### Interpretting Skill Levels
 
@@ -113,7 +122,7 @@ All skills start at level -1.
 
 Skills may overlap in their application; the character may use either skill at their discretion.
 
-- <strong id="exert">Exert</strong>: Run, swim, climb, jump, labor for long periods, throw things, or otherwise exert your physical strength, stamina, and coordination. Even a Delver with poor physical attributes might have a good Exert skill reflecting athletic training and expertise in making the most of their available talents.
+- <strong id="exert">Exert</strong>: Run, swim, climb, jump, labor for long periods, throw things, or otherwise exert your physical strength, stamina, and coordination. Even a Character with poor physical attributes might have a good Exert skill reflecting athletic training and expertise in making the most of their available talents.
 - <strong id="heal">Heal</strong>: Treat wounds, cure diseases, neutralize poisons, diagnose psychological health issues, and otherwise tend to the wounds of body and mind.
 - <strong id="know">Know</strong>: Know matters of history, geography, natural science, zoology, and other academic fields appropriate to a sage or scholar. While some sages might specialize in particular fields, most learned folks have a broad range of understanding, and will rarely be unable to even attempt to answer a question relevant to this skill.
 - <strong id="magic">Magic</strong>: Cast or analyze magic and know things about famous mages or notable magical events. Classes that can’t cast spells obtain only intellectual and scholarly benefits from this skill.
@@ -127,13 +136,13 @@ Skills may overlap in their application; the character may use either skill at t
 
 ### Skill Checks
 
-Most Delvers are skilled, competent folks who are perfectly capable of carrying out the ordinary duties of their role. Sometimes, however, they are faced with a situation or challenge beyond the usual scope of their role and the GM calls for a skill check.
+Most Characters are skilled, competent folks who are perfectly capable of carrying out the ordinary duties of their role. Sometimes, however, they are faced with a situation or challenge beyond the usual scope of their role and the GM calls for a skill check.
 
-To make a skill check, roll `2d6` and add the most relevant skill level and [attribute modifier](#attribute-modifiers) (denoted as {Attribute Modifier}/{Skill}, like STR/[Exert](#exert) or INT/[Magic](#magic)). If the total is equal or higher than the check’s <strong id="difficulty-class">Difficulty Class</strong> (DC), the check is a success. On a failure, the Delver either can’t accomplish the feat at all, bad luck cheats them, or they achieve it at the cost of some further complication. The GM determines the specific consequence of a failure.
+To make a skill check, roll `2d6` and add the most relevant skill level and [attribute modifier](#attribute-modifiers) (denoted as {Attribute Modifier}/{Skill}, like STR/[Exert](#exert) or INT/[Magic](#magic)). If the total is equal or higher than the check’s <strong id="difficulty-class">Difficulty Class</strong> (DC), the check is a success. On a failure, the Character either can’t accomplish the feat at all, bad luck cheats them, or they achieve it at the cost of some further complication. The GM determines the specific consequence of a failure.
 
 To express to this compactly, we write DC {Difficulty Class} {Attribute Modifier/Skill}. For example, DC 8 INT/[Know](#know) or DC 12 DEX/[Heal](#heal).
 
-The GM is always the one who calls for a skill check, and they do so at their discretion. The player simply describes what their Delver is attempting to do, and the GM will tell them what skill and attribute combination to roll. If multiple skills or attributes might plausibly fit the action, the player picks.
+The GM is always the one who calls for a skill check, and they do so at their discretion. The player simply describes what their Character is attempting to do, and the GM will tell them what skill and attribute combination to roll. If multiple skills or attributes might plausibly fit the action, the player picks.
 
 | Difficulty | Skill Check                                                                                                                                   |
 |------------|-----------------------------------------------------------------------------------------------------------------------------------------------|
@@ -149,13 +158,13 @@ When an NPC needs to make a skill check, they roll `2d6` and add their listed sk
 
 ### Group Checks
 
-When multiple Delvers face a situation together, they elect one to make the roll. For each other Delver with a positive modifier, add 1 to the roll. For each delver with a negative modifier, subtract 1.
+When a Party faces a situation together, one Character makes the roll. For each other Character with a positive modifier, add 1 to the roll. For each Character with a negative modifier, subtract 1.
 
 This represents forcing open a heavy door together, everyone trying to stealth past a guard, or collectively climbing a cliff face.
 
 ### Opposed Skill Checks
 
-When skills oppose each other, the side attempting to change the situation rolls a skill check vs a [DC](#difficulty-class) of 8 plus the other side's modifier. For example, a Delver trying to sneak past a guard might roll `2d6` plus their DEX/[Sneak](/rules#sneak) against a DC of 8 + the guard’s skill modifier. If the guard is significant enough to have attributes and skill levels, it might be a `2d6`+DEX/[Sneak](/rules#sneak) against a DC of 8+WIS/[Notice](#notice). We write this compactly as DEX/[Sneak](/rules#sneak) vs WIS/[Notice](#notice).
+When skills oppose each other, the side attempting to change the situation rolls a skill check vs a [DC](#difficulty-class) of 8 plus the other side's modifier. For example, a Character trying to sneak past a guard might roll `2d6` plus their DEX/[Sneak](/rules#sneak) against a DC of 8 + the guard’s skill modifier. If the guard is significant enough to have attributes and skill levels, it might be a `2d6`+DEX/[Sneak](/rules#sneak) against a DC of 8+WIS/[Notice](#notice). We write this compactly as DEX/[Sneak](/rules#sneak) vs WIS/[Notice](#notice).
 
 ## Keeping Track of Time
 
@@ -173,7 +182,7 @@ Injury is almost inevitable in an adventurer’s career. Some forms of it are lo
 
 ### Mortal Injury and Stabalization
 
-When a Delver is reduced to zero HP from taking [damage](#damage), they are Mortally Injured. They will die at the end of the sixth [Round](#round) after their incapacitation unless stabilized by an ally or some special ability. A Mortally Injured character is helpless, takes no actions, and does nothing useful.
+When a Character is reduced to zero HP from taking [damage](#damage), they are Mortally Injured. They will die at the end of the sixth [Round](#round) after their incapacitation unless stabilized by an ally or some special ability. A Mortally Injured character is helpless, takes no actions, and does nothing useful.
 
 Stabilizing an ally is a [Main Action](/combat#main-action) that requires a DEX/[Heal](#heal) or INT/[Heal](#heal) [skill check](#skill-checks) with a DC of 8 plus the number of full [Rounds](#round) since the target fell. If the medic lacks a [healer’s kit](/equipment#healers-kit), this difficulty is increased by 2. Only one ally can try to stabilize a victim per round, though others can attempt to aid their check (via a [group check](#group-checks)). Attempts may be retried each round for as long as hope lasts.
 
@@ -195,7 +204,7 @@ Frail characters without this level of medical care must make a [Physical](#phys
 
 A wounded creature recovers HP by getting [Comfortable Sleep](#comfortable-sleep) and adequate food. Provided they are warm, fed, and comfortable, they regain HP each morning equal to their experience level, or equal to their HD if they are NPCs.
 
-Delvers are *not* confortable while sleeping in tents, outdoors, etc. It has to be a honest *bed*.
+Characters are *not* confortable while sleeping in tents, outdoors, etc. It has to be a honest *bed*.
 
 [Frail](#frail) creatures do not recover HP through natural healing.
 
@@ -217,9 +226,9 @@ Characters lose one point of accumulated System Strain after [Comfortable Sleep]
 
 ## Rest
 
-Each Delver needs to sleep for at least 8 hours a day in order to avoid incurring [System Strain](#system-strain) from [Lack of Sleep](#lack-of-sleep). Magic items that recharge on a per-day basis recharge recharge at dawn.
+Each Character needs to sleep for at least 8 hours a day in order to avoid incurring [System Strain](#system-strain) from [Lack of Sleep](#lack-of-sleep). Magic items that recharge on a per-day basis recharge recharge at dawn.
 
-For all other mechanics to recover ([System Strain](#system-strain), [Effort committed for the day](#committing-effort), recovering [Spells](/spells#casting-prepared-spells)), the Delver needs **Comfortable Sleep**.
+For all other mechanics to recover ([System Strain](#system-strain), [Effort committed for the day](#committing-effort), recovering [Spells](/spells#casting-prepared-spells)), the Character needs **Comfortable Sleep**.
 
 <strong id="comfortable-sleep">Comfortable Sleep</strong> needs to be:
 
@@ -227,7 +236,7 @@ For all other mechanics to recover ([System Strain](#system-strain), [Effort com
 - In a safe place
 - Comfortable
 
-The intention here is that Delvers *cannot* get Comfortable Sleep (and thus recover resources) while on an adventure. They must return to a settlement where they can sleep comfortably in peace. While the adventurers are away, the dungeon has time to respond and repopulate.
+The intention here is that Characters *cannot* get Comfortable Sleep (and thus recover resources) while on an adventure. They must return to a settlement where they can sleep comfortably in peace. While the adventurers are away, the dungeon has time to respond and repopulate.
 
 Some (mega) dungeons are so large that they have (especially as a reward for exploration or befriending a faction) places to achieve Comfortable Sleep.
 
@@ -245,7 +254,7 @@ Other poisons can have other effects. A [giant centepede](https://oldschoolessen
 
 ## Chases and Pursuit
 
-Delvers have a habit of chasing others and being chased.
+Characters have a habit of chasing others and being chased.
 
 If one group is faster than the other group, that group succeeds.
 
@@ -283,13 +292,13 @@ Gear is either Stowed or Readied.
 
 ### Bulk Weights
 
-Sometimes the Delvers need to transport bulk amounts of goods that are measured in pounds. When it’s necessary to convert these weights into encumbrance points, assume that 50lbs is 10 enc.
+Sometimes the Characters need to transport bulk amounts of goods that are measured in pounds. When it’s necessary to convert these weights into encumbrance points, assume that 50lbs is 10 enc.
 
 Every 100 coins counts as 1 enc.
 
 ### Pack Animals and Porters
 
-To haul more equipment and loot than the Delvers can carry, they need pack animals or porters.
+To haul more equipment and loot than the Characters can carry, they need pack animals, porters, or vehicles.
 
 | Type                      | Cost   | enc |
 | ------------------------- | ------ | --- |
@@ -311,21 +320,21 @@ Some perils occur with some regularity for adventurers. A few of the most common
 
 <strong id="lack-of-sleep>Lack of Sleep</strong>: Each day of insufficient sleep (8 hours every 24 hours) causes 2 [System Strain](#system-strain).
 
-Starvation and Dehydration are ignored so long as the Delvers aren't trying to sleep in a dungeon or stay longer than [they paid for](#overland-travel).
+Starvation and Dehydration are ignored so long as the Characters aren't trying to sleep in a dungeon or stay longer than [they paid for](#overland-travel).
 
 ## Overland Travel
 
-Unless there is an *extremely* compelling reason to play it out, montage through the geography traveled and arrive at the destination. For time-tracking purposes, Delvers are able to travel ~18 miles/day.
+Unless there is an *extremely* compelling reason to play it out, montage through the geography traveled and arrive at the destination. For time-tracking purposes, Characters are able to travel ~18 miles/day.
 
 We abstract the cost of hiring mercenaries, donkeys, buying rations, etc with this chart from [Illusory Sensorium](https://illusorysensorium.com/tyranny-of-wagons/). The further you travel, the more food you need, which is heavy, so you need donkeys. The donkeys *also* have to eat, and be protected, which requires more donkeys to serve as a baggage train, all of which need guards that also have to eat, and so on. Hence, we have exponential costs:
 
-| Weeks | Cost per Delver | Weeks | Cost per Delver |
-| ----- | --------------- | ----- | --------------- |
-| 1     | 10g             | 6     | 320g            |
-| 2     | 20g             | 7     | 640g            |
-| 3     | 40g             | 8     | 1,250g          |
-| 4     | 80g             | 9     | 2,500g          |
-| 5     | 160g            | 10    | 5,000g          |
+| Weeks | Cost per Character | Weeks | Cost per Character |
+| ----- | ------------------ | ----- | ------------------ |
+| 1     | 10g                | 6     | 320g               |
+| 2     | 20g                | 7     | 640g               |
+| 3     | 40g                | 8     | 1,250g             |
+| 4     | 80g                | 9     | 2,500g             |
+| 5     | 160g               | 10    | 5,000g             |
 
 ## Dungeon Exploration
 
@@ -334,15 +343,15 @@ These rules are meant for tracking adventures in a dangerous site where perils c
 At the start of each [Turn](#turn) after the party enters the site:
 
 1. Roll a secret [Wandering Encounter](#wandering-encounters) check with frequency depending on the adventure or site. On a 1, the encounter will happen at some appropriate moment this [Turn](/rules#turn). Most adventures give a frequency (like every other [Turn](#turn)).
-2. The Delvers decide what they want to do this [Turn](/rules#turn): move into a new room, carefully search their current location, fiddle with some object they’ve found, or something else that takes ~ten minutes.
+2. The Players decide what they want to do this [Turn](/rules#turn): move into a new room, carefully search their current location, fiddle with some object they’ve found, or something else that takes ~ten minutes.
 3. The GM explains the result of their actions, whether that’s a first-glance description of a new room, notice of the hideous abomination that’s rearing up before them, or the explosive detonation of the crystal they just experimentally prodded.
 4. Start over from the top, assuming their actions have consumed a [Turn](/rules#turn), until they withdraw from the site or it becomes safe enough to stop counting [Turns](/rules#turn).
 
 ### Timekeeping in the Dungeon
 
-Once the Delvers intrude on a ruin, dungeon, or other dangerous site the GM starts tracking time in [Turns](#turn). Each Delver can do one significant thing per [Turn](/rules#turn). Different Delvers can be doing different things in the same [Turn](/rules#turn). Not every Delver *has* to do something.
+Once the Characters intrude on a ruin, dungeon, or other dangerous site the GM starts tracking time in [Turns](#turn). Each Character can do one significant thing per [Turn](/rules#turn). Different Characters can be doing different things in the same [Turn](/rules#turn). Not every Character *has* to do something.
 
-The point of tracking [Turns](/rules#turn) is to have a rough measure of activity. The more the Delvers do and the longer they stay, the more likely that they’ll run into [Wandering Encounters](#wandering-encounters) or the denizens will have time to realize that intruders are present. Eventually, the Delvers need to either pull back or clear the site entirely of its dangerous inhabitants.
+The point of tracking [Turns](/rules#turn) is to have a rough measure of activity. The more the Characters do and the longer they stay, the more likely that they’ll run into [Wandering Encounters](#wandering-encounters) or the denizens will have time to realize that intruders are present. Eventually, the Characters need to either pull back or clear the site entirely of its dangerous inhabitants.
 
 | Activity                                       | Turns |
 |------------------------------------------------|-------|
@@ -370,25 +379,25 @@ To pass through a door, choose to make either a **hard** or **soft** entry. If n
 
 In a **hard** entry, the party arranges around the entrance, bashes it in, and charges the room in a planned pattern of entry. They trigger any traps over the threshold and appear [hostile](#fight) to any inhabitants, but are capable of [surprising](#encounters-and-surprise) anyone who might be watching the door.
 
-In a **soft** entry, the party arranges to defend and hold the door as a choke point, sufficiently far away from traps. One Delver opens quietly opens the door and observes. They have the opportunity to notice traps, do not appear hostile, but are incapable of surprising anyone who might be watching the door.
+In a **soft** entry, the party arranges to defend and hold the door as a choke point, sufficiently far away from traps. One Character opens quietly opens the door and observes. They have the opportunity to notice traps, do not appear hostile, but are incapable of surprising anyone who might be watching the door.
 
 ## Encounters
 
-When the Delvers encounter a group of NPCs in a dungeon, either from a [Wandering Encounter](#wandering-encounters) or because the room contains NPCs, then:
+When the Party encounters a group of NPCs in a dungeon, either from a [Wandering Encounter](#wandering-encounters) or because the room contains NPCs, then:
 
-1. The GM describes what the Delvers see/hear/smell,etc.
-2. The Delvers choose if they want to fight, talk, run, or wait.
+1. The GM describes what the Characters see/hear/smell,etc.
+2. The Players choose if they want to fight, talk, run, or wait.
 3. The GM rolls for (or chooses) the NPCs [reaction](#reaction-rolls). This frequently results in [parley](#parley) or in [combat](/combat).
 
 ### Encounters and Surprise
 
-Delvers are sufficiently alert when exploring a site to avoid any chance of surprise, barring a set ambush. If they burst in on the denizens suddenly, however, the locals might be too stunned to act for a round.
+Characters are sufficiently alert when exploring a site to avoid any chance of surprise, barring a set ambush. If they burst in on the denizens suddenly, however, the locals might be too stunned to act for a round.
 
 If the GM thinks this is possible, use an [opposed](#opposed-skill-checks) roll. Represent bursting into a room as [group](#group-checks) STR/[Exert](#exert) vs WIS/[Notice](#notice) check. Represent sneaking up on a group as group DEX/[Sneak](/rules#sneak) vs WIS/[Notice](#notice).
 
 ### Wandering Encounters
 
-Every so many [Turns](/rules#turn), a GM should roll `1d6` to check for a Wandering Encounter. On a 1, the Delvers will run into one at some point during the [Turn](/rules#turn). The frequency of the check will depend on how alert and organized the site’s inhabitants are.
+Every so many [Turns](/rules#turn), a GM should roll `1d6` to check for a Wandering Encounter. On a 1, the Characters will run into one during the [Turn](/rules#turn). The frequency of the check will depend on how alert and organized the site’s inhabitants are.
 
 The actual contents of the encounter are decided when the GM puts together the site. Not all encounters involve running into creatures. Some are mere events or situations that fit the site. In the same vein, not all encounters are necessarily hostile, either. [Reaction rolls](#reaction-rolls) should be made for all groups of creatures.
 
@@ -407,14 +416,14 @@ A wandering encounter starts when one side is able to see the other side, based 
 
 ### Reaction Rolls
 
-When the party enocunters other creatures, the GM describes what they sense and asks the Delvers what they do. Broadly, the Delvers can:
+When the party enocunters other creatures, the GM describes what they sense and asks the Players what they do. Broadly, they can:
 
 - Start a <strong id="fight">fight</strong>, in which case either [combat](/combat) or the creatures flee.
 - Try to <strong id="talk">talk</strong> (if the other creatures will listen). Getting anything useful requires [leverage](#leverage).
 - <strong id="run-away">Run away</strong>, and the other creatures might give [chase](#chases-and-pursuit).
 - <strong id="wait">Wait</strong> to see what happens.
 
-If how the other creatures respond is uncertain, the GM rolls their reaction, comparing the result against the Delver's action:
+If how the other creatures respond is uncertain, the GM rolls their reaction, comparing the result against the Player's action:
 
 | `2d6` / Action | Fight  | Talk                          | Run    | Wait                          |
 | ------------ | ------ | ----------------------------- | ------ | ----------------------------- |
@@ -428,28 +437,28 @@ Results of **Combat** mean just that - head immediately into [combat](/combat).
 
 Results of **Combat if could win, run otw** means that they'll fight if they think that victory is *very* likely; typically this means they have a 3:1 HD advantage or greater. Otherwise, they'll Run.
 
-Results of **Parley** mean that they [parley](#parley) with the Delvers. Meaningful parley requires [leverage](#leverage), otherwise it's just pleasantries or posturing.
+Results of **Parley** mean that they [parley](#parley) with the Characters. Meaningful parley requires [leverage](#leverage), otherwise it's just pleasantries or posturing.
 
-Results of **Run** means that the they run from the Delvers (often to group up with allies). The Delvers may [give chase](#chase-and-pursuit).
+Results of **Run** means that the they run from the Characters (often to group up with allies). The Characters may [give chase](#chase-and-pursuit).
 
-Results of **Chase** means they'll [chase](#chase-and-pursuit) the fleeing Delvers.
+Results of **Chase** means they'll [chase](#chase-and-pursuit) the fleeing Characters.
 
 Results of **Ignore** means they'll continue doing what they were doing before encountering the party.
 
-Denizens of a dungeon immediately turning to combat should be *rare*, reserved for mindless undead, guardian automatons, or creatures protecting their children. More often, they'll go fetch allies to create an overwhelming advantage and force the Delvers to retreat.
+Denizens of a dungeon immediately turning to combat should be *rare*, reserved for mindless undead, guardian automatons, or creatures protecting their children. More often, they'll go fetch allies to create an overwhelming advantage and force the Characters to retreat.
 
 ## Parley
 
 Talk is cheap, especially in a dungeon. Getting anything of value (information, assistance, items) requires <strong id="leverage">Leverage</strong>.
 
-Leverage is (non-exhaustively) anything the Delvers...
+Leverage is (non-exhaustively) anything the Characters...
 
 - have that the NPCs want (an exchange).
 - can do, that the NPCs want them to do (a promise).
 - have done, that the NPCs appreciate (gratitude).
 - can do, that the NPCs *don't* want them to do (a threat).
 
-The amount of value a NPC is willing to offer should be no more than how much leverage the Delvers have.
+The amount of value a NPC is willing to offer should roughly equal how much leverage the Characters have.
 
 **Beasts** and **monstrosities** want food and territory.
 
@@ -471,11 +480,11 @@ source: [The Monsters Know What They're Doing](https://www.themonstersknow.com/)
 
 ## Advancement
 
-Characters accumulate <strong id="experience-points">Experience Points</strong> (XP) by defeating monsters, extracting coins and treasure from dungeons, and making it back to a settlement. The *party* accumulates XP while on an adventure, and then all surviving members get a share of the total XP when they return to town. Delvers get a full share and Henchmen get half of a share.
+Characters accumulate <strong id="experience-points">Experience Points</strong> (XP) by defeating monsters, extracting coins and treasure from dungeons, and making it back to a settlement. The *party* accumulates XP while on an adventure, and then all surviving members get a share of the total XP when they return to town. Characters get a full share and [Henchmen](/equipment#henchmen) get half of a share.
 
 Coins and Treasure award 1 XP per 1g worth of value, regardless of whether the treasure is sold or the coin is spent. It just has to make it back to town.
 
-For example, if the party of 4 Delvers and 3 [Henchmen](/equipment#henchmen) defeats 300 XP worth of monsters and hauls back 1500g worth of treasure from a dungeon, the party's total XP is 1800. There are `4 + 3/2 = 5.5` shares, so each Delver gets `1800 / 5.5 = 327` XP, and each Henchmen gets half that, 164.
+For example, if the party of 4 PCs and 3 [Henchmen](/equipment#henchmen) defeats 300 XP worth of monsters and hauls back 1500g worth of treasure from a dungeon, the party's total XP is 1800. There are `4 + 3/2 = 5.5` shares, so each PC gets `1800 / 5.5 = 327` XP, and each [Henchmen](/equipment#henchmen) gets half that, 164.
 
 ### XP for Monsters
 
@@ -515,43 +524,43 @@ Once a character has enough XP to level up **and** is in a settlement, they do.
 
 **Better Saves.** Their saving throw scores decrease by one, making it easier to succeed on saving throws by rolling equal or over it. As a first level character has saving throw scores of 15, reaching second level would lower them to 14, modified by their appropriate attributes.
 
-**Improved Attack Bonus.** A Delver’s attack bonus improves according to their level and their chosen [class](/classes).
+**Improved Attack Bonus.** Their attack bonus improves according to their level and their chosen [class](/classes).
 
-**Gain Advancement Points.** A Delver who advances a level gains three <strong id="advancement-point">Advancement Points</strong> they can spend on improving their [Skills](#skills) or [attributes](#Attributes). [Experts](/classes#expert) and [Partial Experts](/classes#partial-expert) gain an extra bonus Advancement Point to spend (via [Quick Learner](/classes#class-ability-quick-learner)), giving them four points each time they advance.
+**Gain Advancement Points.** They gain three <strong id="advancement-point">Advancement Points</strong> that they can spend on improving their [Skills](#skills) or [attributes](#Attributes). [Experts](/classes#expert) and [Partial Experts](/classes#partial-expert) gain an extra bonus Advancement Point to spend (via [Quick Learner](/classes#class-ability-quick-learner)), giving them four points each time they advance.
 
-The cost for improving a skill is listed below. Every skill level must be purchased in order; to gain level 1 in a skill you need to pay one point for level 0 and then two points for level 1. A Delver must be the requisite minimum level to increase a skill to certain levels. Less hardened adventurers don’t have the focus and real-life experience to higher degrees of mastery.
+The cost for improving a skill is listed below. Every skill level must be purchased in order; to gain level 1 in a skill they need to pay one point for level 0 and then two points for level 1. They must be the requisite minimum level to increase a skill to certain levels. Less hardened Characters don’t have the focus and real-life experience to higher degrees of mastery.
 
-| Skill Level | Point Cost | Min Delver Level |
-| ----------- | ---------- | ---------------- |
-| 0           | 1          | 1                |
-| 1           | 2          | 1                |
-| 2           | 3          | 3                |
-| 3           | 4          | 6                |
-| 4           | 5          | 9                |
+| Skill Level | Point Cost | Min Character Level |
+| ----------- | ---------- | ------------------- |
+| 0           | 1          | 1                   |
+| 1           | 2          | 1                   |
+| 2           | 3          | 3                   |
+| 3           | 4          | 6                   |
+| 4           | 5          | 9                   |
 
-A Delver can also spend their Advancement Points to improve their Attribute scores by 1, recalculating their Attribute Modifier each time.
+They can also spend their Advancement Points to improve their [Attribute](#attributes) scores by 1, recalculating their [Attribute Modifier](#attribute-modifiers) each time.
 
-| Advancement | Point Cost | Min Delver Level |
-| ----------- | ---------- | ---------------- |
-| 1st         | 1          | 1                |
-| 2nd         | 2          | 1                |
-| 3rd         | 3          | 3                |
-| 4th         | 4          | 6                |
-| 5th         | 5          | 9                |
+| Advancement | Point Cost | Min Character Level |
+| ----------- | ---------- | ------------------- |
+| 1st         | 1          | 1                   |
+| 2nd         | 2          | 1                   |
+| 3rd         | 3          | 3                   |
+| 4th         | 4          | 6                   |
+| 5th         | 5          | 9                   |
 
-**Gain a new Feat**. At levels 2, 5, 7, and 10 a Delver can add a level to an existing [Feat](/feats) or pick up the first level in a new Feat.
+**Gain a new Feat**. At levels 2, 5, 7, and 10 they can add a level to an existing [Feat](/feats) or pick up the first level in a new [Feat](/feats).
 
-If this is the first level they’ve taken in the Feat, they might be granted a <strong id="bonus-skill">Bonus Skill</strong>. During character creation, this is treated like any other skill [improvement](/delver-creation#improvement). Taken as part of advancement, however, it counts as three Advancement Points spent toward increasing the skill.
+If this is the first level they’ve taken in the [Feat](/feats), they might be granted a <strong id="bonus-skill">Bonus Skill</strong>. During character creation, this is treated like any other skill [Improvement](/character-creation#improvement). Taken as part of advancement, however, it counts as three Advancement Points spent toward increasing the skill.
 
-This is enough to raise a level -1 skill to level 1, or boost a level 1 skill to level-2. They may do this even if they aren’t high-enough level to normally qualify for a skill level that high.
+This is enough to raise a level -1 skill to level 1, or boost a level 1 skill to level 2. They may do this even if they do not meet the minimum character level requirements.
 
-If the Advancement Points aren’t enough to raise the skill to a new level, they remain as credit toward future advances. If applied to a skill that is already at level 4, the Delver can spend the Advancement Points on any other skill of their choice.
+If the Advancement Points aren’t enough to raise the skill to a new level, they remain as credit toward future advances. If applied to a skill that is already at level 4, they can spend the Advancement Points on any other skill of their choice.
 
-**More Spells and Arts**. Mages learn new arts, can cast and prepare more spells, and automatically learn new spells as they advance, based on their [arcane tradition](/arcane-traditions).
+**More Spells and Arts**. Mages learn new arts, can cast and prepare more spells, and automatically learn new spells as they advance, based on their [Arcane Tradition](/arcane-traditions).
 
 ## Alignment
 
-Alignment interacts with various magic items. Creatures in [bestaries](https://oldschoolessentials.necroticgnome.com/srd/index.php/Goblin) will often have an alignment, which is useful for interpretting their moral theory. Delvers don't *choose* an alignment, they *live* it. If a magic item only works for Lawful characters, then they need to act Lawfully or it does not work for them (GM discretion).
+Alignment interacts with various magic items. Creatures in [bestaries](https://oldschoolessentials.necroticgnome.com/srd/index.php/Goblin) will often have an alignment, which is useful for interpretting their moral theory. Characters don't *choose* an alignment, they *live* it. If a magic item only works for Lawful characters, then they need to act Lawfully or it does not work for them (GM discretion).
 
 ### Law vs Chaos
 

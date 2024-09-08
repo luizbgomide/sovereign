@@ -17,16 +17,16 @@ To estimate the price of an unlisted item, $1 is about 1c in 2024 US Dollars. A 
 
 The monthly standard of living for various members of society are provided to get a better grasp on the value of gold:
 
-| <span id="wage">Profession<span>            | Monthly Income/Expenses |
-| ------------------------------------------- | ----------------------- |
-| Skilled labor                               | 3-12g                   |
-| Journeyman craftsmen, 1st level Delvers     | 12-40g                  |
-| Master craftsmen, 2nd level Delvers         | 40-100g                 |
-| Master professionals, 3rd-4th level Delvers | 100-450g                |
-| Barons, 5th-7th level Delvers               | 450-2,000g              |
-| Counts, 8th-9th level Delvers               | 2,000-12,000g           |
-| Dukes, 10th level Delvers                   | 12,000-80,000g          |
-| Kings                                       | 80,000+g                |
+| <span id="wage">Profession<span>        | Monthly Income/Expenses |
+| --------------------------------------- | ----------------------- |
+| Skilled labor                           | 3-12g                   |
+| Journeyman craftsmen, 1st level PCs     | 12-40g                  |
+| Master craftsmen, 2nd level PCs         | 40-100g                 |
+| Master professionals, 3rd-4th level PCs | 100-450g                |
+| Barons, 5th-7th level PCs               | 450-2,000g              |
+| Counts, 8th-9th level PCs               | 2,000-12,000g           |
+| Dukes, 10th level PCs                   | 12,000-80,000g          |
+| Kings                                   | 80,000+g                |
 
 Income and expenses are roughly equal in most cases. Net worth (often in the form of land and equipment and whatnot) is ~33x monthly income/expenses. Coinage tends to make up about 5% of a NPC's net worth.
 
@@ -57,7 +57,7 @@ Each of the weapons on the following chart has a listed damage it inflicts on a 
 
 Ranged weapons have both short and long ranges listed in feet. Attacking a target within short range is done at no penalty, while hitting a target at long range is done with a -2 penalty to the attack roll. Ranged weapons cannot be used while an enemy is locked in melee with the wielder.
 
-Some weapons have additional unique traits, perhaps being particularly slow to reload, or requiring two hands to wield correctly, or being easily hidden in common clothing. The GM might choose to apply these traits to improvised weapons snatched up by the PCs if any of them seem appropriate.
+Some weapons have additional unique traits, such as slow to reload, requiring two hands to wield correctly, or being easily hidden in common clothing. The GM applies these traits to improvised weapons snatched up by the Characters if any of them seem appropriate.
 
 | Weapon                                     | Dmg         | Shock   | Attribute | Range/Feet | Traits     | Cost | enc |
 | ------------------------------------------ | ----------- | ------- | --------- | ---------- | ---------- | ---- | --- |
@@ -189,7 +189,7 @@ Curing Diseases costs 500g. Lifting curses and undoing magic costs 1000g. Ressur
 
 ## Henchmen
 
-Henchmen are Delvers for hire, and are built just like a player's Delver. Henchmen demand a [monthly wage](#wage) based on their level (paid in advance; non-negotiable) and half a share (non-negotiable) of all treasure, and earn half share (non-negotiable) of the party's XP.
+Henchmen are Characters for hire, and are built just like a PC. Henchmen demand a [monthly wage](#wage) based on their level (paid in advance; non-negotiable) and half a share (non-negotiable) of all treasure, and earn half share (non-negotiable) of the party's XP.
 
 | Level | Wage | Level | Wage   |
 | ----- | ---- | ----- | ------ |
@@ -210,7 +210,7 @@ Henchmen, especially higher level ones, are subject to their own market availabi
 
 Henchmen are ultimately NPCs and the GM has the final say on what they do. However, the player who hired the Henchman generally controls them.
 
-A Delver may each have one Henchman.
+A PC may each have one Henchman.
 
 ## Magic Items
 
@@ -230,13 +230,13 @@ A [Readied](/rules#readied) potion may be consumed as a [Move Action](/combat#mo
 
 Spellcasting mages can read a scroll to activate its spell as a [Main Action](/combat#main-action).
 
-In order to safely cast a spell from a scroll, a Delver needs to have a [Magic](/rules#magic) of at least one less than the spell's level. For example, to cast from a Scroll of [Haste](/spells#haste) (a level 2 spell), the Delver needs to have at least [Magic](/rules#magic)-1.
+In order to safely cast a spell from a scroll, a Character needs to have a [Magic](/rules#magic) of at least one less than the spell's level. For example, to cast from a Scroll of [Haste](/spells#haste) (a level 2 spell), the Character needs to have at least [Magic](/rules#magic)-1.
 
-If a Delver doesn’t have a high enough [Magic](/rules#magic), they can attempt anyway. Roll a DC (8 + Spell Level) INT/Magic skill check. If it fails by one or two, the spell fizzles and is wasted. If it fails by more than two, it goes off, but at the wrong target or with the wrong effect at the GM’s discretion. If the check succeeds, the spell goes off as intended.
+If a Character doesn’t have a high enough [Magic](/rules#magic), they can attempt anyway. Roll a DC (8 + Spell Level) INT/Magic skill check. If it fails by one or two, the spell fizzles and is wasted. If it fails by more than two, it goes off, but at the wrong target or with the wrong effect at the GM’s discretion. If the check succeeds, the spell goes off as intended.
 
-For example, if a Delver with [Magic](/rules#magic)-0 tries to use a Scroll of Haste, they would need to roll a DC 10 INT/[Magic](/rules#magic) check. If their result is an 8 or 9, the spell harmlessly fizzles. If the result is a 7 or lower, they might accidentally Haste a foe!
+For example, if a Character with [Magic](/rules#magic)-0 tries to use a Scroll of [Haste](/spells#haste), they would need to roll a DC 10 INT/[Magic](/rules#magic) check. If their result is an 8 or 9, the spell harmlessly fizzles. If the result is a 7 or lower, they might accidentally [Haste](/spells#haste) a foe!
 
-If the Spell in a scroll has an effect dependent on caster level (like [Arcane Spark](/spells#arcane-spark)), use twice the spell's level minus one. For example, a first level spell scroll would use a caster level of `2 * 1 - 1 = 1`, and a 4th level spell scroll would use a caster level of `2 * 4 - 1 = 7`. This corresponds to the lowest level a High Mage has access to the spell.
+If the Spell in a scroll has an effect dependent on caster level (like [Arcane Spark](/spells#arcane-spark)), use twice the spell's level minus one. For example, a first level spell scroll would use a caster level of `2 * 1 - 1 = 1`, and a 4th level spell scroll would use a caster level of `2 * 4 - 1 = 7`. This corresponds to the lowest level a [High Mage](/arcane-traditions#high-mage) has access to the spell.
 
 ### Buying and Selling Magic Items
 

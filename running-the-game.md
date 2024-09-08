@@ -48,7 +48,7 @@ Just talk to them. Seriously. Don't post about it on social media and ask for ad
 - [A Battlemap](https://www.amazon.com/gp/product/B01MQHECUR). This one is dry-erase compatible, which is great.  For travel, I like [silicone maps](https://www.amazon.com/gp/product/B0763QJQ8C).
 - [Dry Erase Markers](https://www.amazon.com/gp/product/B00T3ROM9G). If you have a wet erase battlemap, get wet erase markers instead.
 - [Meeples](https://www.amazon.com/gp/product/B07BZ36NYJ). Label each color 1 through 10 with a Sharpie and use them for monsters.
-- Delver Icons: [Magnets](https://www.amazon.com/dp/B016DSBNY4) + [Epoxy Stickers](https://www.amazon.com/dp/B00AFRWIRQ) + [Hole Punch](https://www.amazon.com/Bira-Circle-Craft-Crafting-Scrapbooking/dp/B07B43X316). From [JP Coovert's Youtube](https://youtu.be/LBZPi4oKlCQ?si=mTP5tiOjJyb1ITeu).
+- Character Tokens: [Magnets](https://www.amazon.com/dp/B016DSBNY4) + [Epoxy Stickers](https://www.amazon.com/dp/B00AFRWIRQ) + [Hole Punch](https://www.amazon.com/Bira-Circle-Craft-Crafting-Scrapbooking/dp/B07B43X316). From [JP Coovert's Youtube](https://youtu.be/LBZPi4oKlCQ?si=mTP5tiOjJyb1ITeu).
 - [Printer](https://www.amazon.com/gp/product/B09961WKKS). Good for printing modules, character sheets, maps, handouts, etc.
 - [Awl](https://www.amazon.com/General-Tools-818-Hardwood-Scratch/dp/B00004T7R3). Sewn digest modules lay much more nicely than stapled ones.
 - [Needle and Thread](https://www.amazon.com/Simthread-Purpose-Thread-Polyester-Yards/dp/B0B9FQ2QN4). For binding modules.
@@ -62,7 +62,7 @@ The specific product recommendations are all optional. At a higher level, you ne
 - Take GM notes (pen, paper, 3-ring binder)
 - Read adventures (printer and paper)
 - Prepare adventures (pen, printed adventure)
-- Represent a battle (battle map, markers, meeples, delver icons)
+- Represent a battle (battle map, markers, meeples, character tokens)
 
 As long as you have these things handled, you're good.
 
@@ -140,9 +140,9 @@ The easiest is when adventures provide *well written* read-aloud text. For insta
 You just read it! As you're reading through each room, check to make sure that it avoids the [classic pitfalls](https://thealexandrian.net/wordpress/48312/roleplaying-games/gm-dont-list-13-boxed-text-pitfalls):
 
 - Do not describe reactable action while assuming the players are doing nothing.
-- Do not declare the actions or thoughts of the Delvers.
+- Do not declare the actions or thoughts of the PCs.
 
-Or in other words, focus on the *scene* - what the Delvers see, hear, and smell. When you describe something that they might want to react to, stop *then* and ask "what do you do?"
+Or in other words, focus on the *scene* - what the Characters see, hear, and smell. When you describe something that they might want to react to, stop *then* and ask "what do you do?"
 
 The second easiest is when there's formatted text. Here's [The Black Wyrm of Brandonsford](https://www.drivethrurpg.com/en/product/327744/the-black-wyrm-of-brandonsford):
 
@@ -184,7 +184,7 @@ or
 
 There are two good sources on this, both of which say the same thing: [A Treatise on Traps - GFC](https://guccifuligincloak.blogspot.com/2021/11/a-treatise-on-traps.html) and [Stop Hiding Traps - Ben Milton](https://www.youtube.com/watch?v=RY_IRqx5dtI).
 
-GFC's is more procedural and I *love* a good procedure. Each trap needs to have a mechanism (causes the trap to spring and informs how it can be disabled), a consequence (what happens if the trap is sprung), and a tell (how the Delvers could tell it's there).
+GFC's is more procedural and I *love* a good procedure. Each trap needs to have a mechanism (causes the trap to spring and informs how it can be disabled), a consequence (what happens if the trap is sprung), and a tell (how the Characters could tell it's there).
 
 Unfortunately, most modules *only* describe the consequence. During our room-by-room pass, we'll make sure that each trap has all three components.
 
@@ -202,7 +202,7 @@ For the tell, we can say that the fish's mouth has a finger-sized hole in it tha
 
 Putting it all together, The statue has several ethereal hooks running from it to the ground. Pushing or turning the statue might (2-in-6 chance) tug on one of the hooks, and trigger a magic item inside the statue capable of producing poison gas. The gas travels from the interior out the fish's mouth.
 
-Unless an adventure *specifically* mentions otherwise, traps only have a 2-in-6 chance to trigger even if their trigger explicitly happens. You can walk over pit traps 4/6ths of the time; you miss tripwires 4/6th of the time, etc. Roll for *each triggering action*. For instance, if a party of 7 Delvers walks over a tripwire, roll 7 times.
+Unless an adventure *specifically* mentions otherwise, traps only have a 2-in-6 chance to trigger even if their trigger explicitly happens. You can walk over pit traps 4/6ths of the time; you miss tripwires 4/6th of the time, etc. Roll for *each triggering action*. For instance, if a party of 7 Characters walks over a tripwire, roll 7 times.
 
 #### Full Information
 
@@ -245,9 +245,9 @@ Better is to also mention where this information can be discovered:
 > ...
 > When anyone approaches the copper-plated door to this hall, a corpse face moulded into its surface will animate and state, “NONE MAY PASS UNLESS THEY KNOW THE WORD.” The password is Anthea, the name of Nuromen's daughter (Found in (9)). If this is offered, the face will moan, "You may pass." as the door swings open.
 
-Finally, **differentiate** mundane keys. If you tell the delvers that they found a key, they just write down "key". You might know that it's for the door to area 25, but they don't. Then they find 4 more keys. Eventually when they get to area 25 and ask if any of the keys fit, you'll have to be like "do ya'll have the uh, key from... area 9?"
+Finally, **differentiate** mundane keys. If you tell the Players that they found a key, they'll just write down "key". You might know that it's for the door to area 25, but they don't. Then they find 4 more keys. Eventually when they get to area 25 and ask if any of the keys fit, you'll have to be like "do ya'll have the uh, key from... area 9?"
 
-This is totally circumvented by making each key unique. "Small brass key", "Big iron key", "twisted key" etc. Just make sure you update both room you find the key in and the room the key unlocks. "Unlocked by the key from area 9" becomes "Unlocked by the twisted key (9)".
+This is circumvented by making each key unique. "Small brass key", "Big iron key", "twisted key" etc. Make sure you update both room you find the key in and the room the key unlocks. "Unlocked by the key from area 9" becomes "Unlocked by the twisted key (9)".
 
 
 #### Inline Monster Stats
@@ -271,7 +271,7 @@ Compare this to the [stat block from OSE](https://oldschoolessentials.necroticgn
 
 The Silveraxe statline leaves out the bit about acid, and their **entire regeneration ability**. My experience is that this happens *over and over*.
 
-Throw out the inline stats and look up the monster from [Osric](https://osricwiki.presgas.name/doku.php?id=osric:chapter5). Here's an [index](/monsters). Osric monsters tend to be a little more powerful than OSE monsters and Sovereign delvers are more powerful than OSE characters of the same level.
+Throw out the inline stats and look up the monster from [Osric](https://osricwiki.presgas.name/doku.php?id=osric:chapter5). Here's an [index](/monsters). Osric monsters tend to be a little more powerful than OSE monsters and Sovereign characters are more powerful than OSE characters of the same level.
 
 #### Double-Check The Map
 
@@ -291,7 +291,7 @@ If there's too much treasure in a dungeon (as is usually the case with adventure
 
 Unfortunately, there's no quick way to do this. You have to go through each room and record the treasure and monster XP. Here's a [google sheet](https://docs.google.com/spreadsheets/d/1DGlkn0bUaRkA9dsL6zTeYes6CrnXit8XC9eXC_3Ky8s/edit?usp=sharing) to help track it (make a copy of it). The sheet is filled with an example from [Incandescent Grottoes](https://www.drivethrurpg.com/en/product/348878).
 
-Incandescent Grottoes has 40481 lootable treasure, 2208 xp worth of keyed defenders, for a ratio of ~18. This is absurd! It's enough to get a party of 4 Delvers from level 1 to nearly level 5, which is **way** too much. We're going to want to divide every piece of loot in the dungeon by 5 to get this back in line.
+Incandescent Grottoes has 40481 lootable treasure, 2208 xp worth of keyed defenders, for a ratio of ~18. This is absurd! It's enough to get a party of 4 Characters from level 1 to nearly level 5, which is **way** too much. We're going to want to divide every piece of loot in the dungeon by 5 to get this back in line.
 
 We also want to re-balance magic items so that there are around 3 consumables (scrolls, potions, etc) and 1 permament magic item per 2000 XP of defenders.
 
@@ -382,45 +382,45 @@ Osric's Bandit has 1 HD, AC based on equipment (we'll use Leather+Shield for 13)
 
 ### Order of Battle
 
-[Wandering Encounters](/rules#wandering-encounters) represent the *initial* activity of a dungeon, before the inhabitants learn that the Delvers are *invading their home and stealing their stuff*. After first contact, the inhabitants should respond based on their natures. Do this *in addition* to the [Wandering Encounter](/rules#wandering-encounters) rules. Page 104 of the [AD&D 1e Dungeon Master's Guide](https://www.drivethrurpg.com/en/product/17004/dungeon-master-s-guide-1e) provides guidance by contrasting different monster types and situations that I'll paraphrase:
+[Wandering Encounters](/rules#wandering-encounters) represent the *initial* activity of a dungeon, before the inhabitants learn that the Party is *invading their home and stealing their stuff*. After first contact, the inhabitants should respond based on their natures. Do this *in addition* to the [Wandering Encounter](/rules#wandering-encounters) rules. Page 104 of the [AD&D 1e Dungeon Master's Guide](https://www.drivethrurpg.com/en/product/17004/dungeon-master-s-guide-1e) provides guidance by contrasting different monster types and situations that I'll paraphrase:
 
 #### Skeletons and Zombies
 
-The Delvers entered a crypt under an old temple and attacked skeletons and zombies encountered there. They respond only as the crypts are entered in turn. Being effectively mindless, they have no co-ordination in their attacks, and no pursuit will occur when the party breaks off.
+The Party entered a crypt under an old temple and attacked skeletons and zombies encountered there. They respond only as the crypts are entered in turn. Being effectively mindless, they have no co-ordination in their attacks, and no pursuit will occur when the party breaks off.
 
-A week later, the Delvers return. There there is no change in response. Those destroyed will not have been replaced (assuming, of course, that some necromancer is not nearby) by reinforcements. Doors and furniture previously damaged or destroyed will not have been repaired.
+A week later, the Party return. There there is no change in response. Those destroyed will not have been replaced (assuming, of course, that some necromancer is not nearby) by reinforcements. Doors and furniture previously damaged or destroyed will not have been repaired.
 
 #### Giant Ants
 
-The Delvers located and attacked a colony of giant ants. An ant colony is an organized hive mind; response is orderly. Warrior ants meet the attackers. Workers remove bodies, items dropped, and any rubble caused by the combat. If the queen is threatened, the workers join the defense. When the Delvers retreat, there is a low chance that the Ants pursue.
+The Party located and attacked a colony of giant ants. An ant colony is an organized hive mind; response is orderly. Warrior ants meet the attackers. Workers remove bodies, items dropped, and any rubble caused by the combat. If the queen is threatened, the workers join the defense. When the PCs retreat, there is a low chance that the Ants pursue.
 
-A week later, the Delvers return. In the interim, pupae reaching maturity (perhaps 1d6 warriors and 3d4 workers) replace casualties incurred during the first encounter. The workers repaired destroyed tunnels and dug new tunnels. General activity of the colony carried on normally. Warriors will again meet the party (although they might be reduced in number). When the queen is killed, all organized activity will cease.
+A week later, the Party return. In the interim, pupae reaching maturity (perhaps 1d6 warriors and 3d4 workers) replace casualties incurred during the first encounter. The workers repaired destroyed tunnels and dug new tunnels. General activity of the colony carried on normally. Warriors will again meet the party (although they might be reduced in number). When the queen is killed, all organized activity will cease.
 
 #### Orcs
 
-The Delvers found a cave complex which is the lair of an orc band. The orcs usually have a warning device (a drum, horn, gong, bell, etc.) available for use by the guards. As soon as the attack occurs, one or two orcs will rush to inform the rest that they are under attack. Response to the attack will be in waves, with the nearest orcs coming first, and the leaders (most likely to be at the rear of the complex) coming up near the last.
+The Party found a cave complex which is the lair of an orc band. The orcs usually have a warning device (a drum, horn, gong, bell, etc.) available for use by the guards. As soon as the attack occurs, one or two orcs will rush to inform the rest that they are under attack. Response to the attack will be in waves, with the nearest orcs coming first, and the leaders (most likely to be at the rear of the complex) coming up near the last.
 
-Some traps might be set along the complex entry. Resistance will stiffen as the leaders (and ogres, if any) come up. When the Delvers retreat, there is a fair chance for pursuit by the boldest orcs.
+Some traps might be set along the complex entry. Resistance will stiffen as the leaders (and ogres, if any) come up. When the Party retreats, there is a fair chance for pursuit by the boldest orcs.
 
-A week later, the Delvers return. The orcs are not likely to send for reinforcements, although returning group members replace losses. They repair damage or destruction in the cave complex. More guards patrol the complex with increased discipline. Response to the attack is faster; leaders and spell casters are ready to fight.
+A week later, the Party returns. The orcs are not likely to send for reinforcements, although returning group members replace losses. The orcs repair damage or destruction in the cave complex. More guards patrol the complex with increased discipline. Response to the attack is faster; leaders and spell casters are ready to fight.
 
 #### Bandit Camp
 
-The Delvers encountered a bandit camp and engaged in combat. The entire camp is organized and ready for action on the spur of the moment. As soon as the guards sound the alarm, reaction is swift. Defensive traps, snares, and pits make up a part of the defensive ring of the camp. Bandits move to take up assigned posts. Counterattacks are thrown against the Delvers. When the Delvers retreat, thieves and assassins of the bandit group will move to track and follow the party to discover what its subsequent actions are and if another attack will ensue.
+The Party encountered a bandit camp and engaged in combat. The entire camp is organized and ready for action on the spur of the moment. As soon as the guards sound the alarm, reaction is swift. Defensive traps, snares, and pits make up a part of the defensive ring of the camp. Bandits move to take up assigned posts. Counterattacks are thrown against the Party. When the Party retreats, thieves and assassins of the bandit group will move to track and follow the Party to discover what its subsequent actions are and if another attack will ensue.
 
-A week later, the Delvers return. There is a great likelihood that the entire encampment will be **gone** if the Delvers were of sufficient power to cause serious trouble. Otherwise, the traps, pits, and snares will have been more carefully hidden and will be more numerous. Ambushes are set along the probable route of approach. A few more bandits might have been enlisted or called in from groups out raiding. All guards will have been doubled, all men more alert than ever, and all possible preparations made.
+A week later, the Party returns. There is a great likelihood that the entire encampment will be **gone** if the Party was of sufficient power to cause serious trouble. Otherwise, the traps, pits, and snares will have been more carefully hidden and will be more numerous. Ambushes are set along the probable route of approach. A few more bandits might have been enlisted or called in from groups out raiding. All guards will have been doubled, all men more alert than ever, and all possible preparations made.
 
 During the interim, an assassination attempt upon one or more of the members of the party might have been made (if the bandits have an assassin), an attempt to insinuate a spy into the party might have been made, and/or a raid upon the party’s camp may have been carried out by the bandits. If the party retreats, pursuit will take place if bandit strength still allows.
 
 ### Restocking
 
-Once the Delvers head to the adventure, they slowly burn resources. They use their consumable magic items, they spend their [Prepared Spells](/spells#preparing-a-spell), and they accumulate [System Strain](/rules#system-strain). If the dungeon is large and threatening enough, they'll have to retreat back to a settlement to get [Comfortable Sleep](#comfortable-sleep) and may want to return.
+Once the Party heads to the adventure, it slowly burns resources. They use their consumable magic items, they spend their [Prepared Spells](/spells#preparing-a-spell), and they accumulate [System Strain](/rules#system-strain). If the dungeon is large and threatening enough, they'll have to retreat back to a settlement to get [Comfortable Sleep](#comfortable-sleep) and may want to return.
 
-While they're gone, restock the dungeon. Split the dungeon up into ~20-room sections. For every week the Delvers are away, roll `4d3-5` for each section. On positive results, that many encounters repopulate, either from new members being born (like Giant Ants), members returning from trips (like Bandits), or new monsters moving into the now-vacant space. To generate new occupants, use the [Random Dungeon Encounters from Osric](https://osricwiki.presgas.name/doku.php?id=osric:chapter4#random_dungeon_encounters). Only re-stock up to the number of original keyed encounters and do not re-stock treasure.
+While they're gone, restock the dungeon. Split the dungeon up into ~20-room sections. For every week the Party is away, roll `4d3-5` for each section. On positive results, that many encounters repopulate, either from new members being born (like Giant Ants), members returning from trips (like Bandits), or new monsters moving into the now-vacant space. To generate new occupants, use the [Random Dungeon Encounters from Osric](https://osricwiki.presgas.name/doku.php?id=osric:chapter4#random_dungeon_encounters). Only re-stock up to the number of original keyed encounters and do not re-stock treasure.
 
 ### Exploring Settlements
 
-Many adventures will present a town with tons of keyed locations but totally fail to articulate how they envision such places to be explored. For instance, say that the Delvers go to Gosterwick (the main town of [Arden Vul](https://www.drivethrurpg.com/en/product/307320/the-halls-of-arden-vul-complete)). It would be absurd to say:
+Many adventures will present a town with tons of keyed locations but totally fail to articulate how they envision such places to be explored. For instance, say that the Party goes to Gosterwick (the main town of [Arden Vul](https://www.drivethrurpg.com/en/product/307320/the-halls-of-arden-vul-complete)). It would be absurd to say:
 
 **GM**: You arrive at Gosterwick; it's huge. You could go to Azure Keep, Lady Alexia's Residence, Kaleo's Bathhouse, The Baliff's Truncheon, The Benevolent Brotherhood, The House of Gods, The Temple of Mitra, Temple of Heschius Ban,  Temple of Demma, Temple of Lucreon, Residence of Chairduster the Metallurgist, The Stunned Acolyte Inn, The House of Sight, Torunn the Smith, The Private House, The Old Well Tavern, The Rarities Factor, The Grain Hall, The House of Coins, The Silent Factor, The Yellow Cloak Inn, The Central Market, House of the Thesmothete, The Prosperity Factor, Creon’s Curios and Pawnshop, The Muddy Puddle, Jeremias the Money Changer, Chairduster’s Fine Metallurgy, Astableon the Scribe and Bookseller, The Arcane Practitioners’ Club, Livestock and Horse Market, or The Kettles. What do you do?
 

@@ -5,16 +5,16 @@ title: Home
 
 # Feats
 
-Feats are special talents that a Delver can possess.
+Feats are special talents that a Character can possess.
 
 Feats usually come in two levels. The first time a Feat is chosen, the benefits of the first level are gained. The second time it’s chosen, the benefits of the second level are added to those of the first.
 
-A new Delver chooses one Feat of any kind. Warriors and Partial Warriors select another combat-related Feat (marked with a (C)). Experts and Partial Experts select another non-combat-related Feat.
+A new Character chooses one Feat of any kind. Warriors and Partial Warriors select another combat-related Feat (marked with a (C)). Experts and Partial Experts select another non-combat-related Feat.
 
 ## Alert (C)
 You are keenly aware of your surroundings and virtually impossible to take unaware.
 
-- **Level 1**: Gain [Notice](/rules#notice) as a [Bonus Skill](/rules#bonus-skill). You cannot be surprised, nor can others use the [Execution Attacks](/combat#execution-attacks) on you. Add a +1 bonus to your side’s initiative roll, though multiple Alert Delvers don’t stack this bonus.
+- **Level 1**: Gain [Notice](/rules#notice) as a [Bonus Skill](/rules#bonus-skill). You cannot be surprised, nor can others use the [Execution Attacks](/combat#execution-attacks) on you. Add a +1 bonus to your side’s initiative roll, though multiple Alert Characters don’t stack this bonus.
 - **Level 2**: You always act first in a combat round unless someone else involved is also this Alert.
 
 ## Armored Magic (C)

@@ -7,7 +7,7 @@ title: Home
 
 ## The Grid
 
-Combat takes place on a 1" = 5' grid. I recommend making [icons](https://youtu.be/LBZPi4oKlCQ?si=uC8io8mRS8oR57S7) (I use [these WoW class icons](https://dribbble.com/shots/6175355-World-of-Warcraft-Vector-Class-Icons)) for the Delvers and numbered [meeples](https://www.amazon.com/dp/B07BZ36NYJ) for enemies, choosing a different color for each enemy type.
+Combat takes place on a 1" = 5' grid. I recommend making [icons](https://youtu.be/LBZPi4oKlCQ?si=uC8io8mRS8oR57S7) (I use [these WoW class icons](https://dribbble.com/shots/6175355-World-of-Warcraft-Vector-Class-Icons)) for the Party and numbered [meeples](https://www.amazon.com/dp/B07BZ36NYJ) for enemies, choosing a different color for each enemy type.
 
 The grid helps us disambiguate a few situations:
 
@@ -49,15 +49,15 @@ Alice has <strong id="full cover">full cover</strong> from Bob if Bob has line o
 
 ## Combat Sequence
 
-Each participating side rolls `1d8`, with the player's side adding the highest DEX from among their Delvers. Starting with the side with the highest roll, each member of that side takes all of their actions in whatever order they'd like. Once every member of a side has acted, the next highest side repeats the process. This repeats until all sides have acted, and then begins from the top in the same order. Initiative is not re-rolled.
+Each participating side rolls `1d8`, with the player's side adding the highest DEX from among the Party. Starting with the side with the highest roll, each member of that side takes all of their actions in whatever order they'd like. Once every member of a side has acted, the next highest side repeats the process. This repeats until all sides have acted, and then begins from the top in the same order. Initiative is not re-rolled.
 
-Delvers win ties.
+The Party wins ties.
 
 ## Surprise
 
 If a group is caught entirely unawares they may suffer surprise, granting their enemies a full free round of action before initiative is rolled. The GM decides when surprise applies, possibly calling for an opposed DEX/[Sneak](/rules#sneak) (for a stealthy approach) check or STR/[Exert](/rules#exert) (to kick a door in) versus the target’s WIS/[Notice](/rules#notice).
 
-Groups cannot be surprised if they are actively anticipating the possibility of combat. Delvers moving carefully through a dungeon are not surprised unless the enemy is specifically Hidden.
+Groups cannot be surprised if they are actively anticipating the possibility of combat. If the Party is moving carefully through a dungeon, they are not surprised unless the enemy is specifically hidden.
 
 ## Combat Action Types
 
@@ -244,7 +244,7 @@ These rules assume both targets are man-sized. Grappling or shoving significantl
 
 ### Dual Wielding Weapons
 
-Some attackers prefer to use two weapons at once. Delvers who wish to do so must have at least level 1 in the relevant weapon skills, such as [Stab](/rules#stab)-1 a mace and sword.
+Some attackers prefer to use two weapons at once. Characters who wish to do so must have at least level 1 in the relevant weapon skills, such as [Stab](/rules#stab)-1 a mace and sword.
 
 When making an attack while dual-wielding, the attacker chooses which weapon they wish to use, rolling the attack roll accordingly. On a hit, the weapon does +2 damage so long as the target is within range of both wielded weapons. This bonus does not add to Shock.
 
@@ -273,4 +273,4 @@ The only time such beings should fight to the death is if they estimate that doi
 
 They're gone for now, but they will probably be *back*.
 
-The Delvers may wish to give [chase](#chases-and-pursuit).
+The Party may wish to give [chase](#chases-and-pursuit).

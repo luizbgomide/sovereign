@@ -3,9 +3,9 @@ layout: default
 title: Home
 ---
 
-# Delver Creation
+# Character Creation
 
-Adventuring is a profession, and all Delvers have undergone extensive training to become 1st level. They can clean and sharpen weapons, set up camp, cook meals, ride mounts, perform first aid, know the value of coins, trade goods, treasure, and identify common magical effects and monsters.
+Adventuring is a profession, and all Characters have undergone extensive training to become 1st level. They can clean and sharpen weapons, set up camp, cook meals, ride mounts, perform first aid, know the value of coins, trade goods, treasure, and identify common magical effects and monsters.
 
 
 1. **Generate Attributes**. For each of the five [Attributes](/rules#attributes) (Strength, Dexterity, Constitution, Intelligence, Wisdom), assign them a score of `3d6` **in order**. So your first `3d6` is your Strength, your second is your Dexterity, and so on.

@@ -13,17 +13,17 @@ Dialog is between the **GM** and **Alice** (a representative for the party).
 
 ## Table of Contents
 
-- [Delver Creation](#delver-creation)
+- [Character Creation](#character-creation)
 - [The Big Picture](#the-big-picture)
 - [Core Gameplay Loop](#core-gameplay-loop)
 - [Skills](#skills)
 - [Combat](#combat)
 
-## Delver Creation
+## Character Creation
 
-After reading through delver creation, following the various links and having a look at the classes, equipment, and spells, I start from the top.
+After reading through [Character Creation](/character-creation), following the various links and having a look at the classes, equipment, and spells, I start from the top.
 
-> Delver creation asks you to make decisions. In order for these decisions to be *informed*, it's worth skimming through the document to get a handle on how the game works. Usually someone (like your GM) has read the game in more detail, and can help answer questions.
+> Character Creation asks you to make decisions. In order for these decisions to be *informed*, it's worth skimming through the document to get a handle on how the game works. Usually someone (like your GM) has read the game in more detail, and can help answer questions.
 
 **Generate Attributes.** I roll [`3d6`](https://anydice.com/program/1) 5 times in order and get Strength 14, Dexterity 7, Constitution 11, Intelligence 8, Wisdom 10. I pencil all of these scores in.
 
@@ -145,7 +145,7 @@ The players just defeated the [Black Wyrm of Brandonsford](https://rancourt.subs
 
 **GM**: No need to decide right now. I'll drop the options in the group chat, but please vote by end-of-day tomorrow so I have time to prep!
 
-> We focus on playing adventures because that's where the [high quality](https://udan-adan.blogspot.com/2016/11/conceptual-density-or-what-are-rpg.html) content is. The GM proposes only adventures that *they'd like to run*. That means that regardless of the player's choice, they're happy. Having the players talk and choose out-of-game means that they're making choices as players (who are playing to have fun) rather than characters (who are choosing based on in-game goals like wealth and power). It can be a whole lot of fun to put your Delver through horrible sitautions!
+> We focus on playing adventures because that's where the [high quality](https://udan-adan.blogspot.com/2016/11/conceptual-density-or-what-are-rpg.html) content is. The GM proposes only adventures that *they'd like to run*. That means that regardless of the player's choice, they're happy. Having the players talk and choose out-of-game means that they're making choices as players (who are playing to have fun) rather than characters (who are choosing based on in-game goals like wealth and power). It can be a whole lot of fun to put your PC through horrible sitautions!
 
 ## Core Gameplay Loop
 
@@ -213,7 +213,7 @@ This isn't to say that players don't need to learn the rules; *they do*. If a ga
 
 ## Skills
 
-Say we are playing through [Stonehell](https://www.lulu.com/shop/michael-curtis/stonehell-dungeon-down-night-haunted-halls/paperback/product-1v8vy2zz.html). Alice's Delver has just fallen down the pit trap in area 1B, arriving at 2B21. Here's the original text:
+Say we are playing through [Stonehell](https://www.lulu.com/shop/michael-curtis/stonehell-dungeon-down-night-haunted-halls/paperback/product-1v8vy2zz.html). Alice's PC has just fallen down the pit trap in area 1B, arriving at 2B21. Here's the original text:
 
 > **21)** Landing Pad: Fearsome faces carved in walls; bloodstains; broken weapons & equipment. Victims of the pit trap on Level 1B arrive here, taking `1d6` points of damage from the slide and tumble. The chute may be climbed by a thief with a Climb Walls check or by any other character aided by ropes & spikes and making a STR check.
 
@@ -261,7 +261,7 @@ From [The Necropolis of Nuromen](https://www.drivethrurpg.com/en/product/110292)
 
 When in doubt, we use monster stats from [Osric](https://osricwiki.presgas.name/doku.php?id=osric:chapter5). Osric tends to be better specified than OSE and has a larger bestiary.
 
-The only bit we need for reaction rolls is that Troglodytes have 2 HD. This means that the group of 3 of them has a total of 6 HD. We'll say our party of 4 level 1 Delvers are washed ashore and to the cave, where the Trogs come to investigate.
+The only bit we need for reaction rolls is that Troglodytes have 2 HD. This means that the group of 3 of them has a total of 6 HD. We'll say our Party of 4 level 1 PCs are washed ashore and to the cave, where the Trogs come to investigate.
 
 **GM**: You're swept by the river, battered along the way taking... can everyone roll a [Physical](/rules#physical) save for me, and if you fail, d6 damage. You hear multiple two-legged footsteps from the south. What do you do?
 
@@ -271,15 +271,15 @@ The only bit we need for reaction rolls is that Troglodytes have 2 HD. This mean
 
 **GM**: They're willing to Parley - what's your [Leverage](/rules#leverage)?
 
-Had the Delvers chosen to Fight, the 6 would have resulted in the Trogs fighting back. Had they chosen to Run, the trogs would have let them run. Had they chosen to Wait, the trogs would have watched them for a bit and then left.
+Had the Party chosen to Fight, the 6 would have resulted in the Trogs fighting back. Had they chosen to Run, the trogs would have let them run. Had they chosen to Wait, the trogs would have watched them for a bit and then left.
 
 Note that if the players aren't aggressive, the reaction rolls only go straight to aggression ~3% of the time, or ~28% of the time if the adversaries have at least a 3x HD advantage.
 
-Results of Ignore do not mean they *totally disregard* the Delvers. This is their *home*, they'll go get friends (safety in numbers) and bring force to bear in either combat or use the threat of violence as leverage in a Parley. In the case of these Troglodtyes, they're looking to have at least 7 Trogs (7 trogs • 2 HD is a 3x advantage over 4 Delvers of 1st level).
+Results of Ignore do not mean they *totally disregard* the Party. This is their *home*, they'll go get friends (safety in numbers) and bring force to bear in either combat or use the threat of violence as leverage in a Parley. In the case of these Troglodtyes, they're looking to have at least 7 Trogs (7 trogs • 2 HD is a 3x advantage over 4 PCs of 1st level).
 
 ## Combat
 
-The Delvers
+The Party
 
 - **Annora**, Warrior. 6 HP, 17 AC (Plate + Shield)
   - Short Sword: +3 -> `1d6+3`; Sh 5/AC 15.
@@ -299,9 +299,9 @@ Here's the setup:
 
 ![tiny](/assets/images/combat-1.png)
 
-The Delvers are blue, denoted by the first letter of their names. The Skeletal Warriors are orange, denoted with a W (for Warrior) and an identifying number. The Skeletal Archers are red, denoted with an A (for Archer) and an identifying number.
+The PCs are blue, denoted by the first letter of their names. The Skeletal Warriors are orange, denoted with a W (for Warrior) and an identifying number. The Skeletal Archers are red, denoted with an A (for Archer) and an identifying number.
 
-Combat begins by rolling initiative. We'll say that the group's highest DEX is Colette's at +1. The Delvers roll `1d8+1: 8` and the Skeletons roll `1d8: 8`. [Ties go to the Delvers](/combat#combat-sequence)!
+Combat begins by rolling initiative. We'll say that the group's highest DEX is Colette's at +1. The Players roll `1d8+1: 8` and the Skeletons roll `1d8: 8`. [Ties go to the Players](/combat#combat-sequence)!
 
 **Round 1**
 
@@ -395,4 +395,4 @@ Benett, Colete, and Daegel move in position and [Make a Swarm Attack](/combat#ma
 
 After combat, Benett heals Annora's wound at the cost of 1 [System Strain](/rules#system-strain).
 
-The Delvers are all still at full HP, but now two of them are [Frail](/rules#frail) and they're out a Healing Potion (worth 1000g). That was a close call! Whether or not to press on, or to retreat back to town to get rid of their [Frail](/rules#frail) condition is up to them.
+The PCs are all still at full HP, but now two of them are [Frail](/rules#frail) and they're out a Healing Potion (worth 1000g). That was a close call! Whether or not to press on, or to retreat back to town to get rid of their [Frail](/rules#frail) condition is up to them.

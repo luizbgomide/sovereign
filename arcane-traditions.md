@@ -7,17 +7,17 @@ title: Home
 
 ## Effort
 
-Mages have special abilities that are fueled with magical power, inner focus, or some other reserve of energy. This is measured in points of Effort, a resource the Delver can commit to activate their abilities.
+Mages have special abilities that are fueled with magical power, inner focus, or some other reserve of energy. This is measured in points of Effort, a resource the Mage can commit to activate their abilities.
 
-Every class that uses Effort has its own unique pool: High Mage Effort, Healer Effort, etc. Delvers with two Partial classes that use Effort have two separately-tracked pools, one for each class. Points of Effort from one class cannot be used to fuel powers from another.
+Every class that uses Effort has its own unique pool: High Mage Effort, Healer Effort, etc. Characters with two Partial classes that use Effort have two separately-tracked pools, one for each class. Points of Effort from one class cannot be used to fuel powers from another.
 
 ### Committing Effort
 
 Most class powers require that Effort be Committed. Committing Effort is done as part of activating a power, and ties up the Effort for a varying amount of time depending on the ability used.
 
-Some powers **Commit Effort for the duration**. This means the Effort remains Committed as long as the power is active. The Delver can reclaim the Committed Effort at any time as an [Instant Action](/combat#instant-action), deactivating the power.
+Some powers **Commit Effort for the duration**. This means the Effort remains Committed as long as the power is active. The Character can reclaim the Committed Effort at any time as an [Instant Action](/combat#instant-action), deactivating the power.
 
-Some powers **Commit Effort for the Turn**. The Effort remains Committed until the end of the [Turn](/rules#turn), after which it returns to the Delver. It cannot be reclaimed earlier, even if the ability it fuels is only good for a single attack or action.
+Some powers **Commit Effort for the Turn**. The Effort remains Committed until the end of the [Turn](/rules#turn), after which it returns to the Character. It cannot be reclaimed earlier, even if the ability it fuels is only good for a single attack or action.
 
 Some powers **Commit Effort for the day**. Once Committed, this Effort can be recovered with [Comfortable Sleep](/rules#comfortable-sleep).
 

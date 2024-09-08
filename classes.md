@@ -5,7 +5,7 @@ title: Home
 
 # Classes
 
-Delving is done in a party of specialists. A class represents the particular skills, abilities, or talents that make the Delver valuable to the party.
+Delving is done in a party of specialists. A class represents the particular skills, abilities, or talents that make the Character valuable to the party.
 
 The three base classes are [Expert](#expert), [Mage](#mage), and [Warrior](#warrior). Each of these base classes has its own [HP Progression](/rules#hp-progression), attack progression, and [Feat](#feat) advancement.
 
@@ -84,7 +84,7 @@ Partial Warrior/Partial Experts roll `1d6+2` for [HP Progression](/rules#hp-prog
 
 ## Mage
 
-The Mage class is a general header under which all Delvers with fundamentally supernatural powers or spellcasting ability are placed. Choose a specific [Arcane Tradition](/arcane-traditions) to follow - [High Mage](/arcane-traditions#high-mage), [Healer](/arcane-traditions#healer), [Elementalist](/arcane-traditions#elementalist), etc.
+The Mage class is a general header under which all Characters with supernatural powers or spellcasting ability are placed. Choose a specific [Arcane Tradition](/arcane-traditions) to follow - [High Mage](/arcane-traditions#high-mage), [Healer](/arcane-traditions#healer), [Elementalist](/arcane-traditions#elementalist), etc.
 
 Mages roll `1d6-1` for [HP Progression](/rules#hp-progression).
 
