@@ -164,6 +164,9 @@ This game endeavors to provide a ruleset that allows players to play through adv
 
 ### Change Log
 
+#### 2024-09-08
+- Clarify language on spell prep and casting
+
 #### 2024-09-07
 - Update the equipment list to include everything in the suggested uses
 - Remove the healer art "Refined Restoration"; didn't fit.

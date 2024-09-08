@@ -153,7 +153,7 @@ This list is **not** exhaustive.
 | Rope, 50’                       | 1g   | 2   |
 | Shovel                          | 4g   | 2   |
 | Soap                            | 1s   | -   |
-| Spell Book (blank)              | 20g  | 1   |
+| <span id="spellbook">Spellbook (blank)</span>              | 20g  | 1   |
 | Stakes (6)                      | 3g   | 1   |
 | String, 100ft                   | 2s   | 1   |
 | <span id="thieves-tools">Thieves’ Tools</span>                  | 25g  | 1   |
