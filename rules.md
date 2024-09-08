@@ -14,6 +14,16 @@ title: Home
 - **Non-Player Character (NPC)**: A all entities controlled by the GM. Some NPCs are also Characters (if the GM finds this useful).
 - **Party**: The group of PCs and [Henchmen](/equipment#henchmen) adventuring together.
 
+## Dice Notation
+
+Sovereign uses [dice](https://www.amazon.com/Chessex-001LBCHX-Pound-O-Dice/dp/B008C0KXYS) to generate randomness. In order to compactly represent a roll with the notation `NdX`, where `N` is the number of dice to roll, and `X` is how many sides that die should have, adding all of the dice together.
+
+For example, `3d8` means to roll 3 dice with 8 sides and total the results.
+
+At times, we also perform additional operations. For instance, `2d6•10` means to roll two six-sided dice, add them together, and multiply the result by 10. `1d20+3` means to roll a 20-sided dice and add 3.
+
+![small](/assets/images/dice-sizes.png)
+
 ## The Big Picture
 
 1. The Game Master (GM) creates a loosely defined fantasy setting where most adventures that they would want to run fits in somewhere.
