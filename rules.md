@@ -340,7 +340,7 @@ Some perils occur with some regularity for adventurers. A few of the most common
 
 **Dehydration**: Each day of insufficient water (a waterskin's worth) causes 3 [System Strain](#system-strain). If you already have maximum system strain, you die.
 
-<strong id="lack-of-sleep>Lack of Sleep</strong>: Each day of insufficient sleep (8 hours every 24 hours) causes 2 [System Strain](#system-strain).
+<strong id="lack-of-sleep">Lack of Sleep</strong>: Each day of insufficient sleep (8 hours every 24 hours) causes 2 [System Strain](#system-strain).
 
 Starvation and Dehydration are ignored so long as the Characters aren't trying to sleep in a dungeon or stay longer than [they paid for](#overland-travel).
 
