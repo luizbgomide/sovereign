@@ -177,7 +177,7 @@ Say that we're playing [Winter's Daughter](https://www.drivethrurpg.com/en/produ
 
 > come up with a better plan
 
-**GM**: Sure - how about a DC 8 group STR/[Exert](/rules#exert) [check](/rules#group-checks)? And if it fails, everyone takes a point of [System Strain](/rules#system-strain) as you have to give it your all?
+**GM**: Sure - how about a group STR/[Exert](/rules#exert) [check](/rules#group-checks)? And if it fails, everyone takes a point of [System Strain](/rules#system-strain) as you have to give it your all?
 
 > inform the players about their chances
 
@@ -221,7 +221,7 @@ Say we are playing through [Stonehell](https://www.lulu.com/shop/michael-curtis/
 
 **Alice**: Can I climb back up?
 
-**GM**: Yeah - how about a DC 10 DEX/[Exert](/rules#exert)? It'll take a turn, and on failure you'll tumble back down but only suffer `1d3` damage since you won't be surprised.
+**GM**: Yeah - how about a DEX/[Exert](/rules#exert) check? It'll take a turn, and on failure you'll tumble back down but only suffer `1d3` damage since you won't be surprised.
 
 **Alice**: Hmm, I don't love my chances there.
 
@@ -235,23 +235,23 @@ Say we are playing through [Stonehell](https://www.lulu.com/shop/michael-curtis/
 
 **Bob**: Okay, what if we lower the rope down? Can she get up?
 
-**GM**: Yeah - let's call that a DC 6 [group](/rules#group-checks) STR or DEX/[Exert](/rules#exert). Still takes a turn, but no damage on failure.
+**GM**: Yeah, no problem. It'll still takes a turn, but no risk.
 
 **Alice**: Good enough for me. Carol has a +2, Bob has a +1, and I have a -1, so we're at +2 total. My 2d6 came up 5, so with the +2 I'm up.
 
 ---
 
-A check is `2d6 + attribute mod + skill >= DC`, and the GM is in charge of determining each factor. As a player, you *do not* want to request skill checks - skill checks are how things go *wrong*. Instead, stick to stating your actions and intents, and *hope* that a skill check isn't called for!
+A check is `2d6 + attribute mod + skill >= 10`, and the GM is in charge of determining each factor. As a player, you *do not* want to request skill checks - skill checks are how things go *wrong*. Instead, stick to stating your actions and intents, and *hope* that a skill check isn't called for!
 
-Of the three factors, the DC is supposed to represent how hard *in general* the task is. The attribute mod represents that some people are naturally smarter, more coordinated, or are stronger than others, and that for those people, the same task should be easier. Skill represents that some people can have more *training* in a thing than others, and it should be easier for those folks too. It's simpler and more abstract than reality, but [most things are](http://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail).
+The attribute mod represents that some people are naturally smarter, more coordinated, or are stronger than others, and that for those people, the same task should be easier. Skill represents that some people can have more *training* in a thing than others, and it should be easier for those folks too. It's simpler and more abstract than reality, but [most things are](http://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail).
 
-When in doubt, use DC 10 as a default; it's low enough that success is still reasonable, but high enough to encourage players to work together, negotiate for softer intents, higher stakes, or higher costs, or come up with other plans.
+We use 10 as the target because it's low enough that success is still reasonable, but high enough to encourage players to work together, negotiate for softer intents, higher stakes, higher costs, or come up with other plans.
 
 This graph gives the distribution of rolling at least a number on `2d6`:
 
 ![small](/assets/images/skill-check-stats.png)
 
-A DC 10 check has only a 17% chance of success. If they have +1 in the relevant mod and +1 in the relevant skill, then they'd only need to roll an 8, which jumps them all the way up to 42%. If a friend is able to help, that gets them to 58%. These are *huge* differences, and incentivize the style of play we're aiming for.
+A natural 10 has only a 17% chance of occuring. If they have +1 in the relevant mod and +1 in the relevant skill, then they'd only need to roll an 8, which jumps them all the way up to 42%. If a friend is able to help, that gets them to 58%. These are *huge* differences, and incentivize the style of play we're aiming for.
 
 ## Reaction Rolls
 

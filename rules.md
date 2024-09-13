@@ -62,7 +62,7 @@ That's the *whole* game. All other rules exist to either faciliate interesting d
 
 Much of the intresting part (and what separates skilled players from novice players) of exploring is coming up with a plan that *avoids* rolling. A plan that triggers a [Skill Check](#skill-checks) or roll is *workable*, but also *risky*. A lot of the fun in this play style is coming up with plans that *can't fail*.
 
-Consider being faced with a deep, 15-foot wide spiked pit. Dangerous. If a player wants to leap to the other side, the GM might rule that as a DC 8 STR/[Exert](#exert) [Check](#skill-checks) with failure resulting in taking `3d6` [Damage](#damage) from the fall and spikes as well as being stuck at the bottom.
+Consider being faced with a deep, 15-foot wide spiked pit. Dangerous. If a player wants to leap to the other side, the GM might rule that as a STR/[Exert](#exert) [Check](#skill-checks) with failure resulting in taking `3d6` [Damage](#damage) from the fall and spikes as well as being stuck at the bottom.
 
 A clever player might think to *fill up the pit*. Perhaps they spend some time dragging coffins, furniture, etc into the pit so that they can lower themselves down, walk across, and climb up the other side without rolling.
 
@@ -160,9 +160,7 @@ Skills may overlap in their application; the character may use either skill at t
 
 Most Characters are skilled, competent folks who are perfectly capable of carrying out the ordinary duties of their role. Sometimes, however, they are faced with a situation or challenge beyond the usual scope of their role and the GM calls for a skill check.
 
-To make a skill check, roll `2d6` and add the most relevant skill level and [attribute modifier](#attribute-modifiers) (denoted as {Attribute Modifier}/{Skill}, like STR/[Exert](#exert) or INT/[Magic](#magic)). If the total is equal or higher than the check’s <strong id="difficulty-class">Difficulty Class</strong> (DC), the check is a success. On a failure, the Character either can’t accomplish the feat at all, bad luck cheats them, or they achieve it at the cost of some further complication. The GM determines the specific consequence of a failure.
-
-To express to this compactly, we write DC {Difficulty Class} {Attribute Modifier/Skill}. For example, DC 8 INT/[Know](#know) or DC 12 DEX/[Heal](#heal).
+To make a skill check, roll `2d6` and add the most relevant skill level and [attribute modifier](#attribute-modifiers) (denoted as {Attribute Modifier}/{Skill}, like STR/[Exert](#exert) or INT/[Magic](#magic)). If the total is equal or higher than 10, the check is a success. On a failure, the Character either can’t accomplish the feat at all, bad luck cheats them, or they achieve it at the cost of some further complication. The GM determines the specific consequence of a failure.
 
 The GM is always the one who calls for a skill check, and they do so at their discretion. The player simply describes what their Character is attempting to do, and the GM will tell them what skill and attribute combination to roll. If multiple skills or attributes might plausibly fit the action, the player picks.
 
@@ -186,7 +184,7 @@ This represents forcing open a heavy door together, everyone trying to stealth p
 
 ### Opposed Skill Checks
 
-When skills oppose each other, the side attempting to change the situation rolls a skill check vs a [DC](#difficulty-class) of 8 plus the other side's modifier. For example, a Character trying to sneak past a guard might roll `2d6` plus their DEX/[Sneak](/rules#sneak) against a DC of 8 + the guard’s skill modifier. If the guard is significant enough to have attributes and skill levels, it might be a `2d6`+DEX/[Sneak](/rules#sneak) against a DC of 8+WIS/[Notice](#notice). We write this compactly as DEX/[Sneak](/rules#sneak) vs WIS/[Notice](#notice).
+When skills oppose each other, the side attempting to change the situation rolls a skill check and tries to get a result of 8 plus the other side's modifier. For example, a Character trying to sneak past a guard might roll `2d6` plus their DEX/[Sneak](/rules#sneak) against 8 + the guard’s WIS/[Notice](#notice). We write this compactly as DEX/[Sneak](/rules#sneak) vs WIS/[Notice](#notice).
 
 ## Keeping Track of Time
 
@@ -206,7 +204,7 @@ Injury is almost inevitable in an adventurer’s career. Some forms of it are lo
 
 When a Character is reduced to zero HP from taking [damage](#damage), they are Mortally Injured. They will die at the end of the sixth [Round](#round) after their incapacitation unless stabilized by an ally or some special ability. A Mortally Injured character is helpless, takes no actions, and does nothing useful.
 
-Stabilizing an ally is a [Main Action](/combat#main-action) that requires a DEX/[Heal](#heal) or INT/[Heal](#heal) [skill check](#skill-checks) with a DC of 8 plus the number of full [Rounds](#round) since the target fell. If the medic lacks a [healer’s kit](/equipment#healers-kit), this difficulty is increased by 2. Only one ally can try to stabilize a victim per round, though others can attempt to aid their check (via a [group check](#group-checks)). Attempts may be retried each round for as long as hope lasts.
+Stabilizing an ally is a [Main Action](/combat#main-action) that requires a DEX/[Heal](#heal) or INT/[Heal](#heal) [skill check](#skill-checks) with a penalty equal to the [Rounds](#round) since the target fell and a [healer’s kit](/equipment#healers-kit). Only one ally can try to stabilize a victim per round, though others can attempt to aid their check (via a [group check](#group-checks)). Attempts may be retried each round for as long as hope lasts.
 
 Once stabilized, the victim remains incapacitated for one [Turn](#turn) before recovering with 1 HP and the [Frail](#frail) condition.
 
@@ -218,7 +216,7 @@ Creatures who reach 0 HP and then recover are Frail.
 
 A Frail character acts normally, but if reduced to 0 HP again, they die instantly. Frail characters do not recover HP through [Natural Healing](#natural-healing).
 
-Frailty is removed with a continuous week of [Comfortable Sleep](#comfortable-sleep) and medical attention by someone with a [healer’s kit](/equipment#healers-kit) and at least [Heal](#heal)-0. In addition, someone with at least [Heal](#heal)-1 can make one attempt to remove Frailty with a healer's kit, an hour of labor, and a successful DC 10 DEX/[Heal](#heal) or INT/[Heal](#heal) check.
+Frailty is removed with a continuous week of [Comfortable Sleep](#comfortable-sleep) and medical attention by someone with a [healer’s kit](/equipment#healers-kit) and at least [Heal](#heal)-0. In addition, someone with at least [Heal](#heal)-1 can make one attempt to remove Frailty with a healer's kit, an hour of labor, and a successful DEX/[Heal](#heal) or INT/[Heal](#heal) check.
 
 Frail characters without this level of medical care must make a [Physical](#physical) save after a week; on a failure they die `1d6` days later, while success means they lose their Frailty after another month’s [Comfortable Sleep](#comfortable-sleep).
 
@@ -389,13 +387,13 @@ The point of tracking [Turns](/rules#turn) is to have a rough measure of activit
 
 Out of all the obstacles the party will face, doors will be *by far* the most common. Doors mark the beginning of most new areas, and so how to handle doors will come up *over and over*.
 
-Doors can be **locked**, in which case a character with [Thieves Tools](/equipment#thieves-tools) can try pick it, usually with a DC 10 DEX/[Sneak](/rules#sneak) [check](#skill-checks). If they fail, they can not try again until they gain a level of experience.
+Doors can be **locked**, in which case a character with [Thieves Tools](/equipment#thieves-tools) can try pick it, usually with a DEX/[Sneak](/rules#sneak) [check](#skill-checks). If they fail, they can not try again until they gain a level of experience.
 
 Locked doors can be **battered down**. 6 turns less STR and [Exert](#exert) for wooden doors, and triple that for metal-reinforced doors. Metal or stone doors can not be battered down with mundane means. Roll an extra [Wandering Encounter](#wandering-encounters) every [Turn](#turn).
 
-Doors can be **stuck**, in which case a character can try to force them open in a [Round](#round) with a DC 10 STR/[Exert](#exert) check. If they fail, it takes `1d3` [Turns](/rules#turn) to open the door.
+Doors can be **stuck**, in which case a character can try to force them open in a [Round](#round) with a STR/[Exert](#exert) check. If they fail, it takes `1d3` [Turns](/rules#turn) to open the door.
 
-Doors can be **listened at** for a [Round](/rules#round) (but only once per [Turn](/rules#turn)), revealing noises as loud as talking without a roll. The presence of anything quieter with requires a DC 10 WIS/[Notice](#notice) check.
+Doors can be **listened at** for a [Round](/rules#round) (but only once per [Turn](/rules#turn)), revealing noises as loud as talking without a roll. The presence of anything quieter with requires a WIS/[Notice](#notice) check.
 
 To pass through a door, choose to make either a **hard** or **soft** entry. If not specififed, a soft entry is assumed.
 

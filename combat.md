@@ -254,7 +254,7 @@ Managing two weapons at once is difficult, and applies a -1 penalty to all attac
 
 A target that is entirely unsuspecting of danger is subject to execution attacks. A subject that is expecting danger or alert to potential harm cannot be targeted by an execution attack.
 
-A ranged execution attack requires one full minute of aiming, waiting, and adjusting. Any disturbance during this time will spoil the shot. After spending this time, the assassin may make a DEX/[Shoot](/rules#shoot) check. The DC is 6 for an attack within 10', 8 for an attack within the weapon’s normal range, or 10 for one at the weapon’s long range. On a success, the attack hits; the victim’s AC is ignored.
+A ranged execution attack requires one full minute of aiming, waiting, and adjusting. Any disturbance during this time will spoil the shot. After spending this time, the assassin may make a DEX/[Shoot](/rules#shoot) check. The attacker rolls adds a +4 bonus for an attack within 10', and +2 for an attack within the weapon’s normal range. On a success, the attack hits; the victim’s AC is ignored.
 
 A melee execution attack requires one full minute of near proximity to the target, watching for just the right opening and getting to within melee range of the victim. If this time is granted, the assassin may make a melee attack, automatically hitting.
 

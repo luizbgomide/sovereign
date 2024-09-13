@@ -629,7 +629,7 @@ The power ends at daybreak; if dispelled sooner, the remaining pool is split pro
 #### Boneshape
 The clay of flesh and bone run obediently to the will of the necromancer.
 
-Whether living or undead, a willing or helpless victim under the effects of this spell can be reshaped into any roughly-equivalent form with an hour’s work. Limbs can be added or removed and existing tissue can be recolored, re-textured, or rearranged to the necromancer’s wishes. Perfect imitation of a particular creature requires a DC 10 DEX/[Magic](/rules#magic) check. This spell is limited in the physical changes it can effect; a bonus of +1 can be added to a physical attribute at the cost of a -1 penalty to a different physical attribute, to a maximum of +2 or -2.
+Whether living or undead, a willing or helpless victim under the effects of this spell can be reshaped into any roughly-equivalent form with an hour’s work. Limbs can be added or removed and existing tissue can be recolored, re-textured, or rearranged to the necromancer’s wishes. Perfect imitation of a particular creature requires a DEX/[Magic](/rules#magic) check. This spell is limited in the physical changes it can effect; a bonus of +1 can be added to a physical attribute at the cost of a -1 penalty to a different physical attribute, to a maximum of +2 or -2.
 
 This spell lasts until the necromancer lifts it or it is dispelled.
 

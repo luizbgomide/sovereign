@@ -232,9 +232,9 @@ Spellcasting mages can read a scroll to activate its spell as a [Main Action](/c
 
 In order to safely cast a spell from a scroll, a Character needs to have a [Magic](/rules#magic) of at least one less than the spell's level. For example, to cast from a Scroll of [Haste](/spells#haste) (a level 2 spell), the Character needs to have at least [Magic](/rules#magic)-1.
 
-If a Character doesn’t have a high enough [Magic](/rules#magic), they can attempt anyway. Roll a DC (8 + Spell Level) INT/Magic skill check. If it fails by one or two, the spell fizzles and is wasted. If it fails by more than two, it goes off, but at the wrong target or with the wrong effect at the GM’s discretion. If the check succeeds, the spell goes off as intended.
+If a Character doesn’t have a high enough [Magic](/rules#magic), they can attempt anyway. Roll a INT/Magic skill check, applying a -1 penalty per spell level. If it fails by 1 or 2, the spell fizzles and is wasted. If it fails by more than two, it goes off, but at the wrong target or with the wrong effect at the GM’s discretion. If the check succeeds, the spell goes off as intended.
 
-For example, if a Character with [Magic](/rules#magic)-0 tries to use a Scroll of [Haste](/spells#haste), they would need to roll a DC 10 INT/[Magic](/rules#magic) check. If their result is an 8 or 9, the spell harmlessly fizzles. If the result is a 7 or lower, they might accidentally [Haste](/spells#haste) a foe!
+For example, if a Character with [Magic](/rules#magic)-0 tries to use a Scroll of [Haste](/spells#haste), they would need to roll a INT/[Magic](/rules#magic) check with a -2 penalty. If their result is an 8 or 9, the spell harmlessly fizzles. If the result is a 7 or lower, they might accidentally [Haste](/spells#haste) a foe!
 
 If the Spell in a scroll has an effect dependent on caster level (like [Arcane Spark](/spells#arcane-spark)), use twice the spell's level minus one. For example, a first level spell scroll would use a caster level of `2 * 1 - 1 = 1`, and a 4th level spell scroll would use a caster level of `2 * 4 - 1 = 7`. This corresponds to the lowest level a [High Mage](/arcane-traditions#high-mage) has access to the spell.
 
@@ -306,6 +306,6 @@ Each category corresponds to one of the [OSE Generators](https://oldschoolessent
 
 ### Sentient Weapons
 
-Some weapons are intelligent, and a subset of those are able to communicate. Weielders who offend their sentient weapons make a DC (8 + magic bonus) INT/[Stab](/rules#stab) or [Shoot](/rules#shoot) check to force its obedience for the day. If the check is failed, the weapon is treated as totally nonmagical for the rest of the day.
+Some weapons are intelligent, and a subset of those are able to communicate. Weielders who offend their sentient weapons make a INT/[Stab](/rules#stab) or [Shoot](/rules#shoot) check to force its obedience for the day. If the check is failed, the weapon is treated as totally nonmagical for the rest of the day.
 
 Weapons able to speak aloud may speak at (in)opportune times, at GM discretion.
