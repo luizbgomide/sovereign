@@ -401,7 +401,7 @@ To pass through a door, choose to make either a **hard** or **soft** entry. If n
 
 In a **hard** entry, the party arranges around the entrance, bashes it in, and charges the room in a planned pattern of entry. They trigger any traps over the threshold and appear [hostile](#fight) to any inhabitants, but are capable of [surprising](#encounters-and-surprise) anyone who might be watching the door.
 
-In a **soft** entry, the party arranges to defend and hold the door as a choke point, sufficiently far away from traps. One Character opens quietly opens the door and observes. They have the opportunity to notice traps, do not appear hostile, but are incapable of surprising anyone who might be watching the door.
+In a **soft** entry, the party arranges to defend and hold the door as a choke point, sufficiently far away from traps. One Character quietly opens the door and observes. They have the opportunity to notice traps, do not appear hostile, but are incapable of surprising anyone who might be watching the door.
 
 ## Encounters
 
