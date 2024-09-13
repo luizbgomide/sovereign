@@ -162,7 +162,7 @@ Most Characters are skilled, competent folks who are perfectly capable of carryi
 
 To make a skill check, roll `2d6` and add the most relevant skill level and [attribute modifier](#attribute-modifiers) (denoted as {Attribute Modifier}/{Skill}, like STR/[Exert](#exert) or INT/[Magic](#magic)). If the total is equal or higher than 10, the check is a success. On a failure, the Character either can’t accomplish the feat at all, bad luck cheats them, or they achieve it at the cost of some further complication. The GM determines the specific consequence of a failure.
 
-The GM is always the one who calls for a skill check, and they do so at their discretion. The player simply describes what their Character is attempting to do, and the GM will tell them what skill and attribute combination to roll. If multiple skills or attributes might plausibly fit the action, the player picks.
+The GM is always the one who calls for a skill check, and they do so at their discretion. The player simply describes what their Character is attempting to do, and the GM will tell them what skill and attribute combination to roll.
 
 ### NPC Skill Checks
 
