@@ -164,14 +164,6 @@ To make a skill check, roll `2d6` and add the most relevant skill level and [att
 
 The GM is always the one who calls for a skill check, and they do so at their discretion. The player simply describes what their Character is attempting to do, and the GM will tell them what skill and attribute combination to roll. If multiple skills or attributes might plausibly fit the action, the player picks.
 
-| Difficulty | Skill Check                                                                                                                                   |
-|------------|-----------------------------------------------------------------------------------------------------------------------------------------------|
-| 6          | A relatively simple task that is still more than the PC would usually be expected to manage in their regular background. Anything easier than this isn’t worth a skill check. |
-| 8          | A significant challenge to a competent professional that they’d still succeed at more often than not.                                                                                |
-| 10         | Something too difficult to be expected of anyone but a skilled expert, and even they might fail.                                                                                      |
-| 12         | Only a true master could expect to carry this off with any degree of reliability.                                                                                                     |
-| 14+        | Only a true master has any chance of achieving this at all, and even they will probably fail.                                                                                         |
-
 ### NPC Skill Checks
 
 When an NPC needs to make a skill check, they roll `2d6` and add their listed skill modifier if their action is something they ought reasonably to be good at. If it isn’t, they roll at +0, or even at -1 if it seems like something they’d be particularly bad at doing. If the NPC is special enough to have actual attribute scores and skill levels, they use those instead.
