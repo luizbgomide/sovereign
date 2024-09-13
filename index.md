@@ -164,6 +164,9 @@ This game endeavors to provide a ruleset that allows players to play through adv
 
 ### Change Log
 
+#### 2024-09-13
+- Unify on DC 10. I hate coming up with DCs, and the simplification is worth the loss of fidelity.
+
 #### 2024-09-08
 - Clarify language on spell prep and casting
 - Use numbers and ft instead of spelling it out.
