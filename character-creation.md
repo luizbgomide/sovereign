@@ -72,7 +72,7 @@ Adventuring is a profession, and all Characters have undergone extensive trainin
 
 We want to make sure we have enough DEX to not decrease our AC, and plan on wearing heavy armor. We're able melee combatants, so we want to have good Strength for bonuses to hit and damage.
 
-We take [Gifted Chirurgeon](/feats#gifted-chirurgeon) mostly for the improved odds at fixing [Fraility](/rules#frail). Wek take [Die Hard](/feats#die-hard-c) because frequently we're the only ones invested into healing others, and if we die there's no one to help us. Die Hard makes sure that we live so long as the fight is won.
+We take [Gifted Chirurgeon](/feats#gifted-chirurgeon) mostly for the improved odds at fixing [Fraility](/rules#frail). We take [Die Hard](/feats#die-hard-c) because we're frequently the only ones invested into healing others and if we die there's no one to help us. Die Hard makes sure that we live so long as the fight is won.
 
 As we level up, we can look at picking up [Close Combatant](/feats#close-combatant-c) so that we can leave the fray to pick up wounded comrades.
 
@@ -85,7 +85,7 @@ As we level up, we can look at picking up [Close Combatant](/feats#close-combata
 - Readied: Plate Armor (60g, 3 enc), Shield (10g, 1 enc), Mace (5g, 1 enc)
 - Stowed: 4 Torches (2s, 2 enc), 2 points of Military Oil (4g, 2 enc), Crowbar (1g, 1 enc), Pickaxe (4g, 2 enc), Ration (2s, 1 enc), Rope (1g, 2 enc)
 
-We prioritize DEX over STR because each point of AC is more valuable than the last. [Close Combatant](/feats#close-combatant-c) makes us immune to [Shock](/rules#shock) (otherwise we need to be scared of a Maces), and lets us feel comfortable surrounded by hoards of enemies, which is exactly where we'll want to be to maximize the benefit of [Whirlwind Assault](/feats#whirlwind-assault-c).
+We prioritize DEX over STR because each point of AC is more valuable than the last. [Close Combatant](/feats#close-combatant-c) makes us immune to [Shock](/rules#shock) (otherwise we need to be scared of maces), and lets us feel comfortable surrounded by hoards of enemies, which is exactly where we'll want to be to maximize the benefit of [Whirlwind Assault](/feats#whirlwind-assault-c).
 
 Our equipment is set up for traversal. We have rope to get up and down, a crowbar and pickaxe to get us through stuff, and torches to light the way.
 
