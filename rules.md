@@ -451,9 +451,9 @@ Results of **Combat if could win, run otw** means that they'll fight if they thi
 
 Results of **Parley** mean that they [parley](#parley) with the Characters. Meaningful parley requires [leverage](#leverage), otherwise it's just pleasantries or posturing.
 
-Results of **Run** means that the they run from the Characters (often to group up with allies). The Characters may [give chase](#chase-and-pursuit).
+Results of **Run** means that the they run from the Characters (often to group up with allies). The Characters may [give chase](#chases-and-pursuit).
 
-Results of **Chase** means they'll [chase](#chase-and-pursuit) the fleeing Characters.
+Results of **Chase** means they'll [chase](#chases-and-pursuit) the fleeing Characters.
 
 Results of **Ignore** means they'll continue doing what they were doing before encountering the party.
 
