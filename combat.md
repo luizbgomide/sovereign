@@ -23,7 +23,7 @@ The grid helps us disambiguate a few situations:
 
 Alice has <strong id="line-of-sight">Line of Sight</strong> to Bob if a line can be drawn from any point in Alice's 5' *cube* to any point in Bob's cube without passing through a solid object (like a wall, not another character).
 
-Alice <strong id="half-cover">half cover</strong> from Bob if Bob has line of sight, but does not have line of sight to *all* of the corners of Alice's cube.
+Alice has <strong id="half-cover">half cover</strong> from Bob if Bob has line of sight, but does not have line of sight to *all* of the corners of Alice's cube.
 
 <figure>
     <img src="/assets/images/bob-horizontal-no-cover.png" alt="tiny" />

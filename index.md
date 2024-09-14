@@ -164,6 +164,9 @@ This game endeavors to provide a ruleset that allows players to play through adv
 
 ### Change Log
 
+#### 2024-09-14
+- Removed the Sniper's Eye feat. I think it's a trap and we don't need it.
+
 #### 2024-09-13
 - Unify on DC 10. I hate coming up with DCs, and the simplification is worth the loss of fidelity.
 

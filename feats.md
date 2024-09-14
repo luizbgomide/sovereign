@@ -101,13 +101,6 @@ You’re extremely dangerous to enemies around you. The ferocity of your melee a
 - **Level 1**: Gain [Brawl](/rules#brawl) or [Stab](/rules#stab) as a [Bonus Skill](/rules#bonus-skill). The Shock damage of your weapon treats all targets as if they were AC 10, assuming your weapon is capable of harming the target in the first place and the target is not immune to Shock.
 - **Level 2**: In addition, you gain a +2 bonus to the Shock damage rating of all melee weapons and unarmed attacks that do Shock. As usual, regular hits never do less damage than this Shock would do on a miss.
 
-## Sniper’s Eye (C)
-
-You are an expert at placing a thrown knife or arrow on an unsuspecting target. These special benefits only apply when making an [Execution Attack](/combat#execution-attacks) with a bow, hurlant, or thrown weapon.
-
-- **Level 1**: Gain [Shoot](/rules#shoot) as a [Bonus Skill](/rules#bonus-skill). When making a skill check for a ranged [Execution Attack](/combat#execution-attacks) or target shooting, roll `3d6` and drop the lowest die.
-- **Level 2**: You don’t miss ranged [Execution Attacks](/combat#execution-attacks). A target hit by one takes a -4 penalty on the [Physical](/rules#physical) saving throw to avoid immediate mortal injury. Even if the save is successful, the target takes double the normal damage inflicted by the attack.
-
 ## Specialist
 
 You are remarkably talented at a particular skill. Whether a marvelous cat burglar, a famed athlete, a brilliant scholar, or some other savant, your expertise is extremely reliable. You may take this Feat more than once for different skills.
