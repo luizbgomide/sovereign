@@ -63,8 +63,7 @@ You have a gift with ranged weapons. While this talent most commonly applies to 
 
 You have an unusual gift for saving [Mortally Injured](/rules#mortal-injury-and-stabalization) allies and quickening the natural recovery of the wounded in your care.
 
-- **Level 1**: Gain [Heal](/rules#heal) as a [Bonus Skill](/rules#bonus-skill). You may attempt to stabilize one [Mortally Injured](/rules#mortal-injury-and-stabalization) adjacent person per round as a [Free Action](/combat#free-action). When rolling [Heal](/rules#heal) checks, roll `3d6` and drop the lowest die. You heal twice as many HP as usual when applying first aid after a battle.
-- **Level 2**: Your curative gifts count as magical healing. You can heal `1d6` plus [Heal](/rules#heal) to an adjacent wounded ally as a [Main Action](/combat#main-action), potentially reviving them without any lingering [Frailty](/rules#frail). Each such application of healing adds 1 [System Strain](/rules#system-strain) to the target, and the gift cannot be used on targets already at their maximum [System Strain](/rules#system-strain).
+Gain [Heal](/rules#heal) as a [Bonus Skill](/rules#bonus-skill). You may attempt to stabilize one [Mortally Injured](/rules#mortal-injury-and-stabalization) adjacent person per round as a [Free Action](/combat#free-action). When rolling [Heal](/rules#heal) checks, roll `3d6` and drop the lowest die. You heal twice as many HP as usual when applying first aid after a battle.
 
 ## Impervious Defense (C)
 

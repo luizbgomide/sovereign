@@ -137,13 +137,12 @@ This list is **not** exhaustive.
 | Ink (1 pint)                    | 7g   | 1   |
 | Iron Spikes (6)                 | 1g   | 1   |
 | Journal                         | 10g  | 1   |
-| Laborer’s Tools                 | 10g  | 2   |
+| Lamp Oil (1 pint)               | 3s   | 1   |
 | Lantern                         | 10g  | 1   |
 | Lock                            | 20g  | 1   |
 | Magnet                          | 1s   | -   |
 | Manacles                        | 2g   | 1   |
 | Mirror (hand-sized, steel)      | 5g   | 1   |
-| Oil, Common (1 pint)            | 3s   | 1   |
 | Oil, Military (1 pint)          | 2g   | 1   |
 | Paper, 1 sheet                  | 1g   | -   |
 | Pickaxe                         | 4g   | 2   |
@@ -151,6 +150,7 @@ This list is **not** exhaustive.
 | <span id="quiver">Quiver + ∞ Arrows</span>               | 10g  | 1   |
 | Rations, Iron (one day)         | 2s   | 1   |
 | Rope, 50’                       | 1g   | 2   |
+| Scroll Case                     | 1g   | 1   |
 | Shovel                          | 4g   | 2   |
 | Soap                            | 1s   | -   |
 | <span id="spellbook">Spellbook (blank)</span>              | 20g  | 1   |
