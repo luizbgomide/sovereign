@@ -86,13 +86,6 @@ Something about your hero interferes with easy use of magic on them. It may be a
 - **Level 1**: You and all allies within 20ft gain a +2 bonus to all saving throws against magical effects. As a [Free Action](/combat#free-action), you feel the presence or use of magic within 20ft of you, though you can’t discern details about it or the specific source. The first failed saving throw against a magical effect you suffer in a day is converted into a success.
 - **Level 2**: Once per day, as an [Instant Action](/combat#instant-action), you are simply not affected by an unwanted magical effect or supernatural monstrous ability, even if it wouldn’t normally allow a saving throw. Immunity to a persistent effect lasts for the rest of the [Turn](/rules#turn).
 
-## Poisoner
-
-You are a skilled poisoner, capable of compounding toxins out of readily-available flora and minerals. It takes an hour to brew a poison, and you can keep as many doses fresh as you have levels. Blade venoms take a [Main Action](/combat#main-action) to apply and last for ten minutes or until a hit or Shock is inflicted, whichever comes first. Detecting poisoned food is a WIS/[Notice](/rules#notice) check against 10, or 12 if the diner’s not a noble or otherwise normally wary of poison. One dose can poison up to a half-dozen diners.
-
-- **Level 1**: Gain [Heal](/rules#heal) as a [Bonus Skill](/rules#bonus-skill). Gain a reroll on any failed saving throw versus poison. Your toxins inflict `2d6` damage plus your level on a hit or Shock, with a [Physical](/rules#physical) save for half. Your incapacitating or hallucinogenic toxins do the same, but those reduced to zero HP are simply incapacitated for an hour.
-- **Level 2**: You are immune to poison and can apply a universal antidote to any poisoned ally as a [Main Action](/combat#main-action). Any attempt to detect or save against your poisons takes a penalty equal to your [Heal](/rules#heal). Your ingested poisons count as an [Execution Attack](/combat#execution-attacks) against unsuspecting targets, with [Heal](/rules#heal) used for the [Physical](/rules#physical) saving throw penalty and `1d6` damage per level done on a success. Such poisons are non-lethal at your discretion.
-
 ## Shocking Assault (C)
 
 You’re extremely dangerous to enemies around you. The ferocity of your melee attacks stresses and distracts enemies even when your blows don’t draw blood.

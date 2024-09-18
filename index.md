@@ -164,6 +164,9 @@ This game endeavors to provide a ruleset that allows players to play through adv
 
 ### Change Log
 
+#### 2024-09-17
+- Removed the poisoner feat. There are no rules for creating/obtaining poisons.
+
 #### 2024-09-16
 - Added room count to the adventure table
 
