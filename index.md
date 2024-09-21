@@ -166,6 +166,7 @@ This game endeavors to provide a ruleset that allows players to play through adv
 
 #### 2024-09-21
 - Clarify how searching for hidden things works. Inspired by Simulacrum's system.
+- Better clarify on setting ambushes and surprised. Also inspired by Simulacrum.
 
 #### 2024-09-17
 - Removed the poisoner feat. There are no rules for creating/obtaining poisons.

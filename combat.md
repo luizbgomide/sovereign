@@ -55,9 +55,11 @@ The Party wins ties.
 
 ## Surprise
 
-If a group is caught entirely unawares they may suffer surprise, granting their enemies a full free round of action before initiative is rolled. The GM decides when surprise applies, possibly calling for an opposed DEX/[Sneak](/rules#sneak) (for a stealthy approach) check or STR/[Exert](/rules#exert) (to kick a door in) versus the target’s WIS/[Notice](/rules#notice).
+If a group is caught entirely unaware they may suffer surprise, granting their enemies a full free round of action before initiative is rolled. Surprise is *almost always* the result of an ambush (though, the GM can rule that the [Core Gameplay Loop](/rules#core-gameplay-loop) results in Surprise) or [Hard Entry](/rules#hard-entry).
 
-Groups cannot be surprised if they are actively anticipating the possibility of combat. If the Party is moving carefully through a dungeon, they are not surprised unless the enemy is specifically hidden.
+The GM decides when surprise applies, possibly calling for an opposed DEX/[Sneak](/rules#sneak) check (for an ambush) or STR/[Exert](/rules#exert) vs WIS/[Notice](/rules#notice) (for hard entry) .
+
+Groups cannot be surprised if they are actively anticipating the possibility of combat. If the Party is moving carefully through a dungeon, they cannot be ambushed.
 
 ## Combat Action Types
 
