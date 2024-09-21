@@ -371,9 +371,15 @@ The point of tracking [Turns](/rules#turn) is to have a rough measure of activit
 | Pick a lock or disarm a trap                   | 1     |
 | Get in a fight with something                  | 1     |
 | Perform first aid and looting after a fight    | 1     |
-| Search a room carefully                        | 1     |
+| Search a 10x10ft area                          | 1     |
 | Time a torch lasts until burning out           | 6     |
 | Time a filled lantern lasts before burning out | 24    |
+
+### Hidden Things
+
+When a Player suspects that there might be something hidden in a place, they specify how they would search for it, and this is resolved with the [Core Gameplay Loop](#core-gameplay-loop). For example, if they suspect that there are riches hidden under the mattress of a bed, they say that they're lifting the bed up to check.
+
+Some hidden things are awkward to find this way. The old school staples of hidden doors made to look like seamless walls and traps hidden inside of locks are prime examples. In these cases, each Character within 10ft of the hidden thing gets a *secret* (the GM rolls for them) WIS/[Notice](#notice) check. A Player may request to actively search a 10x10ft area with additional secret WIS/[Notice](#notice) checks with a +2 bonus, each taking 1 [Turn](#turn).
 
 ### Doors
 
