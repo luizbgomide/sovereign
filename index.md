@@ -164,6 +164,9 @@ This game endeavors to provide a ruleset that allows players to play through adv
 
 ### Change Log
 
+#### 2024-09-22
+- Nerf to Impervious Defense's initial AC and level scaling.
+
 #### 2024-09-21
 - Clarify how searching for hidden things works. Inspired by Simulacrum's system.
 - Better clarify on setting ambushes and surprised. Also inspired by Simulacrum.
