@@ -283,7 +283,7 @@ The only time such beings should fight to the death is if they estimate that doi
 
 They're gone for now, but they will probably be *back*.
 
-The Party may wish to give [chase](#chases-and-pursuit).
+The Party may wish to give [chase](/rules#chases-and-pursuit).
 
 ## Summary
 
