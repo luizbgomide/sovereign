@@ -166,6 +166,7 @@ This game endeavors to provide a ruleset that allows players to play through adv
 
 #### 2024-10-01
 - Include an intro/summary for the combat rules
+- Simplify chases and pursuit
 
 #### 2024-09-22
 - Nerf to Impervious Defense's initial AC and level scaling.

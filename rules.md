@@ -268,21 +268,11 @@ Other poisons can have other effects. A [giant centepede](https://oldschoolessen
 
 Characters have a habit of chasing others and being chased.
 
-If one group is faster than the other group, that group succeeds.
+Both sides roll 1d8 + 1/10th of their combat movement speed (so Players would roll 1d8+3 typically); ties go to the fleeing side.
 
-Otherwise, the pursuing group makes an [opposed](#opposed-skill-checks) [group](#group-checks) DEX/[Exert](/rules#exert) or Con/[Exert](#exert) [skill check](#skill-checks) vs the fleeing group's DEX/[Exert](#exert) or CON/[Exert](#exert) subject to the following modifiers:
+If the pursuing group wins, they catch up with the fleeing group, and begin combat. They automatically win initiative, and their melee combatants begin in melee with the rear members of the fleeing group.
 
-| Situation                                        | Mod |
-| ------------------------------------------------ | --- |
-| There are more pursuers than pursued             | -1  |
-| The pursued have no head start at all            | +2  |
-| The pursued have one round's head start          | +1  |
-| The pursued have less than a minute's head start | +0  |
-| The pursued have more than a minute's head start | -2  |
-| The pursuit is half-hearted or obligatory        | -1  |
-| The pursuers are enraged or vengeful             | +1  |
-
-On a success, the pursuing group catches up with the fleeing group, beginning combat if they'd like and automatically winning initiative, with the front-members in melee range of the rear members of the fleeing group.
+If the fleeing group wins, they escape.
 
 ## Encumbrance
 
