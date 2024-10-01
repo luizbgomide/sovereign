@@ -3,15 +3,15 @@ layout: default
 title: Home
 ---
 
-# Rules
+## Rules
 
-This chapter covers the core rules of Sovereign. It endeavors to familiarize the reader with common terms, the goal of the game, the main procedures, and provide structure for commonly-occuring situations.
+This chapter introduces the core rules of *Sovereign*. It aims to familiarize you with key terms, the game’s goal, main procedures, and structure for common situations.
 
-Sovereign is a [Table-Top Role-Playing Game](https://en.wikipedia.org/wiki/Tabletop_role-playing_game), where a group of friends come together to imagine a fantasy adventure. One player (called the Game Master) prepares an an adventure and the other players [create characters](/character-creation) who will go on the adventure. The Game Master describes each situation to the Players, who then tell the Game Master what their Characters do. Their actions create new situations, which the Game Master describes, and the process repeats.
+*Sovereign* is a [Table-Top Role-Playing Game](https://en.wikipedia.org/wiki/Tabletop_role-playing_game), where a group of friends imagines a shared fantasy adventure. One player (the Game Master) prepares the adventure, while the others [create characters](/character-creation) to participate. The Game Master describes situations, and the players describe how their characters react. This interaction creates new situations, and the cycle continues.
 
-The players aim to defeat powerful monsters and recover valuable treasure, which rewards Experience Points. Unlike most games, there is no *winning* in a strict sense, but *playing well* looks like earning as many Experience Points as possible without dying. After earning enough Experience Points, their Characters [grow more powerful](#advancement), and can face fiercer challenges (which tend to be worth more and more Experience Points).
+The players aim to defeat monsters and recover treasure, gaining Experience Points in the process. *Sovereign* doesn’t have a strict concept of *winning*, but playing skillfully means gathering as many Experience Points as possible while avoiding death. As players earn Experience Points, their characters [grow stronger](#advancement), allowing them to face greater challenges that reward more Experience Points.
 
-The Game Master aims to resolve each situation **fairly**. There is no *winning* for the Game Master, but *playing well* involves creating [interesting, impactful, and informed choices](https://www.bastionland.com/2018/09/the-ici-doctrine-information-choice.html) for the players, and then fairly determing what happens next.
+The Game Master’s role involves resolving situations **fairly**. The Game Master doesn’t *win* in the traditional sense, but success involves creating [meaningful, informed choices](https://www.bastionland.com/2018/09/the-ici-doctrine-information-choice.html) for players and fairly determining the outcomes.
 
 ## Table Of Contents
 
@@ -23,52 +23,52 @@ The Game Master aims to resolve each situation **fairly**. There is no *winning*
 - **Game Master**: The real-life human in charge of everything *except* the actions of the Player Characters (PC). They control the setting, the actions of Non-Player Characters (NPCs), and read/run the [adventures](/index#recommended-adventures).
 - **Character**: A person within the game world, built using the rules in [Character Creation](/character-creation).
 - **Player Character (PC)**: A Character controlled by a Player.
-- **Non-Player Character (NPC)**: A all entities controlled by the GM. Some NPCs are also Characters (if the GM finds this useful).
+- **Non-Player Character (NPC)**: All entities controlled by the GM. Some NPCs are also Characters (if the GM finds this useful).
 - **Party**: The group of PCs and [Henchmen](/equipment#henchmen) adventuring together.
 
 ## Dice Notation
 
-Sovereign uses [dice](https://www.amazon.com/Chessex-001LBCHX-Pound-O-Dice/dp/B008C0KXYS) to generate randomness. In order to compactly represent a roll with the notation `NdX`, where `N` is the number of dice to roll, and `X` is how many sides that die should have, adding all of the dice together.
+*Sovereign* uses [dice](https://www.amazon.com/Chessex-001LBCHX-Pound-O-Dice/dp/B008C0KXYS) to generate randomness. The notation `NdX` represents a dice roll, where `N` stands for the number of dice to roll, and `X` indicates how many sides the dice have. You add the results together.
 
-For example, `3d8` means to roll 3 dice with 8 sides and total the results.
+For example, `3d8` means rolling 3 eight-sided dice and summing the results.
 
-At times, we also perform additional operations. For instance, `2d6•10` means to roll two six-sided dice, add them together, and multiply the result by 10. `1d20+3` means to roll a 20-sided dice and add 3.
+Sometimes, additional operations occur. For example, `2d6•10` means rolling two six-sided dice, adding the results, and multiplying the total by 10. `1d20+3` means rolling a 20-sided die and adding 3.
 
 ![small](/assets/images/dice-sizes.png)
 
 ## The Big Picture
 
-1. The Game Master (GM) creates a loosely defined fantasy setting where most adventures that they would want to run fits in somewhere.
-2. The GM proposes a few adventures (describing them in vague strokes) to the players between sessions, the players pick the one they want to run next, and the GM prepares that adventure, using [hard framing](https://thealexandrian.net/wordpress/31509/roleplaying-games/the-art-of-pacing) to place the Party right on the adventure's doorstep with a strong hook.
-3. After an adventure is completed, the process repeats from step 2, usually with the same Party. Weeks or months pass in-game between adventures as appropriate.
+1. The Game Master (GM) creates a loosely defined fantasy setting where most adventures fit in somewhere.
+2. The GM proposes a few adventures (describing them in vague terms) to the players between sessions. The players choose one to pursue, and the GM prepares that adventure, using [hard framing](https://thealexandrian.net/wordpress/31509/roleplaying-games/the-art-of-pacing) to place the Party directly at the adventure’s starting point with a strong hook.
+3. After completing an adventure, the process repeats from step 2, usually with the same Party. Weeks or months pass in-game between adventures as appropriate.
 
-This is *very much* a game about playing all of the wonderful [adventures](/#recommended-adventures) that the [community](https://campaignwiki.org/osr/) has to offer. To that end, Sovereign attempts to strip out and de-emphasize anything that might entice the players *away* from the pre-written content in adventures. Domain play, crafting, etc have all be deliberately removed.
+This game focuses heavily on playing all the wonderful [adventures](/#recommended-adventures) offered by the [OSR community](https://campaignwiki.org/osr/). *Sovereign* intentionally strips out or de-emphasizes elements that might pull players away from the pre-written content within these adventures. Domain play, crafting, and similar features have been deliberately removed.
 
-Finally, the episodic natures of the adventures facilitates players joining and leaving the table, and allows for players to easily introduce new PCs as their old ones die, retire, or recover. We want everyone playing as smoothly as possible!
+The episodic nature of the adventures makes it easy for players to join or leave, and facilitates the introduction of new PCs as old ones die, retire, or recover. We aim to keep the game running smoothly for everyone!
 
 ## Core Gameplay Loop
 
-Sovereign is played with one GM and at most 8 players, playing as 4 to 8 PCs, venturing into dark dungeons, derelict castles, and ancient tombs for fun and profit. The game is, predominately, a conversation, but that conversation has *structure*:
+*Sovereign* involves one GM and up to 8 players controlling 4 to 8 PCs, exploring dark dungeons, derelict castles, and ancient tombs for fun and profit. While the game mostly takes the form of a conversation, that conversation follows a *structured* process:
 
-1. The GM describes a situation to the players, making sure to not assume actions from the players, paying special attention to what they see, hear, and smell. Then, they ask "What do you do?"
-2. The players clarify or describe their actions and the [*intent*](https://www.bastionland.com/2022/12/action-intent-duality.html) behind their actions. When acting as a group (such as picking the next room to explore), elect one person to speak for the group to reduce chaos.
-3. The GM informs the players how likely their actions are to accomplish their intent (taking into account the situation, their [Attributes](#attributes), and their [Skills](#skills)), what happens if they fail, and how much it costs them to try. Actions that have no chance to fail, have no consequences for failure and no appreciable cost to attempt *just happen*. [Skill Checks](#skill-checks) are a useful way come up with likelihood, but the GM is free to come up with probabilities directly, like 1-in-6 or 45%.
-4. If the players find the ruling to be reasonable, the dice are rolled and we honor the stakes. If they *don't*, they negotiate or come up with a better plan. Typical levers are higher chances of success for less impactful results, worse consequences for failure, or higher costs to attempt and vice versa.
-5. This creates a new situation. The GM [fast forwards](https://thealexandrian.net/wordpress/31509/roleplaying-games/the-art-of-pacing) to the next meaningful decision, narrating the transition and repeats the process.
+1. The GM describes a situation to the players, avoiding assumptions about player actions and focusing on what the characters see, hear, and smell. Then, the GM asks, "What do you do?"
+2. The players clarify their actions and the [*intent*](https://www.bastionland.com/2022/12/action-intent-duality.html) behind them. When acting as a group (such as choosing which room to explore), one player speaks for the group to reduce chaos.
+3. The GM informs the players how likely their actions are to succeed, based on the situation, their [Attributes](#attributes), and [Skills](#skills), as well as the potential costs and consequences of failure. Actions that cannot fail, have no consequence, or cost little to attempt, *just happen*. [Skill Checks](#skill-checks) offer a guideline, but the GM may assign probabilities directly, like 1-in-6 or 45%.
+4. If the players agree with the ruling, they roll the dice and respect the outcome. If they disagree, they negotiate or revise their plan. Common adjustments include trading higher chances of success for lesser results, or accepting greater costs or consequences for failure in exchange for a better shot at success.
+5. This leads to a new situation. The GM [fast forwards](https://thealexandrian.net/wordpress/31509/roleplaying-games/the-art-of-pacing) to the next meaningful decision, narrates the transition, and repeats the process.
 
-That's the *whole* game. All other rules exist to either faciliate interesting decisions for #2, help the GM determine #3, or ease the negotiation in #4. If you find a rule *isn't* doing any of these things, change or remove it.
+That’s the *entire* game. All other rules either enable interesting decisions for #2, assist the GM with #3, or ease negotiation in #4. If a rule isn’t contributing to these elements, change or remove it.
 
 ### Narrative Interaction
 
-Much of the intresting part (and what separates skilled players from novice players) of exploring is coming up with a plan that *avoids* rolling. A plan that triggers a [Skill Check](#skill-checks) or roll is *workable*, but also *risky*. A lot of the fun in this play style is coming up with plans that *can't fail*.
+A key aspect of skilled play in *Sovereign* involves devising plans that *avoid* rolling dice. A plan that prompts a [Skill Check](#skill-checks) or roll can be *workable*, but also carries *risk*. Much of the fun lies in creating strategies that *cannot fail*.
 
-Consider being faced with a deep, 15-foot wide spiked pit. Dangerous. If a player wants to leap to the other side, the GM might rule that as a STR/[Exert](#exert) [Check](#skill-checks) with failure resulting in taking `3d6` [Damage](#damage) from the fall and spikes as well as being stuck at the bottom.
+Imagine encountering a deep, 15-foot wide spiked pit. A risky obstacle. If a player attempts to leap across, the GM might call for a STR/[Exert](#exert) [Check](#skill-checks), with failure leading to `3d6` [Damage](#damage) from the fall and spikes, plus becoming trapped at the bottom.
 
-A clever player might think to *fill up the pit*. Perhaps they spend some time dragging coffins, furniture, etc into the pit so that they can lower themselves down, walk across, and climb up the other side without rolling.
+A clever player might avoid this risk by *filling the pit*. They could spend time dragging coffins or furniture into the pit, allowing themselves to descend safely, cross, and climb up the other side—without rolling.
 
-Searching for stuff works the same way - the GM will describe a new room to the players, but *won't* assume that they touched anything (since it could be hazardous). A player can say "I search the room", and lean on their character's WIS/[Notice](#notice), potentially triggering traps.
+The same principle applies to searching rooms. The GM describes the environment but avoids assuming the players touch anything, since it might carry danger. A player could simply declare, "I search the room," relying on WIS/[Notice](#notice) and risking trap activation.
 
-Better is for the player to specify *what* and *how* they're searching. If their method (which usually has a time-cost measured in [Turns](#keeping-track-of-time)) would find the hidden thing (whether a trap, treasure, or clue), they *just do*.
+A better approach involves specifying *what* and *how* they search. If their method (which usually involves a time cost measured in [Turns](#keeping-track-of-time)) reasonably uncovers a hidden trap, treasure, or clue, they *find it* automatically.
 
 ## Attributes
 
@@ -90,7 +90,7 @@ Two are mental attributes.
 
 ### Attribute Modifiers
 
-Each attribute has a modifier, ranging from -2 to +2 based on its score. This modifier is added to skill checks, attack rolls, [damage](#damage) rolls, [Shock](#shock) damage, and the relevant [saving throw](#saving-throws) targets.
+Each attribute has a modifier, ranging from -2 to +2 based on its score. This modifier adds to skill checks, attack rolls, [damage](#damage) rolls, [Shock](#shock) damage, and relevant [saving throw](#saving-throws) targets.
 
 | Attribute | Modifier |
 | --------- | -------- |
@@ -100,43 +100,43 @@ Each attribute has a modifier, ranging from -2 to +2 based on its score. This mo
 | 14-17     | +1       |
 | 18        | +2       |
 
-In this text, when referring to an attribute's score, it will be spelled completely, like Strength. When referring to an attribute's modifier, it will be abbreviated to three letters: STR, DEX, CON, INT, or WIS.
+In this text, when referring to an attribute’s score, the full name appears (e.g., Strength). When referring to an attribute’s modifier, it will be abbreviated to three letters: STR, DEX, CON, INT, or WIS.
 
-If an injury, character advancements, or magic item alters an attribute, immediately update the attribute’s modifier.
+If an injury, character advancement, or magic item changes an attribute, immediately update the attribute’s modifier.
 
 ## Hit Points
 
-A character’s hit points (HP) measure their distance from death. If a character is reduced to zero HP, they are [dying](#mortal-injury-and-stabalization). Taking <strong id="damage">damage</strong> reduces a character's HP. For instance, when a character with 11 HP takes 5 damage, they would have 6 HP remaining.
+A character’s hit points (HP) measure their distance from death. If a character reaches zero HP, they are [dying](#mortal-injury-and-stabilization). Taking <strong id="damage">damage</strong> reduces a character's HP. For instance, if a character with 11 HP takes 5 damage, they would have 6 HP remaining.
 
-A new character rolls the [HP Progression](/rules#hp-progression) for their [Class](/classes) for the maximum HP, adding their Con. If they have chosen the [Die Hard](/feats#die-hard-c) Feat they add +2 to the roll. The final value for a given die cannot be less than 1 HP.
+A new character rolls the [HP Progression](/rules#hp-progression) for their [Class](/classes) to determine their maximum HP, adding their CON. If they have the [Die Hard](/feats#die-hard-c) Feat, they add +2 to the roll. The final value for a given die cannot be less than 1 HP.
 
-A character gains maximum HP as they advance in character level, re-rolling their prior levels and taking the new score if it’s higher, as explained in [advancement](#advancement-benefits).
+Characters gain maximum HP as they advance in level, re-rolling their prior levels' HP and taking the new score if it’s higher, as outlined in [advancement](#advancement-benefits).
 
-NPCs roll a number of d8's for thier HP equal to their Hit Dice (HD).
+NPCs roll a number of d8s for their HP equal to their Hit Dice (HD).
 
 ## Saving Throws
 
-Saving throws are rolled to resist some unusual danger or chance hazard. To make a saving throw, a person rolls `1d20` and tries to get equal or higher than their saving throw target. Sometimes a save might have bonuses or penalties applied to the roll, but a natural roll of 1 on the die always fails the save, and a natural roll of 20 is always a success.
+Saving throws resist unusual dangers or chance hazards. To make a saving throw, roll `1d20` and try to get a result equal to or higher than the saving throw target. Sometimes bonuses or penalties apply to the roll, but a natural 1 always fails, and a natural 20 always succeeds.
 
-There are three types of saving throws. Usually it will be obvious which type is most appropriate for a threat, but the GM makes the call.
+There are three types of saving throws. While the appropriate type usually feels obvious for a given threat, the GM makes the final call.
 
-<strong id="physical">Physical</strong> saves resist exhaustion, poisons, diseases, or other bodily afflictions. A Character's Physical saving throw target is equal to 16 minus their character level and the highest of their STR or CON.
+**Physical** saves resist exhaustion, poisons, diseases, or other bodily afflictions. A Character’s Physical saving throw target equals 16 minus their character level and the higher of their STR or CON.
 
-<strong id="evasion">Evasion</strong> saves apply when dodging explosions, avoiding traps, reacting to sudden peril, or other occasions where speed is of the essence. A Character's Evasion saving throw target is equal to 16 minus their character level and the highest of their DEX or INT.
+**Evasion** saves apply when dodging explosions, avoiding traps, reacting to sudden peril, or other situations where speed matters. A Character’s Evasion saving throw target equals 16 minus their character level and the higher of their DEX or INT.
 
-<strong id="mental">Mental</strong> saves apply when resisting mental attacks, insubstantial magic spells, psychological trauma, and other mental hazards. A Character’s Mental saving throw target is equal to 16 minus their character level and the highest of their INT or WIS.
+**Mental** saves apply when resisting mental attacks, insubstantial magic spells, psychological trauma, and other mental hazards. A Character’s Mental saving throw target equals 16 minus their character level and the higher of their INT or WIS.
 
-NPCs have a single saving throw target equal to 15 minus half their rounded-down HD. Thus, an NPC with 3 HD would have a saving throw target of 14+ for any particular hazard.
+NPCs use a single saving throw target, which equals 15 minus half their rounded-down Hit Dice (HD). For example, an NPC with 3 HD has a saving throw target of 14+ for any hazard.
 
 ## Skills
 
-A PC's skills reprsent their training. A newly-created PC starts with a few trained skills and [gain more](#advancement-benefits) as they [level up](#advancement).
+A PC's skills represent their training. A newly-created PC starts with a few trained skills and [gains more](#advancement-benefits) as they [level up](#advancement).
 
-### Interpretting Skill Levels
+### Interpreting Skill Levels
 
-Skills are rated on a scale from -1 to 4. Level -1 represents an absence of training. Level 0 represents basic competence. Level 1 represents professional-level skill. Level 2 in a skill likely makes a character the best in a village or city block. Level 3 represents mastery, and likely makes the character one of the best in a city. Level 4 represents world-class skill.
+Skills are rated on a scale from -1 to 4. Level -1 represents an absence of training. Level 0 indicates basic competence. Level 1 reflects professional-level skill. Level 2 likely makes a character the best in a village or city block. Level 3 represents mastery, making the character one of the best in a city. Level 4 reflects world-class expertise.
 
-This text refers to to skills and their level compactly like {Skill}-{Level}. For instance [Exert](#exert)-1 or [Heal](#heal)-2.
+Skills are referred to compactly as {Skill}-{Level}. For example, [Exert](#exert)-1 or [Heal](#heal)-2.
 
 All skills start at level -1.
 
@@ -144,139 +144,134 @@ All skills start at level -1.
 
 Skills may overlap in their application; the character may use either skill at their discretion.
 
-- <strong id="exert">Exert</strong>: Run, swim, climb, jump, labor for long periods, throw things, or otherwise exert your physical strength, stamina, and coordination. Even a Character with poor physical attributes might have a good Exert skill reflecting athletic training and expertise in making the most of their available talents.
-- <strong id="heal">Heal</strong>: Treat wounds, cure diseases, neutralize poisons, diagnose psychological health issues, and otherwise tend to the wounds of body and mind.
-- <strong id="know">Know</strong>: Know matters of history, geography, natural science, zoology, and other academic fields appropriate to a sage or scholar. While some sages might specialize in particular fields, most learned folks have a broad range of understanding, and will rarely be unable to even attempt to answer a question relevant to this skill.
-- <strong id="magic">Magic</strong>: Cast or analyze magic and know things about famous mages or notable magical events. Classes that can’t cast spells obtain only intellectual and scholarly benefits from this skill.
-- <strong id="notice">Notice</strong>: Notice small details, impending ambushes, hidden features, or concealed objects. Detect subtle smells, sounds, or other sensory input.
-- <strong id="sneak">Sneak</strong>: Move silently, hide in shadows, avoid notice, pick pockets, disguise yourself, pick locks, disable traps, etc.
+- <strong id="exert">Exert</strong>: Run, swim, climb, jump, labor for long periods, throw things, or otherwise exert your physical strength, stamina, and coordination. Even a Character with poor physical attributes might have a good Exert skill, reflecting athletic training and expertise in maximizing their talents.
+- <strong id="heal">Heal</strong>: Treat wounds, cure diseases, neutralize poisons, diagnose psychological health issues, and tend to the wounds of body and mind.
+- <strong id="know">Know</strong>: Understand matters of history, geography, natural science, zoology, and other academic fields relevant to a sage or scholar. While some sages specialize in particular areas, most have broad knowledge and rarely fail to attempt answering questions tied to this skill.
+- <strong id="magic">Magic</strong>: Cast or analyze magic, and know details about famous mages or magical events. Classes unable to cast spells benefit intellectually and scholastically from this skill.
+- <strong id="notice">Notice</strong>: Detect small details, impending ambushes, hidden features, or concealed objects. Identify subtle smells, sounds, or other sensory cues.
+- <strong id="sneak">Sneak</strong>: Move silently, hide in shadows, avoid detection, pick pockets, disguise yourself, pick locks, disable traps, and similar actions.
 
-
-- <strong id="brawl">Brawl</strong>: Fight unarmed or with natural body weaponry. Punch, kick, grapple, or otherwise brawl without the benefit of man-made tools. This mode of fighting is inefficient at best without a Feat to improve it, but it’s reliably non-lethal.
-- <strong id="shoot">Shoot</strong>: Fire a bow or crossbow or throw a hurled weapon. Maintain ranged weaponry and fletch arrows.
-- <strong id="stab">Stab</strong>: Fight with melee weapons or throw a hurled weapon. Maintain and identify weaponry.
+- <strong id="brawl">Brawl</strong>: Fight unarmed or with natural body weaponry. Punch, kick, grapple, or otherwise brawl without man-made tools. This form of combat proves inefficient without a Feat to enhance it, though it reliably avoids lethality.
+- <strong id="shoot">Shoot</strong>: Fire a bow, crossbow, or hurl weapons. Maintain ranged weapons and fletch arrows.
+- <strong id="stab">Stab</strong>: Engage in melee combat with weapons or throw hurling weapons. Maintain and identify weaponry.
 
 ### Skill Checks
 
-Most Characters are skilled, competent folks who are perfectly capable of carrying out the ordinary duties of their role. Sometimes, however, they are faced with a situation or challenge beyond the usual scope of their role and the GM calls for a skill check.
+Most Characters are skilled, competent individuals capable of performing the ordinary duties of their role. However, sometimes they encounter a challenge beyond the usual scope of their abilities, and the GM calls for a skill check.
 
-To make a skill check, roll `2d6` and add the most relevant skill level and [attribute modifier](#attribute-modifiers) (denoted as {Attribute Modifier}/{Skill}, like STR/[Exert](#exert) or INT/[Magic](#magic)). If the total is equal or higher than 10, the check is a success. On a failure, the Character either can’t accomplish the feat at all, bad luck cheats them, or they achieve it at the cost of some further complication. The GM determines the specific consequence of a failure.
+To make a skill check, roll `2d6` and add the most relevant skill level and [attribute modifier](#attribute-modifiers) (denoted as {Attribute Modifier}/{Skill}, like STR/[Exert](#exert) or INT/[Magic](#magic)). If the total is equal to or higher than 10, the check succeeds. On a failure, the Character either cannot accomplish the feat, bad luck intervenes, or they succeed with additional complications. The GM decides the consequence of failure.
 
-The GM is always the one who calls for a skill check, and they do so at their discretion. The player simply describes what their Character is attempting to do, and the GM will tell them what skill and attribute combination to roll.
-
-### NPC Skill Checks
-
-When an NPC needs to make a skill check, they roll `2d6` and add their listed skill modifier if their action is something they ought reasonably to be good at. If it isn’t, they roll at +0, or even at -1 if it seems like something they’d be particularly bad at doing. If the NPC is special enough to have actual attribute scores and skill levels, they use those instead.
+The GM always calls for a skill check at their discretion. The player describes what their Character is attempting, and the GM specifies which skill and attribute combination to roll.
 
 ### Group Checks
 
-When a Party faces a situation together, one Character makes the roll. For each other Character with a positive modifier, add 1 to the roll. For each Character with a negative modifier, subtract 1.
+When a Party faces a situation together, one Character makes the roll. For each additional Character with a positive modifier, add 1 to the roll. For each Character with a negative modifier, subtract 1.
 
-This represents forcing open a heavy door together, everyone trying to stealth past a guard, or collectively climbing a cliff face.
+This method applies to tasks like forcing open a heavy door together, stealthing past a guard, or collectively climbing a cliff face.
 
 ### Opposed Skill Checks
 
-When skills oppose each other, the side attempting to change the situation rolls a skill check and tries to get a result of 8 plus the other side's modifier. For example, a Character trying to sneak past a guard might roll `2d6` plus their DEX/[Sneak](/rules#sneak) against 8 + the guard’s WIS/[Notice](#notice). We write this compactly as DEX/[Sneak](/rules#sneak) vs WIS/[Notice](#notice).
+When skills oppose each other, the side attempting to change the situation rolls a skill check and aims for a result of 8 plus the opposing side's modifier. For example, a Character trying to sneak past a guard might roll `2d6` plus their DEX/[Sneak](/rules#sneak) against 8 + the guard’s WIS/[Notice](#notice). This is written compactly as DEX/[Sneak](/rules#sneak) vs WIS/[Notice](#notice).
 
 ## Keeping Track of Time
 
-A <strong id="turn">Turn</strong> is a time measurement used to determine how often certain abilities or actions can be taken. Some powers can be triggered only so many times per Turn, while some special abilities only work once per Turn.
+A <strong id="turn">Turn</strong> is a time measurement used to determine how often certain abilities or actions can be taken. Some powers can only be triggered a certain number of times per Turn, while some special abilities function once per Turn.
 
-A Turn is one particular fight, event, activity, or effort that doesn’t take more than ten or fifteen minutes. A fight takes a Turn. A chase takes a Turn. A tense backroom negotiation takes a Turn. So long as the party is doing the same general activity in the same general location, it’s probably one Turn.
+A Turn represents a fight, event, activity, or effort that doesn’t last more than ten or fifteen minutes. A fight takes a Turn. A chase takes a Turn. A tense backroom negotiation takes a Turn. As long as the party remains focused on the same activity in the same location, it likely counts as one Turn.
 
-Combat is made up of <strong id="round">Rounds</strong>, each one lasting approximately ten seconds. A single combat may involve multiple Rounds of action, but always takes a Turn. A round begins with the actions of the side that wins initiative and ends after the actions of the side with the lowest initiative.
+Combat consists of <strong id="round">Rounds</strong>, with each round lasting about ten seconds. A single combat encounter may involve multiple Rounds, but it always consumes a Turn. A round begins with the actions of the side that wins initiative and ends after the actions of the side with the lowest initiative.
 
-Between adventures or in safe places, time passes naturally, usually counted in either hours, days, or weeks as appropriate.
+Between adventures or in safe places, time passes naturally, usually measured in hours, days, or weeks as needed.
 
 ## Injury, Healing, and System Strain
 
-Injury is almost inevitable in an adventurer’s career. Some forms of it are longer-lasting than others.
+Injury is almost inevitable in an adventurer’s career, with some forms lasting longer than others.
 
-### Mortal Injury and Stabalization
+### Mortal Injury and Stabilization
 
-When a Character is reduced to zero HP from taking [damage](#damage), they are Mortally Injured. They will die at the end of the sixth [Round](#round) after their incapacitation unless stabilized by an ally or some special ability. A Mortally Injured character is helpless, takes no actions, and does nothing useful.
+When a Character reaches zero HP due to [damage](#damage), they suffer a Mortal Injury. They will die at the end of the sixth [Round](#round) after their incapacitation unless an ally or special ability stabilizes them. A Mortally Injured character remains helpless, taking no actions or contributing in any meaningful way.
 
-Stabilizing an ally is a [Main Action](/combat#main-action) that requires a DEX/[Heal](#heal) or INT/[Heal](#heal) [skill check](#skill-checks) with a penalty equal to the [Rounds](#round) since the target fell and a [healer’s kit](/equipment#healers-kit). Only one ally can try to stabilize a victim per round, though others can attempt to aid their check (via a [group check](#group-checks)). Attempts may be retried each round for as long as hope lasts.
+Stabilizing an ally requires a [Main Action](/combat#main-action) and involves a DEX/[Heal](#heal) or INT/[Heal](#heal) [skill check](#skill-checks). This check carries a penalty equal to the number of [Rounds](#round) since the target fell. A [healer’s kit](/equipment#healers-kit) is also required. Only one ally can attempt to stabilize a victim per round, though others may assist (via a [group check](#group-checks)). Attempts can be retried each round as long as hope remains.
 
-Once stabilized, the victim remains incapacitated for one [Turn](#turn) before recovering with 1 HP and the [Frail](#frail) condition.
+Once stabilized, the victim stays incapacitated for one [Turn](#turn) before recovering with 1 HP and gaining the [Frail](#frail) condition.
 
-NPCs who aren’t important enough to merit a name die instantly when reduced to zero HP.
+NPCs without a name or particular importance die instantly when reduced to zero HP.
 
 ### Frail
 
-Creatures who reach 0 HP and then recover are Frail.
+Creatures who reach 0 HP and recover become Frail.
 
-A Frail character acts normally, but if reduced to 0 HP again, they die instantly. Frail characters do not recover HP through [Natural Healing](#natural-healing).
+A Frail character can act normally, but if reduced to 0 HP again, they die instantly. Frail characters cannot recover HP through [Natural Healing](#natural-healing).
 
-Frailty is removed with a continuous week of [Comfortable Sleep](#comfortable-sleep) and medical attention by someone with a [healer’s kit](/equipment#healers-kit) and at least [Heal](#heal)-0. In addition, someone with at least [Heal](#heal)-1 can make one attempt to remove Frailty with a healer's kit, an hour of labor, and a successful DEX/[Heal](#heal) or INT/[Heal](#heal) check.
+Frailty is removed after a continuous week of [Comfortable Sleep](#comfortable-sleep) and medical attention from someone with a [healer’s kit](/equipment#healers-kit) and at least [Heal](#heal)-0. Additionally, someone with at least [Heal](#heal)-1 can attempt to remove Frailty with a healer's kit, an hour of labor, and a successful DEX/[Heal](#heal) or INT/[Heal](#heal) check.
 
-Frail characters without this level of medical care must make a [Physical](#physical) save after a week; on a failure they die `1d6` days later, while success means they lose their Frailty after another month’s [Comfortable Sleep](#comfortable-sleep).
+Frail characters without this level of medical care must make a [Physical](#physical) save after a week; failure results in death `1d6` days later, while success means Frailty is removed after another month of [Comfortable Sleep](#comfortable-sleep).
 
 ### Natural Healing
 
-A wounded creature recovers HP by getting [Comfortable Sleep](#comfortable-sleep) and adequate food. Provided they are warm, fed, and comfortable, they regain HP each morning equal to their experience level, or equal to their HD if they are NPCs.
+A wounded creature recovers HP through [Comfortable Sleep](#comfortable-sleep) and adequate food. As long as they remain warm, well-fed, and comfortable, they regain HP each morning equal to their experience level, or their HD if they are NPCs.
 
-Characters are *not* confortable while sleeping in tents, outdoors, etc. It has to be a honest *bed*.
+Characters *do not* count as comfortable when sleeping in tents, outdoors, or similar conditions. They need a proper *bed*.
 
-[Frail](#frail) creatures do not recover HP through natural healing.
+[Frail](#frail) creatures cannot recover HP through natural healing.
 
 ### First Aid
 
-Healers can patch up victims in a hurry at a cost to their physical resilience. By spending one minute patching up an ally with a [healer’s kit](/equipment#healers-kit), heal `1d6`+[Heal](#heal) points of damage. Each such application adds one [System Strain](#system-strain) to the target. First aid restores HP to a [Frail](#frail) target, but it cannot remove their Frailty.
+Healers can quickly patch up victims at a cost to their physical resilience. By spending one minute treating an ally with a [healer’s kit](/equipment#healers-kit), heal `1d6` + [Heal](#heal) points of damage. Each application of first aid adds one [System Strain](#system-strain) to the target. First aid can restore HP to a [Frail](#frail) target, but it does not remove Frailty.
 
-One [Turn](#turn) is enough time for a healer to apply as much first aid as is wanted to their party.
+One [Turn](#turn) provides enough time for a healer to apply as much first aid as needed to the party.
 
 ### System Strain
 
-Magical forms of healing (like [Healing Touch](/arcane-traditions#healing-touch)), use of powerful augmenting magic (like [Haste](/spells#haste)), and [First Aid](#first-aid) can take a toll on a user’s physiology. Their System Strain total reflects the total amount of stress their body has undergone.
+Magical healing (like [Healing Touch](/arcane-traditions#healing-touch)), the use of powerful augmenting magic (like [Haste](/spells#haste)), and [First Aid](#first-aid) put stress on a character’s body, tracked by their System Strain total.
 
-A healthy character starts at zero System Strain and has their Constitution as their maximum.
+A healthy character starts at zero System Strain, with their Constitution serving as their maximum limit.
 
-Magical healing and certain spells and abilities (like [Speed](/spells#speed)) will add to a subject’s System Strain. If this addition would put them over their maximum they cannot activate the spell, benefit from healing, or otherwise gain any use from the ability. If they are forced over the maximum by some unavoidable effect, they are instead knocked unconscious for an hour.
+Magical healing, certain spells, and abilities (like [Speed](/spells#speed)) add to a subject’s System Strain. If this addition would exceed their maximum, they cannot activate the spell, receive healing, or benefit from the ability. If forced beyond their maximum by an unavoidable effect, they fall unconscious for an hour.
 
 Characters lose one point of accumulated System Strain after [Comfortable Sleep](#comfortable-sleep).
 
 ## Rest
 
-Each Character needs to sleep for at least 8 hours a day in order to avoid incurring [System Strain](#system-strain) from [Lack of Sleep](#lack-of-sleep). Magic items that recharge on a per-day basis recharge recharge at dawn.
+Each Character needs at least 8 hours of sleep daily to avoid incurring [System Strain](#system-strain) from [Lack of Sleep](#lack-of-sleep). Magic items that recharge on a per-day basis do so at dawn.
 
-For all other mechanics to recover ([System Strain](#system-strain), [Effort committed for the day](#committing-effort), recovering [Spells](/spells#casting-prepared-spells)), the Character needs **Comfortable Sleep**.
+For other mechanics to recover ([System Strain](#system-strain), [Effort committed for the day](#committing-effort), recovering [Spells](/spells#casting-prepared-spells)), the Character must experience **Comfortable Sleep**.
 
-<strong id="comfortable-sleep">Comfortable Sleep</strong> needs to be:
+<strong id="comfortable-sleep">Comfortable Sleep</strong> must be:
 
 - Totally uninterrupted
 - In a safe place
 - Comfortable
 
-The intention here is that Characters *cannot* get Comfortable Sleep (and thus recover resources) while on an adventure. They must return to a settlement where they can sleep comfortably in peace. While the adventurers are away, the dungeon has time to respond and repopulate.
+This means Characters *cannot* achieve Comfortable Sleep (and thus recover resources) while on an adventure. They need to return to a settlement where they can rest in comfort and peace. During this time, the dungeon may repopulate or change in response to their absence.
 
-Some (mega) dungeons are so large that they have (especially as a reward for exploration or befriending a faction) places to achieve Comfortable Sleep.
+Some (mega) dungeons offer places for Comfortable Sleep, often as a reward for exploration or forming alliances with factions.
 
 ## Poisons and Diseases
 
-Most toxins force a victim to make a [Physical](#physical) saving throw to resist their effects or mitigate their harm. Weak perils might grant as much as a +4 to the saving throw, while dire threats might apply a -4 penalty.
+Most toxins force a victim to make a [Physical](#physical) saving throw to resist their effects or reduce their impact. Weak poisons may grant up to a +4 bonus to the saving throw, while severe dangers might impose a -4 penalty.
 
-If the save is failed, the poison or disease takes hold. Most poisons act quickly, inflicting damage, adding [System Strain](#system-strain) to the target, or applying long-lasting penalties. Diseases have a slower onset but often apply the same sort of harms.
+If the save fails, the poison or disease takes hold. Most poisons act quickly, dealing damage, adding [System Strain](#system-strain), or inflicting long-lasting penalties. Diseases have a slower onset but often cause similar harm.
 
-A medic can treats a poisoned person within a minute of the poisoning with a [healer’s kit](/equipment#healers-kit) to give them a better chance to resist. They add twice their [Heal](#heal) to the victim’s saving throw roll, or +1 if they have only [Heal](#heal)-0.
+A medic can treat a poisoned victim within a minute using a [healer’s kit](/equipment#healers-kit), improving their chances to resist. The medic adds twice their [Heal](#heal) level to the saving throw roll, or +1 if they have [Heal](#heal)-0.
 
-Some poisons, like that of a [pit viper](https://basicfantasy.org/srd/monstersAll.html#snake-pit-viper), are save or die. Once the poison takes hold, the victim has `1d4` [Turns](/rules#turn) to live unless specified otherwise.
+Some poisons, like that of a [pit viper](https://basicfantasy.org/srd/monstersAll.html#snake-pit-viper), are save-or-die. If the poison takes hold, the victim has `1d4` [Turns](/rules#turn) to live unless specified otherwise.
 
-Other poisons can have other effects. A [giant centepede](https://oldschoolessentials.necroticgnome.com/srd/index.php/Centipede,_Giant) causes lethargy. A [Tarentella](https://oldschoolessentials.necroticgnome.com/srd/index.php/Spider,_Tarantella) causes `2d6` turns of painful jerking spasms.
+Other poisons have varied effects. A [giant centipede](https://oldschoolessentials.necroticgnome.com/srd/index.php/Centipede,_Giant) causes lethargy, while a [Tarantella](https://oldschoolessentials.necroticgnome.com/srd/index.php/Spider,_Tarantella) induces `2d6` turns of painful jerking spasms.
 
 ## Chases and Pursuit
 
-Characters have a habit of chasing others and being chased.
+Characters often find themselves chasing others or being chased.
 
-Both sides roll 1d8 + 1/10th of their combat movement speed (so Players would roll 1d8+3 typically); ties go to the fleeing side.
+Both sides roll `1d8` + 1/10th of their combat movement speed (Players typically roll `1d8+3`); ties favor the fleeing side.
 
-If the pursuing group wins, they catch up with the fleeing group, and begin combat. They automatically win initiative, and their melee combatants begin in melee with the rear members of the fleeing group.
+If the pursuing group wins, they catch up with the fleeing group and initiate combat. They automatically win initiative, and their melee combatants begin in melee with the rear members of the fleeing group.
 
-If the fleeing group wins, they escape.
+If the fleeing group wins, they successfully escape.
 
 ## Encumbrance
 
-Gear has encumbrance, measured in points and denoted `enc`, as exampled in the table below. The more awkward or bulky the object, the greater the encumbrance. The GM adjudicates ambiguous objects.
+Gear has encumbrance, measured in points and denoted as `enc`, as shown in the table below. The more awkward or bulky the object, the greater its encumbrance. The GM adjudicates ambiguous objects.
 
 | Gear                                    | enc         |
 | --------------------------------------- | ----------- |
@@ -288,15 +283,15 @@ Gear has encumbrance, measured in points and denoted `enc`, as exampled in the t
 
 Gear is either Stowed or Readied.
 
-<strong id="stowed">Stowed</strong> gear is packed away carefully in pockets, packs, and harnesses. It’s easier to carry but harder to quickly access. Using Stowed gear requires that the bearer take a [Main Action](/combat#main-action) to pull it out before using it. A character can carry a total number of Stowed encumbrance points equal to their Strength score.
+<strong id="stowed">Stowed</strong> gear is packed away carefully in pockets, packs, and harnesses. It’s easier to carry but harder to quickly access. Using Stowed gear requires a [Main Action](/combat#main-action) to pull it out before using it. A character can carry a total number of Stowed encumbrance points equal to their Strength score.
 
 <strong id="readied">Readied</strong> gear is carried in hands, holsters, quick-access pockets, or other easily-accessible places. It can be used as part of an action without any further preparation. A character can carry a number of Readied encumbrance points equal to half their Strength, rounded down.
 
 ### Bulk Weights
 
-Sometimes the Characters need to transport bulk amounts of goods that are measured in pounds. When it’s necessary to convert these weights into encumbrance points, assume that 50lbs is 10 enc.
+Sometimes Characters need to transport bulk amounts of goods measured in pounds. When it’s necessary to convert these weights into encumbrance points, assume that 50 lbs equals 10 enc.
 
-Every 100 coins counts as 1 enc.
+Every 100 coins count as 1 enc.
 
 ### Pack Animals and Porters
 
@@ -310,25 +305,26 @@ To haul more equipment and loot than the Characters can carry, they need pack an
 | Cart (pulled by 2 beasts) | 25g    | 300 |
 
 ## Falling and Other Hazards
-Some perils occur with some regularity for adventurers. A few of the most common are detailed here.
 
-**Falling**: Most creatures will take `1d6` [damage](#damage) per 10ft they fall, up to `20d6` maximum. Spikes or other hazardous terrain at the bottom will add at least `1d6` to the total. A creature that intentionally leaps or skids down in a controlled way makes a DEX or STR/[Exert](#exert) [skill check](#skill-checks) at a difficulty of 7 + 1 for every 10ft; on a success, the effective distance fallen is halved.
+Some perils occur regularly for adventurers. A few common ones are detailed below.
 
-**Suffocation**: Creatures fight or act normally without air for one [Round](#round) per point of Constitution, or 10 [Rounds](/rules#round) for most NPCs. If they don’t move, they quadruple this time. Once they run out of air, they must make a [Physical](#physical) save each [Round](/rules#round) or take 1 HP per HD or level they have.
+**Falling**: Most creatures take `1d6` [damage](#damage) per 10 feet fallen, up to a maximum of `20d6`. Spikes or other hazardous terrain at the bottom add at least `1d6` to the total. A creature intentionally leaping or sliding down in a controlled way may attempt a DEX or STR/[Exert](#exert) [skill check](#skill-checks) with a difficulty of 7 + 1 for every 10 feet; on success, the effective distance fallen is halved.
 
-**Starvation**: Each day of insufficient food (1 Ration) causes 1 [System Strain](#system-strain). If you already have maximum system strain, you die.
+**Suffocation**: Creatures can fight or act without air for one [Round](#round) per point of Constitution, or 10 [Rounds](/rules#round) for most NPCs. If they remain still, this time quadruples. Once they run out of air, they must make a [Physical](#physical) save each [Round](/rules#round) or take 1 HP per HD or level.
 
-**Dehydration**: Each day of insufficient water (a waterskin's worth) causes 3 [System Strain](#system-strain). If you already have maximum system strain, you die.
+**Starvation**: Each day without sufficient food (1 Ration) causes 1 [System Strain](#system-strain). If you already have maximum system strain, you die.
 
-<strong id="lack-of-sleep">Lack of Sleep</strong>: Each day of insufficient sleep (8 hours every 24 hours) causes 2 [System Strain](#system-strain).
+**Dehydration**: Each day without enough water (a waterskin's worth) causes 3 [System Strain](#system-strain). If you already have maximum system strain, you die.
 
-Starvation and Dehydration are ignored so long as the Characters aren't trying to sleep in a dungeon or stay longer than [they paid for](#overland-travel).
+<strong id="lack-of-sleep">Lack of Sleep</strong>: Each day without sufficient sleep (8 hours every 24 hours) causes 2 [System Strain](#system-strain).
+
+Starvation and Dehydration are ignored as long as the Characters aren’t trying to sleep in a dungeon or staying longer than [they paid for](#overland-travel).
 
 ## Overland Travel
 
-Unless there is an *extremely* compelling reason to play it out, montage through the geography traveled and arrive at the destination. For time-tracking purposes, Characters are able to travel ~18 miles/day.
+Unless there is an *extremely* compelling reason to play it out, montage through the journey and arrive at the destination. For time-tracking purposes, Characters can travel about 18 miles per day.
 
-We abstract the cost of hiring mercenaries, donkeys, buying rations, etc with this chart from [Illusory Sensorium](https://illusorysensorium.com/tyranny-of-wagons/). The further you travel, the more food you need, which is heavy, so you need donkeys. The donkeys *also* have to eat, and be protected, which requires more donkeys to serve as a baggage train, all of which need guards that also have to eat, and so on. Hence, we have exponential costs:
+The cost of hiring mercenaries, donkeys, purchasing rations, and other travel-related expenses is abstracted using the chart below, based on [Illusory Sensorium](https://illusorysensorium.com/tyranny-of-wagons/). The further the party travels, the more food is required, which adds weight, requiring donkeys. These donkeys also need food and protection, which in turn leads to more donkeys and guards, creating exponential costs:
 
 | Weeks | Cost per Character | Weeks | Cost per Character |
 | ----- | ------------------ | ----- | ------------------ |
@@ -340,20 +336,20 @@ We abstract the cost of hiring mercenaries, donkeys, buying rations, etc with th
 
 ## Dungeon Exploration
 
-These rules are meant for tracking adventures in a dangerous site where perils could spring up at any moment. Not all [Wandering Encounters](#wandering-encounters) are hostile (see [Reaction Rolls](#reaction-rolls)), but each is a risk of pointless fighting or sudden alarm.
+These rules track adventures in dangerous locations where perils may arise at any moment. Not all [Wandering Encounters](#wandering-encounters) are hostile (see [Reaction Rolls](#reaction-rolls)), but each encounter poses the risk of needless combat or sudden alarm.
 
 At the start of each [Turn](#turn) after the party enters the site:
 
-1. Roll a secret [Wandering Encounter](#wandering-encounters) check with frequency depending on the adventure or site. On a 1, the encounter will happen at some appropriate moment this [Turn](/rules#turn). Most adventures give a frequency (like every other [Turn](#turn)).
-2. The Players decide what they want to do this [Turn](/rules#turn): move into a new room, carefully search their current location, fiddle with some object they’ve found, or something else that takes ~ten minutes.
-3. The GM explains the result of their actions, whether that’s a first-glance description of a new room, notice of the hideous abomination that’s rearing up before them, or the explosive detonation of the crystal they just experimentally prodded.
-4. Start over from the top, assuming their actions have consumed a [Turn](/rules#turn), until they withdraw from the site or it becomes safe enough to stop counting [Turns](/rules#turn).
+1. Roll a secret [Wandering Encounter](#wandering-encounters) check, with frequency depending on the adventure or site. On a 1, the encounter will occur at some appropriate moment during this [Turn](/rules#turn). Most adventures specify a frequency (e.g., every other [Turn](#turn)).
+2. The Players decide their actions for the [Turn](/rules#turn): moving into a new room, carefully searching their current location, examining an object, or something else that takes about ten minutes.
+3. The GM describes the outcome, whether it’s the initial description of a new room, the appearance of a hideous creature, or the unexpected detonation of a crystal they just prodded.
+4. Repeat the process, assuming their actions have consumed a [Turn](/rules#turn), until they leave the site or the area becomes safe enough to stop counting [Turns](/rules#turn).
 
 ### Timekeeping in the Dungeon
 
-Once the Characters intrude on a ruin, dungeon, or other dangerous site the GM starts tracking time in [Turns](#turn). Each Character can do one significant thing per [Turn](/rules#turn). Different Characters can be doing different things in the same [Turn](/rules#turn). Not every Character *has* to do something.
+Once the Characters enter a ruin, dungeon, or other dangerous site, the GM begins tracking time in [Turns](#turn). Each Character can take one significant action per [Turn](/rules#turn). Different Characters may perform different actions in the same [Turn](/rules#turn), and not every Character *has* to act.
 
-The point of tracking [Turns](/rules#turn) is to have a rough measure of activity. The more the Characters do and the longer they stay, the more likely that they’ll run into [Wandering Encounters](#wandering-encounters) or the denizens will have time to realize that intruders are present. Eventually, the Characters need to either pull back or clear the site entirely of its dangerous inhabitants.
+Tracking [Turns](/rules#turn) provides a rough measure of activity. The longer the Characters remain and the more they do, the higher the chances of encountering [Wandering Encounters](#wandering-encounters) or alerting the denizens of their presence. Eventually, the Characters must decide to retreat or clear the site of its dangers entirely.
 
 | Activity                                       | Turns |
 |------------------------------------------------|-------|
@@ -367,49 +363,49 @@ The point of tracking [Turns](/rules#turn) is to have a rough measure of activit
 
 ### Hidden Things
 
-When a Player suspects that there might be something hidden in a place, they specify how they would search for it, and this is resolved with the [Core Gameplay Loop](#core-gameplay-loop). For example, if they suspect that there are riches hidden under the mattress of a bed, they say that they're lifting the bed up to check.
+When a Player suspects something might be hidden in a location, they describe how they search for it, and this follows the [Core Gameplay Loop](#core-gameplay-loop). For instance, if they think riches are stashed under a mattress, they might say they’re lifting it up to check.
 
-Some hidden things are awkward to find this way. The old school staples of hidden doors made to look like seamless walls and traps hidden inside of locks are prime examples. In these cases, each Character within 10ft of the hidden thing gets a *secret* (the GM rolls for them) WIS/[Notice](#notice) check. A Player may request to actively search a 10x10ft area with additional secret WIS/[Notice](#notice) checks with a +2 bonus, each taking 1 [Turn](#turn).
+Some hidden objects are harder to detect through simple actions. Classic examples include secret doors disguised as seamless walls or traps hidden in locks. In such cases, each Character within 10 feet of the hidden item gets a *secret* WIS/[Notice](#notice) check (rolled by the GM). A Player may choose to actively search a 10x10ft area, triggering additional secret WIS/[Notice](#notice) checks with a +2 bonus, each search taking 1 [Turn](#turn).
 
 ### Doors
 
-Out of all the obstacles the party will face, doors will be *by far* the most common. Doors mark the beginning of most new areas, and so how to handle doors will come up *over and over*.
+Doors will be *by far* the most common obstacles the party faces. Doors often signal the beginning of new areas, making it important to understand how to handle them, as this scenario will occur *frequently*.
 
-Doors can be **locked**, in which case a character with [Thieves Tools](/equipment#thieves-tools) can try pick it, usually with a DEX/[Sneak](/rules#sneak) [check](#skill-checks). If they fail, they can not try again until they gain a level of experience.
+Doors can be **locked**, in which case a character with [Thieves Tools](/equipment#thieves-tools) can attempt to pick the lock, usually with a DEX/[Sneak](/rules#sneak) [check](#skill-checks). If they fail, they cannot try again until they gain a level of experience.
 
-Locked doors can be **battered down**. 6 turns less STR and [Exert](#exert) for wooden doors, and triple that for metal-reinforced doors. Metal or stone doors can not be battered down with mundane means. Roll an extra [Wandering Encounter](#wandering-encounters) every [Turn](#turn).
+Locked doors can be **battered down**. It takes 6 turns minus STR and [Exert](#exert) bonuses for wooden doors, and three times that for metal-reinforced doors. Metal or stone doors cannot be battered down with mundane means. Roll an extra [Wandering Encounter](#wandering-encounters) check for each [Turn](#turn) spent battering the door.
 
-Doors can be **stuck**, in which case a character can try to force them open in a [Round](#round) with a STR/[Exert](#exert) check. If they fail, it takes `1d3` [Turns](/rules#turn) to open the door.
+Doors can be **stuck**, in which case a character may attempt to force them open within a [Round](#round) using a STR/[Exert](#exert) check. On failure, it takes `1d3` [Turns](/rules#turn) to open the door.
 
-Doors can be **listened at** for a [Round](/rules#round) (but only once per [Turn](/rules#turn)), revealing noises as loud as talking without a roll. The presence of anything quieter with requires a WIS/[Notice](#notice) check.
+Doors can be **listened at** for a [Round](/rules#round) (but only once per [Turn](#turn)), revealing noises as loud as talking without a roll. Detecting quieter sounds requires a WIS/[Notice](#notice) check.
 
-To pass through a door, choose to make either a **hard** or **soft** entry. If not specififed, a soft entry is assumed.
+When passing through a door, choose either a **hard** or **soft** entry. If unspecified, a soft entry is assumed.
 
-In a <strong id="hard-entry">hard</strong> entry, the party arranges around the entrance, bashes it in, and charges the room in a planned pattern of entry. They trigger any traps over the threshold and appear [hostile](#fight) to any inhabitants, but are capable of [surprising](#encounters-and-surprise) anyone who might be watching the door.
+In a <strong id="hard-entry">hard</strong> entry, the party arranges around the entrance, bashes the door in, and charges into the room in a planned pattern. This triggers any traps over the threshold and makes them appear [hostile](#fight) to inhabitants but offers the chance to [surprise](#encounters-and-surprise) anyone watching the door.
 
-In a **soft** entry, the party arranges to defend and hold the door as a choke point, sufficiently far away from traps. One Character quietly opens the door and observes. They have the opportunity to notice traps, do not appear hostile, but are incapable of surprising anyone who might be watching the door.
+In a **soft** entry, the party arranges to defend the door as a choke point, standing far enough away from traps. One Character quietly opens the door and observes. This method provides an opportunity to notice traps and avoids appearing hostile, but they cannot surprise anyone watching the door.
 
 ## Encounters
 
-When the Party encounters a group of NPCs in a dungeon, either from a [Wandering Encounter](#wandering-encounters) or because the room contains NPCs, then:
+When the Party encounters a group of NPCs in a dungeon, either from a [Wandering Encounter](#wandering-encounters) or because the room contains NPCs, the following process occurs:
 
-1. The GM describes what the Characters see/hear/smell,etc.
-2. The Players choose if they want to fight, talk, run, or wait.
-3. The GM rolls for (or chooses) the NPCs [reaction](#reaction-rolls). This frequently results in [parley](#parley) or in [combat](/combat).
+1. The GM describes what the Characters see, hear, smell, etc.
+2. The Players decide whether to fight, talk, run, or wait.
+3. The GM rolls for (or chooses) the NPCs’ [reaction](#reaction-rolls), which often leads to [parley](#parley) or [combat](/combat).
 
 ### Encounters and Surprise
 
-Characters are sufficiently alert when exploring a site to avoid any chance of surprise, barring a set ambush. If they burst in on the denizens suddenly, however, the locals might be too stunned to act for a round.
+Characters stay alert enough while exploring to avoid surprise, except in the case of a set ambush. However, if they suddenly burst into a room, the denizens might be too stunned to act for a round.
 
-If the GM thinks this is possible, use an [opposed](#opposed-skill-checks) roll. Represent bursting into a room as [group](#group-checks) STR/[Exert](#exert) vs WIS/[Notice](#notice) check. Represent sneaking up on a group as group DEX/[Sneak](/rules#sneak) vs WIS/[Notice](#notice).
+If the GM deems this possible, use an [opposed](#opposed-skill-checks) roll. Bursting into a room is represented by a [group](#group-checks) STR/[Exert](#exert) vs. WIS/[Notice](#notice) check. Ambushing a group is represented by a group DEX/[Sneak](/rules#sneak) vs. WIS/[Notice](#notice).
 
 ### Wandering Encounters
 
-Every so many [Turns](/rules#turn), a GM should roll `1d6` to check for a Wandering Encounter. On a 1, the Characters will run into one during the [Turn](/rules#turn). The frequency of the check will depend on how alert and organized the site’s inhabitants are.
+Every so many [Turns](/rules#turn), the GM should roll `1d6` to check for a Wandering Encounter. On a result of 1, the Characters will run into one during that [Turn](/rules#turn). The frequency of this check depends on how alert and organized the site’s inhabitants are.
 
-The actual contents of the encounter are decided when the GM puts together the site. Not all encounters involve running into creatures. Some are mere events or situations that fit the site. In the same vein, not all encounters are necessarily hostile, either. [Reaction rolls](#reaction-rolls) should be made for all groups of creatures.
+The contents of the encounter are decided when the GM prepares the site. Not all encounters involve creatures—some may be events or situations fitting the environment. Similarly, not all encounters are necessarily hostile. [Reaction rolls](#reaction-rolls) should be made for all groups of creatures.
 
-A wandering encounter starts when one side is able to see the other side, based on the map and available light sources. Usually this is symmetric, but differences in vision, light, etc may make one side able to see the other without being seen themselves. In these cases, the side with advantage may be able to achieve [surprise](#encounters-and-surprise).
+A wandering encounter begins when one side sees the other, based on the map and available light sources. Usually, both sides notice each other at the same time, but differences in vision or light may allow one side to see the other without being noticed. In these cases, the side with the advantage may achieve [surprise](#encounters-and-surprise).
 
 #### When to Roll an Encounter Check
 
@@ -424,75 +420,63 @@ A wandering encounter starts when one side is able to see the other side, based 
 
 ### Reaction Rolls
 
-When the party enocunters other creatures, the GM describes what they sense and asks the Players what they do. Broadly, they can:
+When the party encounters other creatures, the GM describes what they sense and asks the Players what they do. Broadly, the options are:
 
-- Start a <strong id="fight">fight</strong>, in which case either [combat](/combat) or the creatures flee.
-- Try to <strong id="talk">talk</strong> (if the other creatures will listen). Getting anything useful requires [leverage](#leverage).
-- <strong id="run-away">Run away</strong>, and the other creatures might give [chase](#chases-and-pursuit).
-- <strong id="wait">Wait</strong> to see what happens.
+- Start a <strong id="fight">fight</strong>, leading to either [combat](/combat) or causing the creatures to flee.
+- Try to <strong id="talk">talk</strong> (if the creatures are willing). Achieving anything useful requires [leverage](#leverage).
+- <strong id="run-away">Run away</strong>, in which case the creatures might give [chase](#chases-and-pursuit).
+- <strong id="wait">Wait</strong> to see how the creatures respond.
 
-If how the other creatures respond is uncertain, the GM rolls their reaction, comparing the result against the Player's action:
+If the creatures' response is uncertain, the GM rolls for their reaction, comparing the result with the Players' actions:
 
 | `2d6` / Action | Fight  | Talk                          | Run    | Wait                          |
-| ------------ | ------ | ----------------------------- | ------ | ----------------------------- |
-| 2            | Combat | Combat                        | Chase  | Fight                         |
-| 3-5          | Combat | Combat if could win, run otw. | Chase  | Combat if could win, run otw. |
-| 6-8          | Combat if could win, run otw. | Parley                        | Ignore | Ignore                        |
-| 9-11         | Run    | Parley                        | Ignore | Ignore                        |
-| 12           | Run    | Parley                        | Ignore | Parley                        |
+| -------------- | ------ | ----------------------------- | ------ | ----------------------------- |
+| 2              | Combat | Combat                        | Chase  | Fight                         |
+| 3-5            | Combat | Combat if could win, run otw. | Chase  | Combat if could win, run otw. |
+| 6-8            | Combat if could win, run otw. | Parley | Ignore | Ignore                        |
+| 9-11           | Run    | Parley                        | Ignore | Ignore                        |
+| 12             | Run    | Parley                        | Ignore | Parley                        |
 
-Results of **Combat** mean just that - head immediately into [combat](/combat).
+- **Combat**: Head immediately into [combat](/combat).
+- **Combat if could win, run otw**: They'll fight if they believe victory is *very* likely (typically with a 3:1 HD advantage or greater). Otherwise, they’ll run.
+- **Parley**: They [parley](#parley) with the Characters. Meaningful parley requires [leverage](#leverage); otherwise, it’s just pleasantries or posturing.
+- **Run**: They flee from the Characters, often seeking reinforcements. The Characters may [give chase](#chases-and-pursuit).
+- **Chase**: They’ll [chase](#chases-and-pursuit) the fleeing Characters.
+- **Ignore**: They continue with what they were doing before encountering the party.
 
-Results of **Combat if could win, run otw** means that they'll fight if they think that victory is *very* likely; typically this means they have a 3:1 HD advantage or greater. Otherwise, they'll Run.
-
-Results of **Parley** mean that they [parley](#parley) with the Characters. Meaningful parley requires [leverage](#leverage), otherwise it's just pleasantries or posturing.
-
-Results of **Run** means that the they run from the Characters (often to group up with allies). The Characters may [give chase](#chases-and-pursuit).
-
-Results of **Chase** means they'll [chase](#chases-and-pursuit) the fleeing Characters.
-
-Results of **Ignore** means they'll continue doing what they were doing before encountering the party.
-
-Denizens of a dungeon immediately turning to combat should be *rare*, reserved for mindless undead, guardian automatons, or creatures protecting their children. More often, they'll go fetch allies to create an overwhelming advantage and force the Characters to retreat.
+Denizens immediately turning to combat should be *rare*, reserved for mindless undead, guardian automatons, or creatures defending their young. More often, they'll retreat to gather allies and create an overwhelming advantage, forcing the Characters to withdraw.
 
 ## Parley
 
-Talk is cheap, especially in a dungeon. Getting anything of value (information, assistance, items) requires <strong id="leverage">Leverage</strong>.
+Talk is cheap, especially in a dungeon. To get anything valuable (information, assistance, items), Characters need <strong id="leverage">Leverage</strong>.
 
-Leverage is (non-exhaustively) anything the Characters...
+Leverage includes (but is not limited to) anything the Characters...
 
-- have that the NPCs want (an exchange).
-- can do, that the NPCs want them to do (a promise).
-- have done, that the NPCs appreciate (gratitude).
-- can do, that the NPCs *don't* want them to do (a threat).
+- **have** that the NPCs want (an exchange).
+- **can do** that the NPCs want them to do (a promise).
+- **have done** that the NPCs appreciate (gratitude).
+- **can do** that the NPCs *don't* want them to do (a threat).
 
-The amount of value a NPC is willing to offer should roughly equal how much leverage the Characters have.
+The value an NPC offers should roughly match how much leverage the Characters possess.
 
-**Beasts** and **monstrosities** want food and territory.
+- **Beasts** and **monstrosities** desire food and territory.
+- **Dragons** seek food, territory, treasure, and domination.
+- **Humanoids** crave territory, treasure, domination, or higher-order concepts like fairness, kindness, loyalty, obedience, and sanctity.
+- **Giants** obsess over their place in the hierarchy of Giants and value anything that advances them in it.
+- **Undead** and **constructs** follow whatever directive originally created them.
+- **Fiends** aim to cause suffering.
+- **Aberrations** possess alien and unintelligible motives.
+- **Fey** have emotional motives, often driven by dream logic or the [seven deadly sins](https://en.wikipedia.org/wiki/Seven_deadly_sins) (gluttony, lust, greed, sorrow, wrath, sloth, pride).
 
-**Dragons** want food, territory, treasure, and domination.
-
-**Humanoids** want territory, treasure, domination, or higher order concepts like fairness, kindness, loyalty, obediency, and sanctity.
-
-**Giants** are obsessed in their place in the hierarchy of Giants, and anything that will help them climb that hierarchy.
-
-**Undead** and **constructs** are compelled by whatever directive created them.
-
-**Fiends** want to cause suffering.
-
-**Aberrations** have intentionally alien, unintelligible motives.
-
-**Fey** have emotional motives, often following dream logic or the [seven deadly sins](https://en.wikipedia.org/wiki/Seven_deadly_sins) (gluttony, lust, greed, sorrow, wrath, sloth, pride).
-
-source: [The Monsters Know What They're Doing](https://www.themonstersknow.com/)
+Source: [The Monsters Know What They're Doing](https://www.themonstersknow.com/)
 
 ## Advancement
 
-Characters accumulate <strong id="experience-points">Experience Points</strong> (XP) by defeating monsters, extracting coins and treasure from dungeons, and making it back to a settlement. The *party* accumulates XP while on an adventure, and then all surviving members get a share of the total XP when they return to town. Characters get a full share and [Henchmen](/equipment#henchmen) get half of a share.
+Characters accumulate <strong id="experience-points">Experience Points</strong> (XP) by defeating monsters, gathering coins and treasure from dungeons, and making it back to a settlement. The *party* collects XP during an adventure, and all surviving members receive a share of the total XP upon returning to town. Each Character gets a full share, while [Henchmen](/equipment#henchmen) receive half of a share.
 
-Coins and Treasure award 1 XP per 1g worth of value, regardless of whether the treasure is sold or the coin is spent. It just has to make it back to town.
+Coins and treasure award 1 XP per 1g worth of value, regardless of whether the treasure is sold or the coin is spent. The treasure simply needs to reach town.
 
-For example, if the party of 4 PCs and 3 [Henchmen](/equipment#henchmen) defeats 300 XP worth of monsters and hauls back 1500g worth of treasure from a dungeon, the party's total XP is 1800. There are `4 + 3/2 = 5.5` shares, so each PC gets `1800 / 5.5 = 327` XP, and each [Henchmen](/equipment#henchmen) gets half that, 164.
+For example, if a party of 4 PCs and 3 [Henchmen](/equipment#henchmen) defeats monsters worth 300 XP and returns with 1500g of treasure, the total XP is 1800. With `4 + 3/2 = 5.5` shares, each PC gets `1800 / 5.5 = 327` XP, and each [Henchmen](/equipment#henchmen) receives half that, or 164 XP.
 
 ### XP for Monsters
 
@@ -516,7 +500,7 @@ For example, if the party of 4 PCs and 3 [Henchmen](/equipment#henchmen) defeats
 
 ### XP Thresholds
 
-Once a character has enough XP to level up **and** is in a settlement, they do.
+Once a character has enough XP to level up **and** is in a settlement, they may level up.
 
 | Level | XP    | Level | XP     |
 | ----- | ----- | ----- | ------ |
@@ -528,15 +512,17 @@ Once a character has enough XP to level up **and** is in a settlement, they do.
 
 ### Advancement Benefits
 
-**More HP.** To determine their new maximum, they roll their <strong id="hp-progression">HP Progression</strong> for each level they now possess, adding their CON to each die. No individual die can be reduced below 1 point, even with a negative CON. If the total roll is greater than their current maximum HP, they take the roll. Otherwise, their maximum HP increases by one.
+### Advancement Benefits
 
-**Better Saves.** Their saving throw scores decrease by one, making it easier to succeed on saving throws by rolling equal or over it. As a first level character has saving throw scores of 15, reaching second level would lower them to 14, modified by their appropriate attributes.
+**More HP.** To determine their new maximum, characters roll their <strong id="hp-progression">HP Progression</strong> for each level they possess, adding their CON to each die. No individual die can be reduced below 1 point, even with a negative CON. If the total roll exceeds their current maximum HP, they take the new total. Otherwise, their maximum HP increases by one.
 
-**Improved Attack Bonus.** Their attack bonus improves according to their level and their chosen [class](/classes).
+**Better Saves.** Their saving throw scores decrease by one, making it easier to succeed on saving throws. For example, a first-level character has saving throw scores of 15, but reaching second level lowers them to 14, modified by their appropriate attributes.
 
-**Gain Advancement Points.** They gain three <strong id="advancement-point">Advancement Points</strong> that they can spend on improving their [Skills](#skills) or [attributes](#Attributes). [Experts](/classes#expert) and [Partial Experts](/classes#partial-expert) gain an extra bonus Advancement Point to spend (via [Quick Learner](/classes#class-ability-quick-learner)), giving them four points each time they advance.
+**Improved Attack Bonus.** Their attack bonus improves according to their level and chosen [class](/classes).
 
-The cost for improving a skill is listed below. Every skill level must be purchased in order; to gain level 1 in a skill they need to pay one point for level 0 and then two points for level 1. They must be the requisite minimum level to increase a skill to certain levels. Less hardened Characters don’t have the focus and real-life experience to higher degrees of mastery.
+**Gain Advancement Points.** Characters gain three <strong id="advancement-point">Advancement Points</strong>, which can be spent on improving [Skills](#skills) or [attributes](#Attributes). [Experts](/classes#expert) and [Partial Experts](/classes#partial-expert) gain an additional Advancement Point (via [Quick Learner](/classes#class-ability-quick-learner)), giving them four points per advancement.
+
+The cost for improving a skill is listed below. Every skill level must be purchased sequentially. For instance, to reach level 1 in a skill, they must first pay one point for level 0, then two points for level 1. Certain skill levels require minimum character levels:
 
 | Skill Level | Point Cost | Min Character Level |
 | ----------- | ---------- | ------------------- |
@@ -546,7 +532,7 @@ The cost for improving a skill is listed below. Every skill level must be purcha
 | 3           | 4          | 6                   |
 | 4           | 5          | 9                   |
 
-They can also spend their Advancement Points to improve their [Attribute](#attributes) scores by 1, recalculating their [Attribute Modifier](#attribute-modifiers) each time.
+Characters may also spend Advancement Points to improve their [Attribute](#attributes) scores by 1, recalculating their [Attribute Modifier](#attribute-modifiers) as needed:
 
 | Advancement | Point Cost | Min Character Level |
 | ----------- | ---------- | ------------------- |
@@ -556,50 +542,50 @@ They can also spend their Advancement Points to improve their [Attribute](#attri
 | 4th         | 4          | 6                   |
 | 5th         | 5          | 9                   |
 
-**Gain a new Feat**. At levels 2, 5, 7, and 10 they can add a level to an existing [Feat](/feats) or pick up the first level in a new [Feat](/feats).
+**Gain a new Feat.** At levels 2, 5, 7, and 10, characters may add a level to an existing [Feat](/feats) or choose the first level of a new [Feat](/feats).
 
-If this is the first level they’ve taken in the [Feat](/feats), they might be granted a <strong id="bonus-skill">Bonus Skill</strong>. During character creation, this is treated like any other skill [Improvement](/character-creation#improvement). Taken as part of advancement, however, it counts as three Advancement Points spent toward increasing the skill.
+If this is their first level in the [Feat](/feats), they may receive a <strong id="bonus-skill">Bonus Skill</strong>. During character creation, this functions like a standard skill [Improvement](/character-creation#improvement). However, when acquired through advancement, it counts as three Advancement Points spent toward a skill.
 
-This is enough to raise a level -1 skill to level 1, or boost a level 1 skill to level 2. They may do this even if they do not meet the minimum character level requirements.
+This bonus can increase a level -1 skill to level 1, or raise a level 1 skill to level 2, even if they do not meet the minimum level requirement.
 
-If the Advancement Points aren’t enough to raise the skill to a new level, they remain as credit toward future advances. If applied to a skill that is already at level 4, they can spend the Advancement Points on any other skill of their choice.
+If the Advancement Points aren't enough to raise the skill, they remain as credit for future advances. If applied to a skill already at level 4, the points can be spent on any other skill.
 
-**More Spells and Arts**. Mages learn new arts, can cast and prepare more spells, and automatically learn new spells as they advance, based on their [Arcane Tradition](/arcane-traditions).
+**More Spells and Arts.** Mages gain new arts, increase their ability to cast and prepare spells, and automatically learn new spells as they advance, based on their [Arcane Tradition](/arcane-traditions).
 
 ## Alignment
 
-Alignment interacts with various magic items. Creatures in [bestaries](https://oldschoolessentials.necroticgnome.com/srd/index.php/Goblin) will often have an alignment, which is useful for interpretting their moral theory. Characters don't *choose* an alignment, they *live* it. If a magic item only works for Lawful characters, then they need to act Lawfully or it does not work for them (GM discretion).
+Alignment interacts with various magic items. Creatures in [bestiaries](https://oldschoolessentials.necroticgnome.com/srd/index.php/Goblin) often have an alignment, which helps interpret their moral outlook. Characters don’t *choose* an alignment; they *live* it. If a magic item functions only for Lawful characters, then the character must act Lawfully for it to work (subject to GM discretion).
 
 ### Law vs Chaos
 
-**Lawful**: [Lawfulness](https://en.wikipedia.org/wiki/Deontology) emphasizes the importance of adhering to moral rules or duties, regardless of the consequences. It holds that certain actions are inherently right or wrong based on the nature of the action itself, rather than the outcomes it produces. Lawful folks believe that moral rules, such as honesty, promise-keeping, and respect for autonomy, should be followed as a matter of principle, even if doing so may lead to undesirable results in specific situations.
+**Lawful**: [Lawfulness](https://en.wikipedia.org/wiki/Deontology) emphasizes adherence to moral rules or duties, regardless of the consequences. Lawful individuals believe that certain actions are inherently right or wrong based on the nature of the action itself, not its outcomes. They prioritize principles like honesty, promise-keeping, and respect for autonomy, even if following these rules leads to undesirable results in specific situations.
 
-**Neutral**: [Neutrality](https://en.wikipedia.org/wiki/Virtue_ethics) emphasizes the cultivation of virtuous character traits, such as wisdom, courage, justice, and temperance. Neutral folks believe in developing good character and making decisions based on what a virtuous person would do in a given situation. The goal is to become a morally exemplary individual who consistently acts in accordance with these virtues, leading to a fulfilling life and contributing to the well-being of society as a whole.
+**Neutral**: [Neutrality](https://en.wikipedia.org/wiki/Virtue_ethics) focuses on cultivating virtuous character traits like wisdom, courage, justice, and temperance. Neutral individuals aim to develop good character and make decisions based on what a virtuous person would do. Their goal is to become morally exemplary, consistently acting in line with virtues to lead a fulfilling life and contribute to society's well-being.
 
-**Chaotic**: [Chaotic](https://en.wikipedia.org/wiki/Consequentialism) folks argue that the moral value of an action is determined by its actual outcomes rather than the intentions behind it or adherence to moral rules.
+**Chaotic**: [Chaotic](https://en.wikipedia.org/wiki/Consequentialism) individuals argue that the moral value of an action depends on its actual outcomes rather than the intentions behind it or adherence to moral rules.
 
 ### Good vs Evil
 
-**Good**: [Good](https://en.wikipedia.org/wiki/Altruism) folks believe in acting selflessly to benefit others without expecting anything in return, often at cost to oneself.
+**Good**: [Good](https://en.wikipedia.org/wiki/Altruism) individuals believe in acting selflessly to benefit others without expecting anything in return, often at personal cost.
 
-**Neutral**: [Neutral](https://en.wikipedia.org/wiki/Ethical_egoism) folks belive that an action is morally right if it maximizes one's self-interest. According to neutral folks, the only moral obligation an individual has is to promote their own well-being, and they should only consider the interests of others insofar as doing so ultimately benefits themselves.
+**Neutral**: [Neutral](https://en.wikipedia.org/wiki/Ethical_egoism) individuals believe an action is morally right if it maximizes their self-interest. According to this view, the only moral obligation is to promote one’s own well-being, considering the interests of others only when it benefits oneself.
 
-**Evil**: Evil folks actively seek to harm and exploit others for their own gain or pleasure. They lack empathy, disregard the rights and well-being of others, and may even derive satisfaction from causing suffering.
+**Evil**: Evil individuals actively seek to harm and exploit others for personal gain or pleasure. They lack empathy, disregard others' rights and well-being, and may even derive satisfaction from causing suffering.
 
 ## Summary
 
-That's it for the core rules! By now, the reader should have a handle on goal of the game (get XP), an understanding of the game's structure (the [Core Gameplay Loop](#core-gameplay-loop)), and should *know where to look* to resolve commonly occuring situations.
+That's it for the core rules! By now, the reader should have a clear understanding of the game's goal (get XP), the structure (the [Core Gameplay Loop](#core-gameplay-loop)), and should *know where to look* to resolve commonly occurring situations.
 
 Key takeaways:
 
-- Players should engage with the GM's description of the situation, think [laterally](https://en.wikipedia.org/wiki/Lateral_thinking), and come up with plans to defeat monsters and recover treasure (often involving their [equipment](/equipment) and environment) with good that have good cost:benefit ratios.
+- Players should engage with the GM's description of the situation, think [laterally](https://en.wikipedia.org/wiki/Lateral_thinking), and devise plans to defeat monsters and recover treasure, often using their [equipment](/equipment) and environment. These plans should have a favorable cost-to-benefit ratio.
 - The main scarce resources are:
-  - [Encumbrance](#encumbrance). You can only carry so much.
-  - Time. Every [Turn](#turn) is another chance at a risky wandering encounter.
-  - Spells. They only replenish back in town with [Comfortable Sleep](#comfortable-sleep).
-  - [System Strain](#system-strain). It only replenishes back in town with [Comfortable Sleep](#comfortable-sleep).
-- Fighting drains resources and is not the only option.
+  - [Encumbrance](#encumbrance): You can only carry so much.
+  - Time: Every [Turn](#turn) increases the risk of a wandering encounter.
+  - Spells: They only replenish back in town with [Comfortable Sleep](#comfortable-sleep).
+  - [System Strain](#system-strain): It also only replenishes with [Comfortable Sleep](#comfortable-sleep) in town.
+- Combat drains resources and isn't the only option.
 
-Absent from this chapter are the rules for [Combat](/combat) which are complex enough to have its own chapter.
+Note that this chapter doesn't cover [Combat](/combat), which has its own dedicated section due to its complexity.
 
 ![small](/assets/images/game-flowchart.png)
