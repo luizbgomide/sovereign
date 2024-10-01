@@ -67,7 +67,7 @@ Groups cannot be surprised if they are actively anticipating the possibility of 
 
 Each participating side rolls `1d8`, with the player's side adding the highest DEX from among the Party. Starting with the side with the highest roll, each member of that side takes all of their actions in whatever order they'd like. Once every member of a side has acted, the next highest side repeats the process. This repeats until all sides have acted, and then begins from the top in the same order. Initiative is not re-rolled.
 
-The Party wins ties.
+The GM wins ties.
 
 ## Combat Action Types
 
