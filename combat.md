@@ -170,7 +170,12 @@ A character can [Ready](/rules#readied) an item for use from their pack or stowa
 
 ### Reload a Weapon (Main)
 
-Reload a crossbow from a [Readied](/rules#readied) [Quiver](/equipment#quiver). Bows and crossbows may be reloaded as a [Free Action](#free-action) if the shooter has at least [Shoot](/rules#shoot)-1; otherwise it’s a [Move Action](#move-action) to nock a new arrow in a bow. Don't bother tracking ammunition, but don't try stupid plans that assume you have infinite ammo.
+Reload a bow or crossbow from a [Readied](/rules#readied) [Quiver](/equipment#quiver).
+
+- Bows can be reloaded as a [Free Action](#free-action) if the shooter has at least [Shoot](/rules#shoot)-1; otherwise, it requires a [Move Action](#move-action) to nock a new arrow.
+- Crossbows can be reloaded as a [Move Action](#free-action) if the shooter has at least [Shoot](/rules#shoot)-1; otherwise, it requires a [Move Action](#move-action) to load a new bolt.
+
+Ammunition tracking is not required, but don't plan actions assuming you have infinite ammo.
 
 ### Pick up an Item (Move)
 

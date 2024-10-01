@@ -170,6 +170,7 @@ This game endeavors to provide a ruleset that allows players to play through adv
 - Huge editing pass on /rules with ChatGPT trained on [Sam Sorensen's editing tips](https://samsorensen.blot.im/ten-tangible-tips-for-editing-your-rpg-manuscript).
 - Make spears Long
 - GM wins initiative ties
+- Clarify how reloading crossbows works
 
 #### 2024-09-22
 - Nerf to Impervious Defense's initial AC and level scaling.
