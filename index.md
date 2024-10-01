@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-Welcome to Sovereign!
+Welcome to *Sovereign*!
 
 This game endeavors to provide a ruleset that allows players to play through adventures compatible with [1980s D&D](https://en.wikipedia.org/wiki/Dungeons_%26_Dragons_Basic_Set). Little conversion should be necessary. The game hopes to be written more clearly, be more searchable, better hyperlinked, have more depth, and boast a better in-game economy.
 
