@@ -106,7 +106,7 @@ If an injury, character advancement, or magic item changes an attribute, immedia
 
 ## Hit Points
 
-A character’s hit points (HP) measure their distance from death. If a character reaches zero HP, they are [dying](#mortal-injury-and-stabilization). Taking <strong id="damage">damage</strong> reduces a character's HP. For instance, if a character with 11 HP takes 5 damage, they would have 6 HP remaining.
+A character’s hit points (HP) measure their distance from death. If a character reaches zero HP, they are [Mortally Injured](#mortal-injury-and-stabilization). Taking [Damage](/combat#damage) reduces a character's HP. For instance, if a character with 11 HP takes 5 damage, they would have 6 HP remaining.
 
 A new character rolls the [HP Progression](/rules#hp-progression) for their [Class](/classes) to determine their maximum HP, adding their CON. If they have the [Die Hard](/feats#die-hard-c) Feat, they add +2 to the roll. The final value for a given die cannot be less than 1 HP.
 
