@@ -167,7 +167,7 @@ This game endeavors to provide a ruleset that allows players to play through adv
 #### 2024-10-01
 - Include an intro/summary for the combat rules
 - Simplify chases and pursuit
-- Huge editing pass on /rules with ChatGPT trained on [Sam Sorensen's editing tips](https://samsorensen.blot.im/ten-tangible-tips-for-editing-your-rpg-manuscript).
+- Huge editing pass on /rules and /combat with ChatGPT trained on [Sam Sorensen's editing tips](https://samsorensen.blot.im/ten-tangible-tips-for-editing-your-rpg-manuscript).
 - Make spears Long
 - GM wins initiative ties
 - Clarify how reloading crossbows works
