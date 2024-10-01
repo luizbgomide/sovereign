@@ -75,7 +75,7 @@ Some weapons have additional unique traits, such as slow to reload, requiring tw
 | Mace                                       | `1d6`       | 1/AC 18 | STR       | -          | LL         | 5g   | 1   |
 | Oil, Military                              | `2d8`       | 1/AC 18 | DEX       | 20/40      | T          | 2g   | 1   |
 | Shield                                     | `1d4`       | None    | STR/DEX   | -          | LL         | 10g  | 1   |
-| Spear                                      | `1d6`       | 2/AC 13 | STR/DEX   | 30/60      | T          | 3g   | 1   |
+| Spear                                      | `1d6`       | 2/AC 13 | STR/DEX   | 30/60      | L, T       | 3g   | 1   |
 | Throwing Blade                             | `1d4`       | None    | DEX       | 30/60      | S, T, N    | 1g   | 1   |
 | Sling                                      | `1d4`       | None    | DEX       | 50/300     | R          | 1g   | 1   |
 | Staff                                      | `1d6`       | 1/AC 13 | STR/DEX   | -          | 2H, LL     | 1g   | 1   |
