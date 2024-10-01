@@ -5,6 +5,14 @@ title: Home
 
 # Combat
 
+This chapter covers the combat rules of Sovereign. We provide a gridded combat system, and a simple side-based two-action system (one move, one main) to resolve violent conflicts.
+
+The system presents a range of options to create [informed, impactful choices](https://www.bastionland.com/2018/09/the-ici-doctrine-information-choice.html), especially though the [Screen an Ally](#screen-an-ally-move), [Total Defense](/combat#total-defense-instant), and [Make a Snap Attack](/combat#make-a-snap-attack-instant). At the same time, [Shock](#shock) ensures that every attack *does something* and that combats are fast and costly.
+
+## Table Of Contents
+
+{% include chapter-toc.html items=site.data.combat %}
+
 ## The Grid
 
 Combat takes place on a 1" = 5' grid. I recommend making [icons](https://youtu.be/LBZPi4oKlCQ?si=uC8io8mRS8oR57S7) (I use [these WoW class icons](https://dribbble.com/shots/6175355-World-of-Warcraft-Vector-Class-Icons)) for the Party and numbered [meeples](https://www.amazon.com/dp/B07BZ36NYJ) for enemies, choosing a different color for each enemy type.
@@ -47,12 +55,6 @@ Alice has <strong id="half-cover">half cover</strong> from Bob if Bob has line o
 
 Alice has <strong id="full cover">full cover</strong> from Bob if Bob has line of sight, but does not have line of sight to *any* of the corners of Alice's cube. This is usually the case when shooting through windows or [arrow slits](https://en.wikipedia.org/wiki/Arrowslit).
 
-## Combat Sequence
-
-Each participating side rolls `1d8`, with the player's side adding the highest DEX from among the Party. Starting with the side with the highest roll, each member of that side takes all of their actions in whatever order they'd like. Once every member of a side has acted, the next highest side repeats the process. This repeats until all sides have acted, and then begins from the top in the same order. Initiative is not re-rolled.
-
-The Party wins ties.
-
 ## Surprise
 
 If a group is caught entirely unaware they may suffer surprise, granting their enemies a full free round of action before initiative is rolled. Surprise is *almost always* the result of an ambush (though, the GM can rule that the [Core Gameplay Loop](/rules#core-gameplay-loop) results in Surprise) or [Hard Entry](/rules#hard-entry).
@@ -60,6 +62,12 @@ If a group is caught entirely unaware they may suffer surprise, granting their e
 The GM decides when surprise applies, possibly calling for an opposed DEX/[Sneak](/rules#sneak) check (for an ambush) or STR/[Exert](/rules#exert) vs WIS/[Notice](/rules#notice) (for hard entry) .
 
 Groups cannot be surprised if they are actively anticipating the possibility of combat. If the Party is moving carefully through a dungeon, they cannot be ambushed.
+
+## Combat Sequence
+
+Each participating side rolls `1d8`, with the player's side adding the highest DEX from among the Party. Starting with the side with the highest roll, each member of that side takes all of their actions in whatever order they'd like. Once every member of a side has acted, the next highest side repeats the process. This repeats until all sides have acted, and then begins from the top in the same order. Initiative is not re-rolled.
+
+The Party wins ties.
 
 ## Combat Action Types
 
@@ -276,3 +284,18 @@ The only time such beings should fight to the death is if they estimate that doi
 They're gone for now, but they will probably be *back*.
 
 The Party may wish to give [chase](#chases-and-pursuit).
+
+## Summary
+
+That's it for combat! After reading this chapter, the reader should understand the main combat flow:
+
+1. A surprise round if one side set an ambush.
+2. Initiative is rolled *once*. The winners act first, then the sides alternate until combat is complete.
+3. During a side's turn, each combatant for that side can use one [Move](#move-action) (usually to move 30ft), one [Main](#main-action) (usually to attack or cast a spell), and as many [Free Actions](#free-action) as the GM finds plausible.
+4. The battle ends when one side is defeated (they either died or fled).
+
+Tactically minded players may wish to pay special attention to:
+
+- [Make a Snap Attack](/combat#make-a-snap-attack-instant): To disrupt an enemy spellcaster or kill a low-health foe before they can attack you (especially with [Veteran's Luck](/classes#class-ability-veterans-luck) or high [Shock](#shock) damage).
+- [Screen an Ally](#screen-an-ally-move): To protect a high-damage, low-survivability ally, or to serve as a Mage's protector against spell disruption from [Snap Attacks](/combat#make-a-snap-attack-instant).
+- [Total Defense](/combat#total-defense-instant): Is especially useful for the side with more combatants. For example, if 3 Players are fighting a huge Troll, and one of them can trade their main action to negate the Troll's action, then the Troll and that Player effectively do nothing, but the two other players are able to whittle the Troll down. Total Defense is more useful if your side *lost* initiative (because you'd always have your Main action during your opponent's turn), but if you *won* initiative, you can do the same thing with [Hold An Action](/combat#hold-an-action-move).
