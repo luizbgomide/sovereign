@@ -38,7 +38,7 @@ Once per [Turn](/rules#turn), a Expert may reroll any non-combat [skill check](#
 
 ### Class Ability: Quick Learner
 
-When you advance a character level, you gain an extra [Advancement Point](/rules#advancement-point) which may only be spent on gaining or improving non-combat [Skills](/rules#skills) or raising [Attributes](/rules#attributes).
+When you advance a character level, you gain an extra [Advancement Point](/character-creation#advancement-point) which may only be spent on gaining or improving non-combat [Skills](/rules#skills) or raising [Attributes](/rules#attributes).
 
 [Partial Experts](#partial-expert) **do** receive this ability.
 

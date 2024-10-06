@@ -9,7 +9,7 @@ This chapter introduces the core rules of *Sovereign*. It aims to familiarize yo
 
 *Sovereign* is a [Table-Top Role-Playing Game](https://en.wikipedia.org/wiki/Tabletop_role-playing_game), where a group of friends imagines a shared fantasy adventure. One player (the Game Master) prepares the adventure, while the others [create characters](/character-creation) to participate. The Game Master describes situations, and the players describe how their characters react. This interaction creates new situations, and the cycle continues.
 
-The players aim to defeat monsters and recover treasure, gaining Experience Points in the process. *Sovereign* doesn’t have a strict concept of *winning*, but playing skillfully means gathering as many Experience Points as possible while avoiding death. As players earn Experience Points, their characters [grow stronger](#advancement), allowing them to face greater challenges that reward more Experience Points.
+The players aim to defeat monsters and recover treasure, gaining Experience Points in the process. *Sovereign* doesn’t have a strict concept of *winning*, but playing skillfully means gathering as many Experience Points as possible while avoiding death. As players earn Experience Points, their characters [grow stronger](/character-creation#advancement), allowing them to face greater challenges that reward more Experience Points.
 
 The Game Master’s role involves resolving situations **fairly**. The Game Master doesn’t *win* in the traditional sense, but success involves creating [meaningful, informed choices](https://www.bastionland.com/2018/09/the-ici-doctrine-information-choice.html) for players and fairly determining the outcomes.
 
@@ -110,7 +110,7 @@ A character’s hit points (HP) measure their distance from death. If a characte
 
 A new character rolls the [HP Progression](/rules#hp-progression) for their [Class](/classes) to determine their maximum HP, adding their CON. If they have the [Die Hard](/feats#die-hard-c) Feat, they add +2 to the roll. The final value for a given die cannot be less than 1 HP.
 
-Characters gain maximum HP as they advance in level, re-rolling their prior levels' HP and taking the new score if it’s higher, as outlined in [advancement](#advancement-benefits).
+Characters gain maximum HP as they advance in level, re-rolling their prior levels' HP and taking the new score if it’s higher, as outlined in [advancement](/character-creation#advancement-benefits).
 
 NPCs roll a number of d8s for their HP equal to their Hit Dice (HD).
 
@@ -130,7 +130,7 @@ NPCs use a single saving throw target, which equals 15 minus half their rounded-
 
 ## Skills
 
-A PC's skills represent their training. A newly-created PC starts with a few trained skills and [gains more](#advancement-benefits) as they [level up](#advancement).
+A PC's skills represent their training. A newly-created PC starts with a few trained skills and [gains more](/character-creation#advancement-benefits) as they [level up](/character-creation#advancement).
 
 ### Interpreting Skill Levels
 
@@ -469,108 +469,6 @@ The value an NPC offers should roughly match how much leverage the Characters po
 - **Fey** have emotional motives, often driven by dream logic or the [seven deadly sins](https://en.wikipedia.org/wiki/Seven_deadly_sins) (gluttony, lust, greed, sorrow, wrath, sloth, pride).
 
 Source: [The Monsters Know What They're Doing](https://www.themonstersknow.com/)
-
-## Advancement
-
-Characters accumulate <strong id="experience-points">Experience Points</strong> (XP) by defeating monsters, gathering coins and treasure from dungeons, and making it back to a settlement. The *party* collects XP during an adventure, and all surviving members receive a share of the total XP upon returning to town. Each Character gets a full share, while [Henchmen](/equipment#henchmen) receive half of a share.
-
-Coins and treasure award 1 XP per 1g worth of value, regardless of whether the treasure is sold or the coin is spent. The treasure simply needs to reach town.
-
-For example, if a party of 4 PCs and 3 [Henchmen](/equipment#henchmen) defeats monsters worth 300 XP and returns with 1500g of treasure, the total XP is 1800. With `4 + 3/2 = 5.5` shares, each PC gets `1800 / 5.5 = 327` XP, and each [Henchmen](/equipment#henchmen) receives half that, or 164 XP.
-
-### XP for Monsters
-
-| Monster HD  | Base XP     | Bonus XP / Ability |
-| ----------- | ----------- | ------------------ |
-| Less than 1 | 5           | 1                  |
-| 1           | 10          | 3                  |
-| 2           | 20          | 5                  |
-| 3           | 35          | 15                 |
-| 4           | 75          | 50                 |
-| 5           | 175         | 125                |
-| 6           | 275         | 225                |
-| 7           | 450         | 400                |
-| 8           | 650         | 550                |
-| 9–10        | 900         | 700                |
-| 11–12       | 1,100       | 800                |
-| 13–16       | 1,350       | 950                |
-| 17–20       | 2,000       | 1,150              |
-| 21          | 2,500       | 2,000              |
-| 21+N        | 2,500+250•N | 2,000+250•N        |
-
-### XP Thresholds
-
-Once a character has enough XP to level up **and** is in a settlement, they may level up.
-
-| Level | XP    | Level | XP     |
-| ----- | ----- | ----- | ------ |
-| 1     | 0     | 6     | 24000  |
-| 2     | 1500  | 7     | 48000  |
-| 3     | 3000  | 8     | 100000 |
-| 4     | 6000  | 9     | 200000 |
-| 5     | 12000 | 10    | 300000 |
-
-### Advancement Benefits
-
-### Advancement Benefits
-
-**More HP.** To determine their new maximum, characters roll their <strong id="hp-progression">HP Progression</strong> for each level they possess, adding their CON to each die. No individual die can be reduced below 1 point, even with a negative CON. If the total roll exceeds their current maximum HP, they take the new total. Otherwise, their maximum HP increases by one.
-
-**Better Saves.** Their saving throw scores decrease by one, making it easier to succeed on saving throws. For example, a first-level character has saving throw scores of 15, but reaching second level lowers them to 14, modified by their appropriate attributes.
-
-**Improved Attack Bonus.** Their attack bonus improves according to their level and chosen [class](/classes).
-
-**Gain Advancement Points.** Characters gain three <strong id="advancement-point">Advancement Points</strong>, which can be spent on improving [Skills](#skills) or [attributes](#Attributes). [Experts](/classes#expert) and [Partial Experts](/classes#partial-expert) gain an additional Advancement Point (via [Quick Learner](/classes#class-ability-quick-learner)), giving them four points per advancement.
-
-The cost for improving a skill is listed below. Every skill level must be purchased sequentially. For instance, to reach level 1 in a skill, they must first pay one point for level 0, then two points for level 1. Certain skill levels require minimum character levels:
-
-| Skill Level | Point Cost | Min Character Level |
-| ----------- | ---------- | ------------------- |
-| 0           | 1          | 1                   |
-| 1           | 2          | 1                   |
-| 2           | 3          | 3                   |
-| 3           | 4          | 6                   |
-| 4           | 5          | 9                   |
-
-Characters may also spend Advancement Points to improve their [Attribute](#attributes) scores by 1, recalculating their [Attribute Modifier](#attribute-modifiers) as needed:
-
-| Advancement | Point Cost | Min Character Level |
-| ----------- | ---------- | ------------------- |
-| 1st         | 1          | 1                   |
-| 2nd         | 2          | 1                   |
-| 3rd         | 3          | 3                   |
-| 4th         | 4          | 6                   |
-| 5th         | 5          | 9                   |
-
-**Gain a new Feat.** At levels 2, 5, 7, and 10, characters may add a level to an existing [Feat](/feats) or choose the first level of a new [Feat](/feats).
-
-If this is their first level in the [Feat](/feats), they may receive a <strong id="bonus-skill">Bonus Skill</strong>. During character creation, this functions like a standard skill [Improvement](/character-creation#improvement). However, when acquired through advancement, it counts as three Advancement Points spent toward a skill.
-
-This bonus can increase a level -1 skill to level 1, or raise a level 1 skill to level 2, even if they do not meet the minimum level requirement.
-
-If the Advancement Points aren't enough to raise the skill, they remain as credit for future advances. If applied to a skill already at level 4, the points can be spent on any other skill.
-
-**More Spells and Arts.** Mages gain new arts, increase their ability to cast and prepare spells, and automatically learn new spells as they advance, based on their [Arcane Tradition](/arcane-traditions).
-
-## Alignment
-
-Alignment interacts with various magic items. Creatures in [bestiaries](https://oldschoolessentials.necroticgnome.com/srd/index.php/Goblin) often have an alignment, which helps interpret their moral outlook. Characters don’t *choose* an alignment; they *live* it. If a magic item functions only for Lawful characters, then the character must act Lawfully for it to work (subject to GM discretion).
-
-### Law vs Chaos
-
-**Lawful**: [Lawfulness](https://en.wikipedia.org/wiki/Deontology) emphasizes adherence to moral rules or duties, regardless of the consequences. Lawful individuals believe that certain actions are inherently right or wrong based on the nature of the action itself, not its outcomes. They prioritize principles like honesty, promise-keeping, and respect for autonomy, even if following these rules leads to undesirable results in specific situations.
-
-**Neutral**: [Neutrality](https://en.wikipedia.org/wiki/Virtue_ethics) focuses on cultivating virtuous character traits like wisdom, courage, justice, and temperance. Neutral individuals aim to develop good character and make decisions based on what a virtuous person would do. Their goal is to become morally exemplary, consistently acting in line with virtues to lead a fulfilling life and contribute to society's well-being.
-
-**Chaotic**: [Chaotic](https://en.wikipedia.org/wiki/Consequentialism) individuals argue that the moral value of an action depends on its actual outcomes rather than the intentions behind it or adherence to moral rules.
-
-### Good vs Evil
-
-**Good**: [Good](https://en.wikipedia.org/wiki/Altruism) individuals believe in acting selflessly to benefit others without expecting anything in return, often at personal cost.
-
-**Neutral**: [Neutral](https://en.wikipedia.org/wiki/Ethical_egoism) individuals believe an action is morally right if it maximizes their self-interest. According to this view, the only moral obligation is to promote one’s own well-being, considering the interests of others only when it benefits oneself.
-
-**Evil**: Evil individuals actively seek to harm and exploit others for personal gain or pleasure. They lack empathy, disregard others' rights and well-being, and may even derive satisfaction from causing suffering.
 
 ## Summary
 

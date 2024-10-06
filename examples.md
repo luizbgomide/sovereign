@@ -43,7 +43,7 @@ Then I get to make 4 improvements. My Strength and Dexterity are already 14, whi
 
 I decide to be a great healer, handy with a bow, and be knowledgable, so I improve [Heal](/rules#heal) twice (to +1), [Shoot](/rules#shoot) once (to +0), and [Know](/rules#know) once (to +0).
 
-> Looking forward at [Advancement](/rules#advancement-benefits), we get better value out of raising attributes at character creation than advancement. Raising an attribute 4 times would cost 10 points. Raising 4 skills to level 0 costs 4 points. Raising 2 skills to level 1 costs 6 points. That said, raising 4 skills to will create an overall stronger character at first level, so trade-offs. It's also worth looking to see if you can get to a better mod *cheaply*. For instance, if your Strength is 13, it only takes 1 improvement to get a +1 STR.
+> Looking forward at [Advancement](/character-creation#advancement-benefits), we get better value out of raising attributes at character creation than advancement. Raising an attribute 4 times would cost 10 points. Raising 4 skills to level 0 costs 4 points. Raising 2 skills to level 1 costs 6 points. That said, raising 4 skills to will create an overall stronger character at first level, so trade-offs. It's also worth looking to see if you can get to a better mod *cheaply*. For instance, if your Strength is 13, it only takes 1 improvement to get a +1 STR.
 
 ![small](/assets/images/sheet-3.png)
 

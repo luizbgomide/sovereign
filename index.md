@@ -164,6 +164,9 @@ This game endeavors to provide a ruleset that allows players to play through adv
 
 ### Change Log
 
+#### 2024-10-06
+- Move advancement and alignment to character creation
+
 #### 2024-10-01
 - Include an intro/summary for the combat rules
 - Simplify chases and pursuit
