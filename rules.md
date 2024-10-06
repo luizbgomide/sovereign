@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-## Rules
+# Rules
 
 This chapter introduces the core rules of *Sovereign*. It aims to familiarize you with key terms, the game’s goal, main procedures, and structure for common situations.
 
@@ -469,6 +469,20 @@ The value an NPC offers should roughly match how much leverage the Characters po
 - **Fey** have emotional motives, often driven by dream logic or the [seven deadly sins](https://en.wikipedia.org/wiki/Seven_deadly_sins) (gluttony, lust, greed, sorrow, wrath, sloth, pride).
 
 Source: [The Monsters Know What They're Doing](https://www.themonstersknow.com/)
+
+## Swimming
+
+All Characters can swim. Under normal conditions, a Character can swim 15 feet per [Round](#round) for a number of hours equal to 1/4th of their Constitution (rounded down). Characters wearing Chain or Plate armor will sink. Characters can hold their breath for 3 [Rounds](#round), after which they must pass a Con/[Exert](#exert) check each round or suffer 1 [System Strain](#system-strain).
+
+Fighting underwater poses additional challenges:
+
+- Only thrusting melee weapons (like daggers, polearms, spears, and swords) deal full damage. Bludgeoning and slashing weapons deal half damage.
+- All melee weapons attack with a -4 penalty.
+- Bows don't work at all; crossbows have half their normal range.
+- Fire-based spells have no effect underwater.
+- Verbal spellcasting is impossible unless a spell (like [One With Water](/spells#one-with-water)) or another magical effect allows verbal communication.
+- Sound, and sound-based magic, travels twice as far.
+- Magical light has its range halved.
 
 ## Summary
 
