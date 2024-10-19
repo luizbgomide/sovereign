@@ -164,6 +164,10 @@ This game endeavors to provide a ruleset that allows players to play through adv
 
 ### Change Log
 
+#### 2024-10-19
+- Add a player-facing section on traps
+- Explain how to convert monsters from other OSR systems to Sovereign
+
 #### 2024-10-06
 - Move advancement and alignment to character creation
 - Add swimming rules

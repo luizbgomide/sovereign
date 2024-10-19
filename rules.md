@@ -367,6 +367,12 @@ When a Player suspects something might be hidden in a location, they describe ho
 
 Some hidden objects are harder to detect through simple actions. Classic examples include secret doors disguised as seamless walls or traps hidden in locks. In such cases, each Character within 10 feet of the hidden item gets a *secret* WIS/[Notice](#notice) check (rolled by the GM). A Player may choose to actively search a 10x10ft area, triggering additional secret WIS/[Notice](#notice) checks with a +2 bonus, each search taking 1 [Turn](#turn).
 
+### Traps
+
+Traps are often [Hidden](#hidden-things), though many have some sort of tell or clue to hint as its presence. Other traps are totally obvious, and figuring out how to disarm or bypass them is a puzzle.
+
+All traps have some sort of trigger (what sets off the trap), and some sort of effect (like taking damage). By default, traps are unreliable - an action that satisfies its trigger only *does* 2/6th of the time, rolled for each triggering action. For example, a party of five PCs walking through a cooridor with an unseen tripwire rolls 2-in-6 five times (one for each PC).
+
 ### Doors
 
 Doors will be *by far* the most common obstacles the party faces. Doors often signal the beginning of new areas, making it important to understand how to handle them, as this scenario will occur *frequently*.
