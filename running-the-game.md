@@ -249,8 +249,28 @@ Finally, **differentiate** mundane keys. If you tell the Players that they found
 
 This is circumvented by making each key unique. "Small brass key", "Big iron key", "twisted key" etc. Make sure you update both room you find the key in and the room the key unlocks. "Unlocked by the key from area 9" becomes "Unlocked by the twisted key (9)".
 
+#### Monsters
 
-#### Inline Monster Stats
+Most [Adventures](/#recommended-adventures) use the following monster statistics:
+
+- **Hit Dice (HD)**: The number of `d8`s to roll to determine a monster's HP. Sometimes the hit dice will be listed like `6+3*` (the [Troll](https://oldschoolessentials.necroticgnome.com/srd/index.php/Troll) from OSE does this). This means that we add (or subtract) the given amount of HP at the end. If there are asterisks at the end, that's shorthand for the number of special abilities the monster has, to [determine XP](/character-creation#xp-for-monsters). Any amount of bonus HP gives +1 to attack rolls and counts as a special ability for calculating XP.
+- **Armor Class (AC)**: Some games use descending AC (lower is better), some games use ascending AC (higher is better), some games (like OSE) provide both, denoting the ascending AC in \[brackets\], like `AC: 4 [15]`. Convert descending AC to Sovereign by subtracting from 20, so AC 6 converts to AC 14. Ascending AC can be used as-is.
+- **Attacks (ATT)**: The number of attacks the creature makes in a round. Some games include damage information in this line, others split it up. For instance, OSE writes "2 × talon (1d6), 1 × bite (1d10)". This means "Two talon attacks that each do 1d6 damage, then a bite for 1d10 damage". Osric writes "Attacks: 2. Damage: 1d6/1d10". This means the creature makes two attacks, the first for 1d6 damage and the second for 1d10. Finally, some creatures have options for attacks, like the [White Ape](https://oldschoolessentials.necroticgnome.com/srd/index.php/Ape,_White). "	2 × claw (1d4) or 1 × thrown rock (1d6)" means it can either make two claw attacks for 1d4 damage *or* it can throw a rock for 1d6 damage, but not both.
+- **Damage**: Predators have the warrior's [Killing Blow](/classes#class-ability-killing-blow) ability - increase the listed damage by half of it's HD rounded up.
+- **THAC0**: An abbreviation for "To Hit Armor Class 0". We can subtract this number from 20 to derive the monster's attack bonus. If no THAC0 (or "attack bonus" or "+hit" or similar) is given, use the monster's HD.
+- **Movement (MV)**: Often listed as two numbers with the second number in parenthesis as 1/3rd of the first number, like "120ft (40ft)". This refers to the monsters exploration speed, and then their combat speed in parenthesis. If a single number is given, it almost always refers to to the exploration speed, so to use it in Sovereign, divide by 3. If the number is given in inches, multiply by 10 and then divide by 3. For example, 12" converts to 40ft.
+- **Weapons**: If a monster's damage lists "by weapon", give them a [Weapon](/equipment#weapons), and then use the weapon's base damage. Try to give each creature a ranged weapon (at least a sling or a bag of rocks), and then a mix of swords, axes, maces and spears. Either roll randomly or use verisimiltude - if the main foe of kobolds is unarmored troggs (15 AC), the kobolds don't need the armor penetrating properties of maces, and would favor short swords (since they would do shock damage).
+- **Saving Throws (SV)**: Discard these. Monsters have a flat saving throw of 15 minus half of thir HD, rounded down. For example, a 5 HD Bear has a saving throw of 13+.
+- **Magic Resistance (MR)**: An additional layer of magic defense, applied *before* (and in addition to) saving throws. AD&D 1e expresses this as the percentage that the monster would resist a spell cast by an **11th level** magic user. For each level *below* 11, increase the probabilty by 5%. For example, a Spectral Troll with 30% MR has a 60% chance to resist a spell cast by a 5th level high mage: `(30 + (11 - 5)*5) = 60`. If the monster success their magic resistance roll, the spell does not effect them. It's not the way I would have done it, but it's what we have!
+- **Morale (ML)**: Discard morale; the GM chooses when monsters flee according to the principles in [Morale](/combat#morale).
+- **Alignment**: Discard this; the GM chooses how monsters behave according to the principles in [Factions](#factions).
+- **XP**: Discard this, using the XP values from [XP For Monsters](/character-creation#xp-for-monsters).
+
+Special abilities should all translate normally, using discretion where required. For instance, a [Troll](https://oldschoolessentials.necroticgnome.com/srd/index.php/Troll) has "Fear of Fire: Morale 8 when attacked with fire or acid". I'd have a Troll flee when reduced to 2/3rds or more HP by fire or acid, but never otherwise (since they can regenerate, and so do not fear mundane death).
+
+In general, [the monsters know what they're doing](https://www.themonstersknow.com/). Use their stat blocks to the best of their abilities and fight dirty; the better you demonstrate system mastery, the more tricks your players can learn from you and the more interesting the fights will be.
+
+##### Inline Monster Stats
 
 Do not trust in-line monster stats. Adventures, for some forsaken reason, assume you're familiar with the bestiary and don't bother to include important stats (like movement speed) or special abilties. For instance, check out this description of a Troll from [Tower Silveraxe](https://www.drivethrurpg.com/en/product/358825)
 
@@ -272,6 +292,12 @@ Compare this to the [stat block from OSE](https://oldschoolessentials.necroticgn
 The Silveraxe statline leaves out the bit about acid, and their **entire regeneration ability**. My experience is that this happens *over and over*.
 
 Throw out the inline stats and look up the monster from [Osric](https://osricwiki.presgas.name/doku.php?id=osric:chapter5). Here's an [index](/monsters). Osric monsters tend to be a little more powerful than OSE monsters and Sovereign characters are more powerful than OSE characters of the same level.
+
+##### Example
+
+![small](/assets/images/bugbear.png)
+
+Each bugbear has 3d8+1 HP, and can use weapons (so they should be equipped with short bows and swords/spears/maces/axes). They'll roll +4 to hit for weapon damage plus 2 (from half their HD rounded up), so a Bugbear equipped with a shortsword does 1d6+2 damage, or 4 shock damage to up to AC 15 on a miss. The [infravision](https://www.youtube.com/watch?v=OW1gGDbO_1U) translates directly (able to see heat differentials). I'd translate their surprise ability as a penchant for [setting ambushes](/combat#surprise). Each Bugbear is worth 50 XP.
 
 #### Double-Check The Map
 
