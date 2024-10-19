@@ -55,6 +55,8 @@ Alice has <strong id="half-cover">half cover</strong> from Bob if Bob has line o
 
 Alice has <strong id="full cover">full cover</strong> from Bob if Bob has line of sight but cannot see *each* corner of Alice's cube. This typically occurs when shooting through windows or [arrow slits](https://en.wikipedia.org/wiki/Arrowslit).
 
+In practical terms, having the high ground (your feet are above their eyes) always gives at least partial cover. Playing next to walls grants cover. Attempt to claim these positions, and force your opponents into open space or below you.
+
 ## Surprise
 
 If a group is caught completely unaware, they may suffer surprise, granting their enemies a full free round of action before initiative is rolled. Surprise is *almost always* the result of an ambush (though the GM may rule that the [Core Gameplay Loop](/rules#core-gameplay-loop) results in surprise) or [Hard Entry](/rules#hard-entry).
