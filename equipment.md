@@ -140,7 +140,7 @@ This list is **not** exhaustive.
 | Lamp Oil (1 pint)               | 3s   | 1   |
 | Lantern                         | 10g  | 1   |
 | Lock                            | 20g  | 1   |
-| Magnet                          | 1s   | -   |
+| Lodestone                       | 10g  | 1   |
 | Manacles                        | 2g   | 1   |
 | Mirror (hand-sized, steel)      | 5g   | 1   |
 | Oil, Military (1 pint)          | 2g   | 1   |
@@ -171,7 +171,7 @@ Adventuring equipment tends to be useful [within the fiction](https://www.merria
 - Marbles clog up traps, make enemies slip, make loud thunks, and roll on slopes.
 - Acid for throwing or pouring into locks.
 - Fishing rod (fishhook + string + pole) for fishing (hah) or trying to fetch things out of reach.
-- Magnets for grabbing distant keys, especially tied to fishing rods.
+- Lodestones for grabbing distant keys, especially tied to fishing rods.
 - Pickaxes, hammers, axes, crowbars, shovels, etc for dismanting.
 - Glass vials for storing strange liquids or bugs.
 - Mirrors for peering around corners.

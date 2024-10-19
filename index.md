@@ -168,6 +168,9 @@ This game endeavors to provide a ruleset that allows players to play through adv
 - Add a player-facing section on traps
 - Explain how to convert monsters from other OSR systems to Sovereign
 - Distill the cover rules into practical guidance
+- Change magnet to lodestone and increase the price from 1s to 10g and the weigh to 1 enc
+
+All of the above changes are the result of lovely feedback from u/TheIncandenza
 
 #### 2024-10-06
 - Move advancement and alignment to character creation
