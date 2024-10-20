@@ -1,1295 +1,5 @@
 [
   {
-    "name": "Bandit",
-    "hd": "0 (1d6)",
-    "page": 194,
-    "type": "Men"
-  },
-  {
-    "name": "Brigand",
-    "hd": "0 (1d6)",
-    "page": 194,
-    "type": "Men"
-  },
-  {
-    "name": "Berserker",
-    "hd": "0 (1d6+1)",
-    "page": 194,
-    "type": "Men"
-  },
-  {
-    "name": "Buccaneer",
-    "hd": "0 (1d6)",
-    "page": 194,
-    "type": "Men"
-  },
-  {
-    "name": "Pirate",
-    "hd": "0 (1d6)",
-    "page": 194,
-    "type": "Men"
-  },
-  {
-    "name": "Dervish",
-    "hd": "0 (1d6)",
-    "page": 195,
-    "type": "Men"
-  },
-  {
-    "name": "Nomad",
-    "hd": "0 (1d6)",
-    "page": 195,
-    "type": "Men"
-  },
-  {
-    "name": "Pilgrim",
-    "hd": "0 (1d6)",
-    "page": 196,
-    "type": "Men"
-  },
-  {
-    "name": "Mechant",
-    "hd": "0 (1d6)",
-    "page": 196,
-    "type": "Men"
-  },
-  {
-    "name": "Dwarf",
-    "hd": "1",
-    "page": 197,
-    "type": "Demi-Human"
-  },
-  {
-    "name": "Elf",
-    "hd": "1+1",
-    "page": 197,
-    "type": "Demi-Human"
-  },
-  {
-    "name": "Gnome",
-    "hd": "1",
-    "page": 198,
-    "type": "Demi-Human"
-  },
-  {
-    "name": "Halfling",
-    "hd": "0 (1d6)",
-    "page": 198,
-    "type": "Demi-Human"
-  },
-  {
-    "name": "Batrachian",
-    "hd": "1",
-    "page": 199,
-    "type": "Humanoid"
-  },
-  {
-    "name": "Frog Man",
-    "hd": "1",
-    "page": 199,
-    "type": "Humanoid"
-  },
-  {
-    "name": "Bugbear",
-    "hd": "3+1",
-    "page": 200,
-    "type": "Humanoid"
-  },
-  {
-    "name": "Caveman",
-    "hd": "2",
-    "page": 200,
-    "type": "Humanoid"
-  },
-  {
-    "name": "Tribesman",
-    "hd": "2",
-    "page": 200,
-    "type": "Humanoid"
-  },
-  {
-    "name": "Gnoll",
-    "hd": "2",
-    "page": 201,
-    "type": "Humanoid"
-  },
-  {
-    "name": "Goblin",
-    "hd": "1-1",
-    "page": 201,
-    "type": "Humanoid"
-  },
-  {
-    "name": "Grimlock",
-    "hd": "2",
-    "page": 202,
-    "type": "Humanoid"
-  },
-  {
-    "name": "Hobgoblin",
-    "hd": "1+1",
-    "page": 203,
-    "type": "Humanoid"
-  },
-  {
-    "name": "Kobold",
-    "hd": "0 (1d4)",
-    "page": 203,
-    "type": "Humanoid"
-  },
-  {
-    "name": "Lizard Man",
-    "hd": "2+1",
-    "page": 203,
-    "type": "Humanoid"
-  },
-  {
-    "name": "Orc",
-    "hd": "1",
-    "page": 204,
-    "type": "Humanoid"
-  },
-  {
-    "name": "Troglodyte",
-    "hd": "2",
-    "page": 204,
-    "type": "Humanoid"
-  },
-  {
-    "name": "Cyclops",
-    "hd": "13",
-    "page": 205,
-    "type": "Giant"
-  },
-  {
-    "name": "Cloud Giant",
-    "hd": "12+1d6+1",
-    "page": 205,
-    "type": "Giant"
-  },
-  {
-    "name": "Fire Giant",
-    "hd": "11+1d4+1",
-    "page": 206,
-    "type": "Giant"
-  },
-  {
-    "name": "Frost Giant",
-    "hd": "10+1d4",
-    "page": 206,
-    "type": "Giant"
-  },
-  {
-    "name": "Hill Giant",
-    "hd": "8+1d2",
-    "page": 207,
-    "type": "Giant"
-  },
-  {
-    "name": "Stone Giant",
-    "hd": "9+1d4",
-    "page": 207,
-    "type": "Giant"
-  },
-  {
-    "name": "Storm Giant",
-    "hd": "15+1d6+1",
-    "page": 207,
-    "type": "Giant"
-  },
-  {
-    "name": "Ettin",
-    "hd": "10",
-    "page": 208,
-    "type": "Giant"
-  },
-  {
-    "name": "Ogre",
-    "hd": "4+1",
-    "page": 208,
-    "type": "Giant"
-  },
-  {
-    "name": "Troll",
-    "hd": "6+6",
-    "page": 209,
-    "type": "Giant"
-  },
-  {
-    "name": "Giant Troll",
-    "hd": "8",
-    "page": 209,
-    "type": "Giant"
-  },
-  {
-    "name": "Giant, Two-Headed Troll",
-    "hd": "10",
-    "page": 210,
-    "type": "Giant"
-  },
-  {
-    "name": "Ice Troll",
-    "hd": "2",
-    "page": 210,
-    "type": "Giant"
-  },
-  {
-    "name": "Spectral Troll",
-    "hd": "5+5",
-    "page": 211,
-    "type": "Giant"
-  },
-  {
-    "name": "Black Dragon",
-    "hd": "6 to 8",
-    "page": 211,
-    "type": "Dragon"
-  },
-  {
-    "name": "Blue Dragon",
-    "hd": "8 to 10",
-    "page": 212,
-    "type": "Dragon"
-  },
-  {
-    "name": "Brass Dragon",
-    "hd": "6 to 8",
-    "page": 212,
-    "type": "Dragon"
-  },
-  {
-    "name": "Bronze Dragon",
-    "hd": "8 to 10",
-    "page": 213,
-    "type": "Dragon"
-  },
-  {
-    "name": "Copper Dragon",
-    "hd": "7 to 9",
-    "page": 214,
-    "type": "Dragon"
-  },
-  {
-    "name": "Gold Dragon",
-    "hd": "10 to 12",
-    "page": 214,
-    "type": "Dragon"
-  },
-  {
-    "name": "Green Dragon",
-    "hd": "7 to 9",
-    "page": 214,
-    "type": "Dragon"
-  },
-  {
-    "name": "Red Dragon",
-    "hd": "9 to 11",
-    "page": 215,
-    "type": "Dragon"
-  },
-  {
-    "name": "Silver Dragon",
-    "hd": "9 to 11",
-    "page": 216,
-    "type": "Dragon"
-  },
-  {
-    "name": "White Dragon",
-    "hd": "5 to 7",
-    "page": 216,
-    "type": "Dragon"
-  },
-  {
-    "name": "Babau",
-    "hd": "7+14",
-    "page": 217,
-    "type": "Demon"
-  },
-  {
-    "name": "Class A Demon",
-    "hd": "8",
-    "page": 218,
-    "type": "Demon"
-  },
-  {
-    "name": "Vrock",
-    "hd": "8",
-    "page": 218,
-    "type": "Demon"
-  },
-  {
-    "name": "Class B Demon",
-    "hd": "9",
-    "page": 218,
-    "type": "Demon"
-  },
-  {
-    "name": "Hezrou",
-    "hd": "9",
-    "page": 218,
-    "type": "Demon"
-  },
-  {
-    "name": "Class C Demon",
-    "hd": "10",
-    "page": 219,
-    "type": "Demon"
-  },
-  {
-    "name": "Glabrezu",
-    "hd": "10",
-    "page": 219,
-    "type": "Demon"
-  },
-  {
-    "name": "Class D Demon",
-    "hd": "11",
-    "page": 219,
-    "type": "Demon"
-  },
-  {
-    "name": "Nalfeshnee",
-    "hd": "11",
-    "page": 219,
-    "type": "Demon"
-  },
-  {
-    "name": "Class E Demon",
-    "hd": "7+7",
-    "page": 220,
-    "type": "Demon"
-  },
-  {
-    "name": "Marilith",
-    "hd": "7+7",
-    "page": 220,
-    "type": "Demon"
-  },
-  {
-    "name": "Class F Demon",
-    "hd": "8+8",
-    "page": 221,
-    "type": "Demon"
-  },
-  {
-    "name": "Balor",
-    "hd": "8+8",
-    "page": 221,
-    "type": "Demon"
-  },
-  {
-    "name": "Demonette",
-    "hd": "6+1d6",
-    "page": 221,
-    "type": "Demon"
-  },
-  {
-    "name": "Demoniac",
-    "hd": "4+1d4",
-    "page": 222,
-    "type": "Demon"
-  },
-  {
-    "name": "Dretch",
-    "hd": "4",
-    "page": 222,
-    "type": "Demon"
-  },
-  {
-    "name": "Ekivu",
-    "hd": "7+2",
-    "page": 222,
-    "type": "Demon"
-  },
-  {
-    "name": "Fly Demon",
-    "hd": "7+2",
-    "page": 222,
-    "type": "Demon"
-  },
-  {
-    "name": "Kullule",
-    "hd": "1",
-    "page": 223,
-    "type": "Demon"
-  },
-  {
-    "name": "Demonic Hordling",
-    "hd": "1",
-    "page": 223,
-    "type": "Demon"
-  },
-  {
-    "name": "Quasit",
-    "hd": "3",
-    "page": 223,
-    "type": "Demon"
-  },
-  {
-    "name": "Shub",
-    "hd": "5+1",
-    "page": 224,
-    "type": "Demon"
-  },
-  {
-    "name": "Succubus",
-    "hd": "6",
-    "page": 224,
-    "type": "Demon"
-  },
-  {
-    "name": "Uduk",
-    "hd": "6+6",
-    "page": 225,
-    "type": "Demon"
-  },
-  {
-    "name": "Nipheribu",
-    "hd": "1",
-    "page": 226,
-    "type": "Devil"
-  },
-  {
-    "name": "Ashashimu",
-    "hd": "1",
-    "page": 226,
-    "type": "Devil"
-  },
-  {
-    "name": "Nishershimu",
-    "hd": "1",
-    "page": 226,
-    "type": "Devil"
-  },
-  {
-    "name": "Assagim",
-    "hd": "1",
-    "page": 226,
-    "type": "Devil"
-  },
-  {
-    "name": "Barbed Devil",
-    "hd": "8",
-    "page": 226,
-    "type": "Devil"
-  },
-  {
-    "name": "Barbicale",
-    "hd": "8",
-    "page": 226,
-    "type": "Devil"
-  },
-  {
-    "name": "Bearded Devil",
-    "hd": "6+6",
-    "page": 227,
-    "type": "Devil"
-  },
-  {
-    "name": "Barbazu",
-    "hd": "6+6",
-    "page": 227,
-    "type": "Devil"
-  },
-  {
-    "name": "Tothmys",
-    "hd": "6+6",
-    "page": 227,
-    "type": "Devil"
-  },
-  {
-    "name": "Thissuzim",
-    "hd": "6+6",
-    "page": 227,
-    "type": "Devil"
-  },
-  {
-    "name": "Bone Devil",
-    "hd": "9",
-    "page": 227,
-    "type": "Devil"
-  },
-  {
-    "name": "Osyluth",
-    "hd": "9",
-    "page": 227,
-    "type": "Devil"
-  },
-  {
-    "name": "Gerotephys",
-    "hd": "9",
-    "page": 227,
-    "type": "Devil"
-  },
-  {
-    "name": "Calcinnim",
-    "hd": "9",
-    "page": 227,
-    "type": "Devil"
-  },
-  {
-    "name": "Devilcat",
-    "hd": "7+2",
-    "page": 228,
-    "type": "Devil"
-  },
-  {
-    "name": "Erinyes",
-    "hd": "6+6",
-    "page": 228,
-    "type": "Devil"
-  },
-  {
-    "name": "Horned Devil",
-    "hd": "5+5",
-    "page": 229,
-    "type": "Devil"
-  },
-  {
-    "name": "Cornugon",
-    "hd": "5+5",
-    "page": 229,
-    "type": "Devil"
-  },
-  {
-    "name": "Malibranchai",
-    "hd": "5+5",
-    "page": 229,
-    "type": "Devil"
-  },
-  {
-    "name": "Ice Devil",
-    "hd": "11",
-    "page": 229,
-    "type": "Devil"
-  },
-  {
-    "name": "Imp",
-    "hd": "2+2",
-    "page": 230,
-    "type": "Devil"
-  },
-  {
-    "name": "Lemure",
-    "hd": "3",
-    "page": 230,
-    "type": "Devil"
-  },
-  {
-    "name": "Black Scaly Devil",
-    "hd": "8",
-    "page": 230,
-    "type": "Devil"
-  },
-  {
-    "name": "Blue Scaly Devil",
-    "hd": "5+1",
-    "page": 230,
-    "type": "Devil"
-  },
-  {
-    "name": "Green Scaly Devil",
-    "hd": "6",
-    "page": 230,
-    "type": "Devil"
-  },
-  {
-    "name": "Red Scaly Devil",
-    "hd": "4+2",
-    "page": 230,
-    "type": "Devil"
-  },
-  {
-    "name": "White Scaly Devil",
-    "hd": "7",
-    "page": 230,
-    "type": "Devil"
-  },
-  {
-    "name": "Shaitan",
-    "hd": "6+6",
-    "page": 231,
-    "type": "Devil"
-  },
-  {
-    "name": "Styx Fiend",
-    "hd": "6+6",
-    "page": 231,
-    "type": "Devil"
-  },
-  {
-    "name": "Spiked Devil",
-    "hd": "3+3",
-    "page": 231,
-    "type": "Devil"
-  },
-  {
-    "name": "Pit Fiend",
-    "hd": "13",
-    "page": 232,
-    "type": "Devil"
-  },
-  {
-    "name": "Soul Worm",
-    "hd": "1",
-    "page": 232,
-    "type": "Devil"
-  },
-  {
-    "name": "Clay Golem",
-    "hd": "12",
-    "page": 237,
-    "type": "Golem"
-  },
-  {
-    "name": "Flesh Golem",
-    "hd": "9",
-    "page": 237,
-    "type": "Golem"
-  },
-  {
-    "name": "Iron Golem",
-    "hd": "18",
-    "page": 237,
-    "type": "Golem"
-  },
-  {
-    "name": "Stone Golem",
-    "hd": "14",
-    "page": 237,
-    "type": "Golem"
-  },
-  {
-    "name": "Werebear",
-    "hd": "7+3",
-    "page": 237,
-    "type": "Lycanthrope"
-  },
-  {
-    "name": "Wereboar",
-    "hd": "5+2",
-    "page": 237,
-    "type": "Lycanthrope"
-  },
-  {
-    "name": "Wererat",
-    "hd": "3+1",
-    "page": 237,
-    "type": "Lycanthrope"
-  },
-  {
-    "name": "Weretiger",
-    "hd": "6+2",
-    "page": 237,
-    "type": "Lycanthrope"
-  },
-  {
-    "name": "Werewolf",
-    "hd": "4+3",
-    "page": 237,
-    "type": "Lycanthrope"
-  },
-  {
-    "name": "Brownie",
-    "hd": "0 (1d4)",
-    "page": 240,
-    "type": "Fae"
-  },
-  {
-    "name": "Centaur",
-    "hd": "4",
-    "page": 240,
-    "type": "Fae"
-  },
-  {
-    "name": "Dryad",
-    "hd": "2",
-    "page": 240,
-    "type": "Fae"
-  },
-  {
-    "name": "Faun",
-    "hd": "5",
-    "page": 251,
-    "type": "Fae"
-  },
-  {
-    "name": "Satyr",
-    "hd": "5",
-    "page": 251,
-    "type": "Fae"
-  },
-  {
-    "name": "Leprechaun",
-    "hd": "0 (1d4+1)",
-    "page": 241,
-    "type": "Fae"
-  },
-  {
-    "name": "Nixie",
-    "hd": "0 (1d4)",
-    "page": 241,
-    "type": "Fae"
-  },
-  {
-    "name": "Nymph",
-    "hd": "3",
-    "page": 242,
-    "type": "Fae"
-  },
-  {
-    "name": "Pixie",
-    "hd": "0 (1d4)",
-    "page": 243,
-    "type": "Fae"
-  },
-  {
-    "name": "Quickling",
-    "hd": "2",
-    "page": 243,
-    "type": "Fae"
-  },
-  {
-    "name": "Sprite",
-    "hd": "1",
-    "page": 244,
-    "type": "Fae"
-  },
-  {
-    "name": "Sylph",
-    "hd": "3",
-    "page": 256,
-    "type": "Fae"
-  },
-  {
-    "name": "Treant",
-    "hd": "6+1d6",
-    "page": 256,
-    "type": "Fae"
-  },
-  {
-    "name": "Animated Tree",
-    "hd": "12",
-    "page": 256,
-    "type": "Fae"
-  },
-  {
-    "name": "Unicorn",
-    "hd": "4+4",
-    "page": 245,
-    "type": "Fae"
-  },
-  {
-    "name": "Banshee",
-    "hd": "7",
-    "page": 245,
-    "type": "Undead"
-  },
-  {
-    "name": "Groaning Spirit",
-    "hd": "7",
-    "page": 245,
-    "type": "Undead"
-  },
-  {
-    "name": "Coffer Corpse",
-    "hd": "2",
-    "page": 245,
-    "type": "Undead"
-  },
-  {
-    "name": "Ghast",
-    "hd": "4",
-    "page": 246,
-    "type": "Undead"
-  },
-  {
-    "name": "Ghost",
-    "hd": "10+4",
-    "page": 246,
-    "type": "Undead"
-  },
-  {
-    "name": "Ghoul",
-    "hd": "2",
-    "page": 247,
-    "type": "Undead"
-  },
-  {
-    "name": "Lich",
-    "hd": "12",
-    "page": 247,
-    "type": "Undead"
-  },
-  {
-    "name": "Mummy",
-    "hd": "6+3",
-    "page": 248,
-    "type": "Undead"
-  },
-  {
-    "name": "Poltergeist",
-    "hd": "0 (1d4)",
-    "page": 248,
-    "type": "Undead"
-  },
-  {
-    "name": "Shadow",
-    "hd": "3+1",
-    "page": 249,
-    "type": "Undead"
-  },
-  {
-    "name": "Skeleton",
-    "hd": "1",
-    "page": 249,
-    "type": "Undead"
-  },
-  {
-    "name": "Spectre",
-    "hd": "7+3",
-    "page": 250,
-    "type": "Undead"
-  },
-  {
-    "name": "Vampire",
-    "hd": "8+3",
-    "page": 250,
-    "type": "Undead"
-  },
-  {
-    "name": "Wight",
-    "hd": "4+3",
-    "page": 251,
-    "type": "Undead"
-  },
-  {
-    "name": "Zombie",
-    "hd": "2",
-    "page": 251,
-    "type": "Undead"
-  },
-  {
-    "name": "Juju Zombie",
-    "hd": "3+12",
-    "page": 252,
-    "type": "Undead"
-  },
-  {
-    "name": "Ape",
-    "hd": "4+1",
-    "page": 252,
-    "type": "Animal"
-  },
-  {
-    "name": "Carnivorous Ape",
-    "hd": "5",
-    "page": 252,
-    "type": "Animal"
-  },
-  {
-    "name": "Axe Beak",
-    "hd": "3",
-    "page": 253,
-    "type": "Animal"
-  },
-  {
-    "name": "Baboon",
-    "hd": "1+1",
-    "page": 253,
-    "type": "Animal"
-  },
-  {
-    "name": "Badger",
-    "hd": "1+2",
-    "page": 253,
-    "type": "Animal"
-  },
-  {
-    "name": "Giant Badger",
-    "hd": "3",
-    "page": 253,
-    "type": "Animal"
-  },
-  {
-    "name": "Bat",
-    "hd": "0 (1d2)",
-    "page": 253,
-    "type": "Animal"
-  },
-  {
-    "name": "Giant Bat",
-    "hd": "0 (1d4)",
-    "page": 253,
-    "type": "Animal"
-  },
-  {
-    "name": "Mobat",
-    "hd": "3+1d3",
-    "page": 254,
-    "type": "Animal"
-  },
-  {
-    "name": "Barracuda",
-    "hd": "0+1d3",
-    "page": 254,
-    "type": "Animal"
-  },
-  {
-    "name": "Black Bear",
-    "hd": "3+3",
-    "page": 254,
-    "type": "Animal"
-  },
-  {
-    "name": "Brown Bear",
-    "hd": "5+5",
-    "page": 254,
-    "type": "Animal"
-  },
-  {
-    "name": "Cave Bear",
-    "hd": "6+6",
-    "page": 254,
-    "type": "Animal"
-  },
-  {
-    "name": "Polar Bear",
-    "hd": "8+8",
-    "page": 254,
-    "type": "Animal"
-  },
-  {
-    "name": "Bird",
-    "hd": "1",
-    "page": 255,
-    "type": "Animal"
-  },
-  {
-    "name": "Huge Bird",
-    "hd": "2",
-    "page": 255,
-    "type": "Animal"
-  },
-  {
-    "name": "Giant Bird",
-    "hd": "4",
-    "page": 255,
-    "type": "Animal"
-  },
-  {
-    "name": "Boar",
-    "hd": "3+3",
-    "page": 255,
-    "type": "Animal"
-  },
-  {
-    "name": "Giant Boar",
-    "hd": "7",
-    "page": 255,
-    "type": "Animal"
-  },
-  {
-    "name": "Warthog",
-    "hd": "3",
-    "page": 255,
-    "type": "Animal"
-  },
-  {
-    "name": "Camel",
-    "hd": "3",
-    "page": 256,
-    "type": "Animal"
-  },
-  {
-    "name": "Giant Lynx",
-    "hd": "2+2",
-    "page": 256,
-    "type": "Animal"
-  },
-  {
-    "name": "Crocodile",
-    "hd": "3",
-    "page": 257,
-    "type": "Animal"
-  },
-  {
-    "name": "Giant Crocodile",
-    "hd": "7",
-    "page": 257,
-    "type": "Animal"
-  },
-  {
-    "name": "Giant Crab",
-    "hd": "3",
-    "page": 257,
-    "type": "Animal"
-  },
-  {
-    "name": "Giant Crayfish",
-    "hd": "4+4",
-    "page": 257,
-    "type": "Animal"
-  },
-  {
-    "name": "Giant Moray Eel",
-    "hd": "5",
-    "page": 258,
-    "type": "Animal"
-  },
-  {
-    "name": "Giant Electric Eel",
-    "hd": "2",
-    "page": 258,
-    "type": "Animal"
-  },
-  {
-    "name": "African Elephant",
-    "hd": "11",
-    "page": 258,
-    "type": "Animal"
-  },
-  {
-    "name": "Asian Elephant",
-    "hd": "10",
-    "page": 258,
-    "type": "Animal"
-  },
-  {
-    "name": "Mammoth",
-    "hd": "12",
-    "page": 258,
-    "type": "Animal"
-  },
-  {
-    "name": "Mastodon",
-    "hd": "12",
-    "page": 258,
-    "type": "Animal"
-  },
-  {
-    "name": "Giant Gar",
-    "hd": "8",
-    "page": 259,
-    "type": "Animal"
-  },
-  {
-    "name": "Giant Pike",
-    "hd": "4",
-    "page": 259,
-    "type": "Animal"
-  },
-  {
-    "name": "Leviathan",
-    "hd": "24",
-    "page": 259,
-    "type": "Animal"
-  },
-  {
-    "name": "Giant Frog",
-    "hd": "0+1d3",
-    "page": 260,
-    "type": "Animal"
-  },
-  {
-    "name": "Hippopotamus",
-    "hd": "8",
-    "page": 261,
-    "type": "Animal"
-  },
-  {
-    "name": "Hyena",
-    "hd": "2",
-    "page": 261,
-    "type": "Animal"
-  },
-  {
-    "name": "Huge Hyena",
-    "hd": "3",
-    "page": 261,
-    "type": "Animal"
-  },
-  {
-    "name": "Giant Hyena",
-    "hd": "4",
-    "page": 261,
-    "type": "Animal"
-  },
-  {
-    "name": "Indricotherium",
-    "hd": "14",
-    "page": 261,
-    "type": "Animal"
-  },
-  {
-    "name": "Jackal",
-    "hd": "1",
-    "page": 262,
-    "type": "Animal"
-  },
-  {
-    "name": "Huge Jackal",
-    "hd": "2",
-    "page": 262,
-    "type": "Animal"
-  },
-  {
-    "name": "Giant Jackal",
-    "hd": "4",
-    "page": 262,
-    "type": "Animal"
-  },
-  {
-    "name": "Lion",
-    "hd": "5+3",
-    "page": 262,
-    "type": "Animal"
-  },
-  {
-    "name": "Cougar",
-    "hd": "3+2",
-    "page": 262,
-    "type": "Animal"
-  },
-  {
-    "name": "Prehistoric Lion",
-    "hd": "6+3",
-    "page": 262,
-    "type": "Animal"
-  },
-  {
-    "name": "Giant Man O' War",
-    "hd": "0+1d4",
-    "page": 263,
-    "type": "Animal"
-  },
-  {
-    "name": "Huge Rat",
-    "hd": "0 (1 hp)",
-    "page": 263,
-    "type": "Animal"
-  },
-  {
-    "name": "Giant Rat",
-    "hd": "0 (1d4)",
-    "page": 263,
-    "type": "Animal"
-  },
-  {
-    "name": "Rhinoceros",
-    "hd": "7+1d2",
-    "page": 264,
-    "type": "Animal"
-  },
-  {
-    "name": "Wolly Rhinoceros",
-    "hd": "10",
-    "page": 264,
-    "type": "Animal"
-  },
-  {
-    "name": "Shark",
-    "hd": "3, 5, or 8",
-    "page": 264,
-    "type": "Animal"
-  },
-  {
-    "name": "Giant Squid",
-    "hd": "12",
-    "page": 264,
-    "type": "Animal"
-  },
-  {
-    "name": "Giant Octopus",
-    "hd": "8",
-    "page": 264,
-    "type": "Animal"
-  },
-  {
-    "name": "Tiger",
-    "hd": "5+5",
-    "page": 265,
-    "type": "Animal"
-  },
-  {
-    "name": "Smilodon",
-    "hd": "7+2",
-    "page": 265,
-    "type": "Animal"
-  },
-  {
-    "name": "Giant Toad",
-    "hd": "2+4",
-    "page": 265,
-    "type": "Animal"
-  },
-  {
-    "name": "Giant Poisonous Toad",
-    "hd": "2",
-    "page": 265,
-    "type": "Animal"
-  },
-  {
-    "name": "Giant Sea Turtle",
-    "hd": "15",
-    "page": 265,
-    "type": "Animal"
-  },
-  {
-    "name": "Giant Snapping Turtle",
-    "hd": "10",
-    "page": 265,
-    "type": "Animal"
-  },
-  {
-    "name": "Huge Weasel",
-    "hd": "1+1",
-    "page": 266,
-    "type": "Animal"
-  },
-  {
-    "name": "Giant Weasel",
-    "hd": "3+3",
-    "page": 266,
-    "type": "Animal"
-  },
-  {
-    "name": "Whale",
-    "hd": "12 to 36",
-    "page": 266,
-    "type": "Animal"
-  },
-  {
-    "name": "Wolf",
-    "hd": "2+2",
-    "page": 267,
-    "type": "Animal"
-  },
-  {
-    "name": "Dire Wolf",
-    "hd": "3+3",
-    "page": 267,
-    "type": "Animal"
-  },
-  {
-    "name": "Wolverine",
-    "hd": "3",
-    "page": 267,
-    "type": "Animal"
-  },
-  {
-    "name": "Giant Wolverine",
-    "hd": "4+4",
-    "page": 267,
-    "type": "Animal"
-  },
-  {
-    "name": "Worg",
-    "hd": "4+4",
-    "page": 268,
-    "type": "Animal"
-  },
-  {
     "name": "Achaierai",
     "hd": "9",
     "page": 268,
@@ -1305,6 +15,18 @@
     "name": "Afreet",
     "hd": "10",
     "page": 269,
+    "type": "Other"
+  },
+  {
+    "name": "African Elephant",
+    "hd": "11",
+    "page": 258,
+    "type": "Animal"
+  },
+  {
+    "name": "Air Elemental",
+    "hd": "8, 12, or 16",
+    "page": 282,
     "type": "Other"
   },
   {
@@ -1326,6 +48,18 @@
     "type": "Other"
   },
   {
+    "name": "Androsphinx",
+    "hd": "10",
+    "page": 312,
+    "type": "Other"
+  },
+  {
+    "name": "Animated Tree",
+    "hd": "12",
+    "page": 256,
+    "type": "Fae"
+  },
+  {
     "name": "Ankheg",
     "hd": "2+1d6",
     "page": 270,
@@ -1338,22 +72,28 @@
     "type": "Other"
   },
   {
-    "name": "Giant Worker Ant",
-    "hd": "2",
-    "page": 271,
-    "type": "Other"
+    "name": "Ape",
+    "hd": "4+1",
+    "page": 252,
+    "type": "Animal"
   },
   {
-    "name": "Giant Soldier Ant",
-    "hd": "3",
-    "page": 271,
-    "type": "Other"
+    "name": "Ashashimu",
+    "hd": "1",
+    "page": 226,
+    "type": "Devil"
   },
   {
-    "name": "Giant Queen Ant",
+    "name": "Asian Elephant",
     "hd": "10",
-    "page": 271,
-    "type": "Other"
+    "page": 258,
+    "type": "Animal"
+  },
+  {
+    "name": "Assagim",
+    "hd": "1",
+    "page": 226,
+    "type": "Devil"
   },
   {
     "name": "Aurumvorax",
@@ -1362,10 +102,70 @@
     "type": "Other"
   },
   {
+    "name": "Axe Beak",
+    "hd": "3",
+    "page": 253,
+    "type": "Animal"
+  },
+  {
+    "name": "Babau",
+    "hd": "7+14",
+    "page": 217,
+    "type": "Demon"
+  },
+  {
     "name": "Babbler",
     "hd": "5",
     "page": 271,
     "type": "Other"
+  },
+  {
+    "name": "Baboon",
+    "hd": "1+1",
+    "page": 253,
+    "type": "Animal"
+  },
+  {
+    "name": "Badger",
+    "hd": "1+2",
+    "page": 253,
+    "type": "Animal"
+  },
+  {
+    "name": "Balor",
+    "hd": "8+8",
+    "page": 221,
+    "type": "Demon"
+  },
+  {
+    "name": "Bandit",
+    "hd": "0 (1d6)",
+    "page": 194,
+    "type": "Men"
+  },
+  {
+    "name": "Banshee",
+    "hd": "7",
+    "page": 245,
+    "type": "Undead"
+  },
+  {
+    "name": "Barbazu",
+    "hd": "6+6",
+    "page": 227,
+    "type": "Devil"
+  },
+  {
+    "name": "Barbed Devil",
+    "hd": "8",
+    "page": 226,
+    "type": "Devil"
+  },
+  {
+    "name": "Barbicale",
+    "hd": "8",
+    "page": 226,
+    "type": "Devil"
   },
   {
     "name": "Barghest",
@@ -1374,76 +174,70 @@
     "type": "Other"
   },
   {
+    "name": "Barracuda",
+    "hd": "0+1d3",
+    "page": 254,
+    "type": "Animal"
+  },
+  {
     "name": "Basilisk",
     "hd": "6",
     "page": 272,
     "type": "Other"
   },
   {
-    "name": "Giant Worker Honeybee",
-    "hd": "3+1",
-    "page": 272,
-    "type": "Other"
+    "name": "Bat",
+    "hd": "0 (1d2)",
+    "page": 253,
+    "type": "Animal"
   },
   {
-    "name": "Giant Soldier Honeybee",
-    "hd": "4+2",
-    "page": 272,
-    "type": "Other"
+    "name": "Batrachian",
+    "hd": "1",
+    "page": 199,
+    "type": "Humanoid"
   },
   {
-    "name": "Giant Bumblebee",
-    "hd": "6+4",
-    "page": 272,
-    "type": "Other"
-  },
-  {
-    "name": "Giant Bombardier Beetle",
-    "hd": "2+2",
-    "page": 273,
-    "type": "Other"
-  },
-  {
-    "name": "Giant Boring Beetle",
-    "hd": "5",
-    "page": 273,
-    "type": "Other"
-  },
-  {
-    "name": "Giant Death Watch Beetle",
-    "hd": "9+1",
-    "page": 273,
-    "type": "Other"
-  },
-  {
-    "name": "Giant Fire Beetle",
-    "hd": "1+2",
-    "page": 273,
-    "type": "Other"
-  },
-  {
-    "name": "Giant Rhinoceros Beetle",
-    "hd": "12",
-    "page": 273,
-    "type": "Other"
-  },
-  {
-    "name": "Giant Stag Beetle",
-    "hd": "7",
-    "page": 273,
-    "type": "Other"
-  },
-  {
-    "name": "Giant Water Beetle",
-    "hd": "4",
-    "page": 273,
-    "type": "Other"
+    "name": "Bearded Devil",
+    "hd": "6+6",
+    "page": 227,
+    "type": "Devil"
   },
   {
     "name": "Behir",
     "hd": "12",
     "page": 274,
     "type": "Other"
+  },
+  {
+    "name": "Berserker",
+    "hd": "0 (1d6+1)",
+    "page": 194,
+    "type": "Men"
+  },
+  {
+    "name": "Bird",
+    "hd": "1",
+    "page": 255,
+    "type": "Animal"
+  },
+  {
+    "name": "Black Bear",
+    "hd": "3+3",
+    "page": 254,
+    "type": "Animal"
+  },
+  {
+    "name": "Black Dragon",
+    "hd": "6 to 8",
+    "page": 211,
+    "type": "Dragon"
+  },
+  {
+    "name": "Black Scaly Devil",
+    "hd": "8",
+    "page": 230,
+    "type": "Devil"
   },
   {
     "name": "Blindheim",
@@ -1458,10 +252,88 @@
     "type": "Other"
   },
   {
+    "name": "Blue Dragon",
+    "hd": "8 to 10",
+    "page": 212,
+    "type": "Dragon"
+  },
+  {
+    "name": "Blue Scaly Devil",
+    "hd": "5+1",
+    "page": 230,
+    "type": "Devil"
+  },
+  {
+    "name": "Boar",
+    "hd": "3+3",
+    "page": 255,
+    "type": "Animal"
+  },
+  {
+    "name": "Bone Devil",
+    "hd": "9",
+    "page": 227,
+    "type": "Devil"
+  },
+  {
+    "name": "Brass Dragon",
+    "hd": "6 to 8",
+    "page": 212,
+    "type": "Dragon"
+  },
+  {
+    "name": "Brigand",
+    "hd": "0 (1d6)",
+    "page": 194,
+    "type": "Men"
+  },
+  {
+    "name": "Bronze Dragon",
+    "hd": "8 to 10",
+    "page": 213,
+    "type": "Dragon"
+  },
+  {
+    "name": "Brown Bear",
+    "hd": "5+5",
+    "page": 254,
+    "type": "Animal"
+  },
+  {
+    "name": "Brownie",
+    "hd": "0 (1d4)",
+    "page": 240,
+    "type": "Fae"
+  },
+  {
+    "name": "Buccaneer",
+    "hd": "0 (1d6)",
+    "page": 194,
+    "type": "Men"
+  },
+  {
+    "name": "Bugbear",
+    "hd": "3+1",
+    "page": 200,
+    "type": "Humanoid"
+  },
+  {
     "name": "Bulette",
     "hd": "9",
     "page": 275,
     "type": "Other"
+  },
+  {
+    "name": "Calcinnim",
+    "hd": "9",
+    "page": 227,
+    "type": "Devil"
+  },
+  {
+    "name": "Camel",
+    "hd": "3",
+    "page": 256,
+    "type": "Animal"
   },
   {
     "name": "Carbuncle",
@@ -1476,6 +348,12 @@
     "type": "Other"
   },
   {
+    "name": "Carnivorous Ape",
+    "hd": "5",
+    "page": 252,
+    "type": "Animal"
+  },
+  {
     "name": "Caryatid Column",
     "hd": "5",
     "page": 276,
@@ -1488,22 +366,22 @@
     "type": "Other"
   },
   {
-    "name": "Large Centipede",
-    "hd": "0 (1hp)",
-    "page": 277,
-    "type": "Other"
+    "name": "Cave Bear",
+    "hd": "6+6",
+    "page": 254,
+    "type": "Animal"
   },
   {
-    "name": "Huge Centipede",
-    "hd": "0 (1d2 hp)",
-    "page": 277,
-    "type": "Other"
+    "name": "Caveman",
+    "hd": "2",
+    "page": 200,
+    "type": "Humanoid"
   },
   {
-    "name": "Giant Centipede",
-    "hd": "3",
-    "page": 277,
-    "type": "Other"
+    "name": "Centaur",
+    "hd": "4",
+    "page": 240,
+    "type": "Fae"
   },
   {
     "name": "Chimaera",
@@ -1512,10 +390,52 @@
     "type": "Other"
   },
   {
-    "name": "Gorgimaera",
-    "hd": "10+1",
-    "page": 277,
-    "type": "Other"
+    "name": "Class A Demon",
+    "hd": "8",
+    "page": 218,
+    "type": "Demon"
+  },
+  {
+    "name": "Class B Demon",
+    "hd": "9",
+    "page": 218,
+    "type": "Demon"
+  },
+  {
+    "name": "Class C Demon",
+    "hd": "10",
+    "page": 219,
+    "type": "Demon"
+  },
+  {
+    "name": "Class D Demon",
+    "hd": "11",
+    "page": 219,
+    "type": "Demon"
+  },
+  {
+    "name": "Class E Demon",
+    "hd": "7+7",
+    "page": 220,
+    "type": "Demon"
+  },
+  {
+    "name": "Class F Demon",
+    "hd": "8+8",
+    "page": 221,
+    "type": "Demon"
+  },
+  {
+    "name": "Clay Golem",
+    "hd": "12",
+    "page": 237,
+    "type": "Golem"
+  },
+  {
+    "name": "Cloud Giant",
+    "hd": "12+1d6+1",
+    "page": 205,
+    "type": "Giant"
   },
   {
     "name": "Cockatrice",
@@ -1530,10 +450,34 @@
     "type": "Other"
   },
   {
+    "name": "Coffer Corpse",
+    "hd": "2",
+    "page": 245,
+    "type": "Undead"
+  },
+  {
+    "name": "Copper Dragon",
+    "hd": "7 to 9",
+    "page": 214,
+    "type": "Dragon"
+  },
+  {
+    "name": "Cornugon",
+    "hd": "5+5",
+    "page": 229,
+    "type": "Devil"
+  },
+  {
     "name": "Couatl",
     "hd": "2",
     "page": 278,
     "type": "Other"
+  },
+  {
+    "name": "Cougar",
+    "hd": "3+2",
+    "page": 262,
+    "type": "Animal"
   },
   {
     "name": "Crabman",
@@ -1542,10 +486,28 @@
     "type": "Other"
   },
   {
+    "name": "Criosphinx",
+    "hd": "9",
+    "page": 313,
+    "type": "Other"
+  },
+  {
+    "name": "Crocodile",
+    "hd": "3",
+    "page": 257,
+    "type": "Animal"
+  },
+  {
     "name": "Crypt Thing",
     "hd": "6",
     "page": 279,
     "type": "Other"
+  },
+  {
+    "name": "Cyclops",
+    "hd": "13",
+    "page": 205,
+    "type": "Giant"
   },
   {
     "name": "Dakon",
@@ -1564,6 +526,42 @@
     "hd": "2+1",
     "page": 279,
     "type": "Other"
+  },
+  {
+    "name": "Demonette",
+    "hd": "6+1d6",
+    "page": 221,
+    "type": "Demon"
+  },
+  {
+    "name": "Demoniac",
+    "hd": "4+1d4",
+    "page": 222,
+    "type": "Demon"
+  },
+  {
+    "name": "Demonic Hordling",
+    "hd": "1",
+    "page": 223,
+    "type": "Demon"
+  },
+  {
+    "name": "Dervish",
+    "hd": "0 (1d6)",
+    "page": 195,
+    "type": "Men"
+  },
+  {
+    "name": "Devilcat",
+    "hd": "7+2",
+    "page": 228,
+    "type": "Devil"
+  },
+  {
+    "name": "Dire Wolf",
+    "hd": "3+3",
+    "page": 267,
+    "type": "Animal"
   },
   {
     "name": "Disenchanter",
@@ -1590,10 +588,22 @@
     "type": "Other"
   },
   {
-    "name": "Air Elemental",
-    "hd": "8, 12, or 16",
-    "page": 282,
-    "type": "Other"
+    "name": "Dretch",
+    "hd": "4",
+    "page": 222,
+    "type": "Demon"
+  },
+  {
+    "name": "Dryad",
+    "hd": "2",
+    "page": 240,
+    "type": "Fae"
+  },
+  {
+    "name": "Dwarf",
+    "hd": "1",
+    "page": 197,
+    "type": "Demi-Human"
   },
   {
     "name": "Earth Elemental",
@@ -1602,22 +612,34 @@
     "type": "Other"
   },
   {
-    "name": "Fire Elemental",
-    "hd": "8, 12, or 16",
-    "page": 282,
-    "type": "Other"
+    "name": "Ekivu",
+    "hd": "7+2",
+    "page": 222,
+    "type": "Demon"
   },
   {
-    "name": "Water Elemental",
-    "hd": "8, 12, or 16",
-    "page": 282,
-    "type": "Other"
+    "name": "Elf",
+    "hd": "1+1",
+    "page": 197,
+    "type": "Demi-Human"
+  },
+  {
+    "name": "Erinyes",
+    "hd": "6+6",
+    "page": 228,
+    "type": "Devil"
   },
   {
     "name": "Ettercap",
     "hd": "5+1",
     "page": 284,
     "type": "Other"
+  },
+  {
+    "name": "Ettin",
+    "hd": "10",
+    "page": 208,
+    "type": "Giant"
   },
   {
     "name": "Executioner's Hood",
@@ -1632,22 +654,64 @@
     "type": "Other"
   },
   {
-    "name": "Giant Fly",
-    "hd": "3",
-    "page": 284,
+    "name": "Faun",
+    "hd": "5",
+    "page": 251,
+    "type": "Fae"
+  },
+  {
+    "name": "Female Sahuagin",
+    "hd": "2",
+    "page": 307,
     "type": "Other"
   },
   {
-    "name": "Giant Horsefly",
-    "hd": "6",
-    "page": 284,
+    "name": "Fire Elemental",
+    "hd": "8, 12, or 16",
+    "page": 282,
     "type": "Other"
   },
   {
-    "name": "Violet Fungi",
-    "hd": "3",
-    "page": 285,
+    "name": "Fire Giant",
+    "hd": "11+1d4+1",
+    "page": 206,
+    "type": "Giant"
+  },
+  {
+    "name": "Fire Lizard",
+    "hd": "10",
+    "page": 292,
     "type": "Other"
+  },
+  {
+    "name": "Fire Mephit",
+    "hd": "3+1",
+    "page": 294,
+    "type": "Other"
+  },
+  {
+    "name": "Flesh Golem",
+    "hd": "9",
+    "page": 237,
+    "type": "Golem"
+  },
+  {
+    "name": "Fly Demon",
+    "hd": "7+2",
+    "page": 222,
+    "type": "Demon"
+  },
+  {
+    "name": "Frog Man",
+    "hd": "1",
+    "page": 199,
+    "type": "Humanoid"
+  },
+  {
+    "name": "Frost Giant",
+    "hd": "10+1d4",
+    "page": 206,
+    "type": "Giant"
   },
   {
     "name": "Gargoyle",
@@ -1668,9 +732,435 @@
     "type": "Other"
   },
   {
+    "name": "Gerotephys",
+    "hd": "9",
+    "page": 227,
+    "type": "Devil"
+  },
+  {
+    "name": "Ghast",
+    "hd": "4",
+    "page": 246,
+    "type": "Undead"
+  },
+  {
+    "name": "Ghost",
+    "hd": "10+4",
+    "page": 246,
+    "type": "Undead"
+  },
+  {
+    "name": "Ghoul",
+    "hd": "2",
+    "page": 247,
+    "type": "Undead"
+  },
+  {
+    "name": "Giant Adder",
+    "hd": "4+2",
+    "page": 312,
+    "type": "Other"
+  },
+  {
+    "name": "Giant Amphisbaena",
+    "hd": "6",
+    "page": 312,
+    "type": "Other"
+  },
+  {
+    "name": "Giant Badger",
+    "hd": "3",
+    "page": 253,
+    "type": "Animal"
+  },
+  {
+    "name": "Giant Bat",
+    "hd": "0 (1d4)",
+    "page": 253,
+    "type": "Animal"
+  },
+  {
+    "name": "Giant Bird",
+    "hd": "4",
+    "page": 255,
+    "type": "Animal"
+  },
+  {
+    "name": "Giant Boa",
+    "hd": "6+1",
+    "page": 312,
+    "type": "Other"
+  },
+  {
+    "name": "Giant Boar",
+    "hd": "7",
+    "page": 255,
+    "type": "Animal"
+  },
+  {
+    "name": "Giant Bombardier Beetle",
+    "hd": "2+2",
+    "page": 273,
+    "type": "Other"
+  },
+  {
+    "name": "Giant Boring Beetle",
+    "hd": "5",
+    "page": 273,
+    "type": "Other"
+  },
+  {
+    "name": "Giant Bumblebee",
+    "hd": "6+4",
+    "page": 272,
+    "type": "Other"
+  },
+  {
+    "name": "Giant Cave Lizard",
+    "hd": "6",
+    "page": 292,
+    "type": "Other"
+  },
+  {
+    "name": "Giant Centipede",
+    "hd": "3",
+    "page": 277,
+    "type": "Other"
+  },
+  {
+    "name": "Giant Cobra",
+    "hd": "4+2",
+    "page": 312,
+    "type": "Other"
+  },
+  {
+    "name": "Giant Crab",
+    "hd": "3",
+    "page": 257,
+    "type": "Animal"
+  },
+  {
+    "name": "Giant Crayfish",
+    "hd": "4+4",
+    "page": 257,
+    "type": "Animal"
+  },
+  {
+    "name": "Giant Crocodile",
+    "hd": "7",
+    "page": 257,
+    "type": "Animal"
+  },
+  {
+    "name": "Giant Death Watch Beetle",
+    "hd": "9+1",
+    "page": 273,
+    "type": "Other"
+  },
+  {
+    "name": "Giant Electric Eel",
+    "hd": "2",
+    "page": 258,
+    "type": "Animal"
+  },
+  {
+    "name": "Giant Fire Beetle",
+    "hd": "1+2",
+    "page": 273,
+    "type": "Other"
+  },
+  {
+    "name": "Giant Fly",
+    "hd": "3",
+    "page": 284,
+    "type": "Other"
+  },
+  {
+    "name": "Giant Frog",
+    "hd": "0+1d3",
+    "page": 260,
+    "type": "Animal"
+  },
+  {
+    "name": "Giant Gar",
+    "hd": "8",
+    "page": 259,
+    "type": "Animal"
+  },
+  {
+    "name": "Giant Horsefly",
+    "hd": "6",
+    "page": 284,
+    "type": "Other"
+  },
+  {
+    "name": "Giant Hyena",
+    "hd": "4",
+    "page": 261,
+    "type": "Animal"
+  },
+  {
+    "name": "Giant Jackal",
+    "hd": "4",
+    "page": 262,
+    "type": "Animal"
+  },
+  {
+    "name": "Giant Leech",
+    "hd": "1-4",
+    "page": 291,
+    "type": "Other"
+  },
+  {
+    "name": "Giant Lizard",
+    "hd": "3+1",
+    "page": 292,
+    "type": "Other"
+  },
+  {
+    "name": "Giant Lynx",
+    "hd": "2+2",
+    "page": 256,
+    "type": "Animal"
+  },
+  {
+    "name": "Giant Man O' War",
+    "hd": "0+1d4",
+    "page": 263,
+    "type": "Animal"
+  },
+  {
+    "name": "Giant Monitor Lizard",
+    "hd": "8",
+    "page": 292,
+    "type": "Other"
+  },
+  {
+    "name": "Giant Moray Eel",
+    "hd": "5",
+    "page": 258,
+    "type": "Animal"
+  },
+  {
+    "name": "Giant Octopus",
+    "hd": "8",
+    "page": 264,
+    "type": "Animal"
+  },
+  {
+    "name": "Giant Pike",
+    "hd": "4",
+    "page": 259,
+    "type": "Animal"
+  },
+  {
+    "name": "Giant Poisonous Toad",
+    "hd": "2",
+    "page": 265,
+    "type": "Animal"
+  },
+  {
+    "name": "Giant Queen Ant",
+    "hd": "10",
+    "page": 271,
+    "type": "Other"
+  },
+  {
+    "name": "Giant Rat",
+    "hd": "0 (1d4)",
+    "page": 263,
+    "type": "Animal"
+  },
+  {
+    "name": "Giant Rhinoceros Beetle",
+    "hd": "12",
+    "page": 273,
+    "type": "Other"
+  },
+  {
+    "name": "Giant Scorpion",
+    "hd": "5+5",
+    "page": 308,
+    "type": "Other"
+  },
+  {
+    "name": "Giant Sea Turtle",
+    "hd": "15",
+    "page": 265,
+    "type": "Animal"
+  },
+  {
+    "name": "Giant Slug",
+    "hd": "12",
+    "page": 311,
+    "type": "Other"
+  },
+  {
+    "name": "Giant Snapping Turtle",
+    "hd": "10",
+    "page": 265,
+    "type": "Animal"
+  },
+  {
+    "name": "Giant Soldier Ant",
+    "hd": "3",
+    "page": 271,
+    "type": "Other"
+  },
+  {
+    "name": "Giant Soldier Honeybee",
+    "hd": "4+2",
+    "page": 272,
+    "type": "Other"
+  },
+  {
+    "name": "Giant Spider",
+    "hd": "4+4",
+    "page": 314,
+    "type": "Other"
+  },
+  {
+    "name": "Giant Squid",
+    "hd": "12",
+    "page": 264,
+    "type": "Animal"
+  },
+  {
+    "name": "Giant Stag Beetle",
+    "hd": "7",
+    "page": 273,
+    "type": "Other"
+  },
+  {
+    "name": "Giant Tick",
+    "hd": "3",
+    "page": 316,
+    "type": "Other"
+  },
+  {
+    "name": "Giant Toad",
+    "hd": "2+4",
+    "page": 265,
+    "type": "Animal"
+  },
+  {
+    "name": "Giant Troll",
+    "hd": "8",
+    "page": 209,
+    "type": "Giant"
+  },
+  {
+    "name": "Giant Wasp",
+    "hd": "4",
+    "page": 319,
+    "type": "Other"
+  },
+  {
+    "name": "Giant Water Beetle",
+    "hd": "4",
+    "page": 273,
+    "type": "Other"
+  },
+  {
+    "name": "Giant Water Spider",
+    "hd": "3+3",
+    "page": 315,
+    "type": "Other"
+  },
+  {
+    "name": "Giant Weasel",
+    "hd": "3+3",
+    "page": 266,
+    "type": "Animal"
+  },
+  {
+    "name": "Giant Wolverine",
+    "hd": "4+4",
+    "page": 267,
+    "type": "Animal"
+  },
+  {
+    "name": "Giant Worker Ant",
+    "hd": "2",
+    "page": 271,
+    "type": "Other"
+  },
+  {
+    "name": "Giant Worker Honeybee",
+    "hd": "3+1",
+    "page": 272,
+    "type": "Other"
+  },
+  {
+    "name": "Giant, Two-Headed Troll",
+    "hd": "10",
+    "page": 210,
+    "type": "Giant"
+  },
+  {
+    "name": "Glabrezu",
+    "hd": "10",
+    "page": 219,
+    "type": "Demon"
+  },
+  {
+    "name": "Gnoll",
+    "hd": "2",
+    "page": 201,
+    "type": "Humanoid"
+  },
+  {
+    "name": "Gnome",
+    "hd": "1",
+    "page": 198,
+    "type": "Demi-Human"
+  },
+  {
+    "name": "Goblin",
+    "hd": "1-1",
+    "page": 201,
+    "type": "Humanoid"
+  },
+  {
+    "name": "Gold Dragon",
+    "hd": "10 to 12",
+    "page": 214,
+    "type": "Dragon"
+  },
+  {
+    "name": "Gorgimaera",
+    "hd": "10+1",
+    "page": 277,
+    "type": "Other"
+  },
+  {
     "name": "Gorgon",
     "hd": "8",
     "page": 286,
+    "type": "Other"
+  },
+  {
+    "name": "Greater Otyugh",
+    "hd": "8+1d4",
+    "page": 301,
+    "type": "Other"
+  },
+  {
+    "name": "Green Dragon",
+    "hd": "7 to 9",
+    "page": 214,
+    "type": "Dragon"
+  },
+  {
+    "name": "Green Scaly Devil",
+    "hd": "6",
+    "page": 230,
+    "type": "Devil"
+  },
+  {
+    "name": "Green Slime",
+    "hd": "2",
+    "page": 311,
     "type": "Other"
   },
   {
@@ -1686,6 +1176,36 @@
     "type": "Other"
   },
   {
+    "name": "Grimlock",
+    "hd": "2",
+    "page": 202,
+    "type": "Humanoid"
+  },
+  {
+    "name": "Groaning Spirit",
+    "hd": "7",
+    "page": 245,
+    "type": "Undead"
+  },
+  {
+    "name": "Guardian Naga",
+    "hd": "10+1d2",
+    "page": 297,
+    "type": "Other"
+  },
+  {
+    "name": "Gynosphinx",
+    "hd": "7",
+    "page": 313,
+    "type": "Other"
+  },
+  {
+    "name": "Halfling",
+    "hd": "0 (1d6)",
+    "page": 198,
+    "type": "Demi-Human"
+  },
+  {
     "name": "Harpy",
     "hd": "3",
     "page": 287,
@@ -1698,10 +1218,40 @@
     "type": "Other"
   },
   {
+    "name": "Hezrou",
+    "hd": "9",
+    "page": 218,
+    "type": "Demon"
+  },
+  {
+    "name": "Hieracosphinx",
+    "hd": "8",
+    "page": 314,
+    "type": "Other"
+  },
+  {
+    "name": "Hill Giant",
+    "hd": "8+1d2",
+    "page": 207,
+    "type": "Giant"
+  },
+  {
     "name": "Hippogriff",
     "hd": "3+3",
     "page": 288,
     "type": "Other"
+  },
+  {
+    "name": "Hippopotamus",
+    "hd": "8",
+    "page": 261,
+    "type": "Animal"
+  },
+  {
+    "name": "Hobgoblin",
+    "hd": "1+1",
+    "page": 203,
+    "type": "Humanoid"
   },
   {
     "name": "Homonculus",
@@ -1710,10 +1260,94 @@
     "type": "Other"
   },
   {
+    "name": "Horned Devil",
+    "hd": "5+5",
+    "page": 229,
+    "type": "Devil"
+  },
+  {
+    "name": "Huge Bird",
+    "hd": "2",
+    "page": 255,
+    "type": "Animal"
+  },
+  {
+    "name": "Huge Centipede",
+    "hd": "0 (1d2 hp)",
+    "page": 277,
+    "type": "Other"
+  },
+  {
+    "name": "Huge Hyena",
+    "hd": "3",
+    "page": 261,
+    "type": "Animal"
+  },
+  {
+    "name": "Huge Jackal",
+    "hd": "2",
+    "page": 262,
+    "type": "Animal"
+  },
+  {
+    "name": "Huge Rat",
+    "hd": "0 (1 hp)",
+    "page": 263,
+    "type": "Animal"
+  },
+  {
+    "name": "Huge Scorpion",
+    "hd": "4+4",
+    "page": 308,
+    "type": "Other"
+  },
+  {
+    "name": "Huge Spider",
+    "hd": "2+2",
+    "page": 314,
+    "type": "Other"
+  },
+  {
+    "name": "Huge Weasel",
+    "hd": "1+1",
+    "page": 266,
+    "type": "Animal"
+  },
+  {
     "name": "Hydra",
     "hd": "5 to 16",
     "page": 289,
     "type": "Other"
+  },
+  {
+    "name": "Hyena",
+    "hd": "2",
+    "page": 261,
+    "type": "Animal"
+  },
+  {
+    "name": "Ice Devil",
+    "hd": "11",
+    "page": 229,
+    "type": "Devil"
+  },
+  {
+    "name": "Ice Troll",
+    "hd": "2",
+    "page": 210,
+    "type": "Giant"
+  },
+  {
+    "name": "Imp",
+    "hd": "2+2",
+    "page": 230,
+    "type": "Devil"
+  },
+  {
+    "name": "Indricotherium",
+    "hd": "14",
+    "page": 261,
+    "type": "Animal"
   },
   {
     "name": "Invisible Stalker",
@@ -1722,16 +1356,46 @@
     "type": "Other"
   },
   {
+    "name": "Iron Golem",
+    "hd": "18",
+    "page": 237,
+    "type": "Golem"
+  },
+  {
+    "name": "Jackal",
+    "hd": "1",
+    "page": 262,
+    "type": "Animal"
+  },
+  {
     "name": "Jackalwere",
     "hd": "4",
     "page": 290,
     "type": "Other"
   },
   {
+    "name": "Juju Zombie",
+    "hd": "3+12",
+    "page": 252,
+    "type": "Undead"
+  },
+  {
+    "name": "Kobold",
+    "hd": "0 (1d4)",
+    "page": 203,
+    "type": "Humanoid"
+  },
+  {
     "name": "Kraken",
     "hd": "20",
     "page": 290,
     "type": "Other"
+  },
+  {
+    "name": "Kullule",
+    "hd": "1",
+    "page": 223,
+    "type": "Demon"
   },
   {
     "name": "Lamia",
@@ -1746,34 +1410,64 @@
     "type": "Other"
   },
   {
-    "name": "Giant Leech",
-    "hd": "1-4",
-    "page": 291,
+    "name": "Large Centipede",
+    "hd": "0 (1hp)",
+    "page": 277,
     "type": "Other"
   },
   {
-    "name": "Fire Lizard",
-    "hd": "10",
-    "page": 292,
+    "name": "Large Scorpion",
+    "hd": "2+2",
+    "page": 308,
     "type": "Other"
   },
   {
-    "name": "Giant Lizard",
-    "hd": "3+1",
-    "page": 292,
+    "name": "Large Spider",
+    "hd": "1+1",
+    "page": 314,
     "type": "Other"
   },
   {
-    "name": "Giant Monitor Lizard",
-    "hd": "8",
-    "page": 292,
+    "name": "Lava Mephit",
+    "hd": "3",
+    "page": 294,
     "type": "Other"
   },
   {
-    "name": "Giant Cave Lizard",
-    "hd": "6",
-    "page": 292,
-    "type": "Other"
+    "name": "Lemure",
+    "hd": "3",
+    "page": 230,
+    "type": "Devil"
+  },
+  {
+    "name": "Leprechaun",
+    "hd": "0 (1d4+1)",
+    "page": 241,
+    "type": "Fae"
+  },
+  {
+    "name": "Leviathan",
+    "hd": "24",
+    "page": 259,
+    "type": "Animal"
+  },
+  {
+    "name": "Lich",
+    "hd": "12",
+    "page": 247,
+    "type": "Undead"
+  },
+  {
+    "name": "Lion",
+    "hd": "5+3",
+    "page": 262,
+    "type": "Animal"
+  },
+  {
+    "name": "Lizard Man",
+    "hd": "2+1",
+    "page": 203,
+    "type": "Humanoid"
   },
   {
     "name": "Locathah",
@@ -1788,38 +1482,44 @@
     "type": "Other"
   },
   {
+    "name": "Malibranchai",
+    "hd": "5+5",
+    "page": 229,
+    "type": "Devil"
+  },
+  {
+    "name": "Mammoth",
+    "hd": "12",
+    "page": 258,
+    "type": "Animal"
+  },
+  {
     "name": "Manticore",
     "hd": "6+3",
     "page": 293,
     "type": "Other"
   },
   {
+    "name": "Marilith",
+    "hd": "7+7",
+    "page": 220,
+    "type": "Demon"
+  },
+  {
+    "name": "Mastodon",
+    "hd": "12",
+    "page": 258,
+    "type": "Animal"
+  },
+  {
+    "name": "Mechant",
+    "hd": "0 (1d6)",
+    "page": 196,
+    "type": "Men"
+  },
+  {
     "name": "Medusa",
     "hd": "6+1",
-    "page": 294,
-    "type": "Other"
-  },
-  {
-    "name": "Fire Mephit",
-    "hd": "3+1",
-    "page": 294,
-    "type": "Other"
-  },
-  {
-    "name": "Lava Mephit",
-    "hd": "3",
-    "page": 294,
-    "type": "Other"
-  },
-  {
-    "name": "Smoke Mephit",
-    "hd": "3",
-    "page": 294,
-    "type": "Other"
-  },
-  {
-    "name": "Steam Mephit",
-    "hd": "3+3",
     "page": 294,
     "type": "Other"
   },
@@ -1836,28 +1536,28 @@
     "type": "Other"
   },
   {
+    "name": "Mobat",
+    "hd": "3+1d3",
+    "page": 254,
+    "type": "Animal"
+  },
+  {
     "name": "Mongrelman",
     "hd": "0+1d4",
     "page": 296,
     "type": "Other"
   },
   {
-    "name": "Guardian Naga",
-    "hd": "10+1d2",
-    "page": 297,
-    "type": "Other"
+    "name": "Mummy",
+    "hd": "6+3",
+    "page": 248,
+    "type": "Undead"
   },
   {
-    "name": "Spirit Naga",
-    "hd": "8+1d2",
-    "page": 297,
-    "type": "Other"
-  },
-  {
-    "name": "Water Naga",
-    "hd": "6+1d2",
-    "page": 297,
-    "type": "Other"
+    "name": "Nalfeshnee",
+    "hd": "11",
+    "page": 219,
+    "type": "Demon"
   },
   {
     "name": "Necrophidius",
@@ -1890,10 +1590,52 @@
     "type": "Other"
   },
   {
-    "name": "Owlbear",
-    "hd": "5+2",
-    "page": 300,
-    "type": "Other"
+    "name": "Nipheribu",
+    "hd": "1",
+    "page": 226,
+    "type": "Devil"
+  },
+  {
+    "name": "Nishershimu",
+    "hd": "1",
+    "page": 226,
+    "type": "Devil"
+  },
+  {
+    "name": "Nixie",
+    "hd": "0 (1d4)",
+    "page": 241,
+    "type": "Fae"
+  },
+  {
+    "name": "Nomad",
+    "hd": "0 (1d6)",
+    "page": 195,
+    "type": "Men"
+  },
+  {
+    "name": "Nymph",
+    "hd": "3",
+    "page": 242,
+    "type": "Fae"
+  },
+  {
+    "name": "Ogre",
+    "hd": "4+1",
+    "page": 208,
+    "type": "Giant"
+  },
+  {
+    "name": "Orc",
+    "hd": "1",
+    "page": 204,
+    "type": "Humanoid"
+  },
+  {
+    "name": "Osyluth",
+    "hd": "9",
+    "page": 227,
+    "type": "Devil"
   },
   {
     "name": "Otyugh",
@@ -1902,15 +1644,21 @@
     "type": "Other"
   },
   {
-    "name": "Greater Otyugh",
-    "hd": "8+1d4",
-    "page": 301,
+    "name": "Owlbear",
+    "hd": "5+2",
+    "page": 300,
     "type": "Other"
   },
   {
     "name": "Pegasus",
     "hd": "4",
     "page": 301,
+    "type": "Other"
+  },
+  {
+    "name": "Phase Spider",
+    "hd": "5+5",
+    "page": 315,
     "type": "Other"
   },
   {
@@ -1926,6 +1674,48 @@
     "type": "Other"
   },
   {
+    "name": "Pilgrim",
+    "hd": "0 (1d6)",
+    "page": 196,
+    "type": "Men"
+  },
+  {
+    "name": "Pirate",
+    "hd": "0 (1d6)",
+    "page": 194,
+    "type": "Men"
+  },
+  {
+    "name": "Pit Fiend",
+    "hd": "13",
+    "page": 232,
+    "type": "Devil"
+  },
+  {
+    "name": "Pixie",
+    "hd": "0 (1d4)",
+    "page": 243,
+    "type": "Fae"
+  },
+  {
+    "name": "Polar Bear",
+    "hd": "8+8",
+    "page": 254,
+    "type": "Animal"
+  },
+  {
+    "name": "Poltergeist",
+    "hd": "0 (1d4)",
+    "page": 248,
+    "type": "Undead"
+  },
+  {
+    "name": "Prehistoric Lion",
+    "hd": "6+3",
+    "page": 262,
+    "type": "Animal"
+  },
+  {
     "name": "Pseudo-Dragon",
     "hd": "2",
     "page": 303,
@@ -1938,16 +1728,52 @@
     "type": "Other"
   },
   {
+    "name": "Quartz Roper",
+    "hd": "6",
+    "page": 305,
+    "type": "Other"
+  },
+  {
+    "name": "Quasit",
+    "hd": "3",
+    "page": 223,
+    "type": "Demon"
+  },
+  {
+    "name": "Quickling",
+    "hd": "2",
+    "page": 243,
+    "type": "Fae"
+  },
+  {
     "name": "Rakshasa",
     "hd": "7",
     "page": 304,
     "type": "Other"
   },
   {
+    "name": "Red Dragon",
+    "hd": "9 to 11",
+    "page": 215,
+    "type": "Dragon"
+  },
+  {
+    "name": "Red Scaly Devil",
+    "hd": "4+2",
+    "page": 230,
+    "type": "Devil"
+  },
+  {
     "name": "Remorhaz",
     "hd": "6+1d8",
     "page": 304,
     "type": "Other"
+  },
+  {
+    "name": "Rhinoceros",
+    "hd": "7+1d2",
+    "page": 264,
+    "type": "Animal"
   },
   {
     "name": "Roc",
@@ -1958,12 +1784,6 @@
   {
     "name": "Roper",
     "hd": "11",
-    "page": 305,
-    "type": "Other"
-  },
-  {
-    "name": "Quartz Roper",
-    "hd": "6",
     "page": 305,
     "type": "Other"
   },
@@ -1980,20 +1800,8 @@
     "type": "Other"
   },
   {
-    "name": "Sahuagin Warrior",
-    "hd": "2+2",
-    "page": 307,
-    "type": "Other"
-  },
-  {
-    "name": "Female Sahuagin",
-    "hd": "2",
-    "page": 307,
-    "type": "Other"
-  },
-  {
-    "name": "Sahuagin Hatchling",
-    "hd": "1",
+    "name": "Sahuagin Baron",
+    "hd": "6+6",
     "page": 307,
     "type": "Other"
   },
@@ -2004,26 +1812,8 @@
     "type": "Other"
   },
   {
-    "name": "Sahuagin Warchief",
-    "hd": "4+4",
-    "page": 307,
-    "type": "Other"
-  },
-  {
-    "name": "Sahuagin Priestess",
-    "hd": "1+1d5",
-    "page": 307,
-    "type": "Other"
-  },
-  {
-    "name": "Sahuagin Baron",
-    "hd": "6+6",
-    "page": 307,
-    "type": "Other"
-  },
-  {
-    "name": "Sahuagin Prince",
-    "hd": "8+8",
+    "name": "Sahuagin Hatchling",
+    "hd": "1",
     "page": 307,
     "type": "Other"
   },
@@ -2034,22 +1824,34 @@
     "type": "Other"
   },
   {
-    "name": "Large Scorpion",
-    "hd": "2+2",
-    "page": 308,
+    "name": "Sahuagin Priestess",
+    "hd": "1+1d5",
+    "page": 307,
     "type": "Other"
   },
   {
-    "name": "Huge Scorpion",
+    "name": "Sahuagin Prince",
+    "hd": "8+8",
+    "page": 307,
+    "type": "Other"
+  },
+  {
+    "name": "Sahuagin Warchief",
     "hd": "4+4",
-    "page": 308,
+    "page": 307,
     "type": "Other"
   },
   {
-    "name": "Giant Scorpion",
-    "hd": "5+5",
-    "page": 308,
+    "name": "Sahuagin Warrior",
+    "hd": "2+2",
+    "page": 307,
     "type": "Other"
+  },
+  {
+    "name": "Satyr",
+    "hd": "5",
+    "page": 251,
+    "type": "Fae"
   },
   {
     "name": "Sea Hag",
@@ -2064,10 +1866,28 @@
     "type": "Other"
   },
   {
+    "name": "Shadow",
+    "hd": "3+1",
+    "page": 249,
+    "type": "Undead"
+  },
+  {
+    "name": "Shaitan",
+    "hd": "6+6",
+    "page": 231,
+    "type": "Devil"
+  },
+  {
     "name": "Shambling Mound",
     "hd": "7+1d4",
     "page": 309,
     "type": "Other"
+  },
+  {
+    "name": "Shark",
+    "hd": "3, 5, or 8",
+    "page": 264,
+    "type": "Animal"
   },
   {
     "name": "Shedu",
@@ -2082,6 +1902,24 @@
     "type": "Other"
   },
   {
+    "name": "Shub",
+    "hd": "5+1",
+    "page": 224,
+    "type": "Demon"
+  },
+  {
+    "name": "Silver Dragon",
+    "hd": "9 to 11",
+    "page": 216,
+    "type": "Dragon"
+  },
+  {
+    "name": "Skeleton",
+    "hd": "1",
+    "page": 249,
+    "type": "Undead"
+  },
+  {
     "name": "Skeleton Warrior",
     "hd": "9+2",
     "page": 310,
@@ -2094,99 +1932,63 @@
     "type": "Other"
   },
   {
-    "name": "Green Slime",
-    "hd": "2",
-    "page": 311,
+    "name": "Smilodon",
+    "hd": "7+2",
+    "page": 265,
+    "type": "Animal"
+  },
+  {
+    "name": "Smoke Mephit",
+    "hd": "3",
+    "page": 294,
     "type": "Other"
   },
   {
-    "name": "Giant Slug",
-    "hd": "12",
-    "page": 311,
-    "type": "Other"
+    "name": "Soul Worm",
+    "hd": "1",
+    "page": 232,
+    "type": "Devil"
   },
   {
-    "name": "Giant Boa",
-    "hd": "6+1",
-    "page": 312,
-    "type": "Other"
-  },
-  {
-    "name": "Giant Adder",
-    "hd": "4+2",
-    "page": 312,
-    "type": "Other"
-  },
-  {
-    "name": "Giant Cobra",
-    "hd": "4+2",
-    "page": 312,
-    "type": "Other"
-  },
-  {
-    "name": "Giant Amphisbaena",
-    "hd": "6",
-    "page": 312,
-    "type": "Other"
-  },
-  {
-    "name": "Androsphinx",
-    "hd": "10",
-    "page": 312,
-    "type": "Other"
-  },
-  {
-    "name": "Criosphinx",
-    "hd": "9",
-    "page": 313,
-    "type": "Other"
-  },
-  {
-    "name": "Gynosphinx",
-    "hd": "7",
-    "page": 313,
-    "type": "Other"
-  },
-  {
-    "name": "Hieracosphinx",
-    "hd": "8",
-    "page": 314,
-    "type": "Other"
-  },
-  {
-    "name": "Giant Spider",
-    "hd": "4+4",
-    "page": 314,
-    "type": "Other"
-  },
-  {
-    "name": "Huge Spider",
-    "hd": "2+2",
-    "page": 314,
-    "type": "Other"
-  },
-  {
-    "name": "Large Spider",
-    "hd": "1+1",
-    "page": 314,
-    "type": "Other"
-  },
-  {
-    "name": "Phase Spider",
+    "name": "Spectral Troll",
     "hd": "5+5",
-    "page": 315,
+    "page": 211,
+    "type": "Giant"
+  },
+  {
+    "name": "Spectre",
+    "hd": "7+3",
+    "page": 250,
+    "type": "Undead"
+  },
+  {
+    "name": "Spiked Devil",
+    "hd": "3+3",
+    "page": 231,
+    "type": "Devil"
+  },
+  {
+    "name": "Spirit Naga",
+    "hd": "8+1d2",
+    "page": 297,
     "type": "Other"
   },
   {
-    "name": "Giant Water Spider",
-    "hd": "3+3",
-    "page": 315,
-    "type": "Other"
+    "name": "Sprite",
+    "hd": "1",
+    "page": 244,
+    "type": "Fae"
   },
   {
     "name": "Squealer",
     "hd": "12",
     "page": 315,
+    "type": "Other"
+  },
+  {
+    "name": "Steam Mephit",
+    "hd": "3+3",
+    "page": 294,
     "type": "Other"
   },
   {
@@ -2196,16 +1998,58 @@
     "type": "Other"
   },
   {
+    "name": "Stone Giant",
+    "hd": "9+1d4",
+    "page": 207,
+    "type": "Giant"
+  },
+  {
+    "name": "Stone Golem",
+    "hd": "14",
+    "page": 237,
+    "type": "Golem"
+  },
+  {
+    "name": "Storm Giant",
+    "hd": "15+1d6+1",
+    "page": 207,
+    "type": "Giant"
+  },
+  {
     "name": "Stunjelly",
     "hd": "4",
     "page": 316,
     "type": "Other"
   },
   {
-    "name": "Giant Tick",
+    "name": "Styx Fiend",
+    "hd": "6+6",
+    "page": 231,
+    "type": "Devil"
+  },
+  {
+    "name": "Succubus",
+    "hd": "6",
+    "page": 224,
+    "type": "Demon"
+  },
+  {
+    "name": "Sylph",
     "hd": "3",
-    "page": 316,
-    "type": "Other"
+    "page": 256,
+    "type": "Fae"
+  },
+  {
+    "name": "Thissuzim",
+    "hd": "6+6",
+    "page": 227,
+    "type": "Devil"
+  },
+  {
+    "name": "Tiger",
+    "hd": "5+5",
+    "page": 265,
+    "type": "Animal"
   },
   {
     "name": "Titan",
@@ -2214,10 +2058,28 @@
     "type": "Other"
   },
   {
+    "name": "Tothmys",
+    "hd": "6+6",
+    "page": 227,
+    "type": "Devil"
+  },
+  {
     "name": "Trapper",
     "hd": "12",
     "page": 317,
     "type": "Other"
+  },
+  {
+    "name": "Treant",
+    "hd": "6+1d6",
+    "page": 256,
+    "type": "Fae"
+  },
+  {
+    "name": "Tribesman",
+    "hd": "2",
+    "page": 200,
+    "type": "Humanoid"
   },
   {
     "name": "Triton",
@@ -2226,9 +2088,45 @@
     "type": "Other"
   },
   {
+    "name": "Troglodyte",
+    "hd": "2",
+    "page": 204,
+    "type": "Humanoid"
+  },
+  {
+    "name": "Troll",
+    "hd": "6+6",
+    "page": 209,
+    "type": "Giant"
+  },
+  {
+    "name": "Uduk",
+    "hd": "6+6",
+    "page": 225,
+    "type": "Demon"
+  },
+  {
+    "name": "Unicorn",
+    "hd": "4+4",
+    "page": 245,
+    "type": "Fae"
+  },
+  {
+    "name": "Vampire",
+    "hd": "8+3",
+    "page": 250,
+    "type": "Undead"
+  },
+  {
     "name": "Vilstrak",
     "hd": "0 (1d6)",
     "page": 318,
+    "type": "Other"
+  },
+  {
+    "name": "Violet Fungi",
+    "hd": "3",
+    "page": 285,
     "type": "Other"
   },
   {
@@ -2238,22 +2136,118 @@
     "type": "Other"
   },
   {
+    "name": "Vrock",
+    "hd": "8",
+    "page": 218,
+    "type": "Demon"
+  },
+  {
     "name": "Vulchling",
     "hd": "1",
     "page": 318,
     "type": "Other"
   },
   {
-    "name": "Giant Wasp",
-    "hd": "4",
-    "page": 319,
+    "name": "Warthog",
+    "hd": "3",
+    "page": 255,
+    "type": "Animal"
+  },
+  {
+    "name": "Water Elemental",
+    "hd": "8, 12, or 16",
+    "page": 282,
     "type": "Other"
+  },
+  {
+    "name": "Water Naga",
+    "hd": "6+1d2",
+    "page": 297,
+    "type": "Other"
+  },
+  {
+    "name": "Werebear",
+    "hd": "7+3",
+    "page": 237,
+    "type": "Lycanthrope"
+  },
+  {
+    "name": "Wereboar",
+    "hd": "5+2",
+    "page": 237,
+    "type": "Lycanthrope"
+  },
+  {
+    "name": "Wererat",
+    "hd": "3+1",
+    "page": 237,
+    "type": "Lycanthrope"
+  },
+  {
+    "name": "Weretiger",
+    "hd": "6+2",
+    "page": 237,
+    "type": "Lycanthrope"
+  },
+  {
+    "name": "Werewolf",
+    "hd": "4+3",
+    "page": 237,
+    "type": "Lycanthrope"
+  },
+  {
+    "name": "Whale",
+    "hd": "12 to 36",
+    "page": 266,
+    "type": "Animal"
+  },
+  {
+    "name": "White Dragon",
+    "hd": "5 to 7",
+    "page": 216,
+    "type": "Dragon"
+  },
+  {
+    "name": "White Scaly Devil",
+    "hd": "7",
+    "page": 230,
+    "type": "Devil"
+  },
+  {
+    "name": "Wight",
+    "hd": "4+3",
+    "page": 251,
+    "type": "Undead"
   },
   {
     "name": "Will-O-the-Wisp",
     "hd": "9",
     "page": 319,
     "type": "Other"
+  },
+  {
+    "name": "Wolf",
+    "hd": "2+2",
+    "page": 267,
+    "type": "Animal"
+  },
+  {
+    "name": "Wolly Rhinoceros",
+    "hd": "10",
+    "page": 264,
+    "type": "Animal"
+  },
+  {
+    "name": "Wolverine",
+    "hd": "3",
+    "page": 267,
+    "type": "Animal"
+  },
+  {
+    "name": "Worg",
+    "hd": "4+4",
+    "page": 268,
+    "type": "Animal"
   },
   {
     "name": "Wyvern",
@@ -2272,5 +2266,11 @@
     "hd": "4+4",
     "page": 320,
     "type": "Other"
+  },
+  {
+    "name": "Zombie",
+    "hd": "2",
+    "page": 251,
+    "type": "Undead"
   }
 ]
