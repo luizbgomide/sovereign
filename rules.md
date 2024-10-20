@@ -375,6 +375,8 @@ Traps are often [Hidden](#hidden-things), though many have some sort of tell or 
 
 All traps have some sort of trigger (what sets off the trap), and some sort of effect (like taking damage). By default, traps are unreliable - an action that satisfies its trigger only *does* 2/6th of the time, rolled for each triggering action. For example, a party of five PCs walking through a cooridor with an unseen tripwire rolls 2-in-6 five times (one for each PC).
 
+Players bypass or disarm traps through the [Core Gameplay Loop](#core-gameplay-loop), describing ways to not trigger the trap (like wedging a pressure plate) or ways to mitigate the effect of a trap (like clogging the spout of a gas trap).
+
 ### Doors
 
 Doors will be *by far* the most common obstacles the party faces. Doors often signal the beginning of new areas, making it important to understand how to handle them, as this scenario will occur *frequently*.
