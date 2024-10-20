@@ -259,7 +259,7 @@ From [The Necropolis of Nuromen](https://www.drivethrurpg.com/en/product/110292)
 
 ![400](/assets/images/nuromen-19.png)
 
-When in doubt, we use monster stats from [Osric](https://osricwiki.presgas.name/doku.php?id=osric:chapter5). Osric tends to be better specified than OSE and has a larger bestiary.
+When in doubt, we use monster stats from [Osric](https://osricrpg.com/files/osric_core_rules.pdf). Osric tends to be better specified than OSE and has a larger bestiary.
 
 The only bit we need for reaction rolls is that Troglodytes have 2 HD. This means that the group of 3 of them has a total of 6 HD. We'll say our Party of 4 level 1 PCs are washed ashore and to the cave, where the Trogs come to investigate.
 

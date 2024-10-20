@@ -251,12 +251,15 @@ This is circumvented by making each key unique. "Small brass key", "Big iron key
 
 #### Monsters
 
+When possible, use the monster statistics from [Osric](https://osricrpg.com/files/osric_core_rules.pdf). I provide a [searchable index](/monsters), as the author chose an *interesting* categorization scheme.
+
 Most [Adventures](/#recommended-adventures) use the following monster statistics:
 
 - **Hit Dice (HD)**: The number of `d8`s to roll to determine a monster's HP. Sometimes the hit dice will be listed like `6+3*` (the [Troll](https://oldschoolessentials.necroticgnome.com/srd/index.php/Troll) from OSE does this). This means that we add (or subtract) the given amount of HP at the end. If there are asterisks at the end, that's shorthand for the number of special abilities the monster has, to [determine XP](/character-creation#xp-for-monsters). Any amount of bonus HP gives +1 to attack rolls and counts as a special ability for calculating XP.
 - **Armor Class (AC)**: Some games use descending AC (lower is better), some games use ascending AC (higher is better), some games (like OSE) provide both, denoting the ascending AC in \[brackets\], like `AC: 4 [15]`. Convert descending AC to Sovereign by subtracting from 20, so AC 6 converts to AC 14. Ascending AC can be used as-is.
-- **Attacks (ATT)**: The number of attacks the creature makes in a round. Some games include damage information in this line, others split it up. For instance, OSE writes "2 × talon (1d6), 1 × bite (1d10)". This means "Two talon attacks that each do 1d6 damage, then a bite for 1d10 damage". Osric writes "Attacks: 2. Damage: 1d6/1d10". This means the creature makes two attacks, the first for 1d6 damage and the second for 1d10. Finally, some creatures have options for attacks, like the [White Ape](https://oldschoolessentials.necroticgnome.com/srd/index.php/Ape,_White). "	2 × claw (1d4) or 1 × thrown rock (1d6)" means it can either make two claw attacks for 1d4 damage *or* it can throw a rock for 1d6 damage, but not both.
-- **Damage**: Predators have the warrior's [Killing Blow](/classes#class-ability-killing-blow) ability - increase the listed damage by half of it's HD rounded up.
+- **Attacks (ATT)**: The number of attacks the creature makes in a round. Some games include damage information in this line, others split it up. For instance, OSE writes "2 × talon (1d6), 1 × bite (1d10)". This means "Two talon attacks that each do 1d6 damage, then a bite for 1d10 damage". Osric writes "Attacks: 2. Damage: 1d6/1d10". This means the creature makes two attacks, the first for 1d6 damage and the second for 1d10. Finally, some creatures have options for attacks, like the [White Ape](https://oldschoolessentials.necroticgnome.com/srd/index.php/Ape,_White). "2 × claw (1d4) or 1 × thrown rock (1d6)" means it can either make two claw attacks for 1d4 damage *or* it can throw a rock for 1d6 damage, but not both.
+- **Damage (DG)**: Predators have the warrior's [Killing Blow](/classes#class-ability-killing-blow) ability - increase the listed damage by half of it's HD rounded up.
+- **Shock (Sh)**: The [Shock](/combat#shock) damage a monster does with an attack. D&D games won't have this attribute, so use shock for their [Weapon](/equipment#weapons). Natural weapons affect AC 13 if they are piercing (like teeth), AC 15 if they're slashing (like claws), and AC 18 if they're bludgeoning (like headbutts). Bump these up 1 category if the creature is large (at least as big as a horse). For example, a polar bear's bite would affect AC 15, their claws would affect AC 18, and shoulder tackle would affect any AC. Add half of a predator's HD to any shock damage from weapons, and use this value for shock damage for natural weapons.
 - **THAC0**: An abbreviation for "To Hit Armor Class 0". We can subtract this number from 20 to derive the monster's attack bonus. If no THAC0 (or "attack bonus" or "+hit" or similar) is given, use the monster's HD.
 - **Movement (MV)**: Often listed as two numbers with the second number in parenthesis as 1/3rd of the first number, like "120ft (40ft)". This refers to the monsters exploration speed, and then their combat speed in parenthesis. If a single number is given, it almost always refers to to the exploration speed, so to use it in Sovereign, divide by 3. If the number is given in inches, multiply by 10 and then divide by 3. For example, 12" converts to 40ft.
 - **Weapons**: If a monster's damage lists "by weapon", give them a [Weapon](/equipment#weapons), and then use the weapon's base damage. Try to give each creature a ranged weapon (at least a sling or a bag of rocks), and then a mix of swords, axes, maces and spears. Either roll randomly or use verisimiltude - if the main foe of kobolds is unarmored troggs (15 AC), the kobolds don't need the armor penetrating properties of maces, and would favor short swords (since they would do shock damage).
@@ -291,7 +294,7 @@ Compare this to the [stat block from OSE](https://oldschoolessentials.necroticgn
 
 The Silveraxe statline leaves out the bit about acid, and their **entire regeneration ability**. My experience is that this happens *over and over*.
 
-Throw out the inline stats and look up the monster from [Osric](https://osricwiki.presgas.name/doku.php?id=osric:chapter5). Here's an [index](/monsters). Osric monsters tend to be a little more powerful than OSE monsters and Sovereign characters are more powerful than OSE characters of the same level.
+Throw out the inline stats and look up the monster from [Osric](https://osricrpg.com/files/osric_core_rules.pdf). Here's an [index](/monsters). Osric monsters tend to be a little more powerful than OSE monsters and Sovereign characters are more powerful than OSE characters of the same level.
 
 ##### Example
 
@@ -389,22 +392,6 @@ It's fine to mess up something that doesn't matter a lot; better to keep the gam
 Most players *will not read the rules*. You're going to have to. When a player forgets a rule the first time, remind them how it works. When a player forgets the same rule the second time, ask them to look it up and tell you how it works. When a player forgets the same rule the third time, maybe the rule is hard to remember, and I'd appreciate being notified!
 
 If *you* forget an important rule a lot, add it to your personal cheat sheet or GM screen (the same place you're keeping your random tables).
-
-### Converting Monsters
-
-Since [Inline Monster Stats](#inline-monster-stats) are unreliable, we generally want to use monsters from [Osric](https://osricwiki.presgas.name/doku.php?id=osric:chapter5). I keep the page bookmarked on my phone and run the monsters from there. We convert Osric AC (lower is better) to Sovereign AC (higher is better) by subtracting Osric's from 20.
-
-The only important thing that Osric doesn't give us is [Shock](/combat#shock).
-
-Anything with a weapon should use the weapon's shock value.
-
-Natural weapons should affect AC 13 if they are piercing (like teeth), AC 15 if they're slashing (like claws), and AC 18 if they're bludgeoning (like headbutts). Bump these up 1 category if the creature is Large (at least as big as a horse), so a polar bear's bite would affect AC 15, their claws would affect AC 18, and shoulder tackle would affect any AC.
-
-Finally, treat predators as having [Killing Blow](/classes#class-ability-killing-blow), so add half of their HD rounded up to their [Shock](/combat#shock). For natural weapons, this is their Shock. For armed predators (like Skeletons, or Bandits), add it to the weapon's Shock.
-
-For example, Osric's Cave Bear has 6 HD, 6 AC, and has a claw (1d8)/claw (1d8)/bite (1d12) routine. In Sovereign, it would have 14 AC, the claws would have a Shock of 3/AC 18, and the bite would have a Shock of 3/AC 15.
-
-Osric's Bandit has 1 HD, AC based on equipment (we'll use Leather+Shield for 13), and might be equipped with a [short sword](/equipment#short-sword). In Sovereign, it would have 13 AC, and its sword would do 3/AC 15 shock.
 
 ### Order of Battle
 
