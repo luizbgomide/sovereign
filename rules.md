@@ -265,6 +265,8 @@ Characters often find themselves chasing others or being chased.
 
 Both sides roll `1d8` + 1/10th of their combat movement speed (Players typically roll `1d8+3`); ties favor the fleeing side.
 
+After each pursuit check, both sides may make missile attacks simultaneously (assume a range of 20ft). If one group wins two rolls in a row, that side wins.
+
 If the pursuing group wins, they catch up with the fleeing group and initiate combat. They automatically win initiative, and their melee combatants begin in melee with the rear members of the fleeing group.
 
 If the fleeing group wins, they successfully escape.

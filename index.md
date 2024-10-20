@@ -170,7 +170,9 @@ This game endeavors to provide a ruleset that allows players to play through adv
 - Distill the cover rules into practical guidance
 - Change magnet to lodestone and increase the price from 1s to 10g and the weigh to 1 enc
 
-All of the above changes are the result of lovely feedback from u/TheIncandenza
+All of the above changes are the result of lovely [feedback from u/TheIncandenza](https://www.reddit.com/r/WWN/comments/1fvj10z/is_anyone_using_the_srd_to_make_their_own_game/lsrkm81/?context=3)
+
+- Add a multi-check system to pursuit checks with missile attacks. Inspired by [Simulacrum](https://osrsimulacrum.blogspot.com/2021/06/simulacrum-beta-release.html).
 
 #### 2024-10-06
 - Move advancement and alignment to character creation
