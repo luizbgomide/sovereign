@@ -43,7 +43,7 @@ Adventuring is a profession, and all Characters have undergone extensive trainin
   - Your [Mental](/rules#mental) score is 15 minus the highest of your INT and WIS.
   - Record your maximum [System Strain](/rules#system-strain), which is equal to your Constitution.
 
-1. **Choose Starting Gear**. Gain `3d6 x 10` gold to spend on [gear](/equipment) (ignoring [Equipment Availability](/equipment#equipment-availability)), noting thier [Encumbrance](/rules#encumbrance) and whether they are [Readied](/rules#readied) or [Stowed](/rules#stowed). You may carry [Readied](/rules#readied) equipment equal to half your Strength rounded down. You may carry [Stowed](/rules#stowed) equipment equal to your Strength. Other party members may be willing to Stow gear for you.
+1. **Choose Starting Gear**. Gain `3d6 x 10` gold to spend on [gear](/equipment) (ignoring [Equipment Availability](/equipment#equipment-availability)), noting their [Encumbrance](/rules#encumbrance) and whether they are [Readied](/rules#readied) or [Stowed](/rules#stowed). You may carry [Readied](/rules#readied) equipment equal to half your Strength rounded down. You may carry [Stowed](/rules#stowed) equipment equal to your Strength. Other party members may be willing to Stow gear for you.
 
 1. **Record Weapon Statistics**. For each weapon (or special Art) you attack with, record its properties.
   - Write it's name. *For example* `Sword:`.
