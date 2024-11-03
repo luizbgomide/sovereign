@@ -49,7 +49,7 @@ I decide to be a great healer, handy with a bow, and be knowledgable, so I impro
 
 **Choose a Class.** I know that I want to be a [Healer](/arcane-traditions#healer), but since it only comes as a [Partial Mage](/classes#partial-mage), I need to pick another partial class. [Partial Warrior](/classes#partial-warrior) would give me more HP and accuracy, but [Partial Expert](/classes#partial-expert) is still good with a bow and makes me *even better* at healing (as well as helping me with everything else). I decide on [Partial Expert](/classes#partial-expert), making me an [Expert/Healer](/classes#partial-expertpartial-mage).
 
-Healer gives me [Heal](/rules#heal) as a [Bonus Skill](/rules#bonus-skill). Since I already have [Heal](/rules#heal)-1, I'll take [Sneak](/rules#sneak)-0 so that I don't hinder my team while trying to sneak around with [group checks](/rules#group-checks).
+Healer gives me [Heal](/rules#heal) as a [Bonus Skill](/rules#bonus-skill). Since I already have [Heal](/rules#heal):1, I'll take [Sneak](/rules#sneak):0 so that I don't hinder my team while trying to sneak around with [group checks](/rules#group-checks).
 
 ![small](/assets/images/sheet-4.png)
 

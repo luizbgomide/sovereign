@@ -124,7 +124,7 @@ You have uncommon expertise in handling traps and snares, both mundane ones and 
 
 Your empty hands are more dangerous than swords in the grip of the less gifted. Your unarmed attacks are counted as melee weapons when it comes to binding up opponents wielding bows and similar ranged long arms, though you need at least one hand free to do so.
 
-- **Level 1**: Gain [Brawl](/rules#brawl) as a [Bonus Skill](/rules#bonus-skill). Your unarmed attacks become more dangerous as your [Brawl](/rules#brawl) skill increases. At level 0, they do `1d6` damage. At level 1, they do `1d8` damage. At level 2 they do `1d10`, level 3 does `1d12`, and level 4 does `1d12+1`. At [Brawl](/rules#brawl)-1 or better, they have the Shock quality equal to your [Brawl](/rules#brawl) skill against AC 15 or less.
+- **Level 1**: Gain [Brawl](/rules#brawl) as a [Bonus Skill](/rules#bonus-skill). Your unarmed attacks become more dangerous as your [Brawl](/rules#brawl) skill increases. At level 0, they do `1d6` damage. At level 1, they do `1d8` damage. At level 2 they do `1d10`, level 3 does `1d12`, and level 4 does `1d12+1`. At [Brawl](/rules#brawl):1 or better, they have the Shock quality equal to your [Brawl](/rules#brawl) skill against AC 15 or less.
 - **Level 2**: Even on a miss with a [Brawl](/rules#brawl) attack, you do an unmodified `1d6` damage, plus any Shock that the blow might inflict on the target.
 
 ## Valiant Defender (C)

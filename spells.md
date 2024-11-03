@@ -26,7 +26,7 @@ Adding additional spells to a [spellbook](/equipment#spellbook) (from a tutor or
 - Add one week per spell level.
 - Subtract one week per level of [Magic](/rules#magic).
 
-For example, a mage with [Magic](/rules#magic)-2 attemping to learn [Magic Bomb](/spells#magic-bomb) (a 3rd level spell) requires a week of study.
+For example, a mage with [Magic](/rules#magic):2 attemping to learn [Magic Bomb](/spells#magic-bomb) (a 3rd level spell) requires a week of study.
 
 A mage must be able to cast the spell in order to learn it.
 
@@ -329,7 +329,7 @@ On a failure, the target becomes hopelessly subject to the caster via a series o
 
 The spell lasts until it is dispelled or the caster releases the target. A caster can have no more creatures under this spell than twice their level or HD; if this number is exceeded, the earliest thrall is freed first.
 
-Creatures under the effect of Greater Dominate Person display numerous small tics and magically-compelled quirks of behavior that may provoke puzzlement in casual observers and will give away the mental influence entirely to an onlooker with at least [Magic](/rules#magic)-0 who can observe them for at least an hour.
+Creatures under the effect of Greater Dominate Person display numerous small tics and magically-compelled quirks of behavior that may provoke puzzlement in casual observers and will give away the mental influence entirely to an onlooker with at least [Magic](/rules#magic):0 who can observe them for at least an hour.
 
 #### Pull Object
 The contents of single visible target are extracted and placed in the caster’s hands.

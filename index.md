@@ -164,6 +164,9 @@ This game endeavors to provide a ruleset that allows players to play through adv
 
 ### Change Log
 
+#### 2024-11-03
+- Change the skill notation from {Skill}-{level} to {Skill}:{level}. This is nice because Stab--1 (stab at -1 skill) looks awful, but Stab:-1 looks fine. Thanks [Niko](https://github.com/wiredniko)!
+
 #### 2024-10-19
 - Add a player-facing section on traps
 - Explain how to convert monsters from other OSR systems to Sovereign

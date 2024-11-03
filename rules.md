@@ -136,7 +136,7 @@ A PC's skills represent their training. A newly-created PC starts with a few tra
 
 Skills are rated on a scale from -1 to 4. Level -1 represents an absence of training. Level 0 indicates basic competence. Level 1 reflects professional-level skill. Level 2 likely makes a character the best in a village or city block. Level 3 represents mastery, making the character one of the best in a city. Level 4 reflects world-class expertise.
 
-Skills are referred to compactly as {Skill}-{Level}. For example, [Exert](#exert)-1 or [Heal](#heal)-2.
+Skills are referred to compactly as {Skill}:{Level}. For example, [Exert](#exert):1 or [Heal](#heal):2.
 
 All skills start at level -1.
 
@@ -203,7 +203,7 @@ Creatures who reach 0 HP and recover become Frail.
 
 A Frail character can act normally, but if reduced to 0 HP again, they die instantly. Frail characters cannot recover HP through [Natural Healing](#natural-healing).
 
-Frailty is removed after a continuous week of [Comfortable Sleep](#comfortable-sleep) and medical attention from someone with a [healer’s kit](/equipment#healers-kit) and at least [Heal](#heal)-0. Additionally, someone with at least [Heal](#heal)-1 can attempt to remove Frailty with a healer's kit, an hour of labor, and a successful DEX/[Heal](#heal) or INT/[Heal](#heal) check.
+Frailty is removed after a continuous week of [Comfortable Sleep](#comfortable-sleep) and medical attention from someone with a [healer’s kit](/equipment#healers-kit) and at least [Heal](#heal)-0. Additionally, someone with at least [Heal](#heal):1 can attempt to remove Frailty with a healer's kit, an hour of labor, and a successful DEX/[Heal](#heal) or INT/[Heal](#heal) check.
 
 Frail characters without this level of medical care must make a [Physical](#physical) save after a week; failure results in death `1d6` days later, while success means Frailty is removed after another month of [Comfortable Sleep](#comfortable-sleep).
 
@@ -253,7 +253,7 @@ Most toxins force a victim to make a [Physical](#physical) saving throw to resis
 
 If the save fails, the poison or disease takes hold. Most poisons act quickly, dealing damage, adding [System Strain](#system-strain), or inflicting long-lasting penalties. Diseases have a slower onset but often cause similar harm.
 
-A medic can treat a poisoned victim within a minute using a [healer’s kit](/equipment#healers-kit), improving their chances to resist. The medic adds twice their [Heal](#heal) level to the saving throw roll, or +1 if they have [Heal](#heal)-0.
+A medic can treat a poisoned victim within a minute using a [healer’s kit](/equipment#healers-kit), improving their chances to resist. The medic adds twice their [Heal](#heal) level to the saving throw roll, or +1 if they have [Heal](#heal):0.
 
 Some poisons, like that of a [pit viper](https://basicfantasy.org/srd/monstersAll.html#snake-pit-viper), are save-or-die. If the poison takes hold, the victim has `1d4` [Turns](/rules#turn) to live unless specified otherwise.
 

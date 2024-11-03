@@ -90,9 +90,9 @@ Some weapons have additional unique traits, such as slow to reload, requiring tw
 - **LL**: Less Lethal. Foes brought to zero HP by this weapon can always be left alive at the wielder’s discretion.
 - **N**: Numerous. Five of these count as only one Readied item.
 - **PM**: Precisely Murderous. When used for an [Execution Attack](/combat#execution-attacks), the weapon applies an additional -1 penalty to the [Physical](/rules#physical) save and does double damage even if it succeeds.
-- **R**: Reload. The weapon takes a [Move Action](/combat#move-action) to reload. If the user has at least [Shoot](/rules#shoot)-1, they can reload as a [Free Action](/combat#free-action) instead.
+- **R**: Reload. The weapon takes a [Move Action](/combat#move-action) to reload. If the user has at least [Shoot](/rules#shoot):1, they can reload as a [Free Action](/combat#free-action) instead.
 - **S**: Subtle. Easily hidden in clothing or jewelry.
-- **SR**: Slow Reload. It takes a [Main Action](/combat#main-action) to reload this weapon. If the user has at least [Shoot](/rules#shoot)-1, they can reload as a [Move Action](/combat#move-action) instead.
+- **SR**: Slow Reload. It takes a [Main Action](/combat#main-action) to reload this weapon. If the user has at least [Shoot](/rules#shoot):1, they can reload as a [Move Action](/combat#move-action) instead.
 - **T**: Throwable. While the weapon can be used in melee, it may be thrown out to the listed range as well, albeit it does no Shock in that case. Throwing a weapon while in melee applies a -4 penalty to the attack roll.
 
 Military oil may be ignited and thrown with a DEX/[Shoot](/rules#shoot) attck, dealing `1d8` damage for 2 rounds to the target. If the attack fails, it lands in a random adjacent square and deals `1d3` damage to that square and all adjacent squares.
@@ -230,11 +230,11 @@ A [Readied](/rules#readied) potion may be consumed as a [Move Action](/combat#mo
 
 Spellcasting mages can read a scroll to activate its spell as a [Main Action](/combat#main-action).
 
-In order to safely cast a spell from a scroll, a Character needs to have a [Magic](/rules#magic) of at least one less than the spell's level. For example, to cast from a Scroll of [Haste](/spells#haste) (a level 2 spell), the Character needs to have at least [Magic](/rules#magic)-1.
+In order to safely cast a spell from a scroll, a Character needs to have a [Magic](/rules#magic) of at least one less than the spell's level. For example, to cast from a Scroll of [Haste](/spells#haste) (a level 2 spell), the Character needs to have at least [Magic](/rules#magic):1.
 
 If a Character doesn’t have a high enough [Magic](/rules#magic), they can attempt anyway. Roll a INT/Magic skill check, applying a -1 penalty per spell level. If it fails by 1 or 2, the spell fizzles and is wasted. If it fails by more than two, it goes off, but at the wrong target or with the wrong effect at the GM’s discretion. If the check succeeds, the spell goes off as intended.
 
-For example, if a Character with [Magic](/rules#magic)-0 tries to use a Scroll of [Haste](/spells#haste), they would need to roll a INT/[Magic](/rules#magic) check with a -2 penalty. If their result is an 8 or 9, the spell harmlessly fizzles. If the result is a 7 or lower, they might accidentally [Haste](/spells#haste) a foe!
+For example, if a Character with [Magic](/rules#magic):0 tries to use a Scroll of [Haste](/spells#haste), they would need to roll a INT/[Magic](/rules#magic) check with a -2 penalty. If their result is an 8 or 9, the spell harmlessly fizzles. If the result is a 7 or lower, they might accidentally [Haste](/spells#haste) a foe!
 
 If the Spell in a scroll has an effect dependent on caster level (like [Arcane Spark](/spells#arcane-spark)), use twice the spell's level minus one. For example, a first level spell scroll would use a caster level of `2 * 1 - 1 = 1`, and a 4th level spell scroll would use a caster level of `2 * 4 - 1 = 7`. This corresponds to the lowest level a [High Mage](/arcane-traditions#high-mage) has access to the spell.
 

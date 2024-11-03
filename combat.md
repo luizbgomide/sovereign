@@ -174,8 +174,8 @@ A character can [Ready](/rules#readied) an item for use from their pack or stowa
 
 Reload a bow or crossbow from a [Readied](/rules#readied) [Quiver](/equipment#quiver).
 
-- Bows can be reloaded as a [Free Action](#free-action) if the shooter has at least [Shoot](/rules#shoot)-1; otherwise, it requires a [Move Action](#move-action) to nock a new arrow.
-- Crossbows can be reloaded as a [Move Action](#free-action) if the shooter has at least [Shoot](/rules#shoot)-1; otherwise, it requires a [Move Action](#move-action) to load a new bolt.
+- Bows can be reloaded as a [Free Action](#free-action) if the shooter has at least [Shoot](/rules#shoot):1; otherwise, it requires a [Move Action](#move-action) to nock a new arrow.
+- Crossbows can be reloaded as a [Move Action](#free-action) if the shooter has at least [Shoot](/rules#shoot):1; otherwise, it requires a [Move Action](#move-action) to load a new bolt.
 
 Ammunition tracking is not required, but don't plan actions assuming you have infinite ammo.
 
@@ -261,7 +261,7 @@ These rules assume both targets are man-sized. Grappling or shoving significantl
 
 ### Dual Wielding Weapons
 
-Some attackers prefer to use two weapons simultaneously. Characters who wish to dual-wield must have at least level 1 in the relevant weapon skills, such as [Stab](/rules#stab)-1 for a mace and sword.
+Some attackers prefer to use two weapons simultaneously. Characters who wish to dual-wield must have at least level 1 in the relevant weapon skills, such as [Stab](/rules#stab):1 for a mace and sword.
 
 When making an attack while dual-wielding, the attacker selects which weapon to use and rolls the attack accordingly. On a hit, the attack deals +2 damage as long as the target is within range of both wielded weapons. This bonus does not apply to Shock damage.
 
