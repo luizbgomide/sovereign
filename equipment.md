@@ -185,7 +185,17 @@ For example, paying a guard to watch your rooms for 7 days might cost `10g (mont
 
 Bribes to overlook a minor crime cost a day's worth of the witness' time. To overlook a major crime, a month. To overlook a capital crime, a year.
 
-Curing Diseases costs 500g. Lifting curses and undoing magic costs 1000g. Ressurection costs 1500g (requires a week of bedrest afterward). Depetrification costs 5000g. These curatives are subject to [Equipment Availability](#equipment-availability) for the market.
+### Magical Services
+
+- Continual Light: 500g
+- Cure Blindness: 1000g
+- Cure Disease: 1000g
+- Neutralize Poison: 1000g
+- Raise Dead: 5500g
+- Remove Curse: 2500g
+- Speak with Dead: 500g+
+- Tongues: 500g
+- Stone to Flesh: 10000g
 
 ## Henchmen
 
