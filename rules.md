@@ -261,15 +261,15 @@ Other poisons have varied effects. A [giant centipede](https://oldschoolessentia
 
 ## Chases and Pursuit
 
-Characters often find themselves chasing others or being chased.
+Play out pursuit as a normal combat, tracking distance and position.
 
-Both sides roll `1d8` + 1/10th of their combat movement speed (Players typically roll `1d8+3`); ties favor the fleeing side.
+If the PCs choose to flee, the monsters continue to pursue in a straight line as long as there is not more than 90 feet between the two. Turning a corner, passing through a door, or traversing stairs discourges pursuit; the monsters only follow on a 2-in-6.
 
-After each pursuit check, both sides may make missile attacks simultaneously (assume a range of 20ft). If one group wins two rolls in a row, that side wins.
+Burning oil deters many (5-in-6) monsters from chasing.
 
-If the pursuing group wins, they catch up with the fleeing group and initiate combat. They automatically win initiative, and their melee combatants begin in melee with the rear members of the fleeing group.
+Edible items distract intelligent monsters from pursuit on a 1-in-6. Semi-intelligent monsters are distracted on a 3-in-6. Non-intelligent monsters are distracted on a 5-in-6.
 
-If the fleeing group wins, they successfully escape.
+Treasure operates inversely as food; more likely to stop intelligent monsters.
 
 ## Encumbrance
 
@@ -430,7 +430,9 @@ A wandering encounter begins when one side sees the other, based on the map and 
 
 ### Reaction Rolls
 
-When the party encounters other creatures, the GM describes what they sense and asks the Players what they do. Broadly, the options are:
+Unintelligent monsters attack immediately.
+
+When the party encounters intelligent creatures, the GM describes what they sense and asks the Players what they do. Broadly, the options are:
 
 - Start a <strong id="fight">fight</strong>, leading to either [combat](/combat) or causing the creatures to flee.
 - Try to <strong id="talk">talk</strong> (if the creatures are willing). Achieving anything useful requires [leverage](#leverage).
@@ -441,11 +443,9 @@ If the creatures' response is uncertain, the GM rolls for their reaction, compar
 
 | `2d6` / Action | Fight  | Talk                          | Run    | Wait                          |
 | -------------- | ------ | ----------------------------- | ------ | ----------------------------- |
-| 2              | Combat | Combat                        | Chase  | Fight                         |
-| 3-5            | Combat | Combat if could win, run otw. | Chase  | Combat if could win, run otw. |
+| 2-5            | Combat | Combat if could win, run otw. | Chase  | Combat if could win, run otw. |
 | 6-8            | Combat if could win, run otw. | Parley | Ignore | Ignore                        |
-| 9-11           | Run    | Parley                        | Ignore | Ignore                        |
-| 12             | Run    | Parley                        | Ignore | Parley                        |
+| 9-12           | Run    | Parley                        | Ignore | Ignore                        |
 
 - **Combat**: Head immediately into [combat](/combat).
 - **Combat if could win, run otw**: They'll fight if they believe victory is *very* likely (typically with a 3:1 HD advantage or greater). Otherwise, they’ll run.
@@ -454,7 +454,7 @@ If the creatures' response is uncertain, the GM rolls for their reaction, compar
 - **Chase**: They’ll [chase](#chases-and-pursuit) the fleeing Characters.
 - **Ignore**: They continue with what they were doing before encountering the party.
 
-Denizens immediately turning to combat should be *rare*, reserved for mindless undead, guardian automatons, or creatures defending their young. More often, they'll retreat to gather allies and create an overwhelming advantage, forcing the Characters to withdraw.
+Intelligent denizens immediately turning to combat should be *rare*. More often, they'll retreat to gather allies and create an overwhelming advantage, forcing the Characters to withdraw.
 
 ## Parley
 
@@ -469,11 +469,9 @@ Leverage includes (but is not limited to) anything the Characters...
 
 The value an NPC offers should roughly match how much leverage the Characters possess.
 
-- **Beasts** and **monstrosities** desire food and territory.
 - **Dragons** seek food, territory, treasure, and domination.
 - **Humanoids** crave territory, treasure, domination, or higher-order concepts like fairness, kindness, loyalty, obedience, and sanctity.
 - **Giants** obsess over their place in the hierarchy of Giants and value anything that advances them in it.
-- **Undead** and **constructs** follow whatever directive originally created them.
 - **Fiends** aim to cause suffering.
 - **Aberrations** possess alien and unintelligible motives.
 - **Fey** have emotional motives, often driven by dream logic or the [seven deadly sins](https://en.wikipedia.org/wiki/Seven_deadly_sins) (gluttony, lust, greed, sorrow, wrath, sloth, pride).

@@ -164,6 +164,10 @@ This game endeavors to provide a ruleset that allows players to play through adv
 
 ### Change Log
 
+#### 2024-11-24
+- Update the reaction rolls to use the OD&D system.
+- Update how chases work to make it round-by-round like OD&D.
+
 #### 2024-11-21
 - Update the price of magical services
 
